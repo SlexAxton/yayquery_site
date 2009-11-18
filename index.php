@@ -7,11 +7,11 @@
   hosts: From afar when you notice them at jquery conference, they look like the cool kids in high school.
   They just gather around and make fun of everybody." /> 
 <title>yayQuery Podcast</title> 
-<base href="http://yayquery.org/" />
+<base href="http://yayquery.com/" />
 <link rel="icon" href="favicon.ico" type="image/x-icon" />
 <link rel="shortcut icon" href="favicon.ico" type="image/x-icon" />
 <link rel="alternate" type="application/rss+xml" title="yayQuery RSS Feed" href="http://feeds.feedburner.com/yayQuery" />
-<link type="text/css" rel="stylesheet" media="all" href="http://cdn.yayquery.org/site/css/base.r11.css" /> 
+<link type="text/css" rel="stylesheet" media="all" href="http://cdn.yayquery.com/site/css/base.r11.css" /> 
 </head> 
 <body>
 <header>
@@ -28,7 +28,7 @@
 <ul id="videos"> 
     <li class="right"> 
 	<h2>Dear &lt;canvas&gt;, meet bacon. | <span class="epnum">Episode 1</span></h2> 
-	<img width="360" height="240" src="http://cdn.yayquery.org/ep/1/yayquery_1.png" alt="Episode 1" rel="1" class="clickvid" />
+	<img width="360" height="240" src="http://cdn.yayquery.com/ep/1/yayquery_1.png" alt="Episode 1" rel="1" class="clickvid" />
 	<div class="description"> 
 	    <p>In this episode of yayQuery, the crew discusses Google's terrible project naming habits, Paul gives an anti-pattern that
 	    you won't want to miss, and no episode is ever complete without a little ditty from Jonathan Neal. Other topics include the
@@ -37,9 +37,9 @@
 	</div> 
 	<div class="shownotes"> 
 	    <div class="download"> 
-		<strong>Video:</strong> <a href="http://cdn.yayquery.org/ep/1/yayquery_1.ogv">OGV</a> (137mb) | <a href="http://cdn.yayquery.org/ep/1/yayquery_1.mp4">MP4</a> (107mb)
+		<strong>Video:</strong> <a href="http://cdn.yayquery.com/ep/1/yayquery_1.ogv">OGV</a> (137mb) | <a href="http://cdn.yayquery.com/ep/1/yayquery_1.mp4">MP4</a> (107mb)
 		<br /> 
-		<strong>Audio:</strong> <a href="http://cdn.yayquery.org/ep/1/yayquery_1.mp3">MP3</a> (32mb)
+		<strong>Audio:</strong> <a href="http://cdn.yayquery.com/ep/1/yayquery_1.mp3">MP3</a> (32mb)
 		<h4>Show Links</h4>
 		<ul class="showlinks">
 		<li><a href="http://code.google.com/closure/">Google Closure</a></li>
@@ -58,11 +58,11 @@
 		</ul>
 	    </div> 
 	</div> 
-	<img class="cohitre" src="http://cdn.yayquery.org/site/images/cohitre_1.jpg" alt="Please dont feed ajpiano." width="329" height="256" /> 
+	<img class="cohitre" src="http://cdn.yayquery.com/site/images/cohitre_1.jpg" alt="Please dont feed ajpiano." width="329" height="256" /> 
     </li> 
     <li class="left"> 
 	<h2><span class="epnum">Episode 0</span> | Inaugural Zero-Indexed Episode</h2> 
-	<img width="360" height="240" src="http://cdn.yayquery.org/ep/0/yayquery_0.png" alt="Episode 0" rel="0" class="clickvid" />
+	<img width="360" height="240" src="http://cdn.yayquery.com/ep/0/yayquery_0.png" alt="Episode 0" rel="0" class="clickvid" />
 	<div class="description"> 
 	    <p>In this episode of yayQuery, the team introduces themselves. Paul Irish, Rebecca Murphey, Adam J. Sontag, and Alex Sexton
 	    each offer their insight on a variety of topics. Paul Irish continues his anti-pattern knowledge-giving that he started at jQuery Con '09
@@ -71,9 +71,9 @@
 	</div> 
 	<div class="shownotes"> 
 	    <div class="download"> 
-		<strong>Video:</strong> <a href="http://cdn.yayquery.org/ep/0/yayquery_0.ogv">OGV</a> (61mb) | <a href="http://cdn.yayquery.org/ep/0/yayquery_0.mp4">MP4</a> (94mb)
+		<strong>Video:</strong> <a href="http://cdn.yayquery.com/ep/0/yayquery_0.ogv">OGV</a> (61mb) | <a href="http://cdn.yayquery.com/ep/0/yayquery_0.mp4">MP4</a> (94mb)
 		<br /> 
-		<strong>Audio:</strong> <a href="http://cdn.yayquery.org/ep/0/yayquery_0.mp3">MP3</a> (30mb)
+		<strong>Audio:</strong> <a href="http://cdn.yayquery.com/ep/0/yayquery_0.mp3">MP3</a> (30mb)
 		<h4>Show Links</h4>
 		<ul class="showlinks">
 		    <li><a href="http://documentcloud.github.com/underscore/">Underscore.js</a></li>
@@ -90,7 +90,7 @@
 		</ul>
 	    </div> 
 	</div> 
-	<img class="cohitre" src="http://cdn.yayquery.org/site/images/cohitre_0.jpg" alt="Please dont feed ajpiano." width="332" height="232" /> 
+	<img class="cohitre" src="http://cdn.yayquery.com/site/images/cohitre_0.jpg" alt="Please dont feed ajpiano." width="332" height="232" /> 
     </li> 
 </ul>
 
@@ -101,8 +101,8 @@
     Audio Feed <a href="http://feeds.feedburner.com/yayQuery_audio">http://feeds.feedburner.com/yayQuery_audio</a><br />
     Audio iTunes <a href="http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=340500884">http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=340500884</a><br />
     Theme music by <a href="http://thewikies.com/" title="Pure Genius">Jonathan Neal</a><br />
-    Original artwork by <a href="http://cohitre.com/" title="Cohitre :) You"><img src="http://cdn.yayquery.org/site/images/cohitre-32.png" alt="Cohitre :) You" width="32" height="32" /></a><br />
-    Follow us on <a href="http://twitter.com/yayQuery" title="A whole lot of yay, and a query too!"><img src="http://cdn.yayquery.org/site/images/Twitter-icon-32.png" alt="@yayQuery" width="32" height="32" /></a>
+    Original artwork by <a href="http://cohitre.com/" title="Cohitre :) You"><img src="http://cdn.yayquery.com/site/images/cohitre-32.png" alt="Cohitre :) You" width="32" height="32" /></a><br />
+    Follow us on <a href="http://twitter.com/yayQuery" title="A whole lot of yay, and a query too!"><img src="http://cdn.yayquery.com/site/images/Twitter-icon-32.png" alt="@yayQuery" width="32" height="32" /></a>
 </div>
 </footer>
 <!--
