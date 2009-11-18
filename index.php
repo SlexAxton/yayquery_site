@@ -112,7 +112,7 @@
     <a href="http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=340500884"><img src="img/podcast-itunes.png"/><span>iTunes link <small>(audio)</small></span></a>
       
     <h4>Twitter</h4>
-    <a href="http://twitter.com/yayQuery" title="A whole lot of yay, and a query too!"><img src="img/twitter_02.png" alt="@yayQuery" /><span>Follow us at @yayQuery on Twitter</span></a>
+    <a href="http://twitter.com/yayQuery" title="A whole lot of yay, and a query too!"><img src="img/twitter_02.png" alt="@yayQuery" /><span>Follow us at @yayQuery</span></a>
 </section>
 
 
