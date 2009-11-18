@@ -38,6 +38,7 @@ a {
 	display:block;
 	text-indent:-999px; overflow:hidden;
 	
+	
     }
     #sponsors {
 	position:relative;
@@ -93,51 +94,58 @@ a {
 	    color:#005CE9;
 	    text-indent:-10000px;
 	}
-    #videos {
+    .videos {
 	clear:both;
 	width:960px;
 	margin:0 auto;
 	padding-top:30px;
 	list-style:none;
     }
-	#videos li {
+	.videos li {
 	    background-repeat:no-repeat;
 	    height:540px;
 	    overflow:hidden;
 	    margin:5px 35px;
 	}
-	#videos li.right {
+	.videos li.right {
 	    background-image:url(http://cdn.yayquery.com/site/images/video_bg_right.png);
 	    background-position:right 46px;
 	}
-	#videos li.left {
+	.videos li.left {
 	    background-image:url(http://cdn.yayquery.com/site/images/video_bg_left.png);
 	    background-position:left 46px;
 	}
 	    .epnum {
 		font-weight:bold;
 	    }
-	    #videos li.right h2 {
-		height:50px;
-		background-image:url(http://cdn.yayquery.com/site/images/title_bg_right.png);
-		background-repeat:no-repeat;
+	    
+	    
+	    .videos li h2 {
+	        font-family: 'ChunkFiveRegular';
+	        line-height:50px;
+	        	height:50px;
+	        		background-repeat:no-repeat;
 		background-position:top left;
-		line-height:50px;
-		font-size:24px;
+				font-size:24px;
+	    }
+	    
+	    .videos li.right h2 {
+		background-image:url(http://cdn.yayquery.com/site/images/title_bg_right.png);
 		padding-right:3px;
 		text-align:right;
+		
 	    }
-	    #videos li.right video,
-	    #videos li.right object,
-	    #videos li.right embed,
-            #videos li.right .clickvid {
+	    .videos li.right video,
+	    .videos li.right object,
+	    .videos li.right embed,
+            .videos li.right .clickvid {
 		float:right;
 		display:block;
 		width:360px;
 		height:240px;
 		margin-right:4px;
 	    }
-	    #videos li.right .description {
+	    .videos li.right .description {
 		width:505px;
 		text-align:right;
 		margin-top:35px;
@@ -146,37 +154,34 @@ a {
 		height:170px;
 		overflow:hidden;
 	    }
-	    #videos li.right .shownotes {
+	    .videos li.right .shownotes {
 		clear:both;
 		width:300px;
 		padding-top:5px;
 		margin-right:34px;
 		float:right;
 	    }
-	    #videos li.right img.cohitre {
+	    .videos li.right img.cohitre {
 		margin-top:16px;
 		margin-left:185px;
 	    }
-	    #videos li.left h2 {
-		height:50px;
+	    .videos li.left h2 {
 		background-image:url(http://cdn.yayquery.com/site/images/title_bg_left.png);
-		background-repeat:no-repeat;
-		background-position:top right;
 		padding-left:3px;
-		line-height:50px;
-		font-size:24px;
+		
+background-position:top right;
 	    }
-	    #videos li.left video,
-	    #videos li.left object,
-	    #videos li.left embed,
-            #videos li.left .clickvid {
+	    .videos li.left video,
+	    .videos li.left object,
+	    .videos li.left embed,
+            .videos li.left .clickvid {
 		float:left;
 		display:block;
 		width:360px;
 		height:240px;
 		margin-left:4px;
 	    }
-	    #videos li.left .description {
+	    .videos li.left .description {
 		width:505px;
 		margin-top:35px;
 		padding-left:10px;
@@ -185,14 +190,14 @@ a {
 		overflow:hidden;
 		float:left;
 	    }
-	    #videos li.left .shownotes {
+	    .videos li.left .shownotes {
 		clear:both;
 		width:300px;
 		padding-top:5px;
 		margin-left:34px;
 		float:left;
 	    }
-	    #videos li.left img.cohitre {
+	    .videos li.left img.cohitre {
 		margin-left:25px;
 		margin-top:10px;
 		float:left;
@@ -217,3 +222,35 @@ a {
     padding:10px;
     background-color:#007CF8;
 }
+
+
+
+@font-face {
+	font-family: 'ChunkFiveRegular';
+	src: url('../fonts/Chunkfive.eot');
+	src: local('ChunkFive Regular'), local('ChunkFive'), url('../fonts/Chunkfive.woff') format('woff'), url('../fonts/Chunkfive.otf') format('opentype'), url('../fonts/Chunkfive.svg#ChunkFive') format('svg');
+}
+
+
+section.outbound {
+    background: rgba(162,252,240,0.7);    
+    -moz-border-radius:10px;
+    -webkit-border-radius:10px;
+    border-radius:10px;
+    padding: 15px;
+    display:block;
+    margin: 5px auto;    
+    overflow:auto;
+    width:881px; 
+}
+.outbound a { display:block; float:left; height: 120px; width: 110px; position:relative; text-decoration:none;}
+.outbound img { width: 105px; vertical-align:middle;}
+.outbound span {   opacity:0; display:block; position:absolute; bottom: 0px; color: #2a315c; left: 0; font-size: 14px; width: 105px; text-align:center; font-weight:bold; text-shadow: #eee 0px 0px 3px; line-height: 12px;  -webkit-transition: opacity 200ms linear; }
+.outbound span small { font-size: 9px; }
+.outbound a:hover span { opacity:1; }
+
+.outbound h4 { color: rgba(50,50,50,0.8); font-size: 33px; font-weight:bold; float:left; font-family: 'ChunkFiveRegular'; width: 40px; margin-top:70px; margin-left: 50px;
+    -webkit-transform: rotate(-90deg); -transform: rotate(-90deg); 
+-moz-transform: rotate(-90deg);	filter: progid:DXImageTransform.Microsoft.BasicImage(rotation=3); }
+
+.outbound h4:first-child { margin-left: 0;}
