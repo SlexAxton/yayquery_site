@@ -6,7 +6,7 @@
   that covers the interests of the typical front-end developer, specifically one who uses jQuery. About the
   hosts: From afar when you notice them at jquery conference, they look like the cool kids in high school.
   They just gather around and make fun of everybody." /> 
-<title>yayQuery Podcast</title> 
+<title>yayQuery Podcast - A jQuery Podcast</title> 
 <base href="http://yayquery.com/" />
 <link rel="icon" href="favicon.ico" type="image/x-icon" />
 <link rel="shortcut icon" href="favicon.ico" type="image/x-icon" />
@@ -16,7 +16,7 @@
 <body>
 <header>
 <div id="header"> 
-    <h1>yayQuery Podcast</h1> 
+    <h1>yayQuery Podcast - A jQuery Podcast</h1> 
     <div id="sponsors"> 
 	<span class="spons">sponsored by</span> 
 	<a id="tinycdn" href="http://www.tinycdn.com/">TinyCDN</a> 

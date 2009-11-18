@@ -36,9 +36,8 @@ a {
 	width:380px;
 	margin:10px auto 0;
 	display:block;
-	line-height:1px;
-	font-size:1px;
-	color:#005CE9;
+	text-indent:-999px; overflow:hidden;
+	
     }
     #sponsors {
 	position:relative;
