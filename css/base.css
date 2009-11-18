@@ -30,6 +30,7 @@ a {
     background-repeat:repeat-x;
     background-position:50% 67px;
 }
+*:first-child+html #header { background-position:50% 77px; }
     #header h1 {
 	background-image:url(http://cdn.yayquery.org/site/images/top_logo.png);
 	background-position:top center;
@@ -130,7 +131,10 @@ a {
 		padding-right:3px;
 		text-align:right;
 	    }
-	    #videos li.right video {
+	    #videos li.right video,
+	    #videos li.right object,
+	    #videos li.right embed,
+            #videos li.right .clickvid {
 		float:right;
 		display:block;
 		width:360px;
@@ -166,7 +170,10 @@ a {
 		line-height:50px;
 		font-size:24px;
 	    }
-	    #videos li.left video {
+	    #videos li.left video,
+	    #videos li.left object,
+	    #videos li.left embed,
+            #videos li.left .clickvid {
 		float:left;
 		display:block;
 		width:360px;
@@ -191,8 +198,26 @@ a {
 	    }
 	    #videos li.left img.cohitre {
 		margin-left:25px;
+		margin-top:10px;
 		float:left;
 	    }
 	.download {
 	    font-size:10px;
 	}
+	    .showlinks li {
+		margin:0 !important;
+		background:none !important;
+		height:auto !important;
+	    }
+        .clickvid {
+          cursor:pointer;
+        }
+#footer {
+    color:#CCCCCC;
+    font-size:11px;
+    line-height:40px;
+    width:890px;
+    margin:40px auto;
+    padding:10px;
+    background-color:#007CF8;
+}
