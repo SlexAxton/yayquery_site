@@ -11,8 +11,9 @@
 <link rel="icon" href="favicon.ico" type="image/x-icon" />
 <link rel="shortcut icon" href="favicon.ico" type="image/x-icon" />
 <link rel="alternate" type="application/rss+xml" title="yayQuery RSS Feed" href="http://feeds.feedburner.com/yayQuery" />
+
 <link type="text/css" rel="stylesheet" media="all" href="css/base.css" /> 
-   <!-- http://cdn.yayquery.com/site/css/base.r11.css -->
+   <!-- http://cdn.yayquery.com/site/css/base.r13.css -->
 </head> 
 <body>
 
