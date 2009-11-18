@@ -143,16 +143,16 @@ $(function(){
     
     var videos = [
 	{
-	    poster: 'http://cdn.yayquery.org/ep/0/yayquery_0.png',
+	    poster: 'http://cdn.yayquery.com/ep/0/yayquery_0.png',
 	    vimeo : 'http://vimeo.com/moogaloop.swf?clip_id=7462067&amp;server=vimeo.com&amp;show_title=1&amp;show_byline=1&amp;show_portrait=1&amp;color=FF7700&amp;fullscreen=1',
-	    ogv   : 'http://cdn.yayquery.org/ep/0/yayquery_0.ogv',
-	    mp4   : 'http://cdn.yayquery.org/ep/0/yayquery_0.mp4'
+	    ogv   : 'http://cdn.yayquery.com/ep/0/yayquery_0.ogv',
+	    mp4   : 'http://cdn.yayquery.com/ep/0/yayquery_0.mp4'
 	},
 	{
-	    poster: 'http://cdn.yayquery.org/ep/1/yayquery_1.png',
+	    poster: 'http://cdn.yayquery.com/ep/1/yayquery_1.png',
 	    vimeo : 'http://vimeo.com/moogaloop.swf?clip_id=7593252&amp;server=vimeo.com&amp;show_title=1&amp;show_byline=1&amp;show_portrait=0&amp;color=&amp;fullscreen=1',
-	    ogv   : 'http://cdn.yayquery.org/ep/1/yayquery_1.ogv',
-	    mp4   : 'http://cdn.yayquery.org/ep/1/yayquery_1.mp4'
+	    ogv   : 'http://cdn.yayquery.com/ep/1/yayquery_1.ogv',
+	    mp4   : 'http://cdn.yayquery.com/ep/1/yayquery_1.mp4'
 	}
     ];
     
