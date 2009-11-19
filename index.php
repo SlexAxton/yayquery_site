@@ -1,5 +1,5 @@
 <!DOCTYPE html> 
-<html> 
+<html class="no-js"> 
 <head> 
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" /> 
 <meta name="DESCRIPTION" content="The yayQuery Podcast is a casual conversation between four developers
@@ -10,7 +10,10 @@
 <link rel="icon" href="favicon.ico" type="image/x-icon" />
 <link rel="shortcut icon" href="favicon.ico" type="image/x-icon" />
 <link rel="alternate" type="application/rss+xml" title="yayQuery RSS Feed" href="http://feeds.feedburner.com/yayQuery" />
-
+  <script type="text/javascript">
+  // http://paulirish.com/2009/avoiding-the-fouc-v3/ && http://remysharp.com/2009/01/07/html5-enabling-script // alternatively using Moderizr does both of these.
+  (function(B,C){B[C]=B[C].replace(/\bno-js\b/,'js');if(!/*@cc_on!@*/0)return;var e = "abbr,article,aside,audio,canvas,datalist,details,dialog,eventsource,figure,footer,header,hgroup,mark,menu,meter,nav,output,progress,section,time,video".split(','),i=e.length;while(i--){document.createElement(e[i])}})(document.documentElement,'className');
+  </script>
 <link type="text/css" rel="stylesheet" media="all" href="css/base.css" /> 
 </head> 
 <body>
