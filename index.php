@@ -73,6 +73,7 @@
 		    <li><a href="http://www.webpronews.com/topnews/2009/11/13/google-page-speed-may-be-a-ranking-factor-in-2010">Google: Page Speed May Become a Ranking Factor in 2010</a></li>
 		    <li><a href="http://docs.jquery.com/Effects/jQuery.fx.off">Effects/jQuery.fx.off</a></li>
 		    <li><a href="http://www.mrspeaker.net/2009/11/14/selecting-javascript-objects-with-jquery/">Selecting JavaScript objects with jQuery</a></li>
+                    <li><a href="http://code.google.com/p/combine-cfc/">Cold Fusion Combine</a></li>
 		    <li><a href="http://www.json.org/json2.js">json.org: json2.js</a></li>
 		    <li><a href="http://code.google.com/p/jquery-json/">jquery-json</a></li>
 		    <li><a href="http://plugins.jquery.com/project/jgfeed">Google Feeds API - jQuery plugin</a></li>
