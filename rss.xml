@@ -17,7 +17,7 @@
 			<itunes:name>Rebecca Murphey</itunes:name>
 			<itunes:email>rmurphey@gmail.com</itunes:email>
 		</itunes:owner>
-		<itunes:explicit>No</itunes:explicit>
+		<itunes:explicit>Yes</itunes:explicit>
 		<itunes:image href="http://yayquery.com/images/yayQuery_50x50.png"/>
 		<itunes:category text="Technology"/>
 
