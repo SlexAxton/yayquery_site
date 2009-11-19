@@ -1,5 +1,5 @@
 <!DOCTYPE html> 
-<html class="no-js"> 
+<html> 
 <head> 
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" /> 
 <meta name="DESCRIPTION" content="The yayQuery Podcast is a casual conversation between four developers
@@ -10,10 +10,7 @@
 <link rel="icon" href="favicon.ico" type="image/x-icon" />
 <link rel="shortcut icon" href="favicon.ico" type="image/x-icon" />
 <link rel="alternate" type="application/rss+xml" title="yayQuery RSS Feed" href="http://feeds.feedburner.com/yayQuery" />
-  <script type="text/javascript">
-  // http://paulirish.com/2009/avoiding-the-fouc-v3/ && http://remysharp.com/2009/01/07/html5-enabling-script // alternatively using Moderizr does both of these.
-  (function(B,C){B[C]=B[C].replace(/\bno-js\b/,'js');if(!/*@cc_on!@*/0)return;var e = "abbr,article,aside,audio,canvas,datalist,details,dialog,eventsource,figure,footer,header,hgroup,mark,menu,meter,nav,output,progress,section,time,video".split(','),i=e.length;while(i--){document.createElement(e[i])}})(document.documentElement,'className');
-  </script>
+
 <link type="text/css" rel="stylesheet" media="all" href="css/base.css" /> 
 </head> 
 <body>
@@ -56,8 +53,66 @@
 </header>
 
 
-<ul class="videos"> 
-    <li class="right"> 
+<ul class="videos">
+    <li class="left"> 
+	<h2><span class="epnum">Episode 2</span> | Third Time's a Charm!</h2> 
+	<img width="360" height="240" src="http://cdn.yayquery.com/ep/2/yayquery_poster_2.png" alt="Episode 2" rel="2" class="clickvid" />
+	<div class="description"> 
+	    <p>In this episode of yayQuery the team discusses Paul's recent adventures in the land of jQuery documentation. We know there's a
+	    <em>Doc Brown 1.21 Jiggawatts</em> joke somewhere in there, but we couldn't find it. Other topics include JSON, Compression &amp;
+	    Minification, Plugins of the Week, Hidden Features inside of jQuery, and even a picture of Adam in his best Dark Helmet costume.
+	    Also get some coupon codes for some sweet discounts off some sweet conferences. Oh yeah. Jonathan Neal.</p> 
+	</div> 
+	<div class="shownotes"> 
+	    <div class="download"> 
+		<strong>Video:</strong> <a href="http://cdn.yayquery.com/ep/2/yayquery_2.ogv">OGV</a> (127mb) | <a href="http://cdn.yayquery.com/ep/2/yayquery_2.mp4">MP4</a> (105mb)
+		<br /> 
+		<strong>Audio:</strong> <a href="http://cdn.yayquery.com/ep/2/yayquery_2.mp3">MP3</a> (34mb)
+		<h4>Show Links</h4>
+		<ul class="showlinks">
+		    <li><a href="http://www.webpronews.com/topnews/2009/11/13/google-page-speed-may-be-a-ranking-factor-in-2010">Google: Page Speed May Become a Ranking Factor in 2010</a></li>
+		    <li><a href="http://docs.jquery.com/Effects/jQuery.fx.off">Effects/jQuery.fx.off</a></li>
+		    <li><a href="http://www.mrspeaker.net/2009/11/14/selecting-javascript-objects-with-jquery/">Selecting JavaScript objects with jQuery</a></li>
+		    <li><a href="http://www.json.org/json2.js">json.org: json2.js</a></li>
+		    <li><a href="http://code.google.com/p/jquery-json/">jquery-json</a></li>
+		    <li><a href="http://plugins.jquery.com/project/jgfeed">Google Feeds API - jQuery plugin</a></li>
+		    <li><a href="http://jqueryworkshop-dec11-2009.eventbrite.com/?discount=yayquery">jQuery Workshop: Washington, D.C. (yayQuery discount!)</a></li>
+		    <li><a href="http://pipes.yahoo.com/pipes/">Yahoo! Pipes: Rewire the web</a></li>
+		    <li><a href="http://developer.yahoo.com/yql/">YQL: Yahoo! Query Language</a></li>
+		</ul>
+	    </div> 
+	</div> 
+	<img class="cohitre" src="http://cdn.yayquery.com/site/images/cohitre_2.jpg" alt="Please dont feed ajpiano." width="332" height="232" /> 
+    </li> 
+ </ul>
+
+
+<section class="outbound">
+    <h4>Video</h4>
+    <a href="http://feeds.feedburner.com/yayQuery"><img src="http://cdn.yayquery.com/site/images/podcast-icon.png"/><span>RSS Feed</span></a>
+    
+    <a href="http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=340422555"><img src="http://cdn.yayquery.com/site/images/podcast-itunes.png"/><span>iTunes link</span></a>
+     
+    <a href="http://subscribe.getmiro.com/?url1=http%3A//feeds.feedburner.com/yayQuery&trackback1=http%3A//www.miroguide.com/feeds/12786/subscribe-hit&section1=video" title="Subscribe to yayQuery on Miro: Internet TV">
+        <img src="http://subscribe.getmiro.com/img/buttons/wes1.png"  border="0" style="padding-top: 61px;" />
+        <span>Subscribe on Miro</span>
+    </a>
+    
+    <h4>Audio</h4>
+      <a href="http://feeds.feedburner.com/yayQuery_audio"><img src="http://cdn.yayquery.com/site/images/podcast-icon.png"/><span>RSS Feed <small>(audio)</small></span></a>
+
+
+    <a href="http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=340500884"><img src="http://cdn.yayquery.com/site/images/podcast-itunes.png"/><span>iTunes link <small>(audio)</small></span></a>
+      
+    <h4>Twitter</h4>
+    <a href="http://twitter.com/yayQuery" title="A whole lot of yay, and a query too!"><img src="http://cdn.yayquery.com/site/images/twitter_02.png" alt="@yayQuery" /><span>Follow us at @yayQuery</span></a>
+</section>
+
+
+
+
+<ul class="videos">
+<li class="right"> 
 	<h2>Dear &lt;canvas&gt;, meet bacon. | <span class="epnum">Episode 1</span></h2> 
 	<img width="360" height="240" src="http://cdn.yayquery.com/ep/1/yayquery_1.png" alt="Episode 1" rel="1" class="clickvid" />
 	<div class="description"> 
@@ -90,35 +145,7 @@
 	    </div> 
 	</div> 
 	<img class="cohitre" src="http://cdn.yayquery.com/site/images/cohitre_1.jpg" alt="Please dont feed ajpiano." width="329" height="256" /> 
-</li>
- </ul>
-
-
-<section class="outbound">
-    <h4>Video</h4>
-    <a href="http://feeds.feedburner.com/yayQuery"><img src="http://cdn.yayquery.com/site/images/podcast-icon.png"/><span>RSS Feed</span></a>
-    
-    <a href="http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=340422555"><img src="http://cdn.yayquery.com/site/images/podcast-itunes.png"/><span>iTunes link</span></a>
-     
-    <a href="http://subscribe.getmiro.com/?url1=http%3A//feeds.feedburner.com/yayQuery&trackback1=http%3A//www.miroguide.com/feeds/12786/subscribe-hit&section1=video" title="Subscribe to yayQuery on Miro: Internet TV">
-        <img src="http://subscribe.getmiro.com/img/buttons/wes1.png"  border="0" style="padding-top: 61px;" />
-        <span>Subscribe on Miro</span>
-    </a>
-    
-    <h4>Audio</h4>
-      <a href="http://feeds.feedburner.com/yayQuery_audio"><img src="http://cdn.yayquery.com/site/images/podcast-icon.png"/><span>RSS Feed <small>(audio)</small></span></a>
-
-
-    <a href="http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=340500884"><img src="http://cdn.yayquery.com/site/images/podcast-itunes.png"/><span>iTunes link <small>(audio)</small></span></a>
-      
-    <h4>Twitter</h4>
-    <a href="http://twitter.com/yayQuery" title="A whole lot of yay, and a query too!"><img src="http://cdn.yayquery.com/site/images/twitter_02.png" alt="@yayQuery" /><span>Follow us at @yayQuery</span></a>
-</section>
-
-
-
-
-<ul class="videos">
+    </li>
     <li class="left"> 
 	<h2><span class="epnum">Episode 0</span> | Inaugural Zero-Indexed Episode</h2> 
 	<img width="360" height="240" src="http://cdn.yayquery.com/ep/0/yayquery_0.png" alt="Episode 0" rel="0" class="clickvid" />
@@ -188,6 +215,12 @@ $(function(){
 	    vimeo : 'http://vimeo.com/moogaloop.swf?clip_id=7593252&amp;server=vimeo.com&amp;show_title=1&amp;show_byline=1&amp;show_portrait=0&amp;color=&amp;fullscreen=1',
 	    ogv   : 'http://cdn.yayquery.com/ep/1/yayquery_1.ogv',
 	    mp4   : 'http://cdn.yayquery.com/ep/1/yayquery_1.mp4'
+	},
+	{
+	    poster: 'http://cdn.yayquery.com/ep/2/yayquery_poster_2.png',
+	    vimeo : 'http://vimeo.com/moogaloop.swf?clip_id=7709331&amp;server=vimeo.com&amp;show_title=1&amp;show_byline=1&amp;show_portrait=1&amp;color=FF7700&amp;fullscreen=1',
+	    ogv   : 'http://cdn.yayquery.com/ep/2/yayquery_2.ogv',
+	    mp4   : 'http://cdn.yayquery.com/ep/2/yayquery_2.mp4'
 	}
     ];
     
