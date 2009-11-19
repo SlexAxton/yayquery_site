@@ -7,13 +7,11 @@
   hosts: From afar when you notice them at jquery conference, they look like the cool kids in high school.
   They just gather around and make fun of everybody." /> 
 <title>yayQuery Podcast - A jQuery Podcast</title> 
-<!-- <base href="http://yayquery.com/" /> meanie! >:(  -->
 <link rel="icon" href="favicon.ico" type="image/x-icon" />
 <link rel="shortcut icon" href="favicon.ico" type="image/x-icon" />
 <link rel="alternate" type="application/rss+xml" title="yayQuery RSS Feed" href="http://feeds.feedburner.com/yayQuery" />
 
-<link type="text/css" rel="stylesheet" media="all" href="css/base.css" /> 
-   <!-- http://cdn.yayquery.com/site/css/base.r13.css -->
+<link type="text/css" rel="stylesheet" media="all" href="http://cdn.yayquery.com/site/css/base.r14.css" /> 
 </head> 
 <body>
 
@@ -95,24 +93,23 @@
 
 <section class="outbound">
     <h4>Video</h4>
-    <a href="http://feeds.feedburner.com/yayQuery"><img src="img/podcast-icon.png"/><span>RSS Feed</span></a>
-
+    <a href="http://feeds.feedburner.com/yayQuery"><img src="http://cdn.yayquery.com/site/images/podcast-icon.png"/><span>RSS Feed</span></a>
+    
+    <a href="http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=340422555"><img src="http://cdn.yayquery.com/site/images/podcast-itunes.png"/><span>iTunes link</span></a>
+     
     <a href="http://subscribe.getmiro.com/?url1=http%3A//feeds.feedburner.com/yayQuery&trackback1=http%3A//www.miroguide.com/feeds/12786/subscribe-hit&section1=video" title="Subscribe to yayQuery on Miro: Internet TV">
         <img src="http://subscribe.getmiro.com/img/buttons/wes1.png"  border="0" style="padding-top: 61px;" />
         <span>Subscribe on Miro</span>
     </a>
     
-    <a href="http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=340422555"><img src="img/podcast-itunes.png"/><span>iTunes link</span></a>
-     
-    
     <h4>Audio</h4>
-      <a href="http://feeds.feedburner.com/yayQuery_audio"><img src="img/podcast-icon.png"/><span>RSS Feed <small>(audio)</small></span></a>
+      <a href="http://feeds.feedburner.com/yayQuery_audio"><img src="http://cdn.yayquery.com/site/images/podcast-icon.png"/><span>RSS Feed <small>(audio)</small></span></a>
 
 
-    <a href="http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=340500884"><img src="img/podcast-itunes.png"/><span>iTunes link <small>(audio)</small></span></a>
+    <a href="http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=340500884"><img src="http://cdn.yayquery.com/site/images/podcast-itunes.png"/><span>iTunes link <small>(audio)</small></span></a>
       
     <h4>Twitter</h4>
-    <a href="http://twitter.com/yayQuery" title="A whole lot of yay, and a query too!"><img src="img/twitter_02.png" alt="@yayQuery" /><span>Follow us at @yayQuery</span></a>
+    <a href="http://twitter.com/yayQuery" title="A whole lot of yay, and a query too!"><img src="http://cdn.yayquery.com/site/images/twitter_02.png" alt="@yayQuery" /><span>Follow us at @yayQuery</span></a>
 </section>
 
 
@@ -155,15 +152,8 @@
 
 <footer>
 <div id="footer">
-  <!--  Video Feed <a href="http://feeds.feedburner.com/yayQuery">http://feeds.feedburner.com/yayQuery</a><br />
-    Video iTunes <a href="http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=340422555">http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=340422555</a><br />
-    Audio Feed <a href="http://feeds.feedburner.com/yayQuery_audio">http://feeds.feedburner.com/yayQuery_audio</a><br />
-    Audio iTunes <a href="http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=340500884">http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=340500884</a><br />
--->
     Theme music by <a href="http://thewikies.com/" title="Pure Genius">Jonathan Neal</a><br />
     Original artwork by <a href="http://cohitre.com/" title="Cohitre :) You"><img src="http://cdn.yayquery.com/site/images/cohitre-32.png" alt="Cohitre :) You" width="32" height="32" /></a><br />
-   <!-- Follow us on <a href="http://twitter.com/yayQuery" title="A whole lot of yay, and a query too!"><img src="http://cdn.yayquery.com/site/images/Twitter-icon-32.png" alt="@yayQuery" width="32" height="32" /></a>
-   -->
 </div>
 </footer>
 
