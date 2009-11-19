@@ -20,7 +20,22 @@
 		<itunes:explicit>No</itunes:explicit>
 		<itunes:image href="http://yayquery.com/images/yayQuery_50x50.png"/>
 		<itunes:category text="Technology"/>
-		
+
+		<item>
+			<title>Episode 2: Third Time's a Charm!</title>
+			<link>http://yayquery.org</link>
+			<guid>http://cdn.yayquery.org/ep/2/yayquery_2.mp4</guid>
+			<description>In this episode of yayQuery the team discusses Paul's recent adventures in the land of jQuery documentation. We know there's a Doc Brown 1.21 Jiggawatts joke somewhere in there, but we couldn't find it. Other topics include JSON, Compression & Minification, Plugins of the Week, Hidden Features inside of jQuery, and even a picture of Adam in his best Dark Helmet costume. Also get some coupon codes for some sweet discounts off some sweet conferences. Oh yeah. Jonathan Neal.</description>
+			<enclosure url="http://cdn.yayquery.org/ep/2/yayquery_2.mp4" type="video/mp4" length="112543266"/>
+			<category>Technology</category>
+			<pubDate>Thu, 19 Nov 2009 12:00:00 -0500</pubDate>
+			<itunes:author>Paul Irish, Rebecca Murphey, Alex Sexton, Adam J Sontag</itunes:author>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:summary>In this episode of yayQuery the team discusses Paul's recent adventures in the land of jQuery documentation. We know there's a Doc Brown 1.21 Jiggawatts joke somewhere in there, but we couldn't find it. Other topics include JSON, Compression & Minification, Plugins of the Week, Hidden Features inside of jQuery, and even a picture of Adam in his best Dark Helmet costume. Also get some coupon codes for some sweet discounts off some sweet conferences. Oh yeah. Jonathan Neal.</itunes:summary>
+			<itunes:duration>00:40:00</itunes:duration>
+			<itunes:keywords>jQuery, front end development, web development, javascript</itunes:keywords>
+		</item>
+
 		<item>
 			<title>Episode 1: Dear &lt;canvas&gt;, meet bacon</title>
 			<link>http://yayquery.org</link>
@@ -29,7 +44,7 @@
 			<enclosure url="http://cdn.yayquery.org/ep/1/yayquery_1.mp4" type="video/mp4" length="112543266"/>
 			<category>Technology</category>
 			<pubDate>Fri, 13 Nov 2009 08:00:00 -0500</pubDate>
-			<itunes:author>Paul Irish, Rebecca Murphey, Alex Sexton, Adam Sontag</itunes:author>
+			<itunes:author>Paul Irish, Rebecca Murphey, Alex Sexton, Adam J Sontag</itunes:author>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:summary>In this episode of yayQuery, the crew discusses Google's terrible project naming habits, Paul gives an anti-pattern that you won't want to miss, and no episode is ever complete without a little ditty from Jonathan Neal. Other topics include the jQuery Peepcode screencasts, jsconf.eu, and bacon. We are also proud to announce that we have two new sponsors: TinyCDN and devot:ee -- so check em' out!</itunes:summary>
 			<itunes:duration>00:38:20</itunes:duration>
@@ -44,7 +59,7 @@
 			<enclosure url="http://cdn.yayquery.org/ep/0/yayquery_0.mp4" type="video/mp4" length="98775887"/>
 			<category>Technology</category>
 			<pubDate>Fri, 06 Nov 2009 11:30:00 -0500</pubDate>
-			<itunes:author>Paul Irish, Rebecca Murphey, Alex Sexton, Adam Sontag</itunes:author>
+			<itunes:author>Paul Irish, Rebecca Murphey, Alex Sexton, Adam J Sontag</itunes:author>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:summary>In this episode of yayQuery, the team introduces themselves. Paul Irish, Rebecca Murphey, Adam J. Sontag, and Alex Sexton each offer their insight on a variety of topics. Paul Irish continues his anti-pattern knowledge-giving that he started at jQuery Con '09 and then goes on to publicly show his support for the end of Thickbox's life. Mobile front-end development is discussed in some detail, however any information passed on is nullified by the dancing at the end of the video.</itunes:summary>
 			<itunes:duration>00:34:33</itunes:duration>
