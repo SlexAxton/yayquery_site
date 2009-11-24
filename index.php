@@ -168,7 +168,7 @@
 		    <li><a href="http://colorpowered.com/colorbox/">jQuery UI Dialog</a></li>
 		    <li><a href="http://dev.iceburg.net/jquery/jqModal/">jqModal</a></li>
 		    <li><a href="http://colorpowered.com/colorbox/">ColorBox</a></li>
-		    <li><a href="http://colorpowered.com/colorbox/">SimpleModal</a></li>
+		    <li><a href="http://www.ericmmartin.com/projects/simplemodal/">SimpleModal</a></li>
 		    
 		    <li><a href="http://www.jqtouch.com/">jqTouch</a></li>
 		    <li><a href="http://xuijs.com/">XUI</a></li>
