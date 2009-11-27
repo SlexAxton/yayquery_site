@@ -61,7 +61,7 @@
 					    <p>In a very special thanksgiving episode of yayQuery the gang talks on the hottest conference on the block and the best new seating
 					    themed storage implementation. Eat your leftover turkey and pumpkin pie while you get learned by special guest Mike Taylor on everybody's
 					    favorite HTML5 input information. There's a plugin that we think is the best for this week along with your favorite segments hidden or unhidden.
-					    On top of all that, we made you a new plugin! Hapy Hapy Thanksgiving (or just hapy day to the non-americans).</p> 
+					    On top of all that, we made you a new plugin! Hapy Hapy Thanksgiving!</p> 
 					</div> 
 					<div class="shownotes"> 
 					    <div class="download"> 
