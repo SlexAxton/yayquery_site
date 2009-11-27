@@ -54,38 +54,36 @@
 
 
 <ul class="videos">
-    <li class="left"> 
-	<h2><span class="epnum">Episode 2</span> | Third Time's a Charm!</h2> 
-	<img width="360" height="240" src="http://cdn.yayquery.com/ep/2/yayquery_poster_2.png" alt="Episode 2" rel="2" class="clickvid" />
-	<div class="description"> 
-	    <p>In this episode of yayQuery the team discusses Paul's recent adventures in the land of jQuery documentation. We know there's a
-	    <em>Doc Brown 1.21 Jiggawatts</em> joke somewhere in there, but we couldn't find it. Other topics include JSON, Compression &amp;
-	    Minification, Plugins of the Week, Hidden Features inside of jQuery, and even a picture of Adam in his best Dark Helmet costume.
-	    Also get some coupon codes for some sweet discounts off some sweet conferences. Oh yeah. Jonathan Neal.</p> 
-	</div> 
-	<div class="shownotes"> 
-	    <div class="download"> 
-		<strong>Video:</strong> <a href="http://cdn.yayquery.com/ep/2/yayquery_2.ogv">OGV</a> (127mb) | <a href="http://cdn.yayquery.com/ep/2/yayquery_2.mp4">MP4</a> (105mb)
-		<br /> 
-		<strong>Audio:</strong> <a href="http://cdn.yayquery.com/ep/2/yayquery_2.mp3">MP3</a> (34mb)
-		<h4>Show Links</h4>
-		<ul class="showlinks">
-		    <li><a href="http://www.webpronews.com/topnews/2009/11/13/google-page-speed-may-be-a-ranking-factor-in-2010">Google: Page Speed May Become a Ranking Factor in 2010</a></li>
-		    <li><a href="http://docs.jquery.com/Effects/jQuery.fx.off">Effects/jQuery.fx.off</a></li>
-		    <li><a href="http://www.mrspeaker.net/2009/11/14/selecting-javascript-objects-with-jquery/">Selecting JavaScript objects with jQuery</a></li>
-                    <li><a href="http://code.google.com/p/combine-cfc/">Cold Fusion Combine</a></li>
-		    <li><a href="http://www.json.org/json2.js">json.org: json2.js</a></li>
-		    <li><a href="http://code.google.com/p/jquery-json/">jquery-json</a></li>
-		    <li><a href="http://plugins.jquery.com/project/jgfeed">Google Feeds API - jQuery plugin</a></li>
-		    <li><a href="http://jqueryworkshop-dec11-2009.eventbrite.com/?discount=yayquery">jQuery Workshop: Washington, D.C. (yayQuery discount!)</a></li>
-		    <li><a href="http://pipes.yahoo.com/pipes/">Yahoo! Pipes: Rewire the web</a></li>
-		    <li><a href="http://developer.yahoo.com/yql/">YQL: Yahoo! Query Language</a></li>
-		</ul>
-	    </div> 
-	</div> 
-	<img class="cohitre" src="http://cdn.yayquery.com/site/images/cohitre_2.jpg" alt="Please dont feed ajpiano." width="332" height="232" /> 
-    </li> 
- </ul>
+		    <li class="right"> 
+					<h2>$("#turkey").contents() === new Stuffing(); | <span class="epnum">Episode 3</span></h2> 
+					<img width="360" height="240" src="http://cdn.yayquery.com/ep/3/yayquery_3.png" alt="Episode 3" rel="3" class="clickvid" />
+					<div class="description"> 
+					    <p>In a very special thanksgiving episode of yayQuery the gang talks on the hottest conference on the block and the best new seating
+					    themed storage implementation. Eat your leftover turkey and pumpkin pie while you get learned by special guest Mike Taylor on everybody's
+					    favorite HTML5 input information. There's a plugin that we think is the best for this week along with your favorite segments hidden or unhidden.
+					    On top of all that, we made you a new plugin! Hapy Hapy Thanksgiving (or just hapy day to the non-americans).</p> 
+					</div> 
+					<div class="shownotes"> 
+					    <div class="download"> 
+						<strong>Video:</strong> <a href="http://cdn.yayquery.com/ep/3/yayquery_3.ogv">OGV</a> (149mb) | <a href="http://cdn.yayquery.com/ep/3/yayquery_3.mp4">MP4</a> (107mb)
+						<br /> 
+						<strong>Audio:</strong> <a href="http://cdn.yayquery.com/ep/3/yayquery_3.mp3">MP3</a> (35mb)
+						<h4>Show Links</h4>
+						<ul class="showlinks">
+							    <li><a href="http://www.modernizr.com/">Modernizr</a></li>
+							    <li><a href="http://jsconf.us/2010">JSConf 2010</a></li>
+							    <li><a href="http://github.com/brianleroux/lawnchair">Lawnchair</a></li>
+							    <li><a href="http://ajaxian.com/archives/ie-9-hardware-rendering-new-js-engine-css-standards-and-more">IE9 JS/CSS specs etc.</a></li>
+							    <li><a href="http://github.com/yayquery/jquery-singalong">jQuery Singalong!</a></li>
+							    <li><a href="http://jwf.us/projects/jQSlickWrap/">jQSlickWrap</a></li>
+							    <li><a href="http://docs.jquery.com/Utilities/jQuery.map">jQuery .map()</a></li>
+							    <li><a href="http://stevesouders.com/efws/">Even Faster Websites</a></li>
+						</ul>
+					    </div> 
+					</div> 
+					<img class="cohitre" src="http://cdn.yayquery.com/site/images/cohitre_1.jpg" alt="Please dont feed ajpiano." width="329" height="256" /> 
+		    </li>
+</ul>
 
 
 <section class="outbound">
@@ -113,6 +111,37 @@
 
 
 <ul class="videos">
+<li class="left"> 
+		    <h2><span class="epnum">Episode 2</span> | Third Time's a Charm!</h2> 
+		    <img width="360" height="240" src="http://cdn.yayquery.com/ep/2/yayquery_poster_2.png" alt="Episode 2" rel="2" class="clickvid" />
+		    <div class="description"> 
+			<p>In this episode of yayQuery the team discusses Paul's recent adventures in the land of jQuery documentation. We know there's a
+			<em>Doc Brown 1.21 Jiggawatts</em> joke somewhere in there, but we couldn't find it. Other topics include JSON, Compression &amp;
+			Minification, Plugins of the Week, Hidden Features inside of jQuery, and even a picture of Adam in his best Dark Helmet costume.
+			Also get some coupon codes for some sweet discounts off some sweet conferences. Oh yeah. Jonathan Neal.</p> 
+		    </div> 
+		    <div class="shownotes"> 
+			<div class="download"> 
+			    <strong>Video:</strong> <a href="http://cdn.yayquery.com/ep/2/yayquery_2.ogv">OGV</a> (127mb) | <a href="http://cdn.yayquery.com/ep/2/yayquery_2.mp4">MP4</a> (105mb)
+			    <br /> 
+			    <strong>Audio:</strong> <a href="http://cdn.yayquery.com/ep/2/yayquery_2.mp3">MP3</a> (34mb)
+			    <h4>Show Links</h4>
+			    <ul class="showlinks">
+				<li><a href="http://www.webpronews.com/topnews/2009/11/13/google-page-speed-may-be-a-ranking-factor-in-2010">Google: Page Speed May Become a Ranking Factor in 2010</a></li>
+				<li><a href="http://docs.jquery.com/Effects/jQuery.fx.off">Effects/jQuery.fx.off</a></li>
+				<li><a href="http://www.mrspeaker.net/2009/11/14/selecting-javascript-objects-with-jquery/">Selecting JavaScript objects with jQuery</a></li>
+				<li><a href="http://code.google.com/p/combine-cfc/">Cold Fusion Combine</a></li>
+				<li><a href="http://www.json.org/json2.js">json.org: json2.js</a></li>
+				<li><a href="http://code.google.com/p/jquery-json/">jquery-json</a></li>
+				<li><a href="http://plugins.jquery.com/project/jgfeed">Google Feeds API - jQuery plugin</a></li>
+				<li><a href="http://jqueryworkshop-dec11-2009.eventbrite.com/?discount=yayquery">jQuery Workshop: Washington, D.C. (yayQuery discount!)</a></li>
+				<li><a href="http://pipes.yahoo.com/pipes/">Yahoo! Pipes: Rewire the web</a></li>
+				<li><a href="http://developer.yahoo.com/yql/">YQL: Yahoo! Query Language</a></li>
+			    </ul>
+			</div> 
+		    </div> 
+		    <img class="cohitre" src="http://cdn.yayquery.com/site/images/cohitre_2.jpg" alt="Please dont feed ajpiano." width="332" height="232" /> 
+</li> 
 <li class="right"> 
 	<h2>Dear &lt;canvas&gt;, meet bacon. | <span class="epnum">Episode 1</span></h2> 
 	<img width="360" height="240" src="http://cdn.yayquery.com/ep/1/yayquery_1.png" alt="Episode 1" rel="1" class="clickvid" />
@@ -222,6 +251,12 @@ $(function(){
 	    vimeo : 'http://vimeo.com/moogaloop.swf?clip_id=7709331&amp;server=vimeo.com&amp;show_title=1&amp;show_byline=1&amp;show_portrait=1&amp;color=FF7700&amp;fullscreen=1',
 	    ogv   : 'http://cdn.yayquery.com/ep/2/yayquery_2.ogv',
 	    mp4   : 'http://cdn.yayquery.com/ep/2/yayquery_2.mp4'
+	},
+	{
+	    poster: 'http://cdn.yayquery.com/ep/3/yayquery_3.png',
+	    vimeo : '',
+	    ogv   : 'http://cdn.yayquery.com/ep/3/yayquery_3.ogv',
+	    mp4   : 'http://cdn.yayquery.com/ep/3/yayquery_3.mp4'
 	}
     ];
     
