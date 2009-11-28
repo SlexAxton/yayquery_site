@@ -194,7 +194,7 @@
 		<ul class="showlinks">
 		    <li><a href="http://documentcloud.github.com/underscore/">Underscore.js</a></li>
 		    
-		    <li><a href="http://colorpowered.com/colorbox/">jQuery UI Dialog</a></li>
+		    <li><a href="http://jqueryui.com/demos/dialog/">jQuery UI Dialog</a></li>
 		    <li><a href="http://dev.iceburg.net/jquery/jqModal/">jqModal</a></li>
 		    <li><a href="http://colorpowered.com/colorbox/">ColorBox</a></li>
 		    <li><a href="http://www.ericmmartin.com/projects/simplemodal/">SimpleModal</a></li>
