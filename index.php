@@ -56,7 +56,7 @@
 <ul class="videos">
 		    <li class="right"> 
 					<h2>$("#turkey").contents() === new Stuffing(); | <span class="epnum">Episode 3</span></h2> 
-					<img width="360" height="240" src="http://cdn.yayquery.com/ep/3/yayquery_3.png" alt="Episode 3" rel="3" class="clickvid" />
+					<img width="360" height="240" src="http://cdn.yayquery.com/ep/3/yayquery_poster_3.png" alt="Episode 3" rel="3" class="clickvid" />
 					<div class="description"> 
 					    <p>In a very special thanksgiving episode of yayQuery the gang talks on the hottest conference on the block and the best new seating
 					    themed storage implementation. Eat your leftover turkey and pumpkin pie while you get learned by special guest Mike Taylor on everybody's
@@ -253,8 +253,8 @@ $(function(){
 	    mp4   : 'http://cdn.yayquery.com/ep/2/yayquery_2.mp4'
 	},
 	{
-	    poster: 'http://cdn.yayquery.com/ep/3/yayquery_3.png',
-	    vimeo : '',
+	    poster: 'http://cdn.yayquery.com/ep/3/yayquery_poster_3.png',
+	    vimeo : 'http://vimeo.com/moogaloop.swf?clip_id=7857780&amp;server=vimeo.com&amp;show_title=1&amp;show_byline=1&amp;show_portrait=1&amp;color=FF7700&amp;fullscreen=1',
 	    ogv   : 'http://cdn.yayquery.com/ep/3/yayquery_3.ogv',
 	    mp4   : 'http://cdn.yayquery.com/ep/3/yayquery_3.mp4'
 	}
