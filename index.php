@@ -81,7 +81,7 @@
 						</ul>
 					    </div> 
 					</div> 
-					<img class="cohitre" src="http://cdn.yayquery.com/site/images/cohitre_1.jpg" alt="Please dont feed ajpiano." width="329" height="256" /> 
+					<img class="cohitre" src="http://cdn.yayquery.com/site/images/cohitre_3.jpg" alt="Please dont feed ajpiano." width="329" height="256" /> 
 		    </li>
 </ul>
 
