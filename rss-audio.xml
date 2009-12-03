@@ -7,14 +7,18 @@
 		<language>en-us</language>
 		<copyright>Copyright 2009</copyright>
 
-		<lastBuildDate>Fri, 27 Nov 2009 12:00:00 -0500</lastBuildDate>
+		<lastBuildDate>Thu, 3 Dec 2009 12:00:00 -0500</lastBuildDate>
 		<pubDate>Fri, 06 Nov 2009 11:30:00 -0500</pubDate>
 		<docs>http://blogs.law.harvard.edu/tech/rss</docs>
 		<webMaster>rmurphey@gmail.com</webMaster>
 		<itunes:author>yayQuery</itunes:author>
 		<itunes:subtitle>yayQuery is a weekly video podcast for jQuery users and front-end developers</itunes:subtitle>
 
-		<itunes:summary>yayQuery features regulars from the #jquery IRC channel talking about their experiences with jQuery and front-end development. Each podcast includes news from the front-end development community, jQuery patterns and anti-patterns, and more.</itunes:summary>
+		<itunes:summary>yayQuery features regulars from the #jquery IRC channel talking about their experiences with jQuery and front-end development. Each podcast includes news from the front-end development community, jQuery patterns and anti-patterns, and more.
+			
+			The yayQuery hosts (Paul Irish, Rebecca Murphey, Alex Sexton and Adam J. Sontag) have years of experience being neck-deep in their own jQuery development, as well as providing support and training to the community. The podcast tries to capture one of our favorite pastimes: hanging out at a bar and talking code.
+			
+			 Call 443-4YAYQUERY to leave questions and comments!</itunes:summary>
 		<itunes:owner>
 			<itunes:name>Rebecca Murphey</itunes:name>
 			<itunes:email>rmurphey@gmail.com</itunes:email>
@@ -24,11 +28,27 @@
 
 		<itunes:category text="Technology"/>
 		<item>
+			<title>Episode 4: I Once Mixed Sprite and Cappuicino, It Was Disgusting</title>
+			<link>http://yayquery.com</link>
+			<guid>http://cdn.yayquery.com/ep/4/yayquery_4.mp3</guid>
+			<description>With Rebecca on the disabled list, the yayQuery team overcomes adversity by talking about LABjs, the new asynchronous JavaScript loader on the scene. This leads to a rousing discussion of improving front-end perfromance with new image spriting techniques. And then: moar performance with your favorite segment, Hidden Performance Anti-Pattern for Beginners ... err, wait. It's all there for the taking in this the fifth episode of yayQuery. Now with a party line!  </description>
+			<enclosure url="http://cdn.yayquery.com/ep/4/yayquery_4.mp3" type="audio/mp3" length="41293487"/>
+			<category>Technology</category>
+			<pubDate>Thu, 3 Dec 2009 12:00:00 -0500</pubDate>
+			<itunes:author>Paul Irish, Rebecca Murphey, Alex Sexton, Adam J Sontag</itunes:author>
+			<itunes:explicit>Yes</itunes:explicit>
+			<itunes:summary>With Rebecca on the disabled list, the yayQuery team overcomes adversity by talking about LABjs, the new asynchronous JavaScript loader on the scene. This leads to a rousing discussion of improving front-end perfromance with new image spriting techniques. And then: moar performance with your favorite segment, Hidden Performance Anti-Pattern for Beginners ... err, wait. It's all there for the taking in this the fifth episode of yayQuery. Now with a party line!  </itunes:summary>
+			<itunes:duration>00:38:00</itunes:duration>
+			<itunes:keywords>jQuery, front end development, web development, javascript</itunes:keywords>
+		</item>
+
+
+		<item>
 			<title>Episode 3: $("#turkey").contents() === new Stuffing();</title>
 			<link>http://yayquery.com</link>
 			<guid>http://cdn.yayquery.com/ep/3/yayquery_3.mp3</guid>
 			<description>In a very special thanksgiving episode of yayQuery the gang talks on the hottest conference on the block and the best new seating themed storage implementation. Eat your leftover turkey and pumpkin pie while you get learned by special guest Mike Taylor on everybody's favorite HTML5 input information. There's a plugin that we think is the best for this week along with your favorite segments hidden or unhidden. On top of all that, we made you a new plugin! Hapy Hapy Thanksgiving (or just hapy day to the non-americans).</description>
-			<enclosure url="http://cdn.yayquery.com/ep/3/yayquery_3.mp3" type="video/mp4" length="35784508"/>
+			<enclosure url="http://cdn.yayquery.com/ep/3/yayquery_3.mp3" type="audio/mp3" length="35784508"/>
 			<category>Technology</category>
 			<pubDate>Fri, 27 Nov 2009 12:00:00 -0500</pubDate>
 			<itunes:author>Paul Irish, Rebecca Murphey, Alex Sexton, Adam J Sontag</itunes:author>
