@@ -55,8 +55,8 @@
 
 <ul class="videos">
 		    <li class="left"> 
-					<h2><span class="epnum">Episode 4</span> | </h2> 
-					<img width="360" height="240" src="http://cdn.yayquery.com/ep/4/yayquery_4.png" alt="Episode 4" rel="2" class="clickvid" />
+					<h2><span class="epnum">Episode 4</span> | I Once Mixed Sprite and Cappuccino, It Was Disgusting</h2> 
+					<img width="360" height="240" src="http://cdn.yayquery.com/ep/4/yayquery_4.png" alt="Episode 4" rel="4" class="clickvid" />
 					<div class="description"> 
 					    <p>With Rebecca on the disabled list, the yayQuery team overcomes adversity by talking about LABjs, the new
 					    asynchronous JavaScript loader on the scene. This leads to a rousing discussion of improving front-end perfromance
@@ -76,7 +76,7 @@
 							    <li><a href="http://labjs.com/">LABjs</a> | <a href="http://www.nczonline.net/blog/2009/07/28/the-best-way-to-load-external-javascript/">Loading external JS</a></li>
 							    <li><a href="http://cappuccino.org/discuss/2009/11/11/just-one-file-with-cappuccino-0-8/">Cappuccino Base64</a> | <a href="http://www.stevesouders.com/blog/2009/11/16/cssembed-automatically-data-uri-ize/">CSS Embed</a></li>
 							    <li><a href="http://www.ravelrumba.com/">ravelrumba Blog</a></li>
-							    <li><a href="http://typerendering.com/">Type Rendering Project</a> | <a href="http://www.useragentman.com/blog/2009/11/29/how-to-detect-font-smoothing-using-javascript/">Detect Font-smoothing w/ JS</a></li>
+							    <li><a href="http://typerendering.com/">Type Rendering Project</a> | <a href="http://www.useragentman.com/blog/2009/11/29/how-to-detect-font-smoothing-using-javascript/">Detect Font-smoothing</a></li>
 							    <li><a href="http://github.com/collin/jabs">JABS: JS Abstract Behavior Syntax</a></li>
 							    <li><a href="http://ejohn.org/apps/jquery2/">jQuery&sup2;</a> | <a href="http://code.google.com/p/zen-coding/">Zen Coding</a> | <a href="http://github.com/jamespadolsey/satisfy">Satisfy</a></li>
 							    <li><a href="https://twitter.com/AustinJs">AustinJS on Twitter</a></li>
@@ -84,10 +84,11 @@
 							    <li><a href="http://jqueryui.pbworks.com/">jQuery UI Wiki</a> | <a href="http://jqueryui.pbworks.com/jQuery-UI-CSS-Framework">CSS Framework</a></li>
 							    <li><a href="http://bassistance.de/jquery-plugins/jquery-plugin-autocomplete/">Bassistance: Autocomplete Plugin</a></li>
 							    <li><a href="http://paulirish.com/2008/jquery-doonce-plugin-for-chaining-addicts/">doOnce Plugin (for chaining addicts)</a></li>
+							    <li><a href="http://www.twilightthemovie.com/">Twilight: New Moon</a></li>
 						</ul>
 					    </div> 
 					</div> 
-					<img class="cohitre" src="http://cdn.yayquery.com/site/images/cohitre_4.jpg" alt="Please dont feed ajpiano." width="229" height="259" /> 
+					<img class="cohitre" src="http://cdn.yayquery.com/site/images/cohitre_4b.jpg" alt="Please dont feed ajpiano." width="332" height="232" /> 
 		    </li>    
 </ul>
 
@@ -292,6 +293,12 @@ $(function(){
 	    vimeo : 'http://vimeo.com/moogaloop.swf?clip_id=7857780&amp;server=vimeo.com&amp;show_title=1&amp;show_byline=1&amp;show_portrait=1&amp;color=FF7700&amp;fullscreen=1',
 	    ogv   : 'http://cdn.yayquery.com/ep/3/yayquery_3.ogv',
 	    mp4   : 'http://cdn.yayquery.com/ep/3/yayquery_3.mp4'
+	},
+	{
+	    poster: 'http://cdn.yayquery.com/ep/4/yayquery_4.png',
+	    vimeo : 'http://vimeo.com/moogaloop.swf?clip_id=XXXX&amp;server=vimeo.com&amp;show_title=1&amp;show_byline=1&amp;show_portrait=1&amp;color=FF7700&amp;fullscreen=1',
+	    ogv   : 'http://cdn.yayquery.com/ep/4/yayquery_4.ogv',
+	    mp4   : 'http://cdn.yayquery.com/ep/4/yayquery_4.mp4'
 	}
     ];
     
