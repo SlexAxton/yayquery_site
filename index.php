@@ -296,7 +296,7 @@ $(function(){
 	},
 	{
 	    poster: 'http://cdn.yayquery.com/ep/4/yayquery_4.png',
-	    vimeo : 'http://vimeo.com/moogaloop.swf?clip_id=XXXX&amp;server=vimeo.com&amp;show_title=1&amp;show_byline=1&amp;show_portrait=1&amp;color=FF7700&amp;fullscreen=1',
+	    vimeo : 'http://vimeo.com/moogaloop.swf?clip_id=7966430&amp;server=vimeo.com&amp;show_title=1&amp;show_byline=1&amp;show_portrait=1&amp;color=FF7700&amp;fullscreen=1',
 	    ogv   : 'http://cdn.yayquery.com/ep/4/yayquery_4.ogv',
 	    mp4   : 'http://cdn.yayquery.com/ep/4/yayquery_4.mp4'
 	}
