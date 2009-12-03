@@ -73,17 +73,12 @@
 						<ul class="showlinks">
 							    <li><a href="http://www.amazon.com/gp/product/0596159773?ie=UTF8&tag=aurgasm-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0596159773">jQuery Cookbook</a></li>
 							    <li><a href="http://conservancy.softwarefreedom.org/news/2009/nov/30/jQuery-joins/">jQuery Software Freedom Conservancy</a></li>
-							    <li><a href="http://labjs.com/">LABjs</a></li>
-							    <li><a href="http://www.nczonline.net/blog/2009/07/28/the-best-way-to-load-external-javascript/">Loading external JS</a></li>
-							    <li><a href="http://cappuccino.org/discuss/2009/11/11/just-one-file-with-cappuccino-0-8/">Cappuccino Base64</a></li>
-							    <li><a href="http://www.stevesouders.com/blog/2009/11/16/cssembed-automatically-data-uri-ize/">CSS Embed</a></li>
+							    <li><a href="http://labjs.com/">LABjs</a> | <a href="http://www.nczonline.net/blog/2009/07/28/the-best-way-to-load-external-javascript/">Loading external JS</a></li>
+							    <li><a href="http://cappuccino.org/discuss/2009/11/11/just-one-file-with-cappuccino-0-8/">Cappuccino Base64</a> | <a href="http://www.stevesouders.com/blog/2009/11/16/cssembed-automatically-data-uri-ize/">CSS Embed</a></li>
 							    <li><a href="http://www.ravelrumba.com/">ravelrumba Blog</a></li>
-							    <li><a href="http://typerendering.com/">Type Rendering Project</a></li>
-							    <li><a href="http://www.useragentman.com/blog/2009/11/29/how-to-detect-font-smoothing-using-javascript/">Detect Font-smoothing w/ JS</a></li>
+							    <li><a href="http://typerendering.com/">Type Rendering Project</a> | <a href="http://www.useragentman.com/blog/2009/11/29/how-to-detect-font-smoothing-using-javascript/">Detect Font-smoothing w/ JS</a></li>
 							    <li><a href="http://github.com/collin/jabs">JABS: JS Abstract Behavior Syntax</a></li>
-							    <li><a href="http://ejohn.org/apps/jquery2/">jQuery&sup2;</a></li>
-							    <li><a href="http://code.google.com/p/zen-coding/">Zen Coding</a></li>
-							    <li><a href="http://github.com/jamespadolsey/satisfy">Satisfy</a></li>
+							    <li><a href="http://ejohn.org/apps/jquery2/">jQuery&sup2;</a> | <a href="http://code.google.com/p/zen-coding/">Zen Coding</a> | <a href="http://github.com/jamespadolsey/satisfy">Satisfy</a></li>
 							    <li><a href="https://twitter.com/AustinJs">AustinJS on Twitter</a></li>
 							    <li><a href="http://andrewdupont.net/demo/scripty2/test/functional/">Scripty2 Functional Tests</a></li>
 							    <li><a href="http://jqueryui.pbworks.com/">jQuery UI Wiki</a> | <a href="http://jqueryui.pbworks.com/jQuery-UI-CSS-Framework">CSS Framework</a></li>
