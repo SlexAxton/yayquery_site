@@ -28,7 +28,7 @@
 
 		<itunes:category text="Technology"/>
 		<item>
-			<title>Episode 4: I Once Mixed Sprite and Cappuicino, It Was Disgusting</title>
+			<title>Episode 4: I Once Mixed Sprite and Cappuccino, It Was Disgusting</title>
 			<link>http://yayquery.com</link>
 			<guid>http://cdn.yayquery.com/ep/4/yayquery_4.mp3</guid>
 			<description>With Rebecca on the disabled list, the yayQuery team overcomes adversity by talking about LABjs, the new asynchronous JavaScript loader on the scene. This leads to a rousing discussion of improving front-end perfromance with new image spriting techniques. And then: moar performance with your favorite segment, Hidden Performance Anti-Pattern for Beginners ... err, wait. It's all there for the taking in this the fifth episode of yayQuery. Now with a party line!  </description>
