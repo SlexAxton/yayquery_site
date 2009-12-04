@@ -248,7 +248,7 @@
 
 <footer>
 <div id="footer">
-    Theme music by <a href="http://thewikies.com/" title="Pure Genius">Jonathan Neal</a><br />
+    Theme music by <a href="http://www.youtube.com/watch?v=2NE9O8hTvfI" title="Pure Genius" alt="http://thewikies.com/">Jonathan Neal</a><br />
     Original artwork by <a href="http://cohitre.com/" title="Cohitre :) You"><img src="http://cdn.yayquery.com/site/images/cohitre-32.png" alt="Cohitre :) You" width="32" height="32" /></a><br />
 </div>
 </footer>
