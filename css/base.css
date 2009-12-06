@@ -121,12 +121,13 @@ a {
 	    
 	    
 	    .videos li h2 {
-	        font-family: 'ChunkFiveRegular', Rockwell, 'Century Schoolbook', serif; font-weight:bold; 
+	        font-family: 'ChunkFiveRegular', Rockwell, 'Century Schoolbook', Clarendon, 'Courier', serif; font-weight:bold; 
 	        line-height:50px;
 	        	height:50px;
 	        		background-repeat:no-repeat;
 		background-position:top left;
 				font-size:24px;
+				font-weight:normal;
 	    }
 	    
 	    .videos li.right h2 {
@@ -179,7 +180,7 @@ background-position:top right;
 		display:block;
 		width:360px;
 		height:240px;
-		margin-left:4px;
+		margin-left:2px;
 	    }
 	    .videos li.left .description {
 		width:505px;
@@ -216,13 +217,16 @@ background-position:top right;
           cursor:pointer;
         }
 #footer {
+    background-color:#007CF8;
     color:#CCCCCC;
     font-size:11px;
+    left:50%;
     line-height:40px;
-    width:890px;
-    margin:40px auto;
+    margin:40px auto 40px -265px;
     padding:10px;
-    background-color:#007CF8;
+    position:absolute;
+    text-align:center;
+    width:530px;
 }
 
 

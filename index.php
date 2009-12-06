@@ -248,8 +248,9 @@
 
 <footer>
 <div id="footer">
-    Theme music by <a href="http://www.youtube.com/watch?v=2NE9O8hTvfI" title="Pure Genius" alt="http://thewikies.com/">Jonathan Neal</a><br />
+    Theme music by the illustrious <a href="http://www.youtube.com/watch?v=2NE9O8hTvfI" title="Pure Genius" alt="http://thewikies.com/">Jonathan Neal</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     Original artwork by <a href="http://cohitre.com/" title="Cohitre :) You"><img src="http://cdn.yayquery.com/site/images/cohitre-32.png" alt="Cohitre :) You" width="32" height="32" /></a><br />
+    All video, audio, text, links and happiness is licensed under <a href="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0</a>.
 </div>
 </footer>
 
@@ -259,12 +260,15 @@
 $(function(){
     function createVideo(videos, index) {
 	var video       =   videos[index],
-	    vidtemplate =   '<video width="360" height="240" poster="'+video.poster+'" controls autobuffer autoplay>' +
+	    swfurl = 'http://vimeo.com/moogaloop.swf?clip_id={id}&amp;server=vimeo.com&amp;show_title=1&amp;show_byline=1&amp;show_portrait=1&amp;color=00adef&amp;fullscreen=1&autoplay=1';
+	    
+	    video.vimeo =    swfurl.replace('{id}',videos[index].vimeo);
+	var vidtemplate =   '<video width="360" height="240" poster="'+video.poster+'" controls autobuffer autoplay>' +
 			    '<source src="'+video.ogv+'" type=\'video/ogg; codecs="theora, vorbis"\'></source>' +
 			    '<source src="'+video.mp4+'" type=\'video/mp4; codecs="avc1.42E01E, mp4a.40.2"\'></source>' +
 			    '<object width="360" height="240"><param name="allowfullscreen" value="true" /><param name="allowscriptaccess" value="always" />' +
 			    '<param name="movie" value="'+video.vimeo+'&autoplay=1" />' +
-			    '<embed src="'+video.vimeo+'&autoplay=1" type="application/x-shockwave-flash" allowfullscreen="true" allowscriptaccess="always" width="360" height="240">' +
+			    '<embed src="'+video.vimeo+'" type="application/x-shockwave-flash" allowfullscreen="true" allowscriptaccess="always" width="360" height="240">' +
 			    '</embed></object></video>';
 	    return vidtemplate;
     }
@@ -272,31 +276,31 @@ $(function(){
     var videos = [
 	{
 	    poster: 'http://cdn.yayquery.com/ep/0/yayquery_0.png',
-	    vimeo : 'http://vimeo.com/moogaloop.swf?clip_id=7462067&amp;server=vimeo.com&amp;show_title=1&amp;show_byline=1&amp;show_portrait=1&amp;color=00adef&amp;fullscreen=1',
+	    vimeo : 7462067,
 	    ogv   : 'http://cdn.yayquery.com/ep/0/yayquery_0.ogv',
 	    mp4   : 'http://cdn.yayquery.com/ep/0/yayquery_0.mp4'
 	},
 	{
 	    poster: 'http://cdn.yayquery.com/ep/1/yayquery_1.png',
-	    vimeo : 'http://vimeo.com/moogaloop.swf?clip_id=7593252&amp;server=vimeo.com&amp;show_title=1&amp;show_byline=1&amp;show_portrait=0&amp;color=00adef&amp;fullscreen=1',
+	    vimeo : 7593252,
 	    ogv   : 'http://cdn.yayquery.com/ep/1/yayquery_1.ogv',
 	    mp4   : 'http://cdn.yayquery.com/ep/1/yayquery_1.mp4'
 	},
 	{
 	    poster: 'http://cdn.yayquery.com/ep/2/yayquery_poster_2.png',
-	    vimeo : 'http://vimeo.com/moogaloop.swf?clip_id=7709331&amp;server=vimeo.com&amp;show_title=1&amp;show_byline=1&amp;show_portrait=1&amp;color=00adef&amp;fullscreen=1',
+	    vimeo : 7709331,
 	    ogv   : 'http://cdn.yayquery.com/ep/2/yayquery_2.ogv',
 	    mp4   : 'http://cdn.yayquery.com/ep/2/yayquery_2.mp4'
 	},
 	{
 	    poster: 'http://cdn.yayquery.com/ep/3/yayquery_poster_3.png',
-	    vimeo : 'http://vimeo.com/moogaloop.swf?clip_id=7857780&amp;server=vimeo.com&amp;show_title=1&amp;show_byline=1&amp;show_portrait=1&amp;color=00adef&amp;fullscreen=1',
+	    vimeo : 7857780,
 	    ogv   : 'http://cdn.yayquery.com/ep/3/yayquery_3.ogv',
 	    mp4   : 'http://cdn.yayquery.com/ep/3/yayquery_3.mp4'
 	},
 	{
 	    poster: 'http://cdn.yayquery.com/ep/4/yayquery_4.png',
-	    vimeo : 'http://vimeo.com/moogaloop.swf?clip_id=7966430&amp;server=vimeo.com&amp;show_title=1&amp;show_byline=1&amp;show_portrait=1&amp;color=00adef&amp;fullscreen=1',
+	    vimeo : 7966430,
 	    ogv   : 'http://cdn.yayquery.com/ep/4/yayquery_4.ogv',
 	    mp4   : 'http://cdn.yayquery.com/ep/4/yayquery_4.mp4'
 	}
