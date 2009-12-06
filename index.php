@@ -272,61 +272,72 @@ $(function(){
     var videos = [
 	{
 	    poster: 'http://cdn.yayquery.com/ep/0/yayquery_0.png',
-	    vimeo : 'http://vimeo.com/moogaloop.swf?clip_id=7462067&amp;server=vimeo.com&amp;show_title=1&amp;show_byline=1&amp;show_portrait=1&amp;color=FF7700&amp;fullscreen=1',
+	    vimeo : 'http://vimeo.com/moogaloop.swf?clip_id=7462067&amp;server=vimeo.com&amp;show_title=1&amp;show_byline=1&amp;show_portrait=1&amp;color=00adef&amp;fullscreen=1',
 	    ogv   : 'http://cdn.yayquery.com/ep/0/yayquery_0.ogv',
 	    mp4   : 'http://cdn.yayquery.com/ep/0/yayquery_0.mp4'
 	},
 	{
 	    poster: 'http://cdn.yayquery.com/ep/1/yayquery_1.png',
-	    vimeo : 'http://vimeo.com/moogaloop.swf?clip_id=7593252&amp;server=vimeo.com&amp;show_title=1&amp;show_byline=1&amp;show_portrait=0&amp;color=&amp;fullscreen=1',
+	    vimeo : 'http://vimeo.com/moogaloop.swf?clip_id=7593252&amp;server=vimeo.com&amp;show_title=1&amp;show_byline=1&amp;show_portrait=0&amp;color=00adef&amp;fullscreen=1',
 	    ogv   : 'http://cdn.yayquery.com/ep/1/yayquery_1.ogv',
 	    mp4   : 'http://cdn.yayquery.com/ep/1/yayquery_1.mp4'
 	},
 	{
 	    poster: 'http://cdn.yayquery.com/ep/2/yayquery_poster_2.png',
-	    vimeo : 'http://vimeo.com/moogaloop.swf?clip_id=7709331&amp;server=vimeo.com&amp;show_title=1&amp;show_byline=1&amp;show_portrait=1&amp;color=FF7700&amp;fullscreen=1',
+	    vimeo : 'http://vimeo.com/moogaloop.swf?clip_id=7709331&amp;server=vimeo.com&amp;show_title=1&amp;show_byline=1&amp;show_portrait=1&amp;color=00adef&amp;fullscreen=1',
 	    ogv   : 'http://cdn.yayquery.com/ep/2/yayquery_2.ogv',
 	    mp4   : 'http://cdn.yayquery.com/ep/2/yayquery_2.mp4'
 	},
 	{
 	    poster: 'http://cdn.yayquery.com/ep/3/yayquery_poster_3.png',
-	    vimeo : 'http://vimeo.com/moogaloop.swf?clip_id=7857780&amp;server=vimeo.com&amp;show_title=1&amp;show_byline=1&amp;show_portrait=1&amp;color=FF7700&amp;fullscreen=1',
+	    vimeo : 'http://vimeo.com/moogaloop.swf?clip_id=7857780&amp;server=vimeo.com&amp;show_title=1&amp;show_byline=1&amp;show_portrait=1&amp;color=00adef&amp;fullscreen=1',
 	    ogv   : 'http://cdn.yayquery.com/ep/3/yayquery_3.ogv',
 	    mp4   : 'http://cdn.yayquery.com/ep/3/yayquery_3.mp4'
 	},
 	{
 	    poster: 'http://cdn.yayquery.com/ep/4/yayquery_4.png',
-	    vimeo : 'http://vimeo.com/moogaloop.swf?clip_id=7966430&amp;server=vimeo.com&amp;show_title=1&amp;show_byline=1&amp;show_portrait=1&amp;color=FF7700&amp;fullscreen=1',
+	    vimeo : 'http://vimeo.com/moogaloop.swf?clip_id=7966430&amp;server=vimeo.com&amp;show_title=1&amp;show_byline=1&amp;show_portrait=1&amp;color=00adef&amp;fullscreen=1',
 	    ogv   : 'http://cdn.yayquery.com/ep/4/yayquery_4.ogv',
 	    mp4   : 'http://cdn.yayquery.com/ep/4/yayquery_4.mp4'
 	}
     ];
     
     $('.clickvid').live('click', function(e){
-	var vid_id = parseInt($(this).attr('rel'), 10);
-	$(this).replaceWith($(createVideo(videos, vid_id)));
-	return false;
+      	var vid_id = parseInt($(this).attr('rel'), 10);
+      	$(this).replaceWith($(createVideo(videos, vid_id)));
+      	return false;
     });
 });
 
 
 </script>
+
 <script type="text/javascript"> 
-var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-</script> 
-<script type="text/javascript"> 
+
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'UA-11579155-1']);
+_gaq.push(['_trackPageview']);
+_gaq.push(['_setDomainName','none']);
+_gaq.push(['_setAllowLinker','true']);
+
 try {
-var pageTracker = _gat._getTracker("UA-11579155-1");
-pageTracker._setDomainName("none");
-pageTracker._setAllowLinker(true);
-pageTracker._trackPageview();
 var kkeys = [], knm = "38,38,40,40,37,39,37,39,66,65";$(document).keydown(function(e)
 { kkeys.push( e.keyCode );if ( kkeys.toString().indexOf( knm ) >= 0 ){
 $(document).unbind('keydown',arguments.callee);$.getScript('htt'+'p://w'
 +'ww.cor'+'ni'+'fy.c'+'om/js/co'
 +'rni'+'fy.'+'js',function(){cornify_add();$(document).keydown(cornify_add);});}});
-} catch(err) {}</script>
+} catch(err) {}
+
+(function() {
+  var ga = document.createElement('script'),
+      elem = document.head || document.documentElement;   // FUCK YAH UNIMPLEMENTED HTML5 HAWTNESS
+  ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 
+      'http://www') + '.google-analytics.com/ga.js';
+  ga.setAttribute('async', 'true');
+  elem.appendChild(ga);
+})();
+
+</script> 
 
 <!--
 Any bugs/errors that reach this point should be scooped up by this pterodactyl:
