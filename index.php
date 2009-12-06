@@ -2,12 +2,8 @@
 <html> 
 <head> 
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" /> 
-<meta name="DESCRIPTION" content="The yayQuery Podcast is a casual conversation between four developers
-  that covers the interests of the typical front-end developer, specifically one who uses jQuery. About the
-  hosts: From afar when you notice them at jquery conference, they look like the cool kids in high school.
-  They just gather around and make fun of everybody." /> 
+<meta name="description" content="The yayQuery hosts have years of experience being neck-deep in their own jQuery development, as well as providing support and training to the community. The podcast tries to capture one of our favorite conference pastimes -- hanging out at a bar and talking code. About the hosts: From afar when you notice them at jquery conference, they look like the cool kids in high school. They just gather around and make fun of everybody." /> 
 <title>yayQuery Podcast - A jQuery Podcast</title> 
-<link rel="icon" href="favicon.ico" type="image/x-icon" />
 <link rel="shortcut icon" href="favicon.ico" type="image/x-icon" />
 <link rel="alternate" type="application/rss+xml" title="yayQuery RSS Feed" href="http://feeds.feedburner.com/yayQuery" />
 
@@ -249,8 +245,11 @@
 <footer>
 <div id="footer">
     Theme music by the illustrious <a href="http://www.youtube.com/watch?v=2NE9O8hTvfI" title="Pure Genius" alt="http://thewikies.com/">Jonathan Neal</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    Original artwork by <a href="http://cohitre.com/" title="Cohitre :) You"><img src="http://cdn.yayquery.com/site/images/cohitre-32.png" alt="Cohitre :) You" width="32" height="32" /></a><br />
-    All video, audio, text, songs and happiness is licensed under <a href="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0</a>.
+    Original artwork by <a href="http://cohitre.com/" title="Cohitre :) You"><img src="http://cdn.yayquery.com/site/images/cohitre-32.png" alt="Cohitre :) You" width="32" height="32" /></a>
+    
+     <p>yayQuery image assets: <a href="http://yayquery.org/yayQueryLogo.ai">yayQueryLogo.ai</a>, <a href="http://yayquery.org/yayQueryLogo.png">yayQueryLogo.png</a>, <a href="img/yayQueryLogoSquare.png">yayQueryLogoSquare.png</a>.</p>
+    
+    <p>All video, audio, images, songs and happiness is licensed under <a href="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0</a>. Songs are copyright to Jonathan Neal, illustrations to Cohitre.<p>
 </div>
 </footer>
 
