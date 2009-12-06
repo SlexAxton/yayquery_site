@@ -250,7 +250,7 @@
 <div id="footer">
     Theme music by the illustrious <a href="http://www.youtube.com/watch?v=2NE9O8hTvfI" title="Pure Genius" alt="http://thewikies.com/">Jonathan Neal</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     Original artwork by <a href="http://cohitre.com/" title="Cohitre :) You"><img src="http://cdn.yayquery.com/site/images/cohitre-32.png" alt="Cohitre :) You" width="32" height="32" /></a><br />
-    All video, audio, text, links and happiness is licensed under <a href="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0</a>.
+    All video, audio, text, songs and happiness is licensed under <a href="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0</a>.
 </div>
 </footer>
 
