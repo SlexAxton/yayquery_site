@@ -2,7 +2,7 @@
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
 	<channel>
 		<title>yayQuery</title>
-		<description>A free-ranging discussion of jQuery and front-end development topics.</description>
+		<description>The yayQuery hosts have years of experience being neck-deep in their own jQuery development, as well as providing support and training to the community. The podcast tries to capture one of our favorite conference pastimes -- hanging out at a bar and talking code. About the hosts: From afar when you notice them at jquery conference, they look like the cool kids in high school. They just gather around and make fun of everybody.</description>
 		<link>http://www.yayQuery.com</link>
 		<language>en-us</language>
 		<copyright>Copyright 2009</copyright>
@@ -12,11 +12,8 @@
 		<webMaster>rmurphey@gmail.com</webMaster>
 		<itunes:author>yayQuery</itunes:author>
 		<itunes:subtitle>yayQuery is a weekly video podcast for jQuery users and front-end developers</itunes:subtitle>
-		<itunes:summary>yayQuery features regulars from the #jquery IRC channel talking about their experiences with jQuery and front-end development. Each podcast includes news from the front-end development community, jQuery patterns and anti-patterns, and more.
-			
-			The yayQuery hosts (Paul Irish, Rebecca Murphey, Alex Sexton and Adam J. Sontag) have years of experience being neck-deep in their own jQuery development, as well as providing support and training to the community. The podcast tries to capture one of our favorite pastimes: hanging out at a bar and talking code.
-			
-			Call 443-4YAYQUERY to leave questions and comments!</itunes:summary>		<itunes:owner>
+		<itunes:summary>The yayQuery hosts have years of experience being neck-deep in their own jQuery development, as well as providing support and training to the community. The podcast tries to capture one of our favorite conference pastimes -- hanging out at a bar and talking code. About the hosts: From afar when you notice them at jquery conference, they look like the cool kids in high school. They just gather around and make fun of everybody. Call 443-4YAYQUERY to leave questions and comments!</itunes:summary>		
+		<itunes:owner>
 			<itunes:name>Rebecca Murphey</itunes:name>
 			<itunes:email>rmurphey@gmail.com</itunes:email>
 		</itunes:owner>
