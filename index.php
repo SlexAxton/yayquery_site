@@ -7,7 +7,7 @@
 <link rel="shortcut icon" href="favicon.ico" type="image/x-icon" />
 <link rel="alternate" type="application/rss+xml" title="yayQuery RSS Feed" href="http://feeds.feedburner.com/yayQuery" />
 <link rel="alternate" type="application/rss+xml" title="yayQuery RSS Feed (Audio Only)" href="http://feeds.feedburner.com/yayQuery_audio" />
-
+<!--[if IE]> <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script> <![endif]--> 
 <link type="text/css" rel="stylesheet" media="all" href="css/base.css" /> 
 </head> 
 <body>
