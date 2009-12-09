@@ -11,9 +11,7 @@
 <link type="text/css" rel="stylesheet" media="all" href="css/base.css" /> 
 </head> 
 <body>
-
-
-<!--
+<!--[if IE]>
                     ________               
                  .##@@&&&@@##.             
               ,##@&::%&&%%::&@##.          
@@ -31,9 +29,7 @@
     |           |             (   .'|'.   )
     \           /              '-'  |  '-' 
      `=========`                           
--->
- 
-
+<![endif]-->
     
     
     
