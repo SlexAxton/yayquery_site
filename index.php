@@ -254,8 +254,8 @@
 </div>
 </footer>
 
- 
-<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js" type="text/javascript"></script>
+<!-- we use the method described here: http://groups.google.com/group/jquery-dev/msg/164e637366442210 to get "undocumented jQuery event handling" -->
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js" jquery="1.3.2" type="text/javascript"></script>
 <script type="text/javascript">
 $(function(){
     function createVideo(videos, index) {
