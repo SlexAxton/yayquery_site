@@ -50,7 +50,7 @@
 					<h2>More like jQuery 1.MORE, Am I Right?! | <span class="epnum">Episode 5</span></h2> 
 					<img width="360" height="240" src="http://cdn.yayquery.com/ep/5/yayquery_5.png" alt="Episode 5" rel="5" class="clickvid" />
 					<div class="description"> 
-					    <p></p> 
+					    <p>The team is back at full strength to bring you a complete roundup of all the new features in the hot, fresh jQuery 1.4 alpha.  From hiddenhancements to just plain awesome ones, we'll let you know exactly what to expect from the upcoming release.  Of course, we've got the latest haps from the world of front-end dev, so add a little Yay to your day, today!</p> 
 					</div> 
 					<div class="shownotes"> 
 					    <div class="download"> 
