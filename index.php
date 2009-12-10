@@ -50,7 +50,7 @@
 					<h2>More like jQuery 1.MORE, Am I Right?! | <span class="epnum">Episode 5</span></h2> 
 					<img width="360" height="240" src="http://cdn.yayquery.com/ep/5/yayquery_5.png" alt="Episode 5" rel="5" class="clickvid" />
 					<div class="description"> 
-					    <p>The team is back at full strength to bring you a complete roundup of all the new features in the hot, fresh jQuery 1.4 alpha.  From hiddenhancements to just plain awesome ones, we'll let you know exactly what to expect from the upcoming release.  Of course, we've got the latest haps from the world of front-end dev, so add a little Yay to your day, today!</p> 
+					    <p>The team is back at full strength to bring you a complete roundup of the hot, fresh jQuery 1.4 alpha in this bonus-sized installment!  From hiddenhancements to just plain awesome ones, we'll let you know exactly what to expect from the upcoming release. Of course, we've got the latest haps from the world of front-end dev, so add a little Yay to your day, today!</p> 
 					</div> 
 					<div class="shownotes"> 
 					    <div class="download"> 
@@ -59,26 +59,26 @@
 						<strong>Audio:</strong> <a href="http://cdn.yayquery.com/ep/5/yayquery_5.mp3">MP3</a> (35mb)
 						<h4>Show Links</h4>
 						<ul class="showlinks">
-<li><a href="http://github.com/jquery/jquery/tree/1.4a1">jQuery 1.4 Alpha 1</a></li>
-<li><a href="http://etherpad.com/">Etherpad</a></li>
-<li><a href="http://ajaxian.com/archives/es5-is-an-ecma-standard">ECMA 5</a></li>
-<li><a href="http://blog.jquery.com/2009/12/03/jquery-wins-net-magazine-award/">jQuery wins .net Magazine Award</a></li>
-<li><a href="http://docs.dojocampus.org/releasenotes/1.4#dojo-nodelist-traverse-and-dojo-nodelist-manipulate">Dojo 1.4 Nodelist</a></li>
-<li><a href="http://code.google.com/apis/analytics/docs/tracking/asyncTracking.html">Google Analytics async</a></li>
-<li><a href="http://www.modernizr.com/">Modernizr 1.1 released</a></li>
-<li><a href="http://diveintohtml5.org/">Dive Into HTML5</a></li>
-<li><a href="http://objectlateral.com/">ObjectLateral.js</a></li>
-<li><a href="http://wantsforchristmas.com/">WantsforChristmas</a></li>
-<li><a href="http://blog.jquery.com/2009/12/04/the-official-jquery-podcast-episode-3-paul-irish/">jQuery Podcast #3</a></li>
-<li><a href="http://www.slideshare.net/jeresig/state-of-jquery-09">State of jQuery '09 (Slide #23)</a></li>
-<li><a href="http://dev.jquery.com/report/34">40% more tickets closed for 1.4 vs 1.3</a></li>
-<li><a href="http://benalman.com/projects/jquery-bbq-plugin/">jQuery BBQ</a></li>
-<li><a href="http://benalman.com/projects/jquery-untils-plugin/">jQuery Untils</a></li>
-<li><a href="http://github.com/yayquery/jquery-singalong">yayQuery BouncingBall</a></li>
+                            <li><a href="http://github.com/jquery/jquery/tree/1.4a1">jQuery 1.4 Alpha 1</a></li>
+                            <li><a href="http://etherpad.com/">Etherpad</a></li>
+                            <li><a href="http://ajaxian.com/archives/es5-is-an-ecma-standard">ECMA 5</a></li>
+                            <li><a href="http://blog.jquery.com/2009/12/03/jquery-wins-net-magazine-award/">jQuery wins .net Magazine Award</a></li>
+                            <li><a href="http://docs.dojocampus.org/releasenotes/1.4#dojo-nodelist-traverse-and-dojo-nodelist-manipulate">Dojo 1.4 Nodelist</a></li>
+                            <li><a href="http://code.google.com/apis/analytics/docs/tracking/asyncTracking.html">Google Analytics async</a></li>
+                            <li><a href="http://www.modernizr.com/">Modernizr 1.1 released</a></li>
+                            <li><a href="http://diveintohtml5.org/">Dive Into HTML5</a></li>
+                            <li><a href="http://objectlateral.com/">ObjectLateral.js</a></li>
+                            <li><a href="http://wantsforchristmas.com/">WantsforChristmas</a></li>
+                            <li><a href="http://blog.jquery.com/2009/12/04/the-official-jquery-podcast-episode-3-paul-irish/">jQuery Podcast #3</a></li>
+                            <li><a href="http://www.slideshare.net/jeresig/state-of-jquery-09">State of jQuery '09 (Slide #23)</a></li>
+                            <li><a href="http://dev.jquery.com/report/34">40% more tickets closed for 1.4 vs 1.3</a></li>
+                            <li><a href="http://benalman.com/projects/jquery-bbq-plugin/">jQuery BBQ</a></li>
+                            <li><a href="http://benalman.com/projects/jquery-untils-plugin/">jQuery Untils</a></li>
+                            <li><a href="http://github.com/yayquery/jquery-singalong">yayQuery BouncingBall</a></li>
 						</ul>
 					    </div> 
 					</div> 
-					<img class="cohitre" src="http://cdn.yayquery.com/site/images/cohitre_3.jpg" alt="Please dont feed ajpiano." width="329" height="256" /> 
+					<img class="cohitre" src="http://cdn.yayquery.com/site/images/cohitre_5.jpg" alt="Please dont feed ajpiano." width="329" height="256" /> 
 		    </li>
 </ul>
 
