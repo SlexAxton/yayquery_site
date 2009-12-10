@@ -65,16 +65,12 @@
                             <li><a href="http://blog.jquery.com/2009/12/03/jquery-wins-net-magazine-award/">jQuery wins .net Magazine Award</a></li>
                             <li><a href="http://docs.dojocampus.org/releasenotes/1.4#dojo-nodelist-traverse-and-dojo-nodelist-manipulate">Dojo 1.4 Nodelist</a></li>
                             <li><a href="http://code.google.com/apis/analytics/docs/tracking/asyncTracking.html">Google Analytics async</a></li>
-                            <li><a href="http://www.modernizr.com/">Modernizr 1.1 released</a></li>
-                            <li><a href="http://diveintohtml5.org/">Dive Into HTML5</a></li>
-                            <li><a href="http://objectlateral.com/">ObjectLateral.js</a></li>
-                            <li><a href="http://wantsforchristmas.com/">WantsforChristmas</a></li>
+                            <li><a href="http://www.modernizr.com/">Modernizr 1.1 released</a> | <a href="http://diveintohtml5.org/">Dive Into HTML5</a></li>
+                            <li><a href="http://objectlateral.com/">ObjectLateral.js</a> | <a href="http://wantsforchristmas.com/">WantsforChristmas</a></li>
                             <li><a href="http://blog.jquery.com/2009/12/04/the-official-jquery-podcast-episode-3-paul-irish/">jQuery Podcast #3</a></li>
                             <li><a href="http://www.slideshare.net/jeresig/state-of-jquery-09">State of jQuery '09 (Slide #23)</a></li>
                             <li><a href="http://dev.jquery.com/report/34">40% more tickets closed for 1.4 vs 1.3</a></li>
-                            <li><a href="http://benalman.com/projects/jquery-bbq-plugin/">jQuery BBQ</a></li>
-                            <li><a href="http://benalman.com/projects/jquery-untils-plugin/">jQuery Untils</a></li>
-                            <li><a href="http://github.com/yayquery/jquery-singalong">yayQuery BouncingBall</a></li>
+                            <li><a href="http://benalman.com/projects/jquery-bbq-plugin/">jQuery BBQ</a> | <a href="http://benalman.com/projects/jquery-untils-plugin/">jQuery Untils</a></li>
 						</ul>
 					    </div> 
 					</div> 
