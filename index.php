@@ -276,7 +276,8 @@
 <div id="footer">
     Theme music by the illustrious <a href="http://www.youtube.com/watch?v=2NE9O8hTvfI" title="Pure Genius" alt="http://thewikies.com/">Jonathan Neal</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     Original artwork by <a href="http://cohitre.com/" title="Cohitre :) You"><img src="http://cdn.yayquery.com/site/images/cohitre-32.png" alt="Cohitre :) You" width="32" height="32" /></a>
-    
+<br />
+Special thanks to <a href="http://twitter.com/peolanha">Andrée Hansson</a> for link farming for us. <3z.
      <p>yayQuery image assets: <a href="http://yayquery.org/yayQueryLogo.ai">yayQueryLogo.ai</a>, <a href="http://yayquery.org/yayQueryLogo.png">yayQueryLogo.png</a>, <a href="img/yayQueryLogoSquare.png">yayQueryLogoSquare.png</a>.</p>
     
     <p>All video, audio, images, songs and happiness is licensed under <a href="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0</a>. Songs are copyright to Jonathan Neal, illustrations to Cohitre.<p>
