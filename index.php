@@ -54,9 +54,9 @@
 					</div> 
 					<div class="shownotes"> 
 					    <div class="download"> 
-						<strong>Video:</strong> <a href="http://cdn.yayquery.com/ep/5/yayquery_5.ogv">OGV</a> (149mb) | <a href="http://cdn.yayquery.com/ep/5/yayquery_5.mp4">MP4</a> (107mb)
+						<strong>Video:</strong> <a href="http://cdn.yayquery.com/ep/5/yayquery_5.ogv">OGV</a> (172mb) | <a href="http://cdn.yayquery.com/ep/5/yayquery_5.mp4">MP4</a> (122mb)
 						<br /> 
-						<strong>Audio:</strong> <a href="http://cdn.yayquery.com/ep/5/yayquery_5.mp3">MP3</a> (35mb)
+						<strong>Audio:</strong> <a href="http://cdn.yayquery.com/ep/5/yayquery_5.mp3">MP3</a> (48mb)
 						<h4>Show Links</h4>
 						<ul class="showlinks">
                             <li><a href="http://github.com/jquery/jquery/tree/1.4a1">jQuery 1.4 Alpha 1</a></li>
