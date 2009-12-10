@@ -41,13 +41,13 @@
 			<link>http://yayquery.com</link>
 			<guid>http://cdn.yayquery.com/ep/4/yayquery_4.mp3</guid>
 			<description>With Rebecca on the disabled list, the yayQuery team overcomes adversity by talking about LABjs, the new asynchronous JavaScript loader on the scene. This leads to a rousing discussion of improving front-end perfromance with new image spriting techniques. And then: moar performance with your favorite segment, Hidden Performance Anti-Pattern for Beginners ... err, wait. It's all there for the taking in this the fifth episode of yayQuery. Now with a party line!  </description>
-			<enclosure url="http://cdn.yayquery.com/ep/4/yayquery_4.mp3" type="audio/mp3" length="41293487"/>
+			<enclosure url="http://cdn.yayquery.com/ep/4/yayquery_4.mp3" type="audio/mp3" length="50150641"/>
 			<category>Technology</category>
 			<pubDate>Thu, 3 Dec 2009 12:00:00 -0500</pubDate>
 			<itunes:author>Paul Irish, Rebecca Murphey, Alex Sexton, Adam J Sontag</itunes:author>
 			<itunes:explicit>Yes</itunes:explicit>
 			<itunes:summary>With Rebecca on the disabled list, the yayQuery team overcomes adversity by talking about LABjs, the new asynchronous JavaScript loader on the scene. This leads to a rousing discussion of improving front-end perfromance with new image spriting techniques. And then: moar performance with your favorite segment, Hidden Performance Anti-Pattern for Beginners ... err, wait. It's all there for the taking in this the fifth episode of yayQuery. Now with a party line!  </itunes:summary>
-			<itunes:duration>00:38:00</itunes:duration>
+			<itunes:duration>00:48:28</itunes:duration>
 			<itunes:keywords>jQuery, front end development, web development, javascript</itunes:keywords>
 		</item>
 
