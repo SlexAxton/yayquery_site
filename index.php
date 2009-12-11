@@ -332,7 +332,7 @@ $(function(){
 	},
 	{
 	    poster: 'http://cdn.yayquery.com/ep/5/yayquery_5.png',
-	    vimeo : '',
+	    vimeo : 8107591,
 	    ogv   : 'http://cdn.yayquery.com/ep/5/yayquery_5.ogv',
 	    mp4   : 'http://cdn.yayquery.com/ep/5/yayquery_5.mp4'
 	}
