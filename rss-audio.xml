@@ -26,13 +26,13 @@
 			<title>Episode 6</title>
 			<link>http://yayquery.com</link>
 			<guid>http://cdn.yayquery.com/ep/6/yayquery_6.mp3</guid>
-			<description>The team is back at full strength to bring you a complete roundup of the hot, fresh jQuery 1.4 alpha in this bonus-sized installment!  From hiddenhancements to just plain awesome ones, we'll let you know exactly what to expect from the upcoming release. Of course, we've got the latest haps from the world of front-end dev, so add a little Yay to your day, today!</description>
+			<description>We're playing naughty this week with the debut of nayQuery! Peter Higgins, Dojo Project Lead, joins us for a spirited discussion of the dark side of jQuery.  We'll also get you up to speed on what's going on in the 1.4 alphas and explain why $ is special (because you can buy things with it). After all, Santa's got a lot of coal and he needs to give it to someone!</description>
 			<enclosure url="http://cdn.yayquery.com/ep/6/yayquery_6.mp3" type="audio/mp3" length="45878447"/>
 			<category>Technology</category>
 			<pubDate>Thu, 17 Dec 2009 16:00:00 -0500</pubDate>
 			<itunes:author>Paul Irish, Rebecca Murphey, Alex Sexton, Adam J Sontag</itunes:author>
 			<itunes:explicit>Yes</itunes:explicit>
-			<itunes:summary></itunes:summary>
+			<itunes:summary>We're playing naughty this week with the debut of nayQuery! Peter Higgins, Dojo Project Lead, joins us for a spirited discussion of the dark side of jQuery.  We'll also get you up to speed on what's going on in the 1.4 alphas and explain why $ is special (because you can buy things with it). After all, Santa's got a lot of coal and he needs to give it to someone!</itunes:summary>
 			<itunes:duration>00:43:50</itunes:duration>
 			<itunes:keywords>jQuery, front end development, web development, javascript</itunes:keywords>
 		</item>
