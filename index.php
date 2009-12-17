@@ -52,12 +52,14 @@
 					<div class="description"> 
 					    <p>
 We're playing naughty this week with the debut of nayQuery! Peter Higgins, Dojo Project Lead, joins us for a spirited discussion of the dark side of jQuery.  We'll also get you up to speed on what's going on in the 1.4 alphas and explain why $ is special (because you can buy things with it). After all, Santa's got a lot of coal and he needs to give it to someone!</p> 
+<p style="font-size:10px;">Please forgive our a/v sync issues. We're trying out new ways to get you higher quality podcasts to you and sometimes we're better at javascript than we are at making podcasts.</p>
 					</div> 
 					<div class="shownotes"> 
 					    <div class="download"> 
 						<strong>Video:</strong> <a href="http://cdn.yayquery.com/ep/6/yayquery_6.ogv">OGV</a> (234mb) | <a href="http://cdn.yayquery.com/ep/6/yayquery_6.mp4">MP4</a> (121mb)
 						<br /> 
 						<strong>Audio:</strong> <a href="http://cdn.yayquery.com/ep/6/yayquery_6.mp3">MP3</a> (44mb)
+<br />
 <br />
 <a href="http://vimeo.com/8247540">Watch yayQuery Episode 6 in HD on vimeo</a>
 						<h4>Show Links</h4>
