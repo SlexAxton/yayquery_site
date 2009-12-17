@@ -47,10 +47,11 @@
 
 <ul class="videos">
           <li class="left"> 
-					<h2><span class="epnum">Episode 6</span> | A Whole Lot of Sadness and Anger Too!</h2> 
+					<h2><span class="epnum">Episode 6</span> | Nay is for Norses</h2> 
 					<img width="360" height="240" src="http://cdn.yayquery.com/ep/6/yayquery_6.png" alt="Episode 6" rel="6" class="clickvid" />
 					<div class="description"> 
-					    <p>blurb here</p> 
+					    <p>
+We're playing naughty this week with the debut of nayQuery! Peter Higgins, Dojo Project Lead, joins us for a spirited discussion of the dark side of jQuery.  We'll also get you up to speed on what's going on in the 1.4 alphas and explain why $ is special (because you can buy things with it). After all, Santa's got a lot of coal and he needs to give it to someone!</p> 
 					</div> 
 					<div class="shownotes"> 
 					    <div class="download"> 
@@ -367,7 +368,7 @@ $(function(){
 	},
 	{
 	    poster: 'http://cdn.yayquery.com/ep/6/yayquery_6.png',
-	    vimeo : '',
+	    vimeo : 8247540,
 	    ogv   : 'http://cdn.yayquery.com/ep/6/yayquery_6.ogv',
 	    mp4   : 'http://cdn.yayquery.com/ep/6/yayquery_6.mp4'
 	}

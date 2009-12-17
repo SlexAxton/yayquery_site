@@ -23,20 +23,19 @@
 
 		<itunes:category text="Technology"/>
 		<item>
-			<title>Episode 6</title>
+			<title>Episode 6: Nay is for Norses</title>
 			<link>http://yayquery.com</link>
 			<guid>http://cdn.yayquery.com/ep/6/yayquery_6.mp3</guid>
-			<description>We're playing naughty this week with the debut of nayQuery! Peter Higgins, Dojo Project Lead, joins us for a spirited discussion of the dark side of jQuery.  We'll also get you up to speed on what's going on in the 1.4 alphas and explain why $ is special (because you can buy things with it). After all, Santa's got a lot of coal and he needs to give it to someone!</description>
+			<description>We're playing naughty this week with the debut of nayQuery! Peter Higgins, Dojo Project Lead, joins us for a spirited discussion of the dark side of jQuery. We'll also get you up to speed on what's going on in the 1.4 alphas and explain why $ is special (because you can buy things with it). After all, Santa's got a lot of coal and he needs to give it to someone!</description>
 			<enclosure url="http://cdn.yayquery.com/ep/6/yayquery_6.mp3" type="audio/mp3" length="45878447"/>
 			<category>Technology</category>
 			<pubDate>Thu, 17 Dec 2009 16:00:00 -0500</pubDate>
 			<itunes:author>Paul Irish, Rebecca Murphey, Alex Sexton, Adam J Sontag</itunes:author>
 			<itunes:explicit>Yes</itunes:explicit>
-			<itunes:summary>We're playing naughty this week with the debut of nayQuery! Peter Higgins, Dojo Project Lead, joins us for a spirited discussion of the dark side of jQuery.  We'll also get you up to speed on what's going on in the 1.4 alphas and explain why $ is special (because you can buy things with it). After all, Santa's got a lot of coal and he needs to give it to someone!</itunes:summary>
+			<itunes:summary>We're playing naughty this week with the debut of nayQuery! Peter Higgins, Dojo Project Lead, joins us for a spirited discussion of the dark side of jQuery. We'll also get you up to speed on what's going on in the 1.4 alphas and explain why $ is special (because you can buy things with it). After all, Santa's got a lot of coal and he needs to give it to someone!</itunes:summary>
 			<itunes:duration>00:43:50</itunes:duration>
 			<itunes:keywords>jQuery, front end development, web development, javascript</itunes:keywords>
 		</item>
-
 		<item>
 			<title>Episode 5: ...More Like jQuery 1.MORE, Amirite?!</title>
 			<link>http://yayquery.com</link>
