@@ -52,7 +52,7 @@
 					<div class="description"> 
 					    <p>
 We're playing naughty this week with the debut of nayQuery! Peter Higgins, Dojo Project Lead, joins us for a spirited discussion of the dark side of jQuery.  We'll also get you up to speed on what's going on in the 1.4 alphas and explain why $ is special (because you can buy things with it). After all, Santa's got a lot of coal and he needs to give it to someone!</p> 
-<p style="font-size:10px;color:#CCCCCC;">Please forgive our a/v sync issues. We're trying out new ways to get you higher quality podcasts to you and sometimes we're better at javascript than we are at making podcasts.</p>
+<p style="font-size:10px;color:#CCCCCC;">Please forgive our a/v sync issues. We're trying out new ways to get higher quality podcasts to your faces and sometimes we're better at javascript than we are at making podcasts.</p>
 					</div> 
 					<div class="shownotes"> 
 					    <div class="download"> 
