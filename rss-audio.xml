@@ -7,7 +7,7 @@
 		<language>en-us</language>
 		<copyright>Copyright 2009</copyright>
 
-		<lastBuildDate>Thu, 10 Dec 2009 16:00:00 -0500</lastBuildDate>
+		<lastBuildDate>Thu, 17 Dec 2009 16:00:00 -0500</lastBuildDate>
 		<pubDate>Fri, 06 Nov 2009 11:30:00 -0500</pubDate>
 		<docs>http://blogs.law.harvard.edu/tech/rss</docs>
 		<webMaster>rmurphey@gmail.com</webMaster>
@@ -23,6 +23,21 @@
 
 		<itunes:category text="Technology"/>
 		<item>
+			<title>Episode 6</title>
+			<link>http://yayquery.com</link>
+			<guid>http://cdn.yayquery.com/ep/6/yayquery_6.mp3</guid>
+			<description>The team is back at full strength to bring you a complete roundup of the hot, fresh jQuery 1.4 alpha in this bonus-sized installment!  From hiddenhancements to just plain awesome ones, we'll let you know exactly what to expect from the upcoming release. Of course, we've got the latest haps from the world of front-end dev, so add a little Yay to your day, today!</description>
+			<enclosure url="http://cdn.yayquery.com/ep/6/yayquery_6.mp3" type="audio/mp3" length="45878447"/>
+			<category>Technology</category>
+			<pubDate>Thu, 17 Dec 2009 16:00:00 -0500</pubDate>
+			<itunes:author>Paul Irish, Rebecca Murphey, Alex Sexton, Adam J Sontag</itunes:author>
+			<itunes:explicit>Yes</itunes:explicit>
+			<itunes:summary></itunes:summary>
+			<itunes:duration>00:43:50</itunes:duration>
+			<itunes:keywords>jQuery, front end development, web development, javascript</itunes:keywords>
+		</item>
+
+		<item>
 			<title>Episode 5: ...More Like jQuery 1.MORE, Amirite?!</title>
 			<link>http://yayquery.com</link>
 			<guid>http://cdn.yayquery.com/ep/5/yayquery_5.mp3</guid>
@@ -33,7 +48,7 @@
 			<itunes:author>Paul Irish, Rebecca Murphey, Alex Sexton, Adam J Sontag</itunes:author>
 			<itunes:explicit>Yes</itunes:explicit>
 			<itunes:summary>The team is back at full strength to bring you a complete roundup of the hot, fresh jQuery 1.4 alpha in this bonus-sized installment!  From hiddenhancements to just plain awesome ones, we'll let you know exactly what to expect from the upcoming release. Of course, we've got the latest haps from the world of front-end dev, so add a little Yay to your day, today!</itunes:summary>
-			<itunes:duration>00:38:00</itunes:duration>
+			<itunes:duration>00:48:28</itunes:duration>
 			<itunes:keywords>jQuery, front end development, web development, javascript</itunes:keywords>
 		</item>
 		<item>
@@ -47,7 +62,7 @@
 			<itunes:author>Paul Irish, Rebecca Murphey, Alex Sexton, Adam J Sontag</itunes:author>
 			<itunes:explicit>Yes</itunes:explicit>
 			<itunes:summary>With Rebecca on the disabled list, the yayQuery team overcomes adversity by talking about LABjs, the new asynchronous JavaScript loader on the scene. This leads to a rousing discussion of improving front-end perfromance with new image spriting techniques. And then: moar performance with your favorite segment, Hidden Performance Anti-Pattern for Beginners ... err, wait. It's all there for the taking in this the fifth episode of yayQuery. Now with a party line!  </itunes:summary>
-			<itunes:duration>00:48:28</itunes:duration>
+			<itunes:duration>00:38:00</itunes:duration>
 			<itunes:keywords>jQuery, front end development, web development, javascript</itunes:keywords>
 		</item>
 

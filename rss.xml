@@ -6,7 +6,8 @@
 		<link>http://www.yayQuery.com</link>
 		<language>en-us</language>
 		<copyright>Copyright 2009</copyright>
-		<lastBuildDate>Thu, 10 Dec 2009 16:00:00 -0500</lastBuildDate>
+		
+		<lastBuildDate>Thu, 17 Dec 2009 16:00:00 -0500</lastBuildDate>
 		<pubDate>Fri, 06 Nov 2009 11:30:00 -0500</pubDate>
 		<docs>http://blogs.law.harvard.edu/tech/rss</docs>
 		<webMaster>rmurphey@gmail.com</webMaster>
@@ -20,6 +21,21 @@
 		<itunes:explicit>Yes</itunes:explicit>
 		<itunes:image href="http://yayquery.com/img/yayQueryLogoSquare.png"/>
 		<itunes:category text="Technology"/>
+
+		<item>
+			<title>Episode 6</title>
+			<link>http://yayquery.com</link>
+			<guid>http://cdn.yayquery.com/ep/6/yayquery_6.mp4</guid>
+			<description></description>
+			<enclosure url="http://cdn.yayquery.com/ep/6/yayquery_6.mp4" type="video/mp4" length="127172448"/>
+			<category>Technology</category>
+			<pubDate>Thu, 17 Dec 2009 16:00:00 -0500</pubDate>
+			<itunes:author>Paul Irish, Rebecca Murphey, Alex Sexton, Adam J Sontag</itunes:author>
+			<itunes:explicit>Yes</itunes:explicit>
+			<itunes:summary></itunes:summary>
+			<itunes:duration>00:43:50</itunes:duration>
+			<itunes:keywords>jQuery, front end development, web development, javascript</itunes:keywords>
+		</item>
 
 		<item>
 			<title>Episode 5: ...More Like jQuery 1.MORE, Amirite?!</title>
