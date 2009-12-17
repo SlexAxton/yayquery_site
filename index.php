@@ -61,7 +61,7 @@ We're playing naughty this week with the debut of nayQuery! Peter Higgins, Dojo 
 						<strong>Audio:</strong> <a href="http://cdn.yayquery.com/ep/6/yayquery_6.mp3">MP3</a> (44mb)
 <br />
 <a href="http://vimeo.com/8247540">Watch yayQuery Episode 6 in HD on vimeo</a>
-<br />
+<br /><br />
 						<h4>Show Links</h4>
 						<ul class="showlinks">
 <li><a href="http://dojotoolkit.org/">Dojo Toolkit</a></li>
