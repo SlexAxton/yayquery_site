@@ -1,0 +1,59 @@
+Okay, so you want a sexy page turn like @elliottkember?
+
+This is your chance.
+
+Please note, before you install this, you'll need a few things from jQuery UI.
+jQueryUI 1.5.3 seems to work, but 1.6 doesn't.
+If you're using a custom download, you'll need to add Resizable.
+
+Copy everything in this repository into the /turn/ folder in your public directory.
+
+Now, in your HTML, insert an object like this:
+
+	<img id="target" src="turn/code.png">
+						 ↑
+Take note, it has an ID. This is useful. The object does not have to be an image, but images look awesome.
+For instance, I use a screenshot of my site's HTML code.
+
+If you don't have jQuery and jQueryUI, use these lines as needed in your HTML <head>
+
+	<script type="text/javascript" src="turn/jquery1.3min.js"></script>
+	<script type="text/javascript" src="turn/jqueryui.js"></script>
+
+Then, still in your HTML <head>, put:
+
+	<script type="text/javascript" src="turn/turn.js"></script>
+
+	<script type="text/javascript" src="turn/turn.js"></script>
+	<link rel="stylesheet" type="text/css" href="turn/turn.css">
+
+	<script type="text/javascript">
+		$(document).ready(function(){
+			$( '#target' ).fold();
+		});
+	</script>
+
+And your site should be awesome too.
+
+Now, if you're a clever clogs and look at the code, you'll find this:
+
+	// Default awesomeness
+	var defaults = {
+		directory: 'turn',			// The directory we're in
+	  side: 'left',           // change me to "right" if you want rightness
+		turnImage: 'fold.png',  // The triangle-shaped fold image
+	  maxHeight: 400,					// The maximum height. Duh.
+		startingWidth: 80,			// The height and width 
+		startingHeight: 80			// with which	to start
+	};
+	
+These are the default values, and you can specify them as you see fit in your HTML.
+For instance, if you went like this:
+
+	$(document).ready(function(){
+		$( '#target' ).fold({
+			side: 'right'								// Right! Whoa!
+		});
+	});
+
+You'd get the page turning from the top-right... and that'd be awesome.
