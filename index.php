@@ -46,35 +46,34 @@
 </header>
 
 <ul class="videos">
-          <li class="right"> 
-					<h2>...More Like jQuery 1.MORE, Amirite?! | <span class="epnum">Episode 5</span></h2> 
-					<img width="360" height="240" src="http://cdn.yayquery.com/ep/5/yayquery_5.png" alt="Episode 5" rel="5" class="clickvid" />
+          <li class="left"> 
+					<h2><span class="epnum">Episode 6</span> | A Whole Lot of Sadness and Anger Too!</h2> 
+					<img width="360" height="240" src="http://cdn.yayquery.com/ep/6/yayquery_6.png" alt="Episode 6" rel="6" class="clickvid" />
 					<div class="description"> 
-					    <p>The team is back at full strength to bring you a complete roundup of the hot, fresh jQuery 1.4 alpha in this bonus-sized installment!  From hiddenhancements to just plain awesome ones, we'll let you know exactly what to expect from the upcoming release. Of course, we've got the latest haps from the world of front-end dev, so add a little Yay to your day, today!</p> 
+					    <p>blurb here</p> 
 					</div> 
 					<div class="shownotes"> 
 					    <div class="download"> 
-						<strong>Video:</strong> <a href="http://cdn.yayquery.com/ep/5/yayquery_5.ogv">OGV</a> (172mb) | <a href="http://cdn.yayquery.com/ep/5/yayquery_5.mp4">MP4</a> (122mb)
+						<strong>Video:</strong> <a href="http://cdn.yayquery.com/ep/6/yayquery_6.ogv">OGV</a> (234mb) | <a href="http://cdn.yayquery.com/ep/6/yayquery_6.mp4">MP4</a> (121mb)
 						<br /> 
-						<strong>Audio:</strong> <a href="http://cdn.yayquery.com/ep/5/yayquery_5.mp3">MP3</a> (48mb)
+						<strong>Audio:</strong> <a href="http://cdn.yayquery.com/ep/6/yayquery_6.mp3">MP3</a> (44mb)
 						<h4>Show Links</h4>
 						<ul class="showlinks">
-                            <li><a href="http://github.com/jquery/jquery/tree/1.4a1">jQuery 1.4 Alpha 1</a></li>
-                            <li><a href="http://etherpad.com/">Etherpad</a></li>
-                            <li><a href="http://ajaxian.com/archives/es5-is-an-ecma-standard">ECMA 5</a></li>
-                            <li><a href="http://blog.jquery.com/2009/12/03/jquery-wins-net-magazine-award/">jQuery wins .net Magazine Award</a></li>
-                            <li><a href="http://docs.dojocampus.org/releasenotes/1.4#dojo-nodelist-traverse-and-dojo-nodelist-manipulate">Dojo 1.4 Nodelist</a></li>
-                            <li><a href="http://code.google.com/apis/analytics/docs/tracking/asyncTracking.html">Google Analytics async</a></li>
-                            <li><a href="http://www.modernizr.com/">Modernizr 1.1 released</a> | <a href="http://diveintohtml5.org/">Dive Into HTML5</a></li>
-                            <li><a href="http://objectlateral.com/">ObjectLateral.js</a> by <a href="http://twitter.com/rwaldron">@rwaldron</a> | <a href="http://wantsforchristmas.com/">WantsforChristmas</a></li>
-                            <li><a href="http://blog.jquery.com/2009/12/04/the-official-jquery-podcast-episode-3-paul-irish/">jQuery Podcast #3</a></li>
-                            <li><a href="http://www.slideshare.net/jeresig/state-of-jquery-09">State of jQuery '09 (Slide #23)</a></li>
-                            <li><a href="http://dev.jquery.com/report/34">40% more tickets closed for 1.4 vs 1.3</a></li>
-                            <li><a href="http://benalman.com/projects/jquery-bbq-plugin/">jQuery BBQ</a> | <a href="http://benalman.com/projects/jquery-untils-plugin/">jQuery Untils</a></li>
+<li><a href="http://dojotoolkit.org/">Dojo Toolkit</a></li>
+<li><a href="http://ncjquerycamp2.eventbrite.com/">North Carolina jQuery Camp</a></li>
+<li><a href="http://fixee.org/home/">Fixee - A Next Generation Pastebin</a></li>
+<li><a href="http://cdn.wwtdd.com/wp-content/uploads/2009/12/infphoto_1134807-450x800.jpg">Taylor Swift!!</a></li>
+<li><a href="http://github.com/jquery/jquery/commit/ddb86f8d5bd1bd21b2beeeea55baf505b47dfed5#comments">Curly Braces everywhere in jQuery 1.4</a></li>
+<li><a href="http://download.dojotoolkit.org/release-1.4.0rc2/dojo-release-1.4.0rc2/dojox/jq.js">dojox.jq (direct download)</a></li>
+<li><a href="http://higginsforpresident.net/projects/">$.hitch</a></li>
+<li><a href="http://github.com/jquery/jquery/commit/a5b2940e2d35dfb710131c58dec605ae10909666">$.require()</a></li>
+<li><a href="http://github.com/jquery/jquery/commit/4e27f17007c2329e31b449e61bb31197b90a37f1">jQuery 1.4 .contains/.has</a></li>
+<li><a href="http://easydate.parshap.com/">jQuery EasyDate</a></li>
+<li><a href="http://mootools.net/forge/">MooTools Forge</a></li>
 						</ul>
 					    </div> 
 					</div> 
-					<img class="cohitre" src="http://cdn.yayquery.com/site/images/cohitre_5.jpg" alt="Please dont feed ajpiano." width="329" height="256" /> 
+					<img class="cohitre" src="http://cdn.yayquery.com/site/images/cohitre_6.jpg" alt="Please dont feed ajpiano." width="332" height="232" /> 
 		    </li>
 </ul>
 
@@ -104,6 +103,36 @@
 
 
 <ul class="videos">
+<li class="right"> 
+					<h2>...More Like jQuery 1.MORE, Amirite?! | <span class="epnum">Episode 5</span></h2> 
+					<img width="360" height="240" src="http://cdn.yayquery.com/ep/5/yayquery_5.png" alt="Episode 5" rel="5" class="clickvid" />
+					<div class="description"> 
+					    <p>The team is back at full strength to bring you a complete roundup of the hot, fresh jQuery 1.4 alpha in this bonus-sized installment!  From hiddenhancements to just plain awesome ones, we'll let you know exactly what to expect from the upcoming release. Of course, we've got the latest haps from the world of front-end dev, so add a little Yay to your day, today!</p> 
+					</div> 
+					<div class="shownotes"> 
+					    <div class="download"> 
+						<strong>Video:</strong> <a href="http://cdn.yayquery.com/ep/5/yayquery_5.ogv">OGV</a> (172mb) | <a href="http://cdn.yayquery.com/ep/5/yayquery_5.mp4">MP4</a> (122mb)
+						<br /> 
+						<strong>Audio:</strong> <a href="http://cdn.yayquery.com/ep/5/yayquery_5.mp3">MP3</a> (48mb)
+						<h4>Show Links</h4>
+						<ul class="showlinks">
+                            <li><a href="http://github.com/jquery/jquery/tree/1.4a1">jQuery 1.4 Alpha 1</a></li>
+                            <li><a href="http://etherpad.com/">Etherpad</a></li>
+                            <li><a href="http://ajaxian.com/archives/es5-is-an-ecma-standard">ECMA 5</a></li>
+                            <li><a href="http://blog.jquery.com/2009/12/03/jquery-wins-net-magazine-award/">jQuery wins .net Magazine Award</a></li>
+                            <li><a href="http://docs.dojocampus.org/releasenotes/1.4#dojo-nodelist-traverse-and-dojo-nodelist-manipulate">Dojo 1.4 Nodelist</a></li>
+                            <li><a href="http://code.google.com/apis/analytics/docs/tracking/asyncTracking.html">Google Analytics async</a></li>
+                            <li><a href="http://www.modernizr.com/">Modernizr 1.1 released</a> | <a href="http://diveintohtml5.org/">Dive Into HTML5</a></li>
+                            <li><a href="http://objectlateral.com/">ObjectLateral.js</a> by <a href="http://twitter.com/rwaldron">@rwaldron</a> | <a href="http://wantsforchristmas.com/">WantsforChristmas</a></li>
+                            <li><a href="http://blog.jquery.com/2009/12/04/the-official-jquery-podcast-episode-3-paul-irish/">jQuery Podcast #3</a></li>
+                            <li><a href="http://www.slideshare.net/jeresig/state-of-jquery-09">State of jQuery '09 (Slide #23)</a></li>
+                            <li><a href="http://dev.jquery.com/report/34">40% more tickets closed for 1.4 vs 1.3</a></li>
+                            <li><a href="http://benalman.com/projects/jquery-bbq-plugin/">jQuery BBQ</a> | <a href="http://benalman.com/projects/jquery-untils-plugin/">jQuery Untils</a></li>
+						</ul>
+					    </div> 
+					</div> 
+					<img class="cohitre" src="http://cdn.yayquery.com/site/images/cohitre_5.jpg" alt="Please dont feed ajpiano." width="329" height="256" /> 
+		    </li>
 <li class="left"> 
 					<h2><span class="epnum">Episode 4</span> | I Once Mixed Sprite and Cappuccino, It Was Disgusting</h2> 
 					<img width="360" height="240" src="http://cdn.yayquery.com/ep/4/yayquery_4.png" alt="Episode 4" rel="4" class="clickvid" />
@@ -335,6 +364,12 @@ $(function(){
 	    vimeo : 8107591,
 	    ogv   : 'http://cdn.yayquery.com/ep/5/yayquery_5.ogv',
 	    mp4   : 'http://cdn.yayquery.com/ep/5/yayquery_5.mp4'
+	},
+	{
+	    poster: 'http://cdn.yayquery.com/ep/6/yayquery_6.png',
+	    vimeo : '',
+	    ogv   : 'http://cdn.yayquery.com/ep/6/yayquery_6.ogv',
+	    mp4   : 'http://cdn.yayquery.com/ep/6/yayquery_6.mp4'
 	}
     ];
 
