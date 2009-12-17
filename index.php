@@ -47,7 +47,7 @@
 
 <ul class="videos">
           <li class="left"> 
-					<h2><span class="epnum">Episode 6</span> | A Whole Lot of Sadness and Anger Too!</h2> 
+					<h2><span class="epnum">Episode 6</span> | Nay is for Norses</h2> 
 					<img width="360" height="240" src="http://cdn.yayquery.com/ep/6/yayquery_6.png" alt="Episode 6" rel="6" class="clickvid" />
 					<div class="description"> 
 					    <p>
