@@ -46,10 +46,10 @@
 	right: 0 !important;
 }
 
-#turn_wrapper.right #turn_object * {
+/*#turn_wrapper.right #turn_object * {
 	position: absolute;
 	right: 0 !important;
-}
+}*/
 
 #turn_wrapper #turn_object img#turn_fold {
 	display: block;
@@ -65,21 +65,3 @@
 #turn_wrapper .ui-resizable-handle { position: absolute;font-size: 0.1px;z-index: 99999; display: block; background-image: url(#none)}
 #turn_wrapper .ui-resizable-se { cursor: se-resize; width: 12px; height: 12px; right: 0; bottom: 0; }
 #turn_wrapper .ui-resizable-sw { cursor: sw-resize; width: 12px; height: 12px; left: 0; bottom: 0; }
-
-#target {
-	width: 400px;
-	height: 400px;
-	background-color: #FF0000;
-	padding: 0;
-	margin: 0;
-}
-
-#target * {
-	float: none!important;
-}
-
-#target p{
-	width: 200px;
-	text-align: right;
-	padding: 25px;
-}
