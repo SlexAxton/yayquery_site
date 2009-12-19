@@ -324,12 +324,12 @@ $(function(){
 	    
 	    video.vimeo =    swfurl.replace('{id}',videos[index].vimeo);
 	var vidtemplate =   '<video width="360" height="240" poster="'+video.poster+'" controls autobuffer autoplay>' +
-			    '<source src="'+video.ogv+'" type=\'video/ogg; codecs="theora, vorbis"\'></source>' +
-			    '<source src="'+video.mp4+'" type=\'video/mp4; codecs="avc1.42E01E, mp4a.40.2"\'></source>' +
+			    '<source src="'+video.ogv+'" type=\'video/ogg; codecs="theora, vorbis"\'><\/source>' +
+			    '<source src="'+video.mp4+'" type=\'video/mp4; codecs="avc1.42E01E, mp4a.40.2"\'><\/source>' +
 			    '<object width="360" height="240"><param name="allowfullscreen" value="true" /><param name="allowscriptaccess" value="always" />' +
 			    '<param name="movie" value="'+video.vimeo+'&autoplay=1" />' +
 			    '<embed src="'+video.vimeo+'" type="application/x-shockwave-flash" allowfullscreen="true" allowscriptaccess="always" width="360" height="240">' +
-			    '</embed></object></video>';
+			    '<\/embed><\/object><\/video>';
 	    return vidtemplate;
     }
     
