@@ -19,7 +19,7 @@ $(audio).bind('loadeddata', function (e) {
 	audioOpt.debug && window.console && console.log('Audio is ready');
 	$('#target,#turn_wrapper').css('visibility','visible');
 	audioOpt.isReady = true;
-});
+}).attr('autobuffer','autobuffer')
 
 $(document).ready(function() {
 // Set-up the page fold on our container
