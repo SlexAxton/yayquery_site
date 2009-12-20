@@ -14,11 +14,12 @@ var
 
 $(audio).bind('loadeddata', function (e) {
 	audioOpt.debug && window.console && console.log('Audio is ready');
+	$('#target,#turn_wrapper').css('visibility','visible');
 	audioOpt.isReady = true;
 });
 
 // Set-up the page fold on our container
-$('#target').fold({ side: 'right', autoCurl: true, startingWidth: 180, startingHeight: 180 , maxHeight: 500 });
+$('#target').fold({ side: 'right', autoCurl: true, startingWidth: 80, startingHeight: 80 , maxHeight: 500 });
 
 // #turn_wrapper is a element page-fold script creates
 $('#turn_wrapper').hover(
