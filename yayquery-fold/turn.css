@@ -83,7 +83,7 @@
 	#turn_wrapper, #target { visibility:hidden;}
 	/* */
 	#target p {
-		top: 14px;
+		top: 0px;
 		right: 6px;
 		position: absolute;
 		width: 300px;
@@ -97,12 +97,14 @@
   text-shadow:2px 2px 4px black;
   }
 	p#party-line-no {
-		top: 35px;
+		top: 21px;
 		font-size: 1.7em;
 		text-shadow:2px 2px 9px yellow;
 		width:227px;
 		font-size:31px;
 	}
+	#target .skype { top: 110px; color:yellow; font-size: 10px; }
+	
 	#target img { opacity:0.015; -webkit-transition: opacity 1s linear;}
 	.open #target img { opacity: 1;}
 	.steam { background: url(steam.png) no-repeat -247px -20px; height:232px;

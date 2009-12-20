@@ -10,7 +10,7 @@ var
 		isReady: false,
 		timerIn: null,
 		timerOut: null,
-		fadeStep: 0.10,
+		fadeStep: 0.15,
 		timePerStep: 50,
 		debug: true
 	};
@@ -74,7 +74,7 @@ $('#turn_wrapper').hover(
 					audioOpt.debug && window.console && console.log('fadeout', audioOpt.curVol);
 				}
 				else {
-					audio.currentTime = 0.1;
+					audio.currentTime = 0.001;
 					audio.startTime = 0;
 					audio.pause();
 					audioOpt.timerOut = null;

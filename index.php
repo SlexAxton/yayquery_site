@@ -661,7 +661,7 @@ NMMMNNNNNNDNMNNNDNNNDNNDNNDNNNNN8DDDNNNMMMNNNMNNNNNNNNMI$MNMMMMMMMMMMMMMMMMMMMN8
 	
 	<p class="callus">Call the yayQuery partyline!!</p>
 	<p id="party-line-no">(443)<br/>4YAYQUERY</p>
-
+  <p class="skype">(yayQuery on skype, too)</p>
 
 	<div class="girl1"></div>
 	<div class="girl2"></div>
