@@ -65,3 +65,56 @@
 #turn_wrapper .ui-resizable-handle { position: absolute;font-size: 0.1px;z-index: 99999; display: block; background-image: url(#none)}
 #turn_wrapper .ui-resizable-se { cursor: se-resize; width: 12px; height: 12px; right: 0; bottom: 0; }
 #turn_wrapper .ui-resizable-sw { cursor: sw-resize; width: 12px; height: 12px; left: 0; bottom: 0; }
+
+
+
+
+
+
+	#target {
+		width: 550px;
+		height: 550px;
+		background-color: #FF0000;
+		padding: 0;
+		margin: 0;
+		
+	}
+	/* */
+	#turn_wrapper, #target { visibility:hidden;}
+	/* */
+	#target p {
+		top: 30px;
+		right: 25px;
+		position: absolute;
+		width: 300px;
+		margin-top: 100px;
+		float: right;
+		text-align: right;
+	}
+	.callus {  
+	  color:yellow;
+  text-decoration:blink;
+  text-shadow:2px 2px 4px black;
+  }
+	p#party-line-no {
+		top: 50px;
+		font-size: 1.7em;
+		text-shadow:2px 2px 9px yellow;
+		width:227px;
+		font-size:31px;
+	}
+	#target img { opacity:0.015; -webkit-transition: opacity 1s linear;}
+	.open #target img { opacity: 1;}
+	.steam { background: url(steam.png) no-repeat -247px -20px; height:232px;
+width:308px;}
+.girl1 { background: url(dancer-sm.gif); width:40px; height: 93px;}
+.girl2 { background: url(Girl55anim1.gif); width:122px; height: 57px;}
+.kiss {background: url(kiss-02.gif); width:75px; height: 39px; display:none;}
+.santa { -moz-box-shadow:-13px -2px 23px black;
+background:white url(http://www.el-okay-ranch.nl/images/santa_wink.gif) no-repeat scroll right top;
+height:164px;
+position:absolute;
+right:-1px;
+top:252px;
+width:191px;
+}

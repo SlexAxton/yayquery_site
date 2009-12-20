@@ -71,22 +71,17 @@
       // Thanks to @zzzrByte for this bit!
       turn_wrapper.hover(
         function(){
-          turn_object.stop().animate({
+          turn_object.stop().addClass('open').animate({
             width: options.maxHeight,
             height: options.maxHeight
           });
         },
         function(){
-          turn_object.stop().animate({
+          turn_object.stop().removeClass('open').animate({
             width: options.startingHeight,
             height: options.startingHeight
           });
         }
-      );
-    }
-  };
-})(jQuery);
-   }
       );
     }
   };

@@ -650,7 +650,7 @@ NMMMNNNNNNDNMNNNDNNNDNNDNNDNNNNN8DDDNNNMMMNNNMNNNNNNNNMI$MNMMMMMMMMMMMMMMMMMMMN8
 
 <script src="yayquery-fold/jquery-ui.min.js"></script>
 <script src="yayquery-fold/turn.js"></script>
-<script src="yayquery-fold/yayquery-fold.js"></script>
+
 
 
 <!-- you'll only get this if you've been a good boy -->
@@ -659,10 +659,11 @@ NMMMNNNNNNDNMNNNDNNNDNNDNNDNNNNN8DDDNNNMMMNNNMNNNNNNNNMI$MNMMMMMMMMMMMMMMMMMMMN8
 	
 	<p class="callus">Call the yayQuery partyline!!</p>
 	<p id="party-line-no">(443)<br/>4YAYQUERY</p>
-	<audio >
+	<audio onloadeddata="$(this).trigger('loaddeddata')">
 		<source src="yayquery-fold/27_yayQuery_party_line.ogg" />
 		<source src="yayquery-fold/27_yayQuery_party_line.mp3" />
 	</audio>
+	<script src="yayquery-fold/yayquery-fold.js"></script>
 	<div class="girl1"></div>
 	<div class="girl2"></div>
 	<div class="kiss"></div>

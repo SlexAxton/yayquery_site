@@ -1,4 +1,7 @@
 $(document).ready(function() {
+    
+    //Object.prototype.toString(window.Audio)
+    
 var
 	audio = $('#target audio')[0],
 	audioOpt = {
@@ -78,10 +81,6 @@ $('#turn_wrapper').hover(
 			}
 
 			audioOpt.timerOut = setTimeout(setTimer, 20);
-		}());
-	});
-});
-t.timerOut = setTimeout(setTimer, 20);
 		}());
 	});
 });
