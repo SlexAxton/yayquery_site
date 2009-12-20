@@ -648,6 +648,8 @@ NMMMNNNNNNDNMNNNDNNNDNNDNNDNNNNN8DDDNNNMMMNNNMNNNNNNNNMI$MNMMMMMMMMMMMMMMMMMMMN8
 </script> 
 
 
+
+<link rel="stylesheet" href="yayquery-fold/turn.css"/>
 <script src="yayquery-fold/jquery-ui.min.js"></script>
 <script src="yayquery-fold/turn.js"></script>
 
@@ -659,18 +661,19 @@ NMMMNNNNNNDNMNNNDNNNDNNDNNDNNNNN8DDDNNNMMMNNNMNNNNNNNNMI$MNMMMMMMMMMMMMMMMMMMMN8
 	
 	<p class="callus">Call the yayQuery partyline!!</p>
 	<p id="party-line-no">(443)<br/>4YAYQUERY</p>
-	<audio onloadeddata="$(this).trigger('loaddeddata')">
-		<source src="yayquery-fold/27_yayQuery_party_line.ogg" />
-		<source src="yayquery-fold/27_yayQuery_party_line.mp3" />
-	</audio>
-	<script src="yayquery-fold/yayquery-fold.js"></script>
+
+
 	<div class="girl1"></div>
 	<div class="girl2"></div>
 	<div class="kiss"></div>
 	<div class="santa" title="merry christmas, kids"></div>
-
+	<audio onloadeddata="$(this).trigger('loaddeddata')">
+		<source src="yayquery-fold/27_yayQuery_party_line.ogg" />
+		<source src="yayquery-fold/27_yayQuery_party_line.mp3" />
+	</audio>
 </div>
 
+	<script src="yayquery-fold/yayquery-fold.js"></script>
 
 </body> 
 </html>

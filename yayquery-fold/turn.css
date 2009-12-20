@@ -83,8 +83,8 @@
 	#turn_wrapper, #target { visibility:hidden;}
 	/* */
 	#target p {
-		top: 30px;
-		right: 25px;
+		top: 14px;
+		right: 6px;
 		position: absolute;
 		width: 300px;
 		margin-top: 100px;
@@ -97,7 +97,7 @@
   text-shadow:2px 2px 4px black;
   }
 	p#party-line-no {
-		top: 50px;
+		top: 35px;
 		font-size: 1.7em;
 		text-shadow:2px 2px 9px yellow;
 		width:227px;

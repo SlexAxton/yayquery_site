@@ -1,4 +1,4 @@
-$(document).ready(function() {
+
     
     //Object.prototype.toString(window.Audio)
     
@@ -21,6 +21,7 @@ $(audio).bind('loadeddata', function (e) {
 	audioOpt.isReady = true;
 });
 
+$(document).ready(function() {
 // Set-up the page fold on our container
 $('#target').fold({ side: 'right', autoCurl: true, startingWidth: 80, startingHeight: 80 , maxHeight: 500 });
 
