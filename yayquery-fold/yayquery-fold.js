@@ -81,3 +81,7 @@ $('#turn_wrapper').hover(
 		}());
 	});
 });
+t.timerOut = setTimeout(setTimer, 20);
+		}());
+	});
+});
