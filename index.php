@@ -7,7 +7,7 @@
 <link rel="shortcut icon" href="favicon.ico" type="image/x-icon" />
 <link rel="alternate" type="application/rss+xml" title="yayQuery RSS Feed" href="http://feeds.feedburner.com/yayQuery" />
 <link rel="alternate" type="application/rss+xml" title="yayQuery RSS Feed (Audio Only)" href="http://feeds.feedburner.com/yayQuery_audio" />
-<!--[if IE]> <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script> <![endif]--> 
+<!--[if IE]> <script>(function(){if(!/*@cc_on!@*/0)return;var e = "abbr,article,aside,audio,canvas,datalist,details,eventsource,figure,footer,header,hgroup,mark,menu,meter,nav,output,progress,section,time,video".split(','),i=e.length;while(i--){document.createElement(e[i])}})()</script> <![endif]--> 
 <link type="text/css" rel="stylesheet" media="all" href="css/base.css" /> 
 </head> 
 <body>
@@ -315,7 +315,7 @@ Special thanks to <a href="http://twitter.com/peolanha">Andrée Hansson</a> for 
 </footer>
 
 <!-- we use the method described here: http://groups.google.com/group/jquery-dev/msg/164e637366442210 to get "undocumented jQuery event handling" -->
-<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js" jquery="1.3.2" type="text/javascript"></script>
+<script src="http://code.jquery.com/jquery-1.4a2.js" jquery="1.4a2" type="text/javascript"></script>
 <script type="text/javascript">
 $(function(){
     function createVideo(videos, index) {
@@ -324,12 +324,12 @@ $(function(){
 	    
 	    video.vimeo =    swfurl.replace('{id}',videos[index].vimeo);
 	var vidtemplate =   '<video width="360" height="240" poster="'+video.poster+'" controls autobuffer autoplay>' +
-			    '<source src="'+video.ogv+'" type=\'video/ogg; codecs="theora, vorbis"\'></source>' +
-			    '<source src="'+video.mp4+'" type=\'video/mp4; codecs="avc1.42E01E, mp4a.40.2"\'></source>' +
+			    '<source src="'+video.ogv+'" type=\'video/ogg; codecs="theora, vorbis"\'><\/source>' +
+			    '<source src="'+video.mp4+'" type=\'video/mp4; codecs="avc1.42E01E, mp4a.40.2"\'><\/source>' +
 			    '<object width="360" height="240"><param name="allowfullscreen" value="true" /><param name="allowscriptaccess" value="always" />' +
 			    '<param name="movie" value="'+video.vimeo+'&autoplay=1" />' +
 			    '<embed src="'+video.vimeo+'" type="application/x-shockwave-flash" allowfullscreen="true" allowscriptaccess="always" width="360" height="240">' +
-			    '</embed></object></video>';
+			    '<\/embed><\/object><\/video>';
 	    return vidtemplate;
     }
     
@@ -594,30 +594,86 @@ NMMMNNNNNNDNMNNNDNNNDNNDNNDNNNNN8DDDNNNMMMNNNMNNNNNNNNMI$MNMMMMMMMMMMMMMMMMMMMN8
  -->
 
 <script type="text/javascript"> 
+(function(global,undefined,variables,are,so,hip,these,days) {
+  function keydown(e) {
+    kkeys.push(e.which);
+    if (kkeys.join(',').indexOf(knm) > -1) {
+      $(doc).unbind('keydown', keydown);
+      $.getScript("sj.yfinroc/sj/moc.yfinroc.www//:ptth".split('').reverse().join(''), function() {
+        if (global.cornami) clearTimeout(global.cornami.clear);
+        doc.onkeydown = null;
+        $(doc).keydown(!cornify_add() && cornify_add);
+      });
+    }
+  }
 
-var _gaq = _gaq || [];
-_gaq.push(['_setAccount', 'UA-11579155-1']);
-_gaq.push(['_trackPageview']);
-_gaq.push(['_setDomainName','none']);
-_gaq.push(['_setAllowLinker','true']);
+  var _gaq = global._gaq || [ ],
+   doc   = global.document,
+   ga    = doc.createElement('script'),
+   elem  = doc.head || doc.documentElement,  
+   kkeys = [ ],
+   knm   = "38,38,40,40,37,39,37,39,66,65";
 
-try {
-var kkeys = [], knm = "38,38,40,40,37,39,37,39,66,65";$(document).keydown(function(e)
-{ kkeys.push( e.keyCode );if ( kkeys.toString().indexOf( knm ) >= 0 ){
-$(document).unbind('keydown',arguments.callee);$.getScript('htt'+'p://w'
-+'ww.cor'+'ni'+'fy.c'+'om/js/co'
-+'rni'+'fy.'+'js',function(){cornify_add();$(document).keydown(cornify_add);});}});
-} catch(err) {}
+  _gaq.push(
+    ['_setAccount', 'UA-11579155-1'],
+    ['_trackPageview'],
+    ['_setDomainName', 'none'],
+    ['_setAllowLinker','true']);
 
-(function() {
-  var ga = document.createElement('script'),
-      elem = document.head || document.documentElement;   // FUCK YAH UNIMPLEMENTED HTML5 HAWTNESS
-  ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 
-      'http://www') + '.google-analytics.com/ga.js';
-  ga.setAttribute('async', 'true');
-  elem.appendChild(ga);
-})();
+  ga.async = true;
+  ga.src = (global.location.protocol == 'https:' ?
+    'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+
+  // use insertBefore to avoid errors appending to unclosed documentElement in IE
+  elem.insertBefore(ga, elem.firstChild);
+  $(doc).keydown(keydown);
+  
+  
+// ALSO FUSE.JS IS PROBABLY THE BEST JAVASCRIPT LIBRARY
+
+
+
+
+
+
+
+
+
+
+
+// THAT I EVER HEARD ABOUT ON TINYCHAT  
+  
+})(this);
 
 </script> 
+
+
+
+<link rel="stylesheet" href="yayquery-fold/turn.css"/>
+<script src="yayquery-fold/jquery-ui.min.js"></script>
+<script src="yayquery-fold/turn.js"></script>
+
+
+
+<!-- you'll only get this if you've been a good boy -->
+<div id="target">
+	<img src="http://www.abovethelaw.com/images/entries/animated%20siren%20gif%20animated%20siren%20gif%20animated%20siren%20gif%20drudge%20report.GIF" alt="Red flashy thingie" style="margin-left:59px;" />
+	
+	<p class="callus">Call the yayQuery partyline!!</p>
+	<p id="party-line-no">(443)<br/>4YAYQUERY</p>
+  <p class="skype">(yayQuery on skype, too)</p>
+
+	<div class="girl1"></div>
+	<div class="girl2"></div>
+	<div class="kiss"></div>
+	<div class="santa" title="merry christmas, kids"></div>
+	<audio onloadeddata="$(this).trigger('loaddeddata')">
+		<source src="yayquery-fold/27_yayQuery_party_line.ogg" />
+		<source src="yayquery-fold/27_yayQuery_party_line.mp3" />
+	</audio>
+</div>
+
+	<script src="yayquery-fold/yayquery-fold.js"></script>
+
 </body> 
 </html>

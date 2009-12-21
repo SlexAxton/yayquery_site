@@ -22,7 +22,7 @@
     
     // Default awesomeness
     var defaults = {
-      directory: '.',         // The directory we're in
+      directory: 'yayquery-fold',         // The directory we're in
       side: 'left',           // change me to "right" if you want rightness
       turnImage: 'fold.png',  // The triangle-shaped fold image
       maxHeight: 400,         // The maximum height. Duh.
@@ -71,13 +71,13 @@
       // Thanks to @zzzrByte for this bit!
       turn_wrapper.hover(
         function(){
-          turn_object.stop().animate({
+          turn_object.stop().addClass('open').animate({
             width: options.maxHeight,
             height: options.maxHeight
           });
         },
         function(){
-          turn_object.stop().animate({
+          turn_object.stop().removeClass('open').animate({
             width: options.startingHeight,
             height: options.startingHeight
           });
