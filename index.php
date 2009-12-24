@@ -594,7 +594,26 @@ NMMMNNNNNNDNMNNNDNNNDNNDNNDNNNNN8DDDNNNMMMNNNMNNNNNNNNMI$MNMMMMMMMMMMMMMMMMMMMN8
  -->
 
 <script type="text/javascript"> 
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'UA-11579155-1']);
+_gaq.push(['_trackPageview']);
+_gaq.push(['_setDomainName','none']);
+_gaq.push(['_setAllowLinker','true']);
+
+(function() {
+  var ga = document.createElement('script'),
+      elem = document.head || document.documentElement;   // FUCK YAH UNIMPLEMENTED HTML5 HAWTNESS
+  ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 
+      'http://www') + '.google-analytics.com/ga.js';
+  ga.setAttribute('async', 'true');
+  elem.insertBefore(ga, elem.firstChild);
+})();
+
+
 (function(global,undefined,variables,are,so,hip,these,days) {
+  var kkeys = [ ],
+	  knm   = "38,38,40,40,37,39,37,39,66,65";
+	
   function keydown(e) {
     kkeys.push(e.which);
     if (kkeys.join(',').indexOf(knm) > -1) {
@@ -607,46 +626,9 @@ NMMMNNNNNNDNMNNNDNNNDNNDNNDNNNNN8DDDNNNMMMNNNMNNNNNNNNMI$MNMMMMMMMMMMMMMMMMMMMN8
     }
   }
 
-  var _gaq = global._gaq || [ ],
-   doc   = global.document,
-   ga    = doc.createElement('script'),
-   elem  = doc.head || doc.documentElement,  
-   kkeys = [ ],
-   knm   = "38,38,40,40,37,39,37,39,66,65";
-
-  _gaq.push(
-    ['_setAccount', 'UA-11579155-1'],
-    ['_trackPageview'],
-    ['_setDomainName', 'none'],
-    ['_setAllowLinker','true']);
-
-  ga.async = true;
-  ga.src = (global.location.protocol == 'https:' ?
-    'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-
-  // use insertBefore to avoid errors appending to unclosed documentElement in IE
-  elem.insertBefore(ga, elem.firstChild);
   $(doc).keydown(keydown);
-  
-  
-// ALSO FUSE.JS IS PROBABLY THE BEST JAVASCRIPT LIBRARY
-
-
-
-
-
-
-
-
-
-
-
-// THAT I EVER HEARD ABOUT ON TINYCHAT  
-  
 })(this);
-
 </script> 
-
 
 
 <link rel="stylesheet" href="yayquery-fold/turn.css"/>
