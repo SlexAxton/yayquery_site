@@ -415,6 +415,12 @@ $(function(){
 	    vimeo : 8247540,
 	    ogv   : 'http://cdn.yayquery.com/ep/6/yayquery_6.ogv',
 	    mp4   : 'http://cdn.yayquery.com/ep/6/yayquery_6.mp4'
+	},
+	{
+	    poster: 'http://cdn.yayquery.com/ep/7/yayquery_7.png',
+	    vimeo : '',
+	    ogv   : 'http://cdn.yayquery.com/ep/7/yayquery_7.ogv',
+	    mp4   : 'http://cdn.yayquery.com/ep/7/yayquery_7.mp4'
 	}
     ];
 
@@ -634,7 +640,8 @@ NMMMNNNNNNDNMNNNDNNNDNNDNNDNNNNN8DDDNNNMMMNNNMNNNNNNNNMI$MNMMMMMMMMMMMMMMMMMMMN8
  -->
 
 <script type="text/javascript"> 
-var _gaq = _gaq || [];
+var _gaq = _gaq || [],
+doc = document;
 _gaq.push(['_setAccount', 'UA-11579155-1']);
 _gaq.push(['_trackPageview']);
 _gaq.push(['_setDomainName','none']);
