@@ -418,7 +418,7 @@ $(function(){
 	},
 	{
 	    poster: 'http://cdn.yayquery.com/ep/7/yayquery_7.png',
-	    vimeo : '',
+	    vimeo : 8380151,
 	    ogv   : 'http://cdn.yayquery.com/ep/7/yayquery_7.ogv',
 	    mp4   : 'http://cdn.yayquery.com/ep/7/yayquery_7.mp4'
 	}
