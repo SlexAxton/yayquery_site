@@ -81,6 +81,7 @@
 <li><a href="http://binarykitten.me.uk/">BK IN DA UK</a></li>
 <li><a href="http://developer-day.com/events/2010-austin.html">Austin Dev Days</a></li>
 <li><a href="http://dev.w3.org/2009/dap/camera/">W3C Capture API Draft</a></li>
+<li><a href="http://www.youtube.com/watch?v=EGM6Xtx02M4">Merry Swiftmas</a></li>
 						</ul>
 					    </div> 
 					</div> 
