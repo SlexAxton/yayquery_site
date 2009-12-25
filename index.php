@@ -50,7 +50,7 @@
 					<h2>Jingle All The Yay | <span class="epnum">Episode 7</span></h2> 
 					<img width="360" height="240" src="http://cdn.yayquery.com/ep/7/yayquery_7.png" alt="Episode 7" rel="7" class="clickvid" />
 					<div class="description"> 
-					    <p>Like many popular retailers, we're shipping this episode to you just in time for Christmas!  Find out which front-end treats the gang is hoping to find in their stockings, and unwrap a box full of jQuery 1.4 news.  With spinning plugins, shimmering hiddenhancements, and an anti-pattern for any Scrooges out there, you're sure to find lots of holiday cheer with yayQuery - the only development podcast that may also be a children's TV show.</p> 
+					    <p>Like many popular retailers, we're shipping this episode to you just in time for Christmas!  Find out which front-end treats the gang is hoping to find in their stockings, and unwrap a box full of jQuery 1.4 news.  With spinning plugins, shimmering hiddenhancements, and an anti-pattern for any Scrooges out there, you're sure to find lots of holiday cheer <br /> with yayQuery - the only development podcast that may also be a children's TV show.</p> 
 					</div> 
 					<div class="shownotes"> 
 					    <div class="download"> 
