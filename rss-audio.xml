@@ -7,7 +7,7 @@
 		<language>en-us</language>
 		<copyright>Copyright 2009</copyright>
 
-		<lastBuildDate>Thu, 17 Dec 2009 16:00:00 -0500</lastBuildDate>
+		<lastBuildDate>Thu, 24 Dec 2009 16:00:00 -0500</lastBuildDate>
 		<pubDate>Fri, 06 Nov 2009 11:30:00 -0500</pubDate>
 		<docs>http://blogs.law.harvard.edu/tech/rss</docs>
 		<webMaster>rmurphey@gmail.com</webMaster>
@@ -22,6 +22,20 @@
 		<itunes:image href="http://yayquery.com/img/yayQueryLogoSquare.png"/>
 
 		<itunes:category text="Technology"/>
+		<item>
+			<title>Episode 7: Jingle All the Yay</title>
+			<link>http://yayquery.com</link>
+			<guid>http://cdn.yayquery.com/ep/7/yayquery_7.mp3</guid>
+			<description>Like many popular retailers, we're shipping this episode to you just in time for Christmas!  Find out which front-end treats the gang is hoping to find in their stockings, and unwrap a box full of jQuery 1.4 news.  With spinning plugins, shimmering hiddenhancements, and an anti-pattern for any Scrooges out there, you're sure to find lots of holiday cheer with yayQuery - the only development podcast that may also be a children's TV show.</description>
+			<enclosure url="http://cdn.yayquery.com/ep/7/yayquery_7.mp3" type="audio/mp3" length="45840999"/>
+			<category>Technology</category>
+			<pubDate>Thu, 24 Dec 2009 16:00:00 -0500</pubDate>
+			<itunes:author>Paul Irish, Rebecca Murphey, Alex Sexton, Adam J Sontag</itunes:author>
+			<itunes:explicit>Yes</itunes:explicit>
+			<itunes:summary>Like many popular retailers, we're shipping this episode to you just in time for Christmas!  Find out which front-end treats the gang is hoping to find in their stockings, and unwrap a box full of jQuery 1.4 news.  With spinning plugins, shimmering hiddenhancements, and an anti-pattern for any Scrooges out there, you're sure to find lots of holiday cheer with yayQuery - the only development podcast that may also be a children's TV show.</itunes:summary>
+			<itunes:duration>00:43:47</itunes:duration>
+			<itunes:keywords>jQuery, front end development, web development, javascript</itunes:keywords>
+		</item>
 		<item>
 			<title>Episode 6: Nay is for Norses</title>
 			<link>http://yayquery.com</link>
