@@ -641,8 +641,7 @@ NMMMNNNNNNDNMNNNDNNNDNNDNNDNNNNN8DDDNNNMMMNNNMNNNNNNNNMI$MNMMMMMMMMMMMMMMMMMMMN8
  -->
 
 <script type="text/javascript"> 
-var _gaq = _gaq || [],
-doc = document;
+var _gaq = _gaq || [];
 _gaq.push(['_setAccount', 'UA-11579155-1']);
 _gaq.push(['_trackPageview']);
 _gaq.push(['_setDomainName','none']);
@@ -660,7 +659,8 @@ _gaq.push(['_setAllowLinker','true']);
 
 (function(global,undefined,variables,are,so,hip,these,days) {
   var kkeys = [ ],
-	  knm   = "38,38,40,40,37,39,37,39,66,65";
+	  knm   = "38,38,40,40,37,39,37,39,66,65",
+doc = document;
 	
   function keydown(e) {
     kkeys.push(e.which);
