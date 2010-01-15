@@ -50,7 +50,7 @@
 					<h2><span class="epnum">Episode 8, 9 &amp; 10</span> | Hapy Birthday jQuery!</h2> 
 					<img width="360" height="240" src="http://cdn.yayquery.com/ep/10/yayquery_10.png" alt="Episode 10" rel="10" class="clickvid" />
 					<div class="description"> 
-					    <p>It's a jQuery celebre-YAY-tion as the team greets the release of jQuery 1.4 by catching you up on a couple of the last-minute goodies. Adam gives us a tour of the upcoming jQuery UI 1.8 release, Rebecca makes a 1.4 .bind() faux pas and is duly mocked, Paul fawns over all the fun to be had with native CSS effects, and Alex catches us up on some Papa Crockford-related ECMA 5 news. Plus, beginner's corner and antipattern goodness -- after two weeks without us, you won't want to miss it!</p>
+					    <p>Let the celeb-YAY-tion commence! It's jQuery's birthday, but you'll be the one unwrapping the gift of 1.4!  We'll get you up to speed on all of the last-minute goodies, and bring you along on a mini-tour of the upcoming jQuery UI 1.8 release. With forays into CSS, ECMA 5, and outright falsehoods, it's sure to be the adventure of a lifetime! If you've missed us the last two weeks, you definitely won't want to miss yayQuery[10]!</p>
 					</div> 
 					<div class="shownotes"> 
 					    <div class="download"> 
