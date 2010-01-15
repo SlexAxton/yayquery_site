@@ -7,7 +7,7 @@
 		<language>en-us</language>
 		<copyright>Copyright 2009</copyright>
 
-		<lastBuildDate>Thu, 24 Dec 2009 16:00:00 -0500</lastBuildDate>
+		<lastBuildDate>Fri, 15 Jan 2010 16:00:00 -0500</lastBuildDate>
 		<pubDate>Fri, 06 Nov 2009 11:30:00 -0500</pubDate>
 		<docs>http://blogs.law.harvard.edu/tech/rss</docs>
 		<webMaster>rmurphey@gmail.com</webMaster>
@@ -22,6 +22,20 @@
 		<itunes:image href="http://yayquery.com/img/yayQueryLogoSquare.png"/>
 
 		<itunes:category text="Technology"/>
+		<item>
+			<title>Episode 8 9 &amp; 10: Happy Birthday jQuery!</title>
+			<link>http://yayquery.com</link>
+			<guid>http://cdn.yayquery.com/ep/10/yayquery_10.mp3</guid>
+			<description>It's a jQuery celebre-YAY-tion as the team greets the release of jQuery 1.4 by catching you up on a couple of the last-minute goodies. Adam gives us a tour of the upcoming jQuery UI 1.8 release, Rebecca makes a 1.4 .bind() faux pas and is duly mocked, Paul fawns over all the fun to be had with native CSS effects, and Alex catches us up on some Papa Crockford-related ECMA 5 news. Plus, beginner's corner and antipattern goodness -- after two weeks without us, you won't want to miss it!</description>
+			<enclosure url="http://cdn.yayquery.com/ep/10/yayquery_10.mp3" type="audio/mp3" length="42011754"/>
+			<category>Technology</category>
+			<pubDate>Fri, 15 Jan 2010 16:00:00 -0500</pubDate>
+			<itunes:author>Paul Irish, Rebecca Murphey, Alex Sexton, Adam J Sontag</itunes:author>
+			<itunes:explicit>Yes</itunes:explicit>
+			<itunes:summary>It's a jQuery celebre-YAY-tion as the team greets the release of jQuery 1.4 by catching you up on a couple of the last-minute goodies. Adam gives us a tour of the upcoming jQuery UI 1.8 release, Rebecca makes a 1.4 .bind() faux pas and is duly mocked, Paul fawns over all the fun to be had with native CSS effects, and Alex catches us up on some Papa Crockford-related ECMA 5 news. Plus, beginner's corner and antipattern goodness -- after two weeks without us, you won't want to miss it!</itunes:summary>
+			<itunes:duration>00:39:07</itunes:duration>
+			<itunes:keywords>jQuery, front end development, web development, javascript</itunes:keywords>
+		</item>
 		<item>
 			<title>Episode 7: Jingle All the Yay</title>
 			<link>http://yayquery.com</link>
