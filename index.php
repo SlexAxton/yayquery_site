@@ -46,7 +46,72 @@
 </header>
 
 <ul class="videos">
-          <li class="right"> 
+          <li class="left"> 
+					<h2><span class="epnum">Episode 8, 9 &amp; 10</span> | Hapy Birthday jQuery!</h2> 
+					<img width="360" height="240" src="http://cdn.yayquery.com/ep/10/yayquery_10.png" alt="Episode 10" rel="10" class="clickvid" />
+					<div class="description"> 
+					    <p>Come listen to us talk about the things that we talk about!</p>
+					</div> 
+					<div class="shownotes"> 
+					    <div class="download"> 
+						<strong>Video:</strong> <a href="http://cdn.yayquery.com/ep/10/yayquery_10.ogv">OGV</a> (170mb) | <a href="http://cdn.yayquery.com/ep/10/yayquery_10.mp4">MP4</a> (186mb)
+						<br /> 
+						<strong>Audio:</strong> <a href="http://cdn.yayquery.com/ep/10/yayquery_10.mp3">MP3</a> (40mb)
+<br />
+<a href="http://vimeo.com/8247540">Watch yayQuery Episode 6 in HD on vimeo</a>
+<br /><br />
+						<h4>Show Links</h4>
+						<ul class="showlinks">
+<li><a href="http://jquery14.com/">The 14 Days of jQuery</a></li>
+<li><a href="http://api.jquery.com/">jQuery API</a></li>
+<li><a href="http://api.jquery.com/jQuery.proxy/">$.proxy()</a></li>
+<li><a href="http://github.com/jquery/jquery/commit/308d6cdad023da190ace2a698ee4815ed8dad9c5">JSON.parse commit</a></li>
+<li><a href="http://javascript.crockford.com/prototypal.html">Crockford: Prototypal Inheritance</a></li>
+<li><a href="http://github.com/jquery/jquery/commit/d6d5ed4c683ceee4d3c64ce75e7349dde8205d50">Setter Arguments commit</a></li>
+<li><a href="http://docs.jquery.com/UI/Changelog/1.8a2">jQuery UI 1.8a2 Changelog</a></li>
+<li><a href="http://docs.jquery.com/JQuery_1.5_Roadmap">jQuery 1.5 Roadmap</a></li>
+<li><a href="http://www.phpied.com/css-performance-ui-with-fewer-images/">CSS performance: UI with fewer images</a></li>
+<li><a href="http://docs.jquery.com/Events/bind#demo">$.bind()</a></li>
+<li><a href="http://code.drewwilson.com/entry/autosuggest-jquery-plugin">jQuery AutoSuggest</a></li>
+<li><a href="http://tpgblog.com/2009/12/21/threedots-the-jquery-ellipsis-plugin/">jQuery ThreeDots</a></li>
+<li><a href="http://www.cs.tut.fi/~jkorpela/shy.html">Soft hyphen (SHY)</a></li>
+<li><a href="http://css-tricks.com/poll-results-what-css-reset-do-you-use/">CSS Reset Poll</a></li>
+<li><a href="http://github.com/joshuaclayton/blueprint-css/commit/6a3f2f8694da61c1336c906e0fd4a1ed8bcf0afe">Blueprint CSS Reset HTML5</a></li>
+<li><a href="http://html5doctor.com/html-5-reset-stylesheet/">HTML5Doctor CSS Reset</a></li>
+						</ul>
+					    </div> 
+					</div> 
+					<img class="cohitre" src="http://cdn.yayquery.com/site/images/cohitre_6.jpg" alt="Please dont feed ajpiano." width="332" height="232" /> 
+		    </li>
+</ul>
+
+
+<section class="outbound">
+    <h4>Video</h4>
+    <a href="http://feeds.feedburner.com/yayQuery"><img src="http://cdn.yayquery.com/site/images/podcast-icon.png"/><span>RSS Feed</span></a>
+    
+    <a href="http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=340422555"><img src="http://cdn.yayquery.com/site/images/podcast-itunes2.png"/><span>iTunes link</span></a>
+     
+    <a href="http://subscribe.getmiro.com/?url1=http%3A//feeds.feedburner.com/yayQuery&trackback1=http%3A//www.miroguide.com/feeds/12786/subscribe-hit&section1=video" title="Subscribe to yayQuery on Miro: Internet TV">
+        <img src="http://subscribe.getmiro.com/img/buttons/wes1.png"  border="0" style="padding-top: 61px;" />
+        <span>Subscribe on Miro</span>
+    </a>
+    
+    <h4>Audio</h4>
+      <a href="http://feeds.feedburner.com/yayQuery_audio"><img src="http://cdn.yayquery.com/site/images/podcast-icon.png"/><span>RSS Feed <small>(audio)</small></span></a>
+
+
+    <a href="http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=340500884"><img src="http://cdn.yayquery.com/site/images/podcast-itunes2.png"/><span>iTunes link <small>(audio)</small></span></a>
+      
+    <h4>Twitter</h4>
+    <a href="http://twitter.com/yayQuery" title="A whole lot of yay, and a query too!"><img src="http://cdn.yayquery.com/site/images/twitter_02.png" alt="@yayQuery" /><span>Follow us at @yayQuery</span></a>
+</section>
+
+
+
+
+<ul class="videos">
+<li class="right"> 
 					<h2>Jingle All The Yay | <span class="epnum">Episode 7</span></h2> 
 					<img width="360" height="240" src="http://cdn.yayquery.com/ep/7/yayquery_7.png" alt="Episode 7" rel="7" class="clickvid" />
 					<div class="description"> 
@@ -87,34 +152,6 @@
 					</div> 
 					<img class="cohitre" src="http://cdn.yayquery.com/site/images/cohitre_7.jpg" alt="Please dont feed ajpiano." width="329" height="256" /> 
 		    </li>
-</ul>
-
-
-<section class="outbound">
-    <h4>Video</h4>
-    <a href="http://feeds.feedburner.com/yayQuery"><img src="http://cdn.yayquery.com/site/images/podcast-icon.png"/><span>RSS Feed</span></a>
-    
-    <a href="http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=340422555"><img src="http://cdn.yayquery.com/site/images/podcast-itunes2.png"/><span>iTunes link</span></a>
-     
-    <a href="http://subscribe.getmiro.com/?url1=http%3A//feeds.feedburner.com/yayQuery&trackback1=http%3A//www.miroguide.com/feeds/12786/subscribe-hit&section1=video" title="Subscribe to yayQuery on Miro: Internet TV">
-        <img src="http://subscribe.getmiro.com/img/buttons/wes1.png"  border="0" style="padding-top: 61px;" />
-        <span>Subscribe on Miro</span>
-    </a>
-    
-    <h4>Audio</h4>
-      <a href="http://feeds.feedburner.com/yayQuery_audio"><img src="http://cdn.yayquery.com/site/images/podcast-icon.png"/><span>RSS Feed <small>(audio)</small></span></a>
-
-
-    <a href="http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=340500884"><img src="http://cdn.yayquery.com/site/images/podcast-itunes2.png"/><span>iTunes link <small>(audio)</small></span></a>
-      
-    <h4>Twitter</h4>
-    <a href="http://twitter.com/yayQuery" title="A whole lot of yay, and a query too!"><img src="http://cdn.yayquery.com/site/images/twitter_02.png" alt="@yayQuery" /><span>Follow us at @yayQuery</span></a>
-</section>
-
-
-
-
-<ul class="videos">
 <li class="left"> 
 					<h2><span class="epnum">Episode 6</span> | Nay is for Norses</h2> 
 					<img width="360" height="240" src="http://cdn.yayquery.com/ep/6/yayquery_6.png" alt="Episode 6" rel="6" class="clickvid" />
@@ -422,6 +459,14 @@ $(function(){
 	    vimeo : 8380151,
 	    ogv   : 'http://cdn.yayquery.com/ep/7/yayquery_7.ogv',
 	    mp4   : 'http://cdn.yayquery.com/ep/7/yayquery_7.mp4'
+	},
+	undefined,
+	undefined,
+	{
+	    poster: 'http://cdn.yayquery.com/ep/10/yayquery_10.png',
+	    vimeo : 8768879,
+	    ogv   : 'http://cdn.yayquery.com/ep/10/yayquery_10.ogv',
+	    mp4   : 'http://cdn.yayquery.com/ep/10/yayquery_10.mp4'
 	}
     ];
 
