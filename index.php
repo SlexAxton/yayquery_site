@@ -58,13 +58,12 @@
 						<br /> 
 						<strong>Audio:</strong> <a href="http://cdn.yayquery.com/ep/10/yayquery_10.mp3">MP3</a> (40mb)
 <br />
-<a href="http://vimeo.com/8247540">Watch yayQuery Episode 6 in HD on vimeo</a>
+<a href="http://vimeo.com/8768879">Watch yayQuery Episode 8/9/10 in HD on vimeo</a>
 <br /><br />
 						<h4>Show Links</h4>
 						<ul class="showlinks">
 <li><a href="http://jquery14.com/">The 14 Days of jQuery</a></li>
-<li><a href="http://api.jquery.com/">jQuery API</a></li>
-<li><a href="http://api.jquery.com/jQuery.proxy/">$.proxy()</a></li>
+<li><a href="http://api.jquery.com/">jQuery API</a> | <a href="http://api.jquery.com/jQuery.proxy/">$.proxy()</a></li>
 <li><a href="http://github.com/jquery/jquery/commit/308d6cdad023da190ace2a698ee4815ed8dad9c5">JSON.parse commit</a></li>
 <li><a href="http://javascript.crockford.com/prototypal.html">Crockford: Prototypal Inheritance</a></li>
 <li><a href="http://github.com/jquery/jquery/commit/d6d5ed4c683ceee4d3c64ce75e7349dde8205d50">Setter Arguments commit</a></li>
@@ -73,8 +72,7 @@
 <li><a href="http://www.phpied.com/css-performance-ui-with-fewer-images/">CSS performance: UI with fewer images</a></li>
 <li><a href="http://docs.jquery.com/Events/bind#demo">$.bind()</a></li>
 <li><a href="http://code.drewwilson.com/entry/autosuggest-jquery-plugin">jQuery AutoSuggest</a></li>
-<li><a href="http://tpgblog.com/2009/12/21/threedots-the-jquery-ellipsis-plugin/">jQuery ThreeDots</a></li>
-<li><a href="http://www.cs.tut.fi/~jkorpela/shy.html">Soft hyphen (SHY)</a></li>
+<li><a href="http://tpgblog.com/2009/12/21/threedots-the-jquery-ellipsis-plugin/">jQuery ThreeDots</a> | <a href="http://www.cs.tut.fi/~jkorpela/shy.html">Soft hyphen (SHY)</a></li>
 <li><a href="http://css-tricks.com/poll-results-what-css-reset-do-you-use/">CSS Reset Poll</a></li>
 <li><a href="http://github.com/joshuaclayton/blueprint-css/commit/6a3f2f8694da61c1336c906e0fd4a1ed8bcf0afe">Blueprint CSS Reset HTML5</a></li>
 <li><a href="http://html5doctor.com/html-5-reset-stylesheet/">HTML5Doctor CSS Reset</a></li>
