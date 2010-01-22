@@ -63,7 +63,15 @@
 						<h4>Show Links</h4>
 						<ul class="showlinks">
 
-
+<li><a href="http://jquery14.com">14 Days of jQuery</a></li>
+<!-- <li><a href=""> I won a bet </a></li> -->
+<li><a href="http://javascript.nwbox.com/NWEvents/">NWEvents</a></li>
+<li><a href="http://tpgblog.com/2010/01/20/yayquery-threedots-jquery-plugin-of-the-week/">Plugin Of the Week Badge</a></li>
+<li><a href="http://forum.jquery.com">forum.jquery.com</a></li>
+<li><a href="http://api.jquery.com/jquery.ajax/">$.ajax context option</a></li>
+<li><a href="http://james.padolsey.com/">James Padolsey</a> (<a href="http://twitter.com/jamespadolsey">twtr</a>, <a href="http://github.com/jamespadolsey">gthb</a>)</li>
+<li><a href="http://james.padolsey.com/javascript/jquery-lint/">jQuery Lint</a></li>
+<li><a href="http://james.padolsey.com/javascript/anti-patterns-in-the-making/">James' Anti-Patterns</a>, <a href="http://james.padolsey.com/javascript/jquery-code-smells/">Anti-Patterns 2</a></li>
 
 						</ul>
 					    </div> 
