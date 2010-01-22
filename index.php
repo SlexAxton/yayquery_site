@@ -63,15 +63,16 @@
 						<h4>Show Links</h4>
 						<ul class="showlinks">
 
+<li><a href="http://james.padolsey.com/">James Padolsey</a> (<a href="http://twitter.com/jamespadolsey">twtr</a>, <a href="http://github.com/jamespadolsey">gthb</a>)</li>
+<li><a href="http://james.padolsey.com/javascript/jquery-lint/">jQuery Lint</a></li>
+<li><a href="http://james.padolsey.com/javascript/anti-patterns-in-the-making/">James' Anti-Patterns</a>, <a href="http://james.padolsey.com/javascript/jquery-code-smells/">Anti-Patterns 2</a></li>
+<li><a href="http://api.jquery.com/animate/#per-property-easing">.animate per-property easing</a></li>
+<li><a href="http://forum.jquery.com">forum.jquery.com</a></li>
 <li><a href="http://jquery14.com">14 Days of jQuery</a></li>
 <!-- <li><a href=""> I won a bet </a></li> -->
 <li><a href="http://javascript.nwbox.com/NWEvents/">NWEvents</a></li>
 <li><a href="http://tpgblog.com/2010/01/20/yayquery-threedots-jquery-plugin-of-the-week/">Plugin Of the Week Badge</a></li>
-<li><a href="http://forum.jquery.com">forum.jquery.com</a></li>
 <li><a href="http://api.jquery.com/jquery.ajax/">$.ajax context option</a></li>
-<li><a href="http://james.padolsey.com/">James Padolsey</a> (<a href="http://twitter.com/jamespadolsey">twtr</a>, <a href="http://github.com/jamespadolsey">gthb</a>)</li>
-<li><a href="http://james.padolsey.com/javascript/jquery-lint/">jQuery Lint</a></li>
-<li><a href="http://james.padolsey.com/javascript/anti-patterns-in-the-making/">James' Anti-Patterns</a>, <a href="http://james.padolsey.com/javascript/jquery-code-smells/">Anti-Patterns 2</a></li>
 
 						</ul>
 					    </div> 
@@ -781,7 +782,6 @@ doc = document;
 	<div class="girl1"></div>
 	<div class="girl2"></div>
 	<div class="kiss"></div>
-	<div class="santa" title="merry christmas, kids"></div>
 	<audio onloadeddata="$(this).trigger('loaddeddata')">
 		<source src="yayquery-fold/27_yayQuery_party_line.ogg" />
 		<source src="yayquery-fold/27_yayQuery_party_line.mp3" />
