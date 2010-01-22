@@ -46,37 +46,29 @@
 </header>
 
 <ul class="videos">
-          <li class="left"> 
-					<h2><span class="epnum">Episode 8, 9 &amp; 10</span> | Hapy Birthday jQuery!</h2> 
-					<img width="360" height="240" src="http://cdn.yayquery.com/ep/10/yayquery_10.png" alt="Episode 10" rel="10" class="clickvid" />
+          <li class="right"> 
+					<h2><span class="epnum">Episode 11</span> | </h2> 
+					<img width="360" height="240" src="http://cdn.yayquery.com/ep/10/yayquery_11.png" alt="Episode 11" rel="11" class="clickvid" />
 					<div class="description"> 
-					    <p>Let the celeb-YAY-tion commence! It's jQuery's birthday, but you'll be the one unwrapping the gift of 1.4!  We'll get you up to speed on all of the last-minute goodies, and bring you along on a mini-tour of the upcoming jQuery UI 1.8 release. With forays into CSS, ECMA 5, and outright falsehoods, it's sure to be the adventure of a lifetime! If you've missed us the last two weeks, you definitely won't want to miss yayQuery[10]!</p>
+					    <p> </p>
 					</div> 
 					<div class="shownotes"> 
 					    <div class="download"> 
-						<strong>Video:</strong> <a href="http://cdn.yayquery.com/ep/10/yayquery_10.ogv">OGV</a> (170mb) | <a href="http://cdn.yayquery.com/ep/10/yayquery_10.mp4">MP4</a> (186mb)
+						<strong>Video:</strong> <a href="http://cdn.yayquery.com/ep/11/yayquery_11.ogv">OGV</a> (170mb) | <a href="http://cdn.yayquery.com/ep/11/yayquery_11.mp4">MP4</a> (186mb)
 						<br /> 
-						<strong>Audio:</strong> <a href="http://cdn.yayquery.com/ep/10/yayquery_10.mp3">MP3</a> (40mb)
+						<strong>Audio:</strong> <a href="http://cdn.yayquery.com/ep/11/yayquery_11.mp3">MP3</a> (40mb)
 <br />
-<a href="http://vimeo.com/8768879">Watch yayQuery Episode 8/9/10 in HD on vimeo</a>
+<a href="http://vimeo.com/undefined">Watch yayQuery Episode 11 in HD on vimeo</a>
 <br /><br />
 						<h4>Show Links</h4>
 						<ul class="showlinks">
-<li><a href="http://jquery14.com/">The 14 Days of jQuery</a></li>
-<li><a href="http://api.jquery.com/">jQuery API</a> | <a href="http://api.jquery.com/jQuery.proxy/">$.proxy()</a> | <a href="http://docs.jquery.com/Events/bind#demo">$.bind()</a></li>
-<li><a href="http://github.com/jquery/jquery/commit/308d6cdad023da190ace2a698ee4815ed8dad9c5">JSON.parse commit</a></li>
-<li><a href="http://javascript.crockford.com/prototypal.html">Crockford: Prototypal Inheritance</a></li>
-<li><a href="http://github.com/jquery/jquery/commit/d6d5ed4c683ceee4d3c64ce75e7349dde8205d50">Setter Arguments commit</a></li>
-<li><a href="http://docs.jquery.com/JQuery_1.5_Roadmap">jQuery 1.5 Roadmap</a> | <a href="http://docs.jquery.com/UI/Changelog/1.8a2">jqUI 1.8a2 Changelog</a></li>
-<li><a href="http://www.phpied.com/css-performance-ui-with-fewer-images/">CSS performance: UI with fewer images</a></li>
-<li><a href="http://code.drewwilson.com/entry/autosuggest-jquery-plugin">jQuery AutoSuggest</a></li>
-<li><a href="http://tpgblog.com/2009/12/21/threedots-the-jquery-ellipsis-plugin/">jQuery ThreeDots</a> | <a href="http://www.cs.tut.fi/~jkorpela/shy.html">Soft hyphen (SHY)</a></li>
-<li><a href="http://css-tricks.com/poll-results-what-css-reset-do-you-use/">CSS Reset Poll</a> | <a href="http://html5doctor.com/html-5-reset-stylesheet/">HTML5Doctor CSS Reset</a></li>
-<li><a href="http://github.com/joshuaclayton/blueprint-css/commit/6a3f2f8694da61c1336c906e0fd4a1ed8bcf0afe">Blueprint CSS Reset HTML5</a></li>
+
+
+
 						</ul>
 					    </div> 
 					</div> 
-					<img class="cohitre" src="http://cdn.yayquery.com/site/images/cohitre_10.jpg" alt="Please dont feed ajpiano." width="332" height="232" /> 
+					<img class="cohitre" src="http://cdn.yayquery.com/site/images/cohitre_11.jpg" alt="Please dont feed ajpiano." width="332" height="232" /> 
 		    </li>
 </ul>
 
@@ -106,6 +98,39 @@
 
 
 <ul class="videos">
+     <li class="left"> 
+			<h2><span class="epnum">Episode 8, 9 &amp; 10</span> | Hapy Birthday jQuery!</h2> 
+			<img width="360" height="240" src="http://cdn.yayquery.com/ep/10/yayquery_10.png" alt="Episode 10" rel="10" class="clickvid" />
+			<div class="description"> 
+			    <p>Let the celeb-YAY-tion commence! It's jQuery's birthday, but you'll be the one unwrapping the gift of 1.4!  We'll get you up to speed on all of the last-minute goodies, and bring you along on a mini-tour of the upcoming jQuery UI 1.8 release. With forays into CSS, ECMA 5, and outright falsehoods, it's sure to be the adventure of a lifetime! If you've missed us the last two weeks, you definitely won't want to miss yayQuery[10]!</p>
+			</div> 
+			<div class="shownotes"> 
+			    <div class="download"> 
+				<strong>Video:</strong> <a href="http://cdn.yayquery.com/ep/10/yayquery_10.ogv">OGV</a> (170mb) | <a href="http://cdn.yayquery.com/ep/10/yayquery_10.mp4">MP4</a> (186mb)
+				<br /> 
+				<strong>Audio:</strong> <a href="http://cdn.yayquery.com/ep/10/yayquery_10.mp3">MP3</a> (40mb)
+<br />
+<a href="http://vimeo.com/8768879">Watch yayQuery Episode 8/9/10 in HD on vimeo</a>
+<br /><br />
+				<h4>Show Links</h4>
+				<ul class="showlinks">
+<li><a href="http://jquery14.com/">The 14 Days of jQuery</a></li>
+<li><a href="http://api.jquery.com/">jQuery API</a> | <a href="http://api.jquery.com/jQuery.proxy/">$.proxy()</a> | <a href="http://docs.jquery.com/Events/bind#demo">$.bind()</a></li>
+<li><a href="http://github.com/jquery/jquery/commit/308d6cdad023da190ace2a698ee4815ed8dad9c5">JSON.parse commit</a></li>
+<li><a href="http://javascript.crockford.com/prototypal.html">Crockford: Prototypal Inheritance</a></li>
+<li><a href="http://github.com/jquery/jquery/commit/d6d5ed4c683ceee4d3c64ce75e7349dde8205d50">Setter Arguments commit</a></li>
+<li><a href="http://docs.jquery.com/JQuery_1.5_Roadmap">jQuery 1.5 Roadmap</a> | <a href="http://docs.jquery.com/UI/Changelog/1.8a2">jqUI 1.8a2 Changelog</a></li>
+<li><a href="http://www.phpied.com/css-performance-ui-with-fewer-images/">CSS performance: UI with fewer images</a></li>
+<li><a href="http://code.drewwilson.com/entry/autosuggest-jquery-plugin">jQuery AutoSuggest</a></li>
+<li><a href="http://tpgblog.com/2009/12/21/threedots-the-jquery-ellipsis-plugin/">jQuery ThreeDots</a> | <a href="http://www.cs.tut.fi/~jkorpela/shy.html">Soft hyphen (SHY)</a></li>
+<li><a href="http://css-tricks.com/poll-results-what-css-reset-do-you-use/">CSS Reset Poll</a> | <a href="http://html5doctor.com/html-5-reset-stylesheet/">HTML5Doctor CSS Reset</a></li>
+<li><a href="http://github.com/joshuaclayton/blueprint-css/commit/6a3f2f8694da61c1336c906e0fd4a1ed8bcf0afe">Blueprint CSS Reset HTML5</a></li>
+				</ul>
+			    </div> 
+			</div> 
+			<img class="cohitre" src="http://cdn.yayquery.com/site/images/cohitre_10.jpg" alt="Please dont feed ajpiano." width="332" height="232" /> 
+    </li>
+    
 <li class="right"> 
 					<h2>Jingle All The Yay | <span class="epnum">Episode 7</span></h2> 
 					<img width="360" height="240" src="http://cdn.yayquery.com/ep/7/yayquery_7.png" alt="Episode 7" rel="7" class="clickvid" />
@@ -462,12 +487,24 @@ $(function(){
 	    vimeo : 8768879,
 	    ogv   : 'http://cdn.yayquery.com/ep/10/yayquery_10.ogv',
 	    mp4   : 'http://cdn.yayquery.com/ep/10/yayquery_10.mp4'
+	},
+	{
+	    poster: 'http://cdn.yayquery.com/ep/11/yayquery_11.png',
+	    vimeo : undefined,
+	    ogv   : 'http://cdn.yayquery.com/ep/11/yayquery_11.ogv',
+	    mp4   : 'http://cdn.yayquery.com/ep/11/yayquery_11.mp4'
 	}
     ];
 
     $('.clickvid').live('click', function(e){
-      	var vid_id = parseInt($(this).attr('rel'), 10);
-      	$(this).replaceWith($(createVideo(videos, vid_id)));
+      	var vid_id = parseInt($(this).attr('rel'), 10),
+      	    vid_elem =  $(createVideo(videos, vid_id));
+      	$(this).replaceWith( vid_elem  );
+      	
+      	// chrome gets only flash for now cuz it suxxx at html5 video
+      	if (/Chrome/.test(navigator.userAgent)){
+      	  vid_elem.find('source').remove().end().find('object').unwrap();
+      	}
       	return false;
     });
 
