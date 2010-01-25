@@ -58,7 +58,7 @@
 						<br /> 
 						<strong>Audio:</strong> <a href="http://cdn.yayquery.com/ep/11/yayquery_11.mp3">MP3</a> (47mb)
 <br />
-<a href="http://vimeo.com/undefined">Watch yayQuery Episode 11 in HD on vimeo</a>
+<a href="http://vimeo.com/8976667">Watch yayQuery Episode 11 in high-quality on vimeo</a>
 <br /><br />
 						<h4>Show Links</h4>
 						<ul class="showlinks">
