@@ -47,10 +47,10 @@
 
 <ul class="videos">
           <li class="right"> 
-					<h2><span class="epnum">Episode 11</span> | </h2> 
+					<h2><span class="epnum">Episode 11</span> | 14 Days of Yaymes Padolsey</h2> 
 					<img width="360" height="240" src="http://cdn.yayquery.com/ep/11/yayquery_11.png" alt="Episode 11" rel="11" class="clickvid" />
 					<div class="description"> 
-					    <p> </p>
+					    <p>The 12 days of Christmas may be gone and forgotten, but we've got an extra-special surprise gift for you during these holy 14 Days of jQuery 1.4: an interview with blogger, Briton, and jQuery all-star James Padolsey!  We pick <span style="text-decoration:line-through;">the lint out of James' bellybutton</span> James's brain about jQuery Lint, debate anti-patterns, and have high tea with the Queen!  With so much crammed into one episode, you'll want to be sure to ring all your mates to come round for yayQuery[11]!  It's a real cracker, guv!</p>
 					</div> 
 					<div class="shownotes"> 
 					    <div class="download"> 
