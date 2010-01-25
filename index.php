@@ -48,7 +48,7 @@
 <ul class="videos">
           <li class="right"> 
 					<h2><span class="epnum">Episode 11</span> | </h2> 
-					<img width="360" height="240" src="http://cdn.yayquery.com/ep/10/yayquery_11.png" alt="Episode 11" rel="11" class="clickvid" />
+					<img width="360" height="240" src="http://cdn.yayquery.com/ep/11/yayquery_11.png" alt="Episode 11" rel="11" class="clickvid" />
 					<div class="description"> 
 					    <p> </p>
 					</div> 
