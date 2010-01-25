@@ -54,9 +54,9 @@
 					</div> 
 					<div class="shownotes"> 
 					    <div class="download"> 
-						<strong>Video:</strong> <a href="http://cdn.yayquery.com/ep/11/yayquery_11.ogv">OGV</a> (170mb) | <a href="http://cdn.yayquery.com/ep/11/yayquery_11.mp4">MP4</a> (186mb)
+						<strong>Video:</strong> <a href="http://cdn.yayquery.com/ep/11/yayquery_11.ogv">OGV</a> (231mb) | <a href="http://cdn.yayquery.com/ep/11/yayquery_11.mp4">MP4</a> (206mb)
 						<br /> 
-						<strong>Audio:</strong> <a href="http://cdn.yayquery.com/ep/11/yayquery_11.mp3">MP3</a> (40mb)
+						<strong>Audio:</strong> <a href="http://cdn.yayquery.com/ep/11/yayquery_11.mp3">MP3</a> (47mb)
 <br />
 <a href="http://vimeo.com/undefined">Watch yayQuery Episode 11 in HD on vimeo</a>
 <br /><br />
@@ -64,7 +64,7 @@
 						<ul class="showlinks">
 
 <li><a href="http://jquery14.com">14 Days of jQuery</a></li>
-<!-- <li><a href=""> I won a bet </a></li> -->
+<li><a href="http://twitter.com/jeresig/status/7924275165">Paul Irish vs. John Resig</a></li>
 <li><a href="http://javascript.nwbox.com/NWEvents/">NWEvents</a></li>
 <li><a href="http://tpgblog.com/2010/01/20/yayquery-threedots-jquery-plugin-of-the-week/">Plugin Of the Week Badge</a></li>
 <li><a href="http://forum.jquery.com">forum.jquery.com</a></li>
@@ -500,7 +500,7 @@ $(function(){
 	},
 	{
 	    poster: 'http://cdn.yayquery.com/ep/11/yayquery_11.png',
-	    vimeo : undefined,
+	    vimeo : 8976667,
 	    ogv   : 'http://cdn.yayquery.com/ep/11/yayquery_11.ogv',
 	    mp4   : 'http://cdn.yayquery.com/ep/11/yayquery_11.mp4'
 	}
