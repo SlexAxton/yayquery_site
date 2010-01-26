@@ -54,9 +54,9 @@
 					</div> 
 					<div class="shownotes"> 
 					    <div class="download"> 
-						<strong>Video:</strong> <a href="http://cdn.yayquery.com/ep/11/yayquery_11.ogv">OGV</a> (231mb) | <a href="http://cdn.yayquery.com/ep/11/yayquery_11.mp4">MP4</a> (206mb)
+						<strong>Video:</strong> <a href="http://cdn.yayquery.com/ep/11/yayquery_11.ogv">OGV</a> (231mb) | <a href="http://cdn.yayquery.com/ep/11/yayquery_11_patch.mp4">MP4</a> (269mb Audio Fixed)
 						<br /> 
-						<strong>Audio:</strong> <a href="http://cdn.yayquery.com/ep/11/yayquery_11_patch.mp3">MP3</a> (47mb) (Audio Glitch patched in this version! Sorry!)
+						<strong>Audio:</strong> <a href="http://cdn.yayquery.com/ep/11/yayquery_11_patch.mp3">MP3</a> (47mb) (Audio Fixed)
 <br />
 <a href="http://vimeo.com/8976667">Watch yayQuery Episode 11 in high-quality on vimeo</a>
 <br /><br />
