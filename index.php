@@ -46,7 +46,69 @@
 </header>
 
 <ul class="videos">
-          <li class="right"> 
+     <li class="left"> 
+			<h2><span class="epnum">Episode 12</span> | The Complete Bunny's Guide to jQuery</h2> 
+			<img width="360" height="240" src="http://cdn.yayquery.com/ep/12/yayquery_12.png" alt="Episode 12" rel="12" class="clickvid" />
+			<div class="description"> 
+			    <p>When is a forum signature more than just a forum signature?  When it's a ticket to an enchanted world of magic, wonderment, and jQuery plugins!  Join along as we share all sorts of new playthings and playmates, discovered after some opportunistic link clicking.  And with the 1.4 point releases starting to flow, we're here to guide you through the nitty-gritty.  Watch now and find out why yayQuery[12] is So Just Cloud!</p>
+			</div> 
+			<div class="shownotes"> 
+			    <div class="download"> 
+				<strong>Video:</strong> <a href="http://cdn.yayquery.com/ep/12/yayquery_12.ogv">OGV</a> (313mb) | <a href="http://cdn.yayquery.com/ep/12/yayquery_12.mp4">MP4</a> (189mb)
+				<br /> 
+				<strong>Audio:</strong> <a href="http://cdn.yayquery.com/ep/12/yayquery_12.mp3">MP3</a> (37mb)
+<br />
+<a href="http://vimeo.com/9153395">Watch yayQuery Episode 12 in HD on vimeo</a>
+<br /><br />
+				<h4>Show Links</h4>
+				<ul class="showlinks">
+<li><a href="http://webchat.freenode.net/?channels=#jquery">#jQuery on Freenode</a></li>
+<li><a href="http://groups.google.com/group/jquery-dev/browse_thread/thread/6a39be05b8477401#msg_f90341223bb9b68b">It's So Just Cloud</a></li>
+<li><a href="http://jsgt.org/mt/01/">Toshiro Takahashi</a></li>
+<li><a href="http://ecx.images-amazon.com/images/I/412bVZXiWLL._SS500_.jpg">Complete Bunny's Guide to jQuery</a></li>
+<li><a href="http://code.google.com/p/javascript-dominoes/">JavaScript Dominoes</a></li>
+<li><a href="http://meetups.jquery.com/">jQuery Meetups</a></li>
+<li><a href="http://itunes.apple.com/us/app/jquery-cookbook/id346187300?mt=8">jQuery Cookbook iPhone App</a></li>
+<li><a href="http://www.mrspeaker.net/2010/01/14/jquery-iphone-reference/">jQuery 1.4 iPhone Reference App</a></li>
+<li><a href="http://api.jquery.com/jQuery.noop/">jQuery.noop()</a></li>
+<li><a href="http://cloudgen.w0ng.hk/jquery/caret.php">jQuery Caret Plugin</a></li>
+<li><a href="http://paulirish.com/2010/on-jquery-live/">Paul Irish Blog: On jQuery.live</a></li>
+<li><a href="http://jsconf.us/2010">jsconf.us</a></li>
+<li><a href="http://atxwebshow.com/">ATX Web Show</a></li>
+				</ul>
+			    </div> 
+			</div> 
+			<img class="cohitre" src="http://cdn.yayquery.com/site/images/cohitre_12.jpg" alt="Please dont feed ajpiano." width="332" height="232" /> 
+    </li>
+</ul>
+
+
+<section class="outbound">
+    <h4>Video</h4>
+    <a href="http://feeds.feedburner.com/yayQuery"><img src="http://cdn.yayquery.com/site/images/podcast-icon.png"/><span>RSS Feed</span></a>
+    
+    <a href="http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=340422555"><img src="http://cdn.yayquery.com/site/images/podcast-itunes2.png"/><span>iTunes link</span></a>
+     
+    <a href="http://subscribe.getmiro.com/?url1=http%3A//feeds.feedburner.com/yayQuery&trackback1=http%3A//www.miroguide.com/feeds/12786/subscribe-hit&section1=video" title="Subscribe to yayQuery on Miro: Internet TV">
+        <img src="http://subscribe.getmiro.com/img/buttons/wes1.png"  border="0" style="padding-top: 61px;" />
+        <span>Subscribe on Miro</span>
+    </a>
+    
+    <h4>Audio</h4>
+      <a href="http://feeds.feedburner.com/yayQuery_audio"><img src="http://cdn.yayquery.com/site/images/podcast-icon.png"/><span>RSS Feed <small>(audio)</small></span></a>
+
+
+    <a href="http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=340500884"><img src="http://cdn.yayquery.com/site/images/podcast-itunes2.png"/><span>iTunes link <small>(audio)</small></span></a>
+      
+    <h4>Twitter</h4>
+    <a href="http://twitter.com/yayQuery" title="A whole lot of yay, and a query too!"><img src="http://cdn.yayquery.com/site/images/twitter_02.png" alt="@yayQuery" /><span>Follow us at @yayQuery</span></a>
+</section>
+
+
+
+
+<ul class="videos">
+     <li class="right"> 
 					<h2><span class="epnum">Episode 11</span> | 14 Days of Yaymes Padolsey</h2> 
 					<img width="360" height="240" src="http://cdn.yayquery.com/ep/11/yayquery_11.png" alt="Episode 11" rel="11" class="clickvid" />
 					<div class="description" style="overflow:visible"> 
@@ -80,34 +142,6 @@
 					</div> 
 					<img class="cohitre" src="http://cdn.yayquery.com/site/images/cohitre_11.jpg" alt="Please dont feed ajpiano." width="332" height="232" /> 
 		    </li>
-</ul>
-
-
-<section class="outbound">
-    <h4>Video</h4>
-    <a href="http://feeds.feedburner.com/yayQuery"><img src="http://cdn.yayquery.com/site/images/podcast-icon.png"/><span>RSS Feed</span></a>
-    
-    <a href="http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=340422555"><img src="http://cdn.yayquery.com/site/images/podcast-itunes2.png"/><span>iTunes link</span></a>
-     
-    <a href="http://subscribe.getmiro.com/?url1=http%3A//feeds.feedburner.com/yayQuery&trackback1=http%3A//www.miroguide.com/feeds/12786/subscribe-hit&section1=video" title="Subscribe to yayQuery on Miro: Internet TV">
-        <img src="http://subscribe.getmiro.com/img/buttons/wes1.png"  border="0" style="padding-top: 61px;" />
-        <span>Subscribe on Miro</span>
-    </a>
-    
-    <h4>Audio</h4>
-      <a href="http://feeds.feedburner.com/yayQuery_audio"><img src="http://cdn.yayquery.com/site/images/podcast-icon.png"/><span>RSS Feed <small>(audio)</small></span></a>
-
-
-    <a href="http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=340500884"><img src="http://cdn.yayquery.com/site/images/podcast-itunes2.png"/><span>iTunes link <small>(audio)</small></span></a>
-      
-    <h4>Twitter</h4>
-    <a href="http://twitter.com/yayQuery" title="A whole lot of yay, and a query too!"><img src="http://cdn.yayquery.com/site/images/twitter_02.png" alt="@yayQuery" /><span>Follow us at @yayQuery</span></a>
-</section>
-
-
-
-
-<ul class="videos">
      <li class="left"> 
 			<h2><span class="epnum">Episode 8, 9 &amp; 10</span> | Hapy Birthday jQuery!</h2> 
 			<img width="360" height="240" src="http://cdn.yayquery.com/ep/10/yayquery_10.png" alt="Episode 10" rel="10" class="clickvid" />
@@ -503,6 +537,12 @@ $(function(){
 	    vimeo : 9072189,
 	    ogv   : 'http://cdn.yayquery.com/ep/11/yayquery_11.ogv',
 	    mp4   : 'http://cdn.yayquery.com/ep/11/yayquery_11.mp4'
+	},
+	{
+	    poster: 'http://cdn.yayquery.com/ep/12/yayquery_12.png',
+	    vimeo : 9153395,
+	    ogv   : 'http://cdn.yayquery.com/ep/12/yayquery_12.ogv',
+	    mp4   : 'http://cdn.yayquery.com/ep/12/yayquery_12.mp4'
 	}
     ];
 
