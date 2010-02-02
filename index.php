@@ -68,6 +68,7 @@
 <li><a href="http://code.google.com/p/javascript-dominoes/">JavaScript Dominoes</a></li>
 <li><a href="http://meetups.jquery.com/">jQuery Meetups</a></li>
 <li><a href="http://itunes.apple.com/us/app/jquery-cookbook/id346187300?mt=8">jQ Cookbook iPhone App</a> | <a href="http://www.mrspeaker.net/2010/01/14/jquery-iphone-reference/">jQ 1.4 iPhone Reference</a></li>
+<li><a href="http://jsfiddle.net/75JWK/">show/hide Anti-pattern example</a></li>
 <li><a href="http://api.jquery.com/jQuery.noop/">jQuery.noop()</a></li>
 <li><a href="http://cloudgen.w0ng.hk/jquery/caret.php">jQuery Caret Plugin</a></li>
 <li><a href="http://paulirish.com/2010/on-jquery-live/">Paul Irish Blog: On jQuery.live</a></li>
