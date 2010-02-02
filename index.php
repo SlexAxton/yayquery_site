@@ -72,8 +72,7 @@
 <li><a href="http://api.jquery.com/jQuery.noop/">jQuery.noop()</a></li>
 <li><a href="http://cloudgen.w0ng.hk/jquery/caret.php">jQuery Caret Plugin</a></li>
 <li><a href="http://paulirish.com/2010/on-jquery-live/">Paul Irish Blog: On jQuery.live</a></li>
-<li><a href="http://jsconf.us/2010">jsconf.us</a></li>
-<li><a href="http://atxwebshow.com/">ATX Web Show</a></li>
+<li><a href="http://jsconf.us/2010">jsconf.us</a> | <a href="http://atxwebshow.com/">ATX Web Show</a></li>
 				</ul>
 			    </div> 
 			</div> 
