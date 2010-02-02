@@ -6,7 +6,7 @@
 		<link>http://www.yayQuery.com</link>
 		<language>en-us</language>
 		<copyright>Copyright 2009</copyright>
-		<lastBuildDate>Tue, 26 Jan 2010 14:00:00 -0500</lastBuildDate>
+		<lastBuildDate>Tue, 02 Feb 2010 14:00:00 -0500</lastBuildDate>
 		<pubDate>Fri, 06 Nov 2009 11:30:00 -0500</pubDate>
 		<docs>http://blogs.law.harvard.edu/tech/rss</docs>
 		<webMaster>rmurphey@gmail.com</webMaster>
@@ -20,6 +20,20 @@
 		<itunes:explicit>Yes</itunes:explicit>
 		<itunes:image href="http://yayquery.com/img/yayQueryLogoSquare.png"/>
 		<itunes:category text="Technology"/>
+		<item>
+			<title>Episode 12: The Complete Bunny's Guide to jQuery</title>
+			<link>http://yayquery.com</link>
+			<guid>http://cdn.yayquery.com/ep/12/yayquery_12.mp4</guid>
+			<description></description>
+			<enclosure url="http://cdn.yayquery.com/ep/12/yayquery_12.mp4" type="video/mp4" length="198254613"/>
+			<category>Technology</category>
+			<pubDate>Tue, 02 Feb 2010 14:00:00 -0500</pubDate>
+			<itunes:author>Paul Irish, Rebecca Murphey, Alex Sexton, Adam J Sontag</itunes:author>
+			<itunes:explicit>Yes</itunes:explicit>
+			<itunes:summary></itunes:summary>
+			<itunes:duration>00:41:43</itunes:duration>
+			<itunes:keywords>jQuery, front end development, web development, javascript</itunes:keywords>
+		</item>
 		<item>
 			<title>Episode 11: 14 Days of Yaymes Padolsey</title>
 			<link>http://yayquery.com</link>
