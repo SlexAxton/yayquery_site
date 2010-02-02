@@ -50,7 +50,7 @@
 			<h2><span class="epnum">Episode 12</span> | The Complete Bunny's Guide to jQuery</h2> 
 			<img width="360" height="240" src="http://cdn.yayquery.com/ep/12/yayquery_12.png" alt="Episode 12" rel="12" class="clickvid" />
 			<div class="description"> 
-			    <p></p>
+			    <p>When is a forum signature more than just a forum signature?  When it's a ticket to an enchanted world of magic, wonderment, and jQuery plugins!  Join along as we share all sorts of new playthings and playmates, discovered after some opportunistic link clicking.  And with the 1.4 point releases starting to flow, we're here to guide you through the nitty-gritty.  Watch now and find out why yayQuery[12] is So Just Cloud!</p>
 			</div> 
 			<div class="shownotes"> 
 			    <div class="download"> 
