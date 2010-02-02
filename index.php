@@ -63,13 +63,11 @@
 				<h4>Show Links</h4>
 				<ul class="showlinks">
 <li><a href="http://webchat.freenode.net/?channels=#jquery">#jQuery on Freenode</a></li>
-<li><a href="http://groups.google.com/group/jquery-dev/browse_thread/thread/6a39be05b8477401#msg_f90341223bb9b68b">It's So Just Cloud</a></li>
-<li><a href="http://jsgt.org/mt/01/">Toshiro Takahashi</a></li>
+<li><a href="http://groups.google.com/group/jquery-dev/browse_thread/thread/6a39be05b8477401#msg_f90341223bb9b68b">It's So Just Cloud</a> | <a href="http://jsgt.org/mt/01/">Toshiro Takahashi</a></li>
 <li><a href="http://ecx.images-amazon.com/images/I/412bVZXiWLL._SS500_.jpg">Complete Bunny's Guide to jQuery</a></li>
 <li><a href="http://code.google.com/p/javascript-dominoes/">JavaScript Dominoes</a></li>
 <li><a href="http://meetups.jquery.com/">jQuery Meetups</a></li>
-<li><a href="http://itunes.apple.com/us/app/jquery-cookbook/id346187300?mt=8">jQuery Cookbook iPhone App</a></li>
-<li><a href="http://www.mrspeaker.net/2010/01/14/jquery-iphone-reference/">jQuery 1.4 iPhone Reference App</a></li>
+<li><a href="http://itunes.apple.com/us/app/jquery-cookbook/id346187300?mt=8">jQ Cookbook iPhone App</a> | <a href="http://www.mrspeaker.net/2010/01/14/jquery-iphone-reference/">jQ 1.4 iPhone Reference</a></li>
 <li><a href="http://api.jquery.com/jQuery.noop/">jQuery.noop()</a></li>
 <li><a href="http://cloudgen.w0ng.hk/jquery/caret.php">jQuery Caret Plugin</a></li>
 <li><a href="http://paulirish.com/2010/on-jquery-live/">Paul Irish Blog: On jQuery.live</a></li>
@@ -78,7 +76,7 @@
 				</ul>
 			    </div> 
 			</div> 
-			<img class="cohitre" src="http://cdn.yayquery.com/site/images/cohitre_12.jpg" alt="Please dont feed ajpiano." width="332" height="232" /> 
+			<img class="cohitre" src="http://cdn.yayquery.com/ep/12/cohitre_12.jpg" alt="Please dont feed ajpiano." width="332" height="232" /> 
     </li>
 </ul>
 
