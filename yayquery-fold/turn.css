@@ -111,7 +111,9 @@
 width:308px;}
 .girl1 { background: url(dancer-sm.gif); width:40px; height: 93px;}
 .girl2 { background: url(Girl55anim1.gif); width:122px; height: 57px;}
-.kiss {background: url(kiss-02.gif); width:75px; height: 39px; display:none;}
+.kiss {background: url(http://www.gifs.net/Animation11/Animals/Dolphins_and_Whales/Dolphin_in_water.gif); width:160px; height: 105px; display:block; position:absolute;
+right:-1px;
+top:252px;}
 .santa { -moz-box-shadow:-13px -2px 23px black;
 background:white url(http://www.el-okay-ranch.nl/images/santa_wink.gif) no-repeat scroll right top;
 height:164px;
