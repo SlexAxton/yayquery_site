@@ -46,40 +46,38 @@
 </header>
 
 <ul class="videos">
-          <li class="right"> 
-					<h2><span class="epnum">Episode 11</span> | 14 Days of Yaymes Padolsey</h2> 
-					<img width="360" height="240" src="http://cdn.yayquery.com/ep/11/yayquery_11.png" alt="Episode 11" rel="11" class="clickvid" />
-					<div class="description" style="overflow:visible"> 
-					    <p>The 12 days of Christmas may be gone and forgotten, but we've got an extra-special surprise gift for you during these holy 14 Days of jQuery 1.4: an interview with blogger, Briton, and jQuery all-star James Padolsey!  We pick <span style="text-decoration:line-through;">the lint out of James' bellybutton</span> James's brain about jQuery Lint, debate anti-patterns, and have high tea with the Queen!  With so much crammed into one episode, you'll want to be sure to ring all your mates to come round for yayQuery[11]!  It's a real cracker, guv!</p>
-					</div> 
-					<div class="shownotes"> 
-					    <div class="download"> 
-						<strong>Video:</strong> <a href="http://cdn.yayquery.com/ep/11/yayquery_11.ogv">OGV</a> (231mb) | <a href="http://cdn.yayquery.com/ep/11/yayquery_11.mp4">MP4</a> (206mb)
-						<br /> 
-						<strong>Audio:</strong> <a href="http://cdn.yayquery.com/ep/11/yayquery_11.mp3">MP3</a> (47mb)
+     <li class="left"> 
+			<h2><span class="epnum">Episode 12</span> | The Complete Bunny's Guide to jQuery</h2> 
+			<img width="360" height="240" src="http://cdn.yayquery.com/ep/12/yayquery_12.png" alt="Episode 12" rel="12" class="clickvid" />
+			<div class="description"> 
+			    <p>When is a forum signature more than just a forum signature?  When it's a ticket to an enchanted world of magic, wonderment, and jQuery plugins!  Join along as we share all sorts of new playthings and playmates, discovered after some opportunistic link clicking.  And with the 1.4 point releases starting to flow, we're here to guide you through the nitty-gritty.  Watch now and find out why yayQuery[12] is So Just Cloud!</p>
+			</div> 
+			<div class="shownotes"> 
+			    <div class="download"> 
+				<strong>Video:</strong> <a href="http://cdn.yayquery.com/ep/12/yayquery_12.ogv">OGV</a> (313mb) | <a href="http://cdn.yayquery.com/ep/12/yayquery_12.mp4">MP4</a> (189mb)
+				<br /> 
+				<strong>Audio:</strong> <a href="http://cdn.yayquery.com/ep/12/yayquery_12.mp3">MP3</a> (37mb)
 <br />
-<a href="http://vimeo.com/8976667">Watch yayQuery Episode 11 in high-quality on vimeo</a>
+<a href="http://vimeo.com/9153395">Watch yayQuery Episode 12 in HD on vimeo</a>
 <br /><br />
-						<h4>Show Links</h4>
-						<ul class="showlinks">
-
-<li><a href="http://jquery14.com">14 Days of jQuery</a></li>
-<li><a href="http://twitter.com/jeresig/status/7924275165">Paul Irish vs. John Resig</a></li>
-<li><a href="http://javascript.nwbox.com/NWEvents/">NWEvents</a></li>
-<li><a href="http://tpgblog.com/2010/01/20/yayquery-threedots-jquery-plugin-of-the-week/">Plugin Of the Week Badge</a></li>
-<li><a href="http://forum.jquery.com">forum.jquery.com</a></li>
-<li><a href="http://api.jquery.com/jquery.ajax/">$.ajax context option</a></li>
-<li><a href="http://james.padolsey.com/">James Padolsey</a> (<a href="http://twitter.com/jamespadolsey">twtr</a>, <a href="http://github.com/jamespadolsey">gthb</a>)</li>
-<li><a href="http://james.padolsey.com/javascript/jquery-lint/">jQuery Lint</a></li>
-<li><a href="http://api.jquery.com/animate/#per-property-easing">.animate per-property easing</a></li>
-<li><a href="http://james.padolsey.com/javascript/anti-patterns-in-the-making/">James' Anti-Patterns</a>, <a href="http://james.padolsey.com/javascript/jquery-code-smells/">Anti-Patterns 2</a></li>
-
-
-						</ul>
-					    </div> 
-					</div> 
-					<img class="cohitre" src="http://cdn.yayquery.com/site/images/cohitre_11.jpg" alt="Please dont feed ajpiano." width="332" height="232" /> 
-		    </li>
+				<h4>Show Links</h4>
+				<ul class="showlinks">
+<li><a href="http://webchat.freenode.net/?channels=#jquery">#jQuery on Freenode</a></li>
+<li><a href="http://groups.google.com/group/jquery-dev/browse_thread/thread/6a39be05b8477401#msg_f90341223bb9b68b">It's So Just Cloud</a> | <a href="http://jsgt.org/mt/01/">Toshiro Takahashi</a></li>
+<li><a href="http://ecx.images-amazon.com/images/I/412bVZXiWLL._SS500_.jpg">Complete Bunny's Guide to jQuery</a></li>
+<li><a href="http://code.google.com/p/javascript-dominoes/">JavaScript Dominoes</a></li>
+<li><a href="http://meetups.jquery.com/">jQuery Meetups</a></li>
+<li><a href="http://itunes.apple.com/us/app/jquery-cookbook/id346187300?mt=8">jQ Cookbook iPhone App</a> | <a href="http://www.mrspeaker.net/2010/01/14/jquery-iphone-reference/">jQ 1.4 iPhone Reference</a></li>
+<li><a href="http://jsfiddle.net/75JWK/">show/hide Anti-pattern example</a></li>
+<li><a href="http://api.jquery.com/jQuery.noop/">jQuery.noop()</a></li>
+<li><a href="http://cloudgen.w0ng.hk/jquery/caret.php">jQuery Caret Plugin</a></li>
+<li><a href="http://paulirish.com/2010/on-jquery-live/">Paul Irish Blog: On jQuery.live</a></li>
+<li><a href="http://jsconf.us/2010">jsconf.us</a> | <a href="http://atxwebshow.com/">ATX Web Show</a></li>
+				</ul>
+			    </div> 
+			</div> 
+			<img class="cohitre" src="http://cdn.yayquery.com/ep/12/cohitre_12.jpg" alt="Please dont feed ajpiano." width="332" height="232" /> 
+    </li>
 </ul>
 
 
@@ -108,6 +106,40 @@
 
 
 <ul class="videos">
+     <li class="right"> 
+					<h2><span class="epnum">Episode 11</span> | 14 Days of Yaymes Padolsey</h2> 
+					<img width="360" height="240" src="http://cdn.yayquery.com/ep/11/yayquery_11.png" alt="Episode 11" rel="11" class="clickvid" />
+					<div class="description" style="overflow:visible"> 
+					    <p>The 12 days of Christmas may be gone and forgotten, but we've got an extra-special surprise gift for you during these holy 14 Days of jQuery 1.4: an interview with blogger, Briton, and jQuery all-star James Padolsey!  We pick <span style="text-decoration:line-through;">the lint out of James' bellybutton</span> James's brain about jQuery Lint, debate anti-patterns, and take tea with the Queen!  With so much crammed into one episode, you'll want to be sure to ring all your mates to come round for yayQuery[11]!  It's a real cracker, guv!</p>
+					</div> 
+					<div class="shownotes"> 
+					    <div class="download"> 
+						<strong>Video:</strong> <a href="http://cdn.yayquery.com/ep/11/yayquery_11.ogv">OGV</a> (231mb) | <a href="http://cdn.yayquery.com/ep/11/yayquery_11_patch.mp4">MP4</a> (269mb Audio Fixed)
+						<br /> 
+						<strong>Audio:</strong> <a href="http://cdn.yayquery.com/ep/11/yayquery_11_patch.mp3">MP3</a> (47mb) (Audio Fixed)
+<br />
+<a href="http://vimeo.com/8976667">Watch yayQuery Episode 11 in high-quality on vimeo</a>
+<br /><br />
+						<h4>Show Links</h4>
+						<ul class="showlinks">
+
+<li><a href="http://jquery14.com">14 Days of jQuery</a></li>
+<li><a href="http://twitter.com/jeresig/status/7924275165">Paul Irish vs. John Resig</a></li>
+<li><a href="http://javascript.nwbox.com/NWEvents/">NWEvents</a></li>
+<li><a href="http://tpgblog.com/2010/01/20/yayquery-threedots-jquery-plugin-of-the-week/">Plugin Of the Week Badge</a></li>
+<li><a href="http://forum.jquery.com">forum.jquery.com</a></li>
+<li><a href="http://api.jquery.com/jquery.ajax/">$.ajax context option</a></li>
+<li><a href="http://james.padolsey.com/">James Padolsey</a> (<a href="http://twitter.com/jamespadolsey">twtr</a>, <a href="http://github.com/jamespadolsey">gthb</a>)</li>
+<li><a href="http://james.padolsey.com/javascript/jquery-lint/">jQuery Lint</a></li>
+<li><a href="http://api.jquery.com/animate/#per-property-easing">.animate per-property easing</a></li>
+<li><a href="http://james.padolsey.com/javascript/anti-patterns-in-the-making/">James' Anti-Patterns</a>, <a href="http://james.padolsey.com/javascript/jquery-code-smells/">Anti-Patterns 2</a></li>
+
+
+						</ul>
+					    </div> 
+					</div> 
+					<img class="cohitre" src="http://cdn.yayquery.com/site/images/cohitre_11.jpg" alt="Please dont feed ajpiano." width="332" height="232" /> 
+		    </li>
      <li class="left"> 
 			<h2><span class="epnum">Episode 8, 9 &amp; 10</span> | Hapy Birthday jQuery!</h2> 
 			<img width="360" height="240" src="http://cdn.yayquery.com/ep/10/yayquery_10.png" alt="Episode 10" rel="10" class="clickvid" />
@@ -500,9 +532,15 @@ $(function(){
 	},
 	{
 	    poster: 'http://cdn.yayquery.com/ep/11/yayquery_11.png',
-	    vimeo : 8976667,
+	    vimeo : 9072189,
 	    ogv   : 'http://cdn.yayquery.com/ep/11/yayquery_11.ogv',
 	    mp4   : 'http://cdn.yayquery.com/ep/11/yayquery_11.mp4'
+	},
+	{
+	    poster: 'http://cdn.yayquery.com/ep/12/yayquery_12.png',
+	    vimeo : 9153395,
+	    ogv   : 'http://cdn.yayquery.com/ep/12/yayquery_12.ogv',
+	    mp4   : 'http://cdn.yayquery.com/ep/12/yayquery_12.mp4'
 	}
     ];
 
