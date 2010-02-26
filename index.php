@@ -46,7 +46,58 @@
 </header>
 
 <ul class="videos">
-     <li class="left"> 
+     <li class="right"> 
+			<h2><span class="epnum">Episode 13</span> | </h2> 
+			<img width="360" height="240" src="http://cdn.yayquery.com/ep/13/yayquery_13.png" alt="Episode 13" rel="13" class="clickvid" />
+			<div class="description"> 
+			    <p></p>
+			</div> 
+			<div class="shownotes"> 
+			    <div class="download"> 
+				<strong>Video:</strong> <a href="http://cdn.yayquery.com/ep/13/yayquery_13.ogv">OGV</a> (250mb) | <a href="http://cdn.yayquery.com/ep/13/yayquery_13.mp4">MP4</a> (288mb)
+				<br /> 
+				<strong>Audio:</strong> <a href="http://cdn.yayquery.com/ep/13/yayquery_13.mp3">MP3</a> (37mb)
+<br />
+<a href="http://vimeo.com/********************">Watch yayQuery Episode 13 in HD on vimeo</a>
+<br /><br />
+				<h4>Show Links</h4>
+				<ul class="showlinks">
+
+
+				</ul>
+			    </div> 
+			</div> 
+			<img class="cohitre" src="http://cdn.yayquery.com/ep/13/cohitre_13.jpg" alt="It’s a vision that leads the prophet. It’s a destiny that transforms the immaculate. Taitus rocin." width="332" height="232" /> 
+    </li>
+</ul>
+
+
+<section class="outbound">
+    <h4>Video</h4>
+    <a href="http://feeds.feedburner.com/yayQuery"><img src="http://cdn.yayquery.com/site/images/podcast-icon.png"/><span>RSS Feed</span></a>
+    
+    <a href="http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=340422555"><img src="http://cdn.yayquery.com/site/images/podcast-itunes2.png"/><span>iTunes link</span></a>
+     
+    <a href="http://subscribe.getmiro.com/?url1=http%3A//feeds.feedburner.com/yayQuery&trackback1=http%3A//www.miroguide.com/feeds/12786/subscribe-hit&section1=video" title="Subscribe to yayQuery on Miro: Internet TV">
+        <img src="http://subscribe.getmiro.com/img/buttons/wes1.png"  border="0" style="padding-top: 61px;" />
+        <span>Subscribe on Miro</span>
+    </a>
+    
+    <h4>Audio</h4>
+      <a href="http://feeds.feedburner.com/yayQuery_audio"><img src="http://cdn.yayquery.com/site/images/podcast-icon.png"/><span>RSS Feed <small>(audio)</small></span></a>
+
+
+    <a href="http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=340500884"><img src="http://cdn.yayquery.com/site/images/podcast-itunes2.png"/><span>iTunes link <small>(audio)</small></span></a>
+      
+    <h4>Twitter</h4>
+    <a href="http://twitter.com/yayQuery" title="A whole lot of yay, and a query too!"><img src="http://cdn.yayquery.com/site/images/twitter_02.png" alt="@yayQuery" /><span>Follow us at @yayQuery</span></a>
+</section>
+
+
+
+
+<ul class="videos">
+    <li class="left"> 
 			<h2><span class="epnum">Episode 12</span> | The Complete Bunny's Guide to jQuery</h2> 
 			<img width="360" height="240" src="http://cdn.yayquery.com/ep/12/yayquery_12.png" alt="Episode 12" rel="12" class="clickvid" />
 			<div class="description"> 
@@ -78,34 +129,6 @@
 			</div> 
 			<img class="cohitre" src="http://cdn.yayquery.com/ep/12/cohitre_12.jpg" alt="Please dont feed ajpiano." width="332" height="232" /> 
     </li>
-</ul>
-
-
-<section class="outbound">
-    <h4>Video</h4>
-    <a href="http://feeds.feedburner.com/yayQuery"><img src="http://cdn.yayquery.com/site/images/podcast-icon.png"/><span>RSS Feed</span></a>
-    
-    <a href="http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=340422555"><img src="http://cdn.yayquery.com/site/images/podcast-itunes2.png"/><span>iTunes link</span></a>
-     
-    <a href="http://subscribe.getmiro.com/?url1=http%3A//feeds.feedburner.com/yayQuery&trackback1=http%3A//www.miroguide.com/feeds/12786/subscribe-hit&section1=video" title="Subscribe to yayQuery on Miro: Internet TV">
-        <img src="http://subscribe.getmiro.com/img/buttons/wes1.png"  border="0" style="padding-top: 61px;" />
-        <span>Subscribe on Miro</span>
-    </a>
-    
-    <h4>Audio</h4>
-      <a href="http://feeds.feedburner.com/yayQuery_audio"><img src="http://cdn.yayquery.com/site/images/podcast-icon.png"/><span>RSS Feed <small>(audio)</small></span></a>
-
-
-    <a href="http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=340500884"><img src="http://cdn.yayquery.com/site/images/podcast-itunes2.png"/><span>iTunes link <small>(audio)</small></span></a>
-      
-    <h4>Twitter</h4>
-    <a href="http://twitter.com/yayQuery" title="A whole lot of yay, and a query too!"><img src="http://cdn.yayquery.com/site/images/twitter_02.png" alt="@yayQuery" /><span>Follow us at @yayQuery</span></a>
-</section>
-
-
-
-
-<ul class="videos">
      <li class="right"> 
 					<h2><span class="epnum">Episode 11</span> | 14 Days of Yaymes Padolsey</h2> 
 					<img width="360" height="240" src="http://cdn.yayquery.com/ep/11/yayquery_11.png" alt="Episode 11" rel="11" class="clickvid" />
