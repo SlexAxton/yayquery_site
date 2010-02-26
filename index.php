@@ -567,7 +567,7 @@ $(function(){
 	},
 	{
 	    poster: 'http://cdn.yayquery.com/ep/13/yayquery_13.png',
-	    vimeo : undefined,
+	    vimeo : 9767602,
 	    ogv   : 'http://cdn.yayquery.com/ep/13/yayquery_13.ogv',
 	    mp4   : 'http://cdn.yayquery.com/ep/13/yayquery_13.mp4'
 	}
