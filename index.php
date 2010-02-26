@@ -50,7 +50,7 @@
 			<h2><span class="epnum">Episode 13</span> | </h2> 
 			<img width="360" height="240" src="http://cdn.yayquery.com/ep/13/yayquery_13.png" alt="Episode 13" rel="13" class="clickvid" />
 			<div class="description"> 
-			    <p></p>
+			    <p>After a layoff which shall forever be shrouded in mystery, we are back, HARD!  With hot docs links and piping fresh sauce tools, you'll be hungry for front-end goodness, and we're delivering it in 30 minutes -- or your money back!  There may even be a plugin for dessert.  While our hiatus may have left you teary, it's time to snack on this yayQuery!</p>
 			</div> 
 			<div class="shownotes"> 
 			    <div class="download"> 
@@ -58,12 +58,11 @@
 				<br /> 
 				<strong>Audio:</strong> <a href="http://cdn.yayquery.com/ep/13/yayquery_13.mp3">MP3</a> (37mb)
 <br />
-<a href="http://vimeo.com/********************">Watch yayQuery Episode 13 in HD on vimeo</a>
+<a href="http://vimeo.com/9767602">Watch yayQuery Episode 13 in HD on vimeo</a>
 <br /><br />
 				<h4>Show Links</h4>
 				<ul class="showlinks">
-
-
+<li>Links to come soon.</li>
 				</ul>
 			    </div> 
 			</div> 
