@@ -62,7 +62,20 @@
 <br /><br />
 				<h4>Show Links</h4>
 				<ul class="showlinks">
-<li>Links to come soon.</li>
+                    <li>a href="http://blog.jquery.com/2010/02/19/jquery-142-released/">jQuery</a></li>
+                    <li><a href="http://api.jquery.com/delegate/">delegate() in 1.4.2</a></li>
+                    <li><a href="http://github.com/jdalton/fusejs">fuse.js</a></li>
+                    <li><a href="http://james.padolsey.com/jquery/">jQuery source viewer (padolsey)</a></li>
+                    <li><a href="http://www.jqapi.com">jqapi.com: Alternative jQuery Docs</a></li>
+                    <li><a href="http://api.jquery.com/map/">jQuery.fn.map()</a></li>
+                    <li><a href="http://digitalbush.com/2010/02/01/new-project-hotlinkr/">hotlinkr</a></li>
+                    <li><a href="http://www.miketaylr.com/jquery-nightly/jquery-hourly.js">jQuery Hourly Build</a></li>
+                    <li><a href="http://www.miketaylr.com/jquery-nightly/jquery-nightly.js">jQuery Nightly Build</a></li>
+                    <li><a href="http://alexsexton.com/?p=49">Superclassy Inheritance in JavaScript</a></li>
+                    <li><a href="http://www.nczonline.net/blog/2009/03/03/the-art-of-throwing-javascript-errors/">The Art of Throwing JavaScript Errors</a></li>
+                    <li><a href="http://wiki.jqueryui.com/Position">jQuery UI Position Utility</a></li>
+                    <li><a href="http://pastie.org/805428">1337 hovering</a></li>
+                    <li><a href="http://cherne.net/brian/resources/jquery.hoverIntent.html">hoverIntent</a> | <a href="http://blog.threedubmedia.com/2008/08/eventspecialhover.html">$.event.special.hover</a> | <a href="http://benalman.com/projects/jquery-dotimeout-plugin/">doTimeout</a></li>
 				</ul>
 			    </div> 
 			</div> 
