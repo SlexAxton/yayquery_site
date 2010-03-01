@@ -62,8 +62,7 @@
 <br /><br />
 				<h4>Show Links</h4>
 				<ul class="showlinks">
-                    <li><a href="http://blog.jquery.com/2010/02/19/jquery-142-released/">jQuery</a></li>
-                    <li><a href="http://api.jquery.com/delegate/">delegate() in 1.4.2</a></li>
+                    <li><a href="http://blog.jquery.com/2010/02/19/jquery-142-released/">1.4.2</a> | <a href="http://api.jquery.com/delegate/">delegate() in 1.4.2</a></li>
                     <li><a href="http://github.com/jdalton/fusejs">fuse.js</a></li>
                     <li><a href="http://james.padolsey.com/jquery/">jQuery source viewer (padolsey)</a></li>
                     <li><a href="http://www.jqapi.com">jqapi.com: Alternative jQuery Docs</a></li>
