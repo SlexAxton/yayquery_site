@@ -48,7 +48,7 @@
 <ul class="videos">
      <li class="left"> 
 			<h2><span class="epnum">Episode ???</span> | South by SouthBEST TIME EVAR!!1</h2> 
-			<img width="360" height="240" src="http://cdn.yayquery.com/ep/sxsw/yayquery_sxsw.png" alt="Episode ???" rel="sxsw" class="clickvid" />
+			<img width="360" height="240" src="http://cdn.yayquery.com/ep/sxsw/yayquery_sxsw.png" alt="Episode ???" rel="14" class="clickvid" />
 			<div class="description"> 
 			    <p>Springtime is in the air, bringing with it the sweet aroma of renewal &hellip; and conferences. Mere moments before departing Austin, your partners in Yay checked in on RealLifeSquare to bring you their exclusive SXSWi roundup &mdash; but who knows what else they'll MiX in?!</p>
 			</div> 
@@ -606,6 +606,12 @@ $(function(){
 	    vimeo : 9767602,
 	    ogv   : 'http://cdn.yayquery.com/ep/13/yayquery_13.ogv',
 	    mp4   : 'http://cdn.yayquery.com/ep/13/yayquery_13.mp4'
+	},
+        {
+	    poster: 'http://cdn.yayquery.com/ep/sxsw/yayquery_sxsw.png',
+	    vimeo : 10235929,
+	    ogv   : 'http://cdn.yayquery.com/ep/sxsw/yayquery_sxsw.ogv',
+	    mp4   : 'http://cdn.yayquery.com/ep/sxsw/yayquery_sxsw.mp4'
 	}
     ];
 
