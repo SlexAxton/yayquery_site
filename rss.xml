@@ -5,8 +5,8 @@
 		<description>The yayQuery hosts have years of experience being neck-deep in their own jQuery development, as well as providing support and training to the community. The podcast tries to capture one of our favorite conference pastimes -- hanging out at a bar and talking code. About the hosts: From afar when you notice them at jquery conference, they look like the cool kids in high school. They just gather around and make fun of everybody.</description>
 		<link>http://www.yayQuery.com</link>
 		<language>en-us</language>
-		<copyright>Copyright 2009</copyright>
-		<lastBuildDate>Fri, 26 Feb 2010 14:00:00 -0500</lastBuildDate>
+		<copyright>Copyright 2010</copyright>
+		<lastBuildDate>Wed, 17 Mar 2010 18:00:00 -0500</lastBuildDate>
 		<pubDate>Fri, 06 Nov 2009 11:30:00 -0500</pubDate>
 		<docs>http://blogs.law.harvard.edu/tech/rss</docs>
 		<webMaster>rmurphey@gmail.com</webMaster>
@@ -22,7 +22,20 @@
 		<itunes:category text="Technology"/>
 
 
-
+		<item>
+			<title>Episode ???: South by SouthBEST TIME EVAR!!1</title>
+			<link>http://yayquery.com</link>
+			<guid>http://cdn.yayquery.com/ep/sxsw/yayquery_sxsw.mp4</guid>
+			<description>Springtime is in the air, bringing with it the sweet aroma of renewal ... and conferences.  Mere moments before departing Austin, your partners in Yay checked in on RealLifeSquare to bring you their exclusive SXSWi roundup -- but who knows what else they'll MiX in?!</description>
+			<enclosure url="http://cdn.yayquery.com/ep/sxsw/yayquery_sxsw.mp4" type="video/mp4" length="101288651"/>
+			<category>Technology</category>
+			<pubDate>Wed, 17 Mar 2010 14:00:00 -0500</pubDate>
+			<itunes:author>Paul Irish, Rebecca Murphey, Alex Sexton, Adam J Sontag</itunes:author>
+			<itunes:explicit>Yes</itunes:explicit>
+			<itunes:summary>Springtime is in the air, bringing with it the sweet aroma of renewal ... and conferences.  Mere moments before departing Austin, your partners in Yay checked in on RealLifeSquare to bring you their exclusive SXSWi roundup -- but who knows what else they'll MiX in?!</itunes:summary>
+			<itunes:duration>00:09:23</itunes:duration>
+			<itunes:keywords>jQuery, front end development, web development, javascript</itunes:keywords>
+		</item>
 		<item>
 			<title>Episode 13: Gotta Try to Catch 'Em All</title>
 			<link>http://yayquery.com</link>

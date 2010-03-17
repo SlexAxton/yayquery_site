@@ -46,37 +46,31 @@
 </header>
 
 <ul class="videos">
-     <li class="right"> 
-			<h2><span class="epnum">Episode 13</span> | Gotta Try to Catch 'Em All</h2> 
-			<img width="360" height="240" src="http://cdn.yayquery.com/ep/13/yayquery_13.png" alt="Episode 13" rel="13" class="clickvid" />
+     <li class="left"> 
+			<h2><span class="epnum">Episode ???</span> | South by SouthBEST TIME EVAR!!1</h2> 
+			<img width="360" height="240" src="http://cdn.yayquery.com/ep/sxsw/yayquery_sxsw.png" alt="Episode ???" rel="sxsw" class="clickvid" />
 			<div class="description"> 
-			    <p>After a layoff which shall forever be shrouded in mystery, we are back, HARD!  With hot docs links and piping fresh sauce tools, you'll be hungry for front-end goodness, and we're delivering it in 30 minutes -- or your money back!  There may even be a plugin for dessert.  While our hiatus may have left you teary, it's time to snack on this yayQuery!</p>
+			    <p>Springtime is in the air, bringing with it the sweet aroma of renewal &hellip; and conferences. Mere moments before departing Austin, your partners in Yay checked in on RealLifeSquare to bring you their exclusive SXSWi roundup &mdash; but who knows what else they'll MiX in?!</p>
 			</div> 
 			<div class="shownotes"> 
 			    <div class="download"> 
-				<strong>Video:</strong> <a href="http://cdn.yayquery.com/ep/13/yayquery_13.ogv">OGV</a> (250mb) | <a href="http://cdn.yayquery.com/ep/13/yayquery_13.mp4">MP4</a> (288mb)
+				<strong>Video:</strong> <a href="http://cdn.yayquery.com/ep/sxsw/yayquery_sxsw.ogv">OGV</a> (198mb) | <a href="http://cdn.yayquery.com/ep/sxsw/yayquery_sxsw.mp4">MP4</a> (97mb)
 				<br /> 
-				<strong>Audio:</strong> <a href="http://cdn.yayquery.com/ep/13/yayquery_13.mp3">MP3</a> (37mb)
+				<strong>Audio:</strong> <a href="http://cdn.yayquery.com/ep/sxsw/yayquery_sxsw.mp3">MP3</a> (8mb)
 <br />
-<a href="http://vimeo.com/9767602">Watch yayQuery Episode 13 in HD on vimeo</a>
+<a href="http://vimeo.com/10235929">Watch in HD on vimeo</a>
 <br /><br />
 				<h4>Show Links</h4>
 				<ul class="showlinks">
-                    <li><a href="http://blog.jquery.com/2010/02/19/jquery-142-released/">1.4.2</a> | <a href="http://api.jquery.com/delegate/">delegate() in 1.4.2</a></li>
-                    <li><a href="http://github.com/jdalton/fusejs">fuse.js</a></li>
-                    <li><a href="http://james.padolsey.com/jquery/">jQuery source viewer</a> | <a href="http://www.jqapi.com">jqapi.com</a></li>
-                    <li><a href="http://api.jquery.com/map/">jQuery.fn.map()</a></li>
-                    <li><a href="http://digitalbush.com/2010/02/01/new-project-hotlinkr/">hotlinkr</a></li>
-                    <li><a href="http://www.miketaylr.com/jquery-nightly/jquery-hourly.js">jQuery Hourly Build</a> | <a href="http://www.miketaylr.com/jquery-nightly/jquery-nightly.js">jQuery Nightly Build</a></li>
-                    <li><a href="http://alexsexton.com/?p=49">Superclassy Inheritance in JavaScript</a></li>
-                    <li><a href="http://www.nczonline.net/blog/2009/03/03/the-art-of-throwing-javascript-errors/">The Art of Throwing JavaScript Errors</a></li>
-                    <li><a href="http://wiki.jqueryui.com/Position">jQuery UI Position Utility</a></li>
-                    <li><a href="http://pastie.org/805428">1337 hovering</a></li>
-                    <li><a href="http://cherne.net/brian/resources/jquery.hoverIntent.html">hoverIntent</a> | <a href="http://blog.threedubmedia.com/2008/08/eventspecialhover.html">$.event.special.hover</a> | <a href="http://benalman.com/projects/jquery-dotimeout-plugin/">doTimeout</a></li>
+                    <li><a href="http://txjs.eventbrite.com">TXJS</a></li>
+                    <li><a href="http://ie.microsoft.com/testdrive/Default.html">IE9 test drive</a></li>
+					<li><a href="http://www.css3.info/microsoft-announces-css3-support-for-internet-explorer-9-ie9/">CSS3 support in IE9</a></li>
+					<li><a href="http://blog.jquery.com/2010/03/16/microsoft-to-expand-its-collaboration-with-the-jquery-community/">Microsoft + jQuery</a></li>
+                    <li><a href="http://vimeo.com/yayquery">yayQuery SXSW outtakes</a></li>
 				</ul>
 			    </div> 
 			</div> 
-			<img class="cohitre" src="http://cdn.yayquery.com/ep/13/cohitre_13.jpg" alt="It’s a vision that leads the prophet. It’s a destiny that transforms the immaculate. Taitus rocin." width="332" height="232" /> 
+			<img class="cohitre" src="http://cdn.yayquery.com/ep/sxsw/cohitre_sxsw.jpg" alt="It’s a vision that leads the prophet. It’s a destiny that transforms the immaculate. Taitus rocin." width="332" height="232" /> 
     </li>
 </ul>
 
@@ -106,6 +100,39 @@
 
 
 <ul class="videos">
+	     <li class="right"> 
+				<h2><span class="epnum">Episode 13</span> | Gotta Try to Catch 'Em All</h2> 
+				<img width="360" height="240" src="http://cdn.yayquery.com/ep/13/yayquery_13.png" alt="Episode 13" rel="13" class="clickvid" />
+				<div class="description"> 
+				    <p>After a layoff which shall forever be shrouded in mystery, we are back, HARD!  With hot docs links and piping fresh sauce tools, you'll be hungry for front-end goodness, and we're delivering it in 30 minutes -- or your money back!  There may even be a plugin for dessert.  While our hiatus may have left you teary, it's time to snack on this yayQuery!</p>
+				</div> 
+				<div class="shownotes"> 
+				    <div class="download"> 
+					<strong>Video:</strong> <a href="http://cdn.yayquery.com/ep/13/yayquery_13.ogv">OGV</a> (250mb) | <a href="http://cdn.yayquery.com/ep/13/yayquery_13.mp4">MP4</a> (288mb)
+					<br /> 
+					<strong>Audio:</strong> <a href="http://cdn.yayquery.com/ep/13/yayquery_13.mp3">MP3</a> (37mb)
+	<br />
+	<a href="http://vimeo.com/9767602">Watch yayQuery Episode 13 in HD on vimeo</a>
+	<br /><br />
+					<h4>Show Links</h4>
+					<ul class="showlinks">
+	                    <li><a href="http://blog.jquery.com/2010/02/19/jquery-142-released/">1.4.2</a> | <a href="http://api.jquery.com/delegate/">delegate() in 1.4.2</a></li>
+	                    <li><a href="http://github.com/jdalton/fusejs">fuse.js</a></li>
+	                    <li><a href="http://james.padolsey.com/jquery/">jQuery source viewer</a> | <a href="http://www.jqapi.com">jqapi.com</a></li>
+	                    <li><a href="http://api.jquery.com/map/">jQuery.fn.map()</a></li>
+	                    <li><a href="http://digitalbush.com/2010/02/01/new-project-hotlinkr/">hotlinkr</a></li>
+	                    <li><a href="http://www.miketaylr.com/jquery-nightly/jquery-hourly.js">jQuery Hourly Build</a> | <a href="http://www.miketaylr.com/jquery-nightly/jquery-nightly.js">jQuery Nightly Build</a></li>
+	                    <li><a href="http://alexsexton.com/?p=49">Superclassy Inheritance in JavaScript</a></li>
+	                    <li><a href="http://www.nczonline.net/blog/2009/03/03/the-art-of-throwing-javascript-errors/">The Art of Throwing JavaScript Errors</a></li>
+	                    <li><a href="http://wiki.jqueryui.com/Position">jQuery UI Position Utility</a></li>
+	                    <li><a href="http://pastie.org/805428">1337 hovering</a></li>
+	                    <li><a href="http://cherne.net/brian/resources/jquery.hoverIntent.html">hoverIntent</a> | <a href="http://blog.threedubmedia.com/2008/08/eventspecialhover.html">$.event.special.hover</a> | <a href="http://benalman.com/projects/jquery-dotimeout-plugin/">doTimeout</a></li>
+					</ul>
+				    </div> 
+				</div> 
+				<img class="cohitre" src="http://cdn.yayquery.com/ep/13/cohitre_13.jpg" alt="It’s a vision that leads the prophet. It’s a destiny that transforms the immaculate. Taitus rocin." width="332" height="232" /> 
+	    </li>
+
     <li class="left"> 
 			<h2><span class="epnum">Episode 12</span> | The Complete Bunny's Guide to jQuery</h2> 
 			<img width="360" height="240" src="http://cdn.yayquery.com/ep/12/yayquery_12.png" alt="Episode 12" rel="12" class="clickvid" />
