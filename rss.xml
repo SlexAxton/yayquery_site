@@ -3,10 +3,10 @@
 	<channel>
 		<title>yayQuery</title>
 		<description>The yayQuery hosts have years of experience being neck-deep in their own jQuery development, as well as providing support and training to the community. The podcast tries to capture one of our favorite conference pastimes -- hanging out at a bar and talking code. About the hosts: From afar when you notice them at jquery conference, they look like the cool kids in high school. They just gather around and make fun of everybody.</description>
-		<link>http://www.yayQuery.com</link>
+		<link>http://yayquery.com/</link>
 		<language>en-us</language>
 		<copyright>Copyright 2010</copyright>
-		<lastBuildDate>Wed, 17 Mar 2010 18:00:00 -0500</lastBuildDate>
+		<lastBuildDate>Wed, 21 Apr 2010 22:00:00 -0500</lastBuildDate>
 		<pubDate>Fri, 06 Nov 2009 11:30:00 -0500</pubDate>
 		<docs>http://blogs.law.harvard.edu/tech/rss</docs>
 		<webMaster>rmurphey@gmail.com</webMaster>
@@ -20,8 +20,20 @@
 		<itunes:explicit>Yes</itunes:explicit>
 		<itunes:image href="http://yayquery.com/img/yayQueryLogoSquare.png"/>
 		<itunes:category text="Technology"/>
-
-
+<item>
+			<title>Episode 16: A Gource of the Source, Of Course, Of Course</title>
+			<link>http://yayquery.com</link>
+			<guid>http://cdn.yayquery.com/ep/16/yayquery_16_ipod.mp4</guid>
+			<description>Spring has arrived, and the air is thick with the smell of buzzwords. So if you've been begging for CSS3, consider your prayers answered. If you didn't think HTML5 Video was winnable until it was skinnable, rejoice!  Templating more your thing? Shwing!  Plus, jQuery's history will dance before your very eyes in a world premiere music video event that packs a healthy dose of 'corn!  If I were you, I would have stopped reading this and clicked play a long time ago</description>
+			<enclosure url="http://cdn.yayquery.com/ep/16/yayquery_16_ipod.mp4" type="video/mp4" length="262956567"/>
+			<category>Technology</category>
+			<pubDate>Wed, 21 Apr 2010 22:00:00 -0500</pubDate>
+			<itunes:author>Paul Irish, Rebecca Murphey, Alex Sexton, Adam J Sontag</itunes:author>
+			<itunes:explicit>Yes</itunes:explicit>
+			<itunes:summary>Spring has arrived, and the air is thick with the smell of buzzwords. So if you've been begging for CSS3, consider your prayers answered. If you didn't think HTML5 Video was winnable until it was skinnable, rejoice!  Templating more your thing? Shwing!  Plus, jQuery's history will dance before your very eyes in a world premiere music video event that packs a healthy dose of 'corn!  If I were you, I would have stopped reading this and clicked play a long time ago</itunes:summary>
+			<itunes:duration>00:37:40</itunes:duration>
+			<itunes:keywords>jQuery, front end development, web development, javascript</itunes:keywords>
+		</item>
 		<item>
 			<title>Episode ???: South by SouthBEST TIME EVAR!!1</title>
 			<link>http://yayquery.com</link>
