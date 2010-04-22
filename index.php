@@ -46,32 +46,39 @@
 </header>
 
 <ul class="videos">
-     <li class="left"> 
-			<h2><span class="epnum">Episode ???</span> | South by SouthBEST TIME EVAR!!1</h2> 
-			<img width="360" height="240" src="http://cdn.yayquery.com/ep/sxsw/yayquery_sxsw.png" alt="Episode ???" rel="sxsw" class="clickvid" />
-			<div class="description"> 
-			    <p>Springtime is in the air, bringing with it the sweet aroma of renewal &hellip; and conferences. Mere moments before departing Austin, your partners in Yay checked in on RealLifeSquare to bring you their exclusive SXSWi roundup &mdash; but who knows what else they'll MiX in?!</p>
-			</div> 
-			<div class="shownotes"> 
-			    <div class="download"> 
-				<strong>Video:</strong> <a href="http://cdn.yayquery.com/ep/sxsw/yayquery_sxsw.ogv">OGV</a> (198mb) | <a href="http://cdn.yayquery.com/ep/sxsw/yayquery_sxsw.mp4">MP4</a> (97mb)
-				<br /> 
-				<strong>Audio:</strong> <a href="http://cdn.yayquery.com/ep/sxsw/yayquery_sxsw.mp3">MP3</a> (8mb)
-<br />
-<a href="http://vimeo.com/10235929">Watch in HD on vimeo</a>
-<br /><br />
-				<h4>Show Links</h4>
-				<ul class="showlinks">
-                    <li><a href="http://txjs.eventbrite.com">TXJS</a></li>
-                    <li><a href="http://ie.microsoft.com/testdrive/Default.html">IE9 test drive</a></li>
-					<li><a href="http://www.css3.info/microsoft-announces-css3-support-for-internet-explorer-9-ie9/">CSS3 support in IE9</a></li>
-					<li><a href="http://blog.jquery.com/2010/03/16/microsoft-to-expand-its-collaboration-with-the-jquery-community/">Microsoft + jQuery</a></li>
-                    <li><a href="http://vimeo.com/yayquery">yayQuery SXSW outtakes</a></li>
-				</ul>
-			    </div> 
-			</div> 
-			<img class="cohitre" src="http://cdn.yayquery.com/ep/sxsw/cohitre_sxsw.jpg" alt="It’s a vision that leads the prophet. It’s a destiny that transforms the immaculate. Taitus rocin." width="332" height="232" /> 
-    </li>
+     <li class="right"> 
+				<h2><span class="epnum">Episode 16</span> | A Gource of the Source, Of Course, Of Course</h2> 
+				<img width="360" height="240" src="http://cdn.yayquery.com/ep/16/yayquery_16.png" alt="Episode 16" rel="16" class="clickvid" />
+				<div class="description"> 
+				    <p>Spring has arrived, and the air is thick with the smell of buzzwords. So if you've been begging for CSS3, consider your prayers answered. If you didn't think HTML5 Video was winnable until it was skinnable, rejoice!  Templating more your thing? Shwing!  Plus, jQuery's history will dance before your very eyes in a world premiere music video event that packs a healthy dose of 'corn!  If I were you, I would have stopped reading this and clicked play a long time ago</p>
+				</div> 
+				<div class="shownotes"> 
+				    <div class="download"> 
+					<strong>Video:</strong> <a href="http://cdn.yayquery.com/ep/16/yayquery_16.ogv">OGV</a> (204mb) | <a href="http://cdn.yayquery.com/ep/16/yayquery_16.mp4">MP4</a> (221mb)
+					<br /> 
+					<strong>Audio:</strong> <a href="http://cdn.yayquery.com/ep/16/yayquery_16.mp3">MP3</a> (42mb)
+	<br />
+	<a href="http://vimeo.com/11068467">Watch yayQuery Episode 16 in HD on vimeo</a>
+	<br /><br />
+					<h4>Show Links</h4>
+					<ul class="showlinks">
+                   	                    <li><a href="http://iecss.com/">IECSS</a> | <a href="http://css3please.com/">css3please</a></li>
+                   	                    <li><a href="http://jsconf.us/2010/">JSConf</a> | <a href="http://texasjavascript.com/">TXJS</a> | <a href="http://events.jquery.org/2010/sf-bay-area/">SF jQ Con</a></li>
+                   	                    <li><a href="http://taitems.tumblr.com/post/482577430/introducing-aristo-a-jquery-ui-theme">jQuery UI Aristo</a></li>
+                   	                    <li><a href="http://code.google.com/p/gource/">Gource</a></li>
+                   	                    <li><a href="http://www.prototypejs.org/2010/4/5/prototype-1-7-rc1-sizzle-layout-dimensions-api-event-delegation-and-more">Prototype 1.7 RC1</a></li>
+                   	                    <li><a href="http://www.kaltura.org/project/HTML5_Video_Media_JavaScript_Library">Kaltura</a> | <a href="http://demo.paranoidr.de/jVideo/">jVideo</a></li>
+                   	                    <li><a href="http://github.com/azatoth/jquery-video">jQuery Video</a> | <a href="http://www.filenew.org/projekktor/">Projekktor</a></li>
+                   	                    <li><a href="http://psdcollector.blogspot.com/2010/03/jquery-14-full-documentation-in-chm.html">jQuery Docs CHM</a></li>
+<li><a href="http://github.com/codespeaks/modulr">Modulr</a> | <a href="http://www.plupload.com/example_queuewidget.php">Plupload</a> | <a href="http://www.adequatelygood.com/2010/3/Performance-of-vs-">Threequals</a></li>
+<li><a href="http://ryanflorence.com/object-oriented-jquery-with-mootools-pigs-take-flight/">Mootools <3z jQuery</a></li>
+<li><a href="http://annevankesteren.nl/test/contenteditable-style.htm">ContentEditable</a> | <a href="http://morrisonpitt.com/jsPlumb/html/demo.html ">jsPlumb</a></li>
+
+					</ul>
+				    </div> 
+				</div> 
+				<img class="cohitre" src="http://cdn.yayquery.com/ep/16/cohitre_16.jpg" alt="We should just throw out the entire HTML5 Spec and start over." width="332" height="232" /> 
+	    </li>
 </ul>
 
 
@@ -100,6 +107,32 @@
 
 
 <ul class="videos">
+<li class="left"> 
+			<h2><span class="epnum">Episode ???</span> | South by SouthBEST TIME EVAR!!1</h2> 
+			<img width="360" height="240" src="http://cdn.yayquery.com/ep/sxsw/yayquery_sxsw.png" alt="Episode ???" rel="sxsw" class="clickvid" />
+			<div class="description"> 
+			    <p>Springtime is in the air, bringing with it the sweet aroma of renewal &hellip; and conferences. Mere moments before departing Austin, your partners in Yay checked in on RealLifeSquare to bring you their exclusive SXSWi roundup &mdash; but who knows what else they'll MiX in?!</p>
+			</div> 
+			<div class="shownotes"> 
+			    <div class="download"> 
+				<strong>Video:</strong> <a href="http://cdn.yayquery.com/ep/sxsw/yayquery_sxsw.ogv">OGV</a> (198mb) | <a href="http://cdn.yayquery.com/ep/sxsw/yayquery_sxsw.mp4">MP4</a> (97mb)
+				<br /> 
+				<strong>Audio:</strong> <a href="http://cdn.yayquery.com/ep/sxsw/yayquery_sxsw.mp3">MP3</a> (8mb)
+<br />
+<a href="http://vimeo.com/10235929">Watch in HD on vimeo</a>
+<br /><br />
+				<h4>Show Links</h4>
+				<ul class="showlinks">
+                    <li><a href="http://txjs.eventbrite.com">TXJS</a></li>
+                    <li><a href="http://ie.microsoft.com/testdrive/Default.html">IE9 test drive</a></li>
+					<li><a href="http://www.css3.info/microsoft-announces-css3-support-for-internet-explorer-9-ie9/">CSS3 support in IE9</a></li>
+					<li><a href="http://blog.jquery.com/2010/03/16/microsoft-to-expand-its-collaboration-with-the-jquery-community/">Microsoft + jQuery</a></li>
+                    <li><a href="http://vimeo.com/yayquery">yayQuery SXSW outtakes</a></li>
+				</ul>
+			    </div> 
+			</div> 
+			<img class="cohitre" src="http://cdn.yayquery.com/ep/sxsw/cohitre_sxsw.jpg" alt="It’s a vision that leads the prophet. It’s a destiny that transforms the immaculate. Taitus rocin." width="332" height="232" /> 
+    </li>
 	     <li class="right"> 
 				<h2><span class="epnum">Episode 13</span> | Gotta Try to Catch 'Em All</h2> 
 				<img width="360" height="240" src="http://cdn.yayquery.com/ep/13/yayquery_13.png" alt="Episode 13" rel="13" class="clickvid" />
@@ -606,6 +639,14 @@ $(function(){
 	    vimeo : 9767602,
 	    ogv   : 'http://cdn.yayquery.com/ep/13/yayquery_13.ogv',
 	    mp4   : 'http://cdn.yayquery.com/ep/13/yayquery_13.mp4'
+	},
+        undefined,
+        undefined,
+       {
+	    poster: 'http://cdn.yayquery.com/ep/16/yayquery_16.png',
+	    vimeo : 11068467,
+	    ogv   : 'http://cdn.yayquery.com/ep/16/yayquery_16.ogv',
+	    mp4   : 'http://cdn.yayquery.com/ep/16/yayquery_16.mp4'
 	}
     ];
 
