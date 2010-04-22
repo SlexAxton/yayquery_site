@@ -54,7 +54,7 @@
 				</div> 
 				<div class="shownotes"> 
 				    <div class="download"> 
-					<strong>Video:</strong> <a href="http://cdn.yayquery.com/ep/16/yayQuery_16.ogv">OGV</a> (204mb) | <a href="http://cdn.yayquery.com/ep/16/yayquery_16.mp4">MP4</a> (221mb)
+					<strong>Video:</strong> <a href="http://cdn.yayquery.com/ep/16/yayquery_16.ogv">OGV</a> (204mb) | <a href="http://cdn.yayquery.com/ep/16/yayquery_16.mp4">MP4</a> (221mb)
 					<br /> 
 					<strong>Audio:</strong> <a href="http://cdn.yayquery.com/ep/16/yayquery_16.mp3">MP3</a> (42mb)
 	<br />
