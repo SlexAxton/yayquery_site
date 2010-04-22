@@ -50,7 +50,7 @@
 				<h2><span class="epnum">Episode 16</span> | A Gource of the Source, Of Course, Of Course</h2> 
 				<img width="360" height="240" src="http://cdn.yayquery.com/ep/16/yayquery_16.png" alt="Episode 16" rel="16" class="clickvid" />
 				<div class="description"> 
-				    <p>Spring has arrived, and the air is thick with the smell of buzzwords. So if you've been begging for CSS3, consider your prayers answered. If you didn't think HTML5 Video was winnable until it was skinnable, rejoice!  Templating more your thing? Shwing!  Plus, jQuery's history will dance before your very eyes in a world premiere music video event that packs a healthy dose of 'corn!  If I were you, I would have stopped reading this and clicked play a long time ago</p>
+				    <p>Spring has arrived, and the air is thick with the smell of buzzwords. So if you've been begging for CSS3, consider your prayers answered. If you didn't think HTML5 Video was winnable until it was skinnable, rejoice!  Templating more your thing? Shwing!  Plus, jQuery's history will dance before your very eyes in a world premiere music video event that packs a healthy dose of 'corn!  If I were you, I would have stopped reading this and clicked play a long time ago.</p>
 				</div> 
 				<div class="shownotes"> 
 				    <div class="download"> 
@@ -64,7 +64,7 @@
 					<ul class="showlinks">
                    	                    <li><a href="http://iecss.com/">IECSS</a> | <a href="http://css3please.com/">css3please</a></li>
                    	                    <li><a href="http://jsconf.us/2010/">JSConf</a> | <a href="http://texasjavascript.com/">TXJS</a> | <a href="http://events.jquery.org/2010/sf-bay-area/">SF jQ Con</a></li>
-                   	                    <li><a href="http://taitems.tumblr.com/post/482577430/introducing-aristo-a-jquery-ui-theme">jQuery UI Aristo</a></li>
+                   	                    <li><a href="http://taitems.tumblr.com/post/482577430/introducing-aristo-a-jquery-ui-theme">Aristo, a jQuery UI Theme</a></li>
                    	                    <li><a href="http://code.google.com/p/gource/">Gource</a></li>
                    	                    <li><a href="http://www.prototypejs.org/2010/4/5/prototype-1-7-rc1-sizzle-layout-dimensions-api-event-delegation-and-more">Prototype 1.7 RC1</a></li>
                    	                    <li><a href="http://www.kaltura.org/project/HTML5_Video_Media_JavaScript_Library">Kaltura</a> | <a href="http://demo.paranoidr.de/jVideo/">jVideo</a></li>
