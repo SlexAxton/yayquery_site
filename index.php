@@ -540,6 +540,7 @@ We're playing naughty this week with the debut of nayQuery! Peter Higgins, Dojo 
     Theme music by the illustrious <a href="http://www.youtube.com/watch?v=2NE9O8hTvfI" title="Pure Genius" alt="http://thewikies.com/">Jonathan Neal</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     Original artwork by <a href="http://cohitre.com/" title="Cohitre :) You"><img src="http://cdn.yayquery.com/site/images/cohitre-32.png" alt="Cohitre :) You" width="32" height="32" /></a>
 <br />
+All editing after Ep 15 done by our friend <a href="http://zetafleet.com/">Colin Snover</a><br />
 Special thanks to <a href="http://twitter.com/peolanha">Andrée Hansson</a> for link farming for us. <3z.
      <p>yayQuery image assets: <a href="http://yayquery.org/yayQueryLogo.ai">yayQueryLogo.ai</a>, <a href="http://yayquery.org/yayQueryLogo.png">yayQueryLogo.png</a>, <a href="img/yayQueryLogoSquare.png">yayQueryLogoSquare.png</a>.</p>
     
