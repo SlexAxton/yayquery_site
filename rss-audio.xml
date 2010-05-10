@@ -22,6 +22,20 @@
 		<itunes:image href="http://yayquery.com/img/yayQueryLogoSquare.png"/>
 
 		<itunes:category text="Technology"/>
+		<item>
+					<title>Episode 17: SPRING BREAK! WOOO!!!</title>
+					<link>http://yayquery.com</link>
+					<guid>http://cdn.yayquery.com/ep/17/yayquery_17.mp3</guid>
+					<description>After back-to-back weekends on opposite ends of the country, the yayQueriers recount their adventures fulfilling Manifest Destiny. The team trekked from JSConf.US in D.C. to the Bay Area jQuery Conference in Mountain View on what was more a trail of beers than a trail of tears. With their wagons full of knowledge, they've decamped to share their provisions with you!  So if you missed either one of these conferences, get your listenin' ears on!  Plus: A special cameo by the Unicorn of Technical Difficulties.  </description>
+					<enclosure url="http://cdn.yayquery.com/ep/17/yayquery_17.mp3" type="audio/mp3" length="45823972"/>
+					<category>Technology</category>
+					<pubDate>Mon, 10 May 2010 22:00:00 -0500</pubDate>
+					<itunes:author>Paul Irish, Rebecca Murphey, Alex Sexton, Adam J Sontag</itunes:author>
+					<itunes:explicit>Yes</itunes:explicit>
+					<itunes:summary>After back-to-back weekends on opposite ends of the country, the yayQueriers recount their adventures fulfilling Manifest Destiny. The team trekked from JSConf.US in D.C. to the Bay Area jQuery Conference in Mountain View on what was more a trail of beers than a trail of tears. With their wagons full of knowledge, they've decamped to share their provisions with you!  So if you missed either one of these conferences, get your listenin' ears on!  Plus: A special cameo by the Unicorn of Technical Difficulties.  </itunes:summary>
+					<itunes:duration>00:41:09</itunes:duration>
+					<itunes:keywords>jQuery, front end development, web development, javascript</itunes:keywords>
+		</item>
 <item>
 			<title>Episode 16: A Gource of the Source, Of Course, Of Course</title>
 			<link>http://yayquery.com</link>
