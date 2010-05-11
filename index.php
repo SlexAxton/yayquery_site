@@ -706,9 +706,8 @@ $(function(){
       	    
       	$(this).replaceWith( vid_elem  );
       	
-      	// chrome gets only flash for now cuz it suxxx at html5 video
-      	// disabled. lets give chrome another chance
-      	if (false && /Chrome/.test(navigator.userAgent)){
+      	// chrome gets only flash for now cuz it suxxx at html5 video, still. (2010.05.11)
+      	if (true && /Chrome/.test(navigator.userAgent)){
       	  vid_elem.find('source').remove().end().find('object').unwrap();
       	}
         
