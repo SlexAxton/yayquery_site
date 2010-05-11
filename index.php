@@ -50,7 +50,7 @@
 				<h2><span class="epnum">Episode 17</span> | SPRING BREAK! WOOOO!!</h2> 
 				<img width="360" height="240" src="http://cdn.yayquery.com/ep/17/yayquery_17.png" alt="Episode 17" rel="17" class="clickvid" />
 				<div class="description"> 
-				    <p>After back-to-back weekends on opposite ends of the country, the yayQueriers recount their adventures fulfilling Manifest Destiny. The team trekked from JSConf.US in D.C. to the Bay Area jQuery Conference in Mountain View on what was more a trail of beers than a trail of tears. With their wagons full of knowledge, they've decamped to share their provisions with you!  So if you missed either one of these conferences, get your listenin' ears on!  Plus: A special cameo by the Unicorn of Technical Difficulties.</p>
+				    <p>After back-to-back weekends on opposite ends of the country, the yayQueriers recount their adventures fulfilling Manifest Destiny. The team trekked from JSConf.US in D.C. to the jQuery Conference in Mountain View on what was more a trail of beers than a trail of tears. With their wagons full of knowledge, they've decamped to share their provisions with you!  So if you missed either one of these conferences, get your listenin' ears on!  Plus: A cameo by the Unicorn of Technical Difficulties.</p>
 				</div> 
 				<div class="shownotes"> 
 							    <div class="download"> 
@@ -62,7 +62,7 @@
 				<br /><br />
 								<h4>Show Links</h4>
 								<ul class="showlinks">
-									<li><a href="http://jsconf.us/2010/">JSConf 2010</a> | ><a href="http://jsconf.us/2010/speakers.html">JSConf speakers</a></li>
+									<li><a href="http://jsconf.us/2010/">JSConf 2010</a> | <a href="http://jsconf.us/2010/speakers.html">JSConf speakers</a></li>
 									<li><a href="http://www.quirkey.com/blog/2010/04/20/making-baconmaking-code-jsconf-2010/">Making Bacon, Making Code</a></li>
 									<li><a href="http://github.com/tobeytailor/gordon">Gordon from Tobey Tailor</a></li>
 									<li><a href="http://raphaeljs.com/">Raphael JS</a></li>
