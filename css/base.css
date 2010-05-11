@@ -128,7 +128,9 @@ a {
 	}
 	.videos > li.zoomview .shownotes {
 		position:absolute;
-		right: 0; top:48px; width:158px; margin-left: 18px;
+		right: 0; top:48px; width:162px; margin-left: 10px;
+		
+		margin-right:10px;
 	}
 		.videos > li.right.zoomview .shownotes {
 			right: auto; left: 0;
@@ -184,6 +186,7 @@ a {
 		width:300px;
 		padding-top:5px;
 		margin-left:34px;
+		margin-right: 25px;
 		}
 	    .videos li.right .shownotes {
 		float:right;
@@ -231,9 +234,11 @@ background-position:top right;
 	    font-size:10px;
 	}
 	    .showlinks li {
-		margin:0 !important;
+		margin:0;
+		margin-left: 15px;
 		background:none !important;
 		height:auto !important;
+		list-style: circle outside;
 	    }
         .clickvid {
           cursor:pointer;
