@@ -98,7 +98,7 @@
 
     <a href="http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=340500884"><img src="http://cdn.yayquery.com/site/images/podcast-itunes2.png"/><span>iTunes link <small>(audio)</small></span></a>
       
-    <h4>Social networks</h4>
+    <h4>Social whatever</h4>
     <a href="http://twitter.com/yayQuery" title="A whole lot of yay, and a query too!"><img src="http://cdn.yayquery.com/site/images/twitter_02.png" alt="@yayQuery" /><span>Follow us at @yayQuery</span></a>
     <a href="http://www.facebook.com/pages/Official-yayQuery/119278851432255" title="A whole lot of yay in your face!"><img src="http://cdn.yayquery.com/site/images/facebook.png" alt="Offical yayQuery" /><span>Become a Facebook.</span></a>
 </section>
