@@ -699,13 +699,32 @@ $(function(){
 
     $('.clickvid').live('click', function(e){
       	var vid_id = $(this).attr('rel'),
-      	    vid_elem =  $(createVideo(videos, vid_id));
+      	    vid_elem =  $(createVideo(videos, vid_id)),
+      	    block  = $(this).closest('li').addClass('zoomview');
+      	    
       	$(this).replaceWith( vid_elem  );
       	
       	// chrome gets only flash for now cuz it suxxx at html5 video
-      	if (/Chrome/.test(navigator.userAgent)){
+      	// disabled. lets give chrome another chance
+      	if (false && /Chrome/.test(navigator.userAgent)){
       	  vid_elem.find('source').remove().end().find('object').unwrap();
       	}
+        
+      	
+      	var to = 700,
+      	    ratio = 1280/720,
+            videoz = block.find('video'),
+            fallback = block.find('object,embed');
+
+        videoz.animate({width: to + 'px', height: to/ratio + 'px'})
+      
+    	
+    	  // if we're dealing with the flash vimeo
+      	if (fallback.is(':visible')){
+      	  fallback.width(to).height(to/ratio);
+      	}
+    
+      	
       	return false;
     });
 

@@ -101,7 +101,7 @@ a {
 	padding-top:30px;
 	list-style:none;
     }
-	.videos li {
+	.videos > li {
 	    background-repeat:no-repeat;
 	    height:543px;
 	    overflow:hidden;
@@ -115,6 +115,23 @@ a {
 	    background-image:url(http://cdn.yayquery.com/site/images/video_bg_left.png);
 	    background-position:left 46px;
 	}
+	.videos > li.zoomview { 
+		height: auto;
+		min-height: 543px;
+		position:relative;
+	}
+	.videos > li.zoomview .shownotes {
+		position:absolute;
+		right: 0; top:48px; width:168px; margin-left: 18px;
+	}
+		.videos > li.right.zoomview .shownotes {
+			right: auto; left: 0;
+		}
+		.videos li.right.zoomview img.cohitre {
+			margin-left: 0;
+		}
+		.videos li.right.zoomview .description { float: right;}
+	
 	    .epnum {
 		font-weight:bold;
 	    }
@@ -155,11 +172,14 @@ a {
 		height:170px;
 		overflow:hidden;
 	    }
-	    .videos li.right .shownotes {
+	
+	.videos .shownotes { 
 		clear:both;
 		width:300px;
 		padding-top:5px;
-		margin-right:34px;
+		margin-left:34px;
+		}
+	    .videos li.right .shownotes {
 		float:right;
 	    }
 	    .videos li.right img.cohitre {
@@ -192,10 +212,6 @@ background-position:top right;
 		float:left;
 	    }
 	    .videos li.left .shownotes {
-		clear:both;
-		width:300px;
-		padding-top:5px;
-		margin-left:34px;
 		float:left;
 	    }
 	    .videos li.left img.cohitre {
@@ -227,6 +243,7 @@ background-position:top right;
     position:absolute;
     text-align:center;
     width:570px;
+		clear:both;
 }
 
 
