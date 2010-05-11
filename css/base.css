@@ -255,14 +255,17 @@ section.outbound {
 .outbound span small { font-size: 9px; }
 .outbound a:hover span { opacity:1; }
 
-.outbound h4 { color: rgba(50,50,50,0.8); font-size: 33px; font-weight:bold; float:left; font-family: 'ChunkFiveRegular',Rockwell, 'Century Schoolbook', serif; font-weight:bold;  margin-top:70px; margin-left: 50px;
+.outbound h4 { color: rgba(50,50,50,0.8); font-size: 33px; float:left; font-family: 'ChunkFiveRegular',Rockwell, 'Century Schoolbook', serif; font-weight:bold;  
     -webkit-transform: rotate(-90deg); 
 -moz-transform: rotate(-90deg);	filter: progid:DXImageTransform.Microsoft.BasicImage(rotation=3);
 -o-transform: rotate(-90deg); 
 -transform: rotate(-90deg); 
 height:128px;
-margin-bottom:-46px;
+
+
+margin:70px -30px -46px 73px;
+
+line-height:30px;
+
 width:31px;
  }
-
-.outbound h4:first-child { margin-left: 0;}
