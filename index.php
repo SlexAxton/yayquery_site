@@ -62,8 +62,7 @@
 				<br /><br />
 								<h4>Show Links</h4>
 								<ul class="showlinks">
-									<li><a href="http://jsconf.us/2010/">JSConf 2010</a></li>
-									<li><a href="http://jsconf.us/2010/speakers.html">JSConf speakers</a></li>
+									<li><a href="http://jsconf.us/2010/">JSConf 2010</a> | ><a href="http://jsconf.us/2010/speakers.html">JSConf speakers</a></li>
 									<li><a href="http://www.quirkey.com/blog/2010/04/20/making-baconmaking-code-jsconf-2010/">Making Bacon, Making Code</a></li>
 									<li><a href="http://github.com/tobeytailor/gordon">Gordon from Tobey Tailor</a></li>
 									<li><a href="http://raphaeljs.com/">Raphael JS</a></li>
@@ -682,6 +681,12 @@ $(function(){
 	    vimeo : 11068467,
 	    ogv   : 'http://cdn.yayquery.com/ep/16/yayquery_16.ogv',
 	    mp4   : 'http://cdn.yayquery.com/ep/16/yayquery_16.mp4'
+	},
+       {
+	    poster: 'http://cdn.yayquery.com/ep/17/yayquery_17.png',
+	    vimeo : 11528683,
+	    ogv   : 'http://cdn.yayquery.com/ep/17/yayquery_17.ogv',
+	    mp4   : 'http://cdn.yayquery.com/ep/17/yayquery_17.mp4'
 	}
     ];
 
