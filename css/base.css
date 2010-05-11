@@ -123,6 +123,9 @@ a {
 	.videos > li.zoomview.left { 
 		background-position: 685px -196px;
 	}
+	.videos > li.zoomview.right { 
+		background-position: -461px -196px;;
+	}
 	.videos > li.zoomview .shownotes {
 		position:absolute;
 		right: 0; top:48px; width:158px; margin-left: 18px;
