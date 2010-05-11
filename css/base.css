@@ -120,9 +120,12 @@ a {
 		min-height: 543px;
 		position:relative;
 	}
+	.videos > li.zoomview.left { 
+		background-position: 685px -196px;
+	}
 	.videos > li.zoomview .shownotes {
 		position:absolute;
-		right: 0; top:48px; width:168px; margin-left: 18px;
+		right: 0; top:48px; width:158px; margin-left: 18px;
 	}
 		.videos > li.right.zoomview .shownotes {
 			right: auto; left: 0;
