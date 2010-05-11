@@ -70,7 +70,7 @@
 									<li><a href="http://molecularvoices.molecular.com/standards/">Molecular/Isobar front-end development standards</a></li>
 									<li><a href="http://forum.jquery.com/topic/proposal-for-adding-data-linking-to-jquery">jQuery Data Linking Proposal</a> | <a href="http://infinity88.com/jquery-datalink/demo-contacts.html">Demo</a></li>
 									<li><a href="http://wiki.github.com/mleibman/SlickGrid/">SlickGrid</a></li>
-									<li><a href="http://www.davetech.com/blog/jquery_keynote_2010">Notes on John Resig's keynote at BAjQCon<a/></li>
+									<li><a href="http://www.davetech.com/blog/jquery_keynote_2010">Notes on John Resig's keynote at BAjQCon</a></li>
 									<li><a href="http://ryanflorence.com/jquery-conference-slides-and-demo/">Ryan Florence's MooTools + jQuery Demo</a></li>
 									<li><a href="http://requirejs.org/">RequireJS</a></li>
 								</ul>
