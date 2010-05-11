@@ -46,38 +46,38 @@
 </header>
 
 <ul class="videos">
-     <li class="right"> 
-				<h2><span class="epnum">Episode 16</span> | A Gource of the Source, Of Course, Of Course</h2> 
-				<img width="360" height="240" src="http://cdn.yayquery.com/ep/16/yayquery_16.png" alt="Episode 16" rel="16" class="clickvid" />
+	<li class="left"> 
+				<h2><span class="epnum">Episode 17</span> | SPRING BREAK! WOOOO!!</h2> 
+				<img width="360" height="240" src="http://cdn.yayquery.com/ep/17/yayquery_17.png" alt="Episode 17" rel="17" class="clickvid" />
 				<div class="description"> 
-				    <p>Spring has arrived, and the air is thick with the smell of buzzwords. So if you've been begging for CSS3, consider your prayers answered. If you didn't think HTML5 Video was winnable until it was skinnable, rejoice!  Templating more your thing? Shwing!  Plus, jQuery's history will dance before your very eyes in a world premiere music video event that packs a healthy dose of 'corn!  If I were you, I would have stopped reading this and clicked play a long time ago.</p>
+				    <p>After back-to-back weekends on opposite ends of the country, the yayQueriers recount their adventures fulfilling Manifest Destiny. The team trekked from JSConf.US in D.C. to the Bay Area jQuery Conference in Mountain View on what was more a trail of beers than a trail of tears. With their wagons full of knowledge, they've decamped to share their provisions with you!  So if you missed either one of these conferences, get your listenin' ears on!  Plus: A special cameo by the Unicorn of Technical Difficulties.</p>
 				</div> 
 				<div class="shownotes"> 
-				    <div class="download"> 
-					<strong>Video:</strong> <a href="http://cdn.yayquery.com/ep/16/yayquery_16.ogv">OGV</a> (204mb) | <a href="http://cdn.yayquery.com/ep/16/yayquery_16.mp4">MP4</a> (221mb)
-					<br /> 
-					<strong>Audio:</strong> <a href="http://cdn.yayquery.com/ep/16/yayquery_16.mp3">MP3</a> (42mb)
-	<br />
-	<a href="http://vimeo.com/11068467">Watch yayQuery Episode 16 in HD on vimeo</a>
-	<br /><br />
-					<h4>Show Links</h4>
-					<ul class="showlinks">
-                   	                    <li><a href="http://iecss.com/">IECSS</a> | <a href="http://css3please.com/">css3please</a></li>
-                   	                    <li><a href="http://jsconf.us/2010/">JSConf</a> | <a href="http://texasjavascript.com/">TXJS</a> | <a href="http://events.jquery.org/2010/sf-bay-area/">SF jQ Con</a></li>
-                   	                    <li><a href="http://taitems.tumblr.com/post/482577430/introducing-aristo-a-jquery-ui-theme">Aristo, a jQuery UI Theme</a></li>
-                   	                    <li><a href="http://code.google.com/p/gource/">Gource</a></li>
-                   	                    <li><a href="http://www.prototypejs.org/2010/4/5/prototype-1-7-rc1-sizzle-layout-dimensions-api-event-delegation-and-more">Prototype 1.7 RC1</a></li>
-                   	                    <li><a href="http://www.kaltura.org/project/HTML5_Video_Media_JavaScript_Library">Kaltura</a> | <a href="http://demo.paranoidr.de/jVideo/">jVideo</a></li>
-                   	                    <li><a href="http://github.com/azatoth/jquery-video">jQuery Video</a> | <a href="http://www.filenew.org/projekktor/">Projekktor</a></li>
-                   	                    <li><a href="http://psdcollector.blogspot.com/2010/03/jquery-14-full-documentation-in-chm.html">jQuery Docs CHM</a></li>
-<li><a href="http://github.com/codespeaks/modulr">Modulr</a> | <a href="http://www.plupload.com/example_queuewidget.php">Plupload</a> | <a href="http://www.adequatelygood.com/2010/3/Performance-of-vs-">Threequals</a></li>
-<li><a href="http://ryanflorence.com/object-oriented-jquery-with-mootools-pigs-take-flight/">Mootools <3z jQuery</a></li>
-<li><a href="http://annevankesteren.nl/test/contenteditable-style.htm">ContentEditable</a> | <a href="http://morrisonpitt.com/jsPlumb/html/demo.html ">jsPlumb</a></li>
-
-					</ul>
-				    </div> 
-				</div> 
-				<img class="cohitre" src="http://cdn.yayquery.com/ep/16/cohitre_16.jpg" alt="We should just throw out the entire HTML5 Spec and start over." width="332" height="232" /> 
+							    <div class="download"> 
+								<strong>Video:</strong> <a href="http://cdn.yayquery.com/ep/17/yayquery_17.ogv">OGV</a> (262mb) | <a href="http://cdn.yayquery.com/ep/17/yayquery_17.mp4">MP4</a> (208mb)
+								<br /> 
+								<strong>Audio:</strong> <a href="http://cdn.yayquery.com/ep/17/yayquery_17.mp3">MP3</a> (44mb)
+				<br />
+				<a href="http://vimeo.com/11528683">Watch in HD on vimeo</a>
+				<br /><br />
+								<h4>Show Links</h4>
+								<ul class="showlinks">
+									<li><a href="http://jsconf.us/2010/">JSConf 2010</a></li>
+									<li><a href="http://jsconf.us/2010/speakers.html">JSConf speakers</a></li>
+									<li><a href="http://www.quirkey.com/blog/2010/04/20/making-baconmaking-code-jsconf-2010/">Making Bacon, Making Code</a></li>
+									<li><a href="http://github.com/tobeytailor/gordon">Gordon from Tobey Tailor</a></li>
+									<li><a href="http://raphaeljs.com/">Raphael JS</a></li>
+									<li><a href="http://github.com/mennovanslooten/UITest">UITest from Menno van Slooten</a></li>
+									<li><a href="http://molecularvoices.molecular.com/standards/">Molecular/Isobar front-end development standards</a></li>
+									<li><a href="http://forum.jquery.com/topic/proposal-for-adding-data-linking-to-jquery">jQuery Data Linking Proposal</a> | <a href="http://infinity88.com/jquery-datalink/demo-contacts.html">Demo</a></li>
+									<li><a href="http://wiki.github.com/mleibman/SlickGrid/">SlickGrid</a></li>
+									<li><a href="http://www.davetech.com/blog/jquery_keynote_2010">Notes on John Resig's keynote at BAjQCon<a/></li>
+									<li><a href="http://ryanflorence.com/jquery-conference-slides-and-demo/">Ryan Florence's MooTools + jQuery Demo</a></li>
+									<li><a href="http://requirejs.org/">RequireJS</a></li>
+								</ul>
+							    </div> 
+							</div> 
+							<img class="cohitre" src="http://cdn.yayquery.com/ep/17/cohitre_17.jpg" alt="You destroyed my site !!!!!  My site is completely unavailable because of you!  You bitch!" width="329" height="256" /> 
 	    </li>
 </ul>
 
@@ -108,6 +108,40 @@
 
 
 <ul class="videos">
+	     <li class="right"> 
+					<h2><span class="epnum">Episode 16</span> | A Gource of the Source, Of Course, Of Course</h2> 
+					<img width="360" height="240" src="http://cdn.yayquery.com/ep/16/yayquery_16.png" alt="Episode 16" rel="16" class="clickvid" />
+					<div class="description"> 
+					    <p>Spring has arrived, and the air is thick with the smell of buzzwords. So if you've been begging for CSS3, consider your prayers answered. If you didn't think HTML5 Video was winnable until it was skinnable, rejoice!  Templating more your thing? Shwing!  Plus, jQuery's history will dance before your very eyes in a world premiere music video event that packs a healthy dose of 'corn!  If I were you, I would have stopped reading this and clicked play a long time ago.</p>
+					</div> 
+					<div class="shownotes"> 
+					    <div class="download"> 
+						<strong>Video:</strong> <a href="http://cdn.yayquery.com/ep/16/yayquery_16.ogv">OGV</a> (204mb) | <a href="http://cdn.yayquery.com/ep/16/yayquery_16.mp4">MP4</a> (221mb)
+						<br /> 
+						<strong>Audio:</strong> <a href="http://cdn.yayquery.com/ep/16/yayquery_16.mp3">MP3</a> (42mb)
+		<br />
+		<a href="http://vimeo.com/11068467">Watch yayQuery Episode 16 in HD on vimeo</a>
+		<br /><br />
+						<h4>Show Links</h4>
+						<ul class="showlinks">
+	                   	                    <li><a href="http://iecss.com/">IECSS</a> | <a href="http://css3please.com/">css3please</a></li>
+	                   	                    <li><a href="http://jsconf.us/2010/">JSConf</a> | <a href="http://texasjavascript.com/">TXJS</a> | <a href="http://events.jquery.org/2010/sf-bay-area/">SF jQ Con</a></li>
+	                   	                    <li><a href="http://taitems.tumblr.com/post/482577430/introducing-aristo-a-jquery-ui-theme">Aristo, a jQuery UI Theme</a></li>
+	                   	                    <li><a href="http://code.google.com/p/gource/">Gource</a></li>
+	                   	                    <li><a href="http://www.prototypejs.org/2010/4/5/prototype-1-7-rc1-sizzle-layout-dimensions-api-event-delegation-and-more">Prototype 1.7 RC1</a></li>
+	                   	                    <li><a href="http://www.kaltura.org/project/HTML5_Video_Media_JavaScript_Library">Kaltura</a> | <a href="http://demo.paranoidr.de/jVideo/">jVideo</a></li>
+	                   	                    <li><a href="http://github.com/azatoth/jquery-video">jQuery Video</a> | <a href="http://www.filenew.org/projekktor/">Projekktor</a></li>
+	                   	                    <li><a href="http://psdcollector.blogspot.com/2010/03/jquery-14-full-documentation-in-chm.html">jQuery Docs CHM</a></li>
+	<li><a href="http://github.com/codespeaks/modulr">Modulr</a> | <a href="http://www.plupload.com/example_queuewidget.php">Plupload</a> | <a href="http://www.adequatelygood.com/2010/3/Performance-of-vs-">Threequals</a></li>
+	<li><a href="http://ryanflorence.com/object-oriented-jquery-with-mootools-pigs-take-flight/">Mootools <3z jQuery</a></li>
+	<li><a href="http://annevankesteren.nl/test/contenteditable-style.htm">ContentEditable</a> | <a href="http://morrisonpitt.com/jsPlumb/html/demo.html ">jsPlumb</a></li>
+
+						</ul>
+					    </div> 
+					</div> 
+					<img class="cohitre" src="http://cdn.yayquery.com/ep/16/cohitre_16.jpg" alt="We should just throw out the entire HTML5 Spec and start over." width="332" height="232" /> 
+		    </li>
+	
 <li class="left"> 
 			<h2><span class="epnum">Episode ???</span> | South by SouthBEST TIME EVAR!!1</h2> 
 			<img width="360" height="240" src="http://cdn.yayquery.com/ep/sxsw/yayquery_sxsw.png" alt="Episode ???" rel="sxsw" class="clickvid" />
@@ -215,17 +249,16 @@
 <br /><br />
 						<h4>Show Links</h4>
 						<ul class="showlinks">
-
-<li><a href="http://jquery14.com">14 Days of jQuery</a></li>
-<li><a href="http://twitter.com/jeresig/status/7924275165">Paul Irish vs. John Resig</a></li>
-<li><a href="http://javascript.nwbox.com/NWEvents/">NWEvents</a></li>
-<li><a href="http://tpgblog.com/2010/01/20/yayquery-threedots-jquery-plugin-of-the-week/">Plugin Of the Week Badge</a></li>
-<li><a href="http://forum.jquery.com">forum.jquery.com</a></li>
-<li><a href="http://api.jquery.com/jquery.ajax/">$.ajax context option</a></li>
-<li><a href="http://james.padolsey.com/">James Padolsey</a> (<a href="http://twitter.com/jamespadolsey">twtr</a>, <a href="http://github.com/jamespadolsey">gthb</a>)</li>
-<li><a href="http://james.padolsey.com/javascript/jquery-lint/">jQuery Lint</a></li>
-<li><a href="http://api.jquery.com/animate/#per-property-easing">.animate per-property easing</a></li>
-<li><a href="http://james.padolsey.com/javascript/anti-patterns-in-the-making/">James' Anti-Patterns</a>, <a href="http://james.padolsey.com/javascript/jquery-code-smells/">Anti-Patterns 2</a></li>
+							<li><a href="http://jquery14.com">14 Days of jQuery</a></li>
+							<li><a href="http://twitter.com/jeresig/status/7924275165">Paul Irish vs. John Resig</a></li>
+							<li><a href="http://javascript.nwbox.com/NWEvents/">NWEvents</a></li>
+							<li><a href="http://tpgblog.com/2010/01/20/yayquery-threedots-jquery-plugin-of-the-week/">Plugin Of the Week Badge</a></li>
+							<li><a href="http://forum.jquery.com">forum.jquery.com</a></li>
+							<li><a href="http://api.jquery.com/jquery.ajax/">$.ajax context option</a></li>
+							<li><a href="http://james.padolsey.com/">James Padolsey</a> (<a href="http://twitter.com/jamespadolsey">twtr</a>, <a href="http://github.com/jamespadolsey">gthb</a>)</li>
+							<li><a href="http://james.padolsey.com/javascript/jquery-lint/">jQuery Lint</a></li>
+							<li><a href="http://api.jquery.com/animate/#per-property-easing">.animate per-property easing</a></li>
+							<li><a href="http://james.padolsey.com/javascript/anti-patterns-in-the-making/">James' Anti-Patterns</a>, <a href="http://james.padolsey.com/javascript/jquery-code-smells/">Anti-Patterns 2</a></li>
 
 
 						</ul>
