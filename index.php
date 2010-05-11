@@ -1,8 +1,10 @@
 ﻿<!dOcTYpE                HTMl   >
 <html> 
 <head> 
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" /> 
+<meta charset="utf-8">
 <meta name="description" content="The yayQuery hosts have years of experience being neck-deep in their own jQuery development, as well as providing support and training to the community. The podcast tries to capture one of our favorite conference pastimes -- hanging out at a bar and talking code. About the hosts: From afar when you notice them at jquery conference, they look like the cool kids in high school. They just gather around and make fun of everybody." /> 
+<meta http-equiv="Pragma" content="no-cache">
+
 <title>yayQuery Podcast - A jQuery Podcast</title> 
 <link rel="shortcut icon" href="favicon.ico" type="image/x-icon" />
 <link rel="alternate" type="application/rss+xml" title="yayQuery RSS Feed" href="http://feeds.feedburner.com/yayQuery" />
