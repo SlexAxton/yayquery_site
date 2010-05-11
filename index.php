@@ -48,7 +48,7 @@
 <ul class="videos">
 	<li class="left"> 
 				<h2><span class="epnum">Episode 17</span> | SPRING BREAK! WOOOO!!</h2> 
-				<img width="360" height="240" src="http://cdn.yayquery.com/ep/17/yayquery_17.png" alt="Episode 17" rel="17" class="clickvid" />
+				<img width="360" height="240" src="http://cdn.yayquery.com/ep/17/yayquery_17.png" alt="Episode 17" title="Episode 17" rel="17" class="clickvid" />
 				<div class="description"> 
 				    <p>After back-to-back weekends on opposite ends of the country, the yayQueriers recount their adventures fulfilling Manifest Destiny. The team trekked from JSConf.US in D.C. to the jQuery Conference in Mountain View on what was more a trail of beers than a trail of tears. With their wagons full of knowledge, they've decamped to share their provisions with you!  So if you missed either one of these conferences, get your listenin' ears on!  Plus: A cameo by the Unicorn of Technical Difficulties.</p>
 				</div> 
@@ -76,7 +76,7 @@
 								</ul>
 							    </div> 
 							</div> 
-							<img class="cohitre" src="http://cdn.yayquery.com/ep/17/cohitre_17.jpg" alt="You destroyed my site !!!!!  My site is completely unavailable because of you!  You bitch!" width="329" height="256" /> 
+							<img class="cohitre" src="http://cdn.yayquery.com/ep/17/cohitre_17.jpg" alt="You destroyed my site !!!!!  My site is completely unavailable because of you!  You bitch!" title="You destroyed my site !!!!!  My site is completely unavailable because of you!  You bitch!" width="329" height="256" /> 
 	    </li>
 </ul>
 
@@ -99,8 +99,8 @@
     <a href="http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=340500884"><img src="http://cdn.yayquery.com/site/images/podcast-itunes2.png"/><span>iTunes link <small>(audio)</small></span></a>
       
     <h4>Social whatever</h4>
-    <a href="http://twitter.com/yayQuery" title="A whole lot of yay, and a query too!"><img src="http://cdn.yayquery.com/site/images/twitter_02.png" alt="@yayQuery" /><span>Follow us at @yayQuery</span></a>
-    <a href="http://www.facebook.com/pages/Official-yayQuery/119278851432255" title="A whole lot of yay in your face!"><img src="http://cdn.yayquery.com/site/images/facebook.png" alt="Offical yayQuery" /><span>Become a Facebook.</span></a>
+    <a href="http://twitter.com/yayQuery" title="A whole lot of yay, and a query too!"><img src="http://cdn.yayquery.com/site/images/twitter_02.png" alt="@yayQuery" title="@yayQuery" /><span>Follow us at @yayQuery</span></a>
+    <a href="http://www.facebook.com/pages/Official-yayQuery/119278851432255" title="A whole lot of yay in your face!"><img src="http://cdn.yayquery.com/site/images/facebook.png" alt="Offical yayQuery" title="Offical yayQuery" /><span>Become a Facebook.</span></a>
 </section>
 
 
@@ -109,7 +109,7 @@
 <ul class="videos">
 	     <li class="right"> 
 					<h2><span class="epnum">Episode 16</span> | A Gource of the Source, Of Course, Of Course</h2> 
-					<img width="360" height="240" src="http://cdn.yayquery.com/ep/16/yayquery_16.png" alt="Episode 16" rel="16" class="clickvid" />
+					<img width="360" height="240" src="http://cdn.yayquery.com/ep/16/yayquery_16.png" alt="Episode 16" title="Episode 16" rel="16" class="clickvid" />
 					<div class="description"> 
 					    <p>Spring has arrived, and the air is thick with the smell of buzzwords. So if you've been begging for CSS3, consider your prayers answered. If you didn't think HTML5 Video was winnable until it was skinnable, rejoice!  Templating more your thing? Shwing!  Plus, jQuery's history will dance before your very eyes in a world premiere music video event that packs a healthy dose of 'corn!  If I were you, I would have stopped reading this and clicked play a long time ago.</p>
 					</div> 
@@ -138,12 +138,12 @@
 						</ul>
 					    </div> 
 					</div> 
-					<img class="cohitre" src="http://cdn.yayquery.com/ep/16/cohitre_16.jpg" alt="We should just throw out the entire HTML5 Spec and start over." width="332" height="232" /> 
+					<img class="cohitre" src="http://cdn.yayquery.com/ep/16/cohitre_16.jpg" alt="We should just throw out the entire HTML5 Spec and start over." title="We should just throw out the entire HTML5 Spec and start over." width="332" height="232" /> 
 		    </li>
 	
 <li class="left"> 
 			<h2><span class="epnum">Episode ???</span> | South by SouthBEST TIME EVAR!!1</h2> 
-			<img width="360" height="240" src="http://cdn.yayquery.com/ep/sxsw/yayquery_sxsw.png" alt="Episode ???" rel="sxsw" class="clickvid" />
+			<img width="360" height="240" src="http://cdn.yayquery.com/ep/sxsw/yayquery_sxsw.png" alt="Episode ???" title="Episode ???" rel="sxsw" class="clickvid" />
 			<div class="description"> 
 			    <p>Springtime is in the air, bringing with it the sweet aroma of renewal &hellip; and conferences. Mere moments before departing Austin, your partners in Yay checked in on RealLifeSquare to bring you their exclusive SXSWi roundup &mdash; but who knows what else they'll MiX in?!</p>
 			</div> 
@@ -165,11 +165,11 @@
 				</ul>
 			    </div> 
 			</div> 
-			<img class="cohitre" src="http://cdn.yayquery.com/ep/sxsw/cohitre_sxsw.jpg" alt="It’s a vision that leads the prophet. It’s a destiny that transforms the immaculate. Taitus rocin." width="332" height="232" /> 
+			<img class="cohitre" src="http://cdn.yayquery.com/ep/sxsw/cohitre_sxsw.jpg" alt="It’s a vision that leads the prophet. It’s a destiny that transforms the immaculate. Taitus rocin." title="It’s a vision that leads the prophet. It’s a destiny that transforms the immaculate. Taitus rocin." width="332" height="232" /> 
     </li>
 	     <li class="right"> 
 				<h2><span class="epnum">Episode 13</span> | Gotta Try to Catch 'Em All</h2> 
-				<img width="360" height="240" src="http://cdn.yayquery.com/ep/13/yayquery_13.png" alt="Episode 13" rel="13" class="clickvid" />
+				<img width="360" height="240" src="http://cdn.yayquery.com/ep/13/yayquery_13.png" alt="Episode 13" title="Episode 13" rel="13" class="clickvid" />
 				<div class="description"> 
 				    <p>After a layoff which shall forever be shrouded in mystery, we are back, HARD!  With hot docs links and piping fresh sauce tools, you'll be hungry for front-end goodness, and we're delivering it in 30 minutes -- or your money back!  There may even be a plugin for dessert.  While our hiatus may have left you teary, it's time to snack on this yayQuery!</p>
 				</div> 
@@ -197,12 +197,12 @@
 					</ul>
 				    </div> 
 				</div> 
-				<img class="cohitre" src="http://cdn.yayquery.com/ep/13/cohitre_13.jpg" alt="It’s a vision that leads the prophet. It’s a destiny that transforms the immaculate. Taitus rocin." width="332" height="232" /> 
+				<img class="cohitre" src="http://cdn.yayquery.com/ep/13/cohitre_13.jpg" alt="It’s a vision that leads the prophet. It’s a destiny that transforms the immaculate. Taitus rocin." title="It’s a vision that leads the prophet. It’s a destiny that transforms the immaculate. Taitus rocin." width="332" height="232" /> 
 	    </li>
 
     <li class="left"> 
 			<h2><span class="epnum">Episode 12</span> | The Complete Bunny's Guide to jQuery</h2> 
-			<img width="360" height="240" src="http://cdn.yayquery.com/ep/12/yayquery_12.png" alt="Episode 12" rel="12" class="clickvid" />
+			<img width="360" height="240" src="http://cdn.yayquery.com/ep/12/yayquery_12.png" alt="Episode 12" title="Episode 12" rel="12" class="clickvid" />
 			<div class="description"> 
 			    <p>When is a forum signature more than just a forum signature?  When it's a ticket to an enchanted world of magic, wonderment, and jQuery plugins!  Join along as we share all sorts of new playthings and playmates, discovered after some opportunistic link clicking.  And with the 1.4 point releases starting to flow, we're here to guide you through the nitty-gritty.  Watch now and find out why yayQuery[12] is So Just Cloud!</p>
 			</div> 
@@ -230,11 +230,11 @@
 				</ul>
 			    </div> 
 			</div> 
-			<img class="cohitre" src="http://cdn.yayquery.com/ep/12/cohitre_12.jpg" alt="Please dont feed ajpiano." width="332" height="232" /> 
+			<img class="cohitre" src="http://cdn.yayquery.com/ep/12/cohitre_12.jpg" alt="Please dont feed ajpiano." title="Please dont feed ajpiano." width="332" height="232" /> 
     </li>
      <li class="right"> 
 					<h2><span class="epnum">Episode 11</span> | 14 Days of Yaymes Padolsey</h2> 
-					<img width="360" height="240" src="http://cdn.yayquery.com/ep/11/yayquery_11.png" alt="Episode 11" rel="11" class="clickvid" />
+					<img width="360" height="240" src="http://cdn.yayquery.com/ep/11/yayquery_11.png" alt="Episode 11" title="Episode 11" rel="11" class="clickvid" />
 					<div class="description" style="overflow:visible"> 
 					    <p>The 12 days of Christmas may be gone and forgotten, but we've got an extra-special surprise gift for you during these holy 14 Days of jQuery 1.4: an interview with blogger, Briton, and jQuery all-star James Padolsey!  We pick <span style="text-decoration:line-through;">the lint out of James' bellybutton</span> James's brain about jQuery Lint, debate anti-patterns, and take tea with the Queen!  With so much crammed into one episode, you'll want to be sure to ring all your mates to come round for yayQuery[11]!  It's a real cracker, guv!</p>
 					</div> 
@@ -263,11 +263,11 @@
 						</ul>
 					    </div> 
 					</div> 
-					<img class="cohitre" src="http://cdn.yayquery.com/site/images/cohitre_11.jpg" alt="Please dont feed ajpiano." width="332" height="232" /> 
+					<img class="cohitre" src="http://cdn.yayquery.com/site/images/cohitre_11.jpg" alt="Please dont feed ajpiano." title="Please dont feed ajpiano." width="332" height="232" /> 
 		    </li>
      <li class="left"> 
 			<h2><span class="epnum">Episode 8, 9 &amp; 10</span> | Hapy Birthday jQuery!</h2> 
-			<img width="360" height="240" src="http://cdn.yayquery.com/ep/10/yayquery_10.png" alt="Episode 10" rel="10" class="clickvid" />
+			<img width="360" height="240" src="http://cdn.yayquery.com/ep/10/yayquery_10.png" alt="Episode 10" title="Episode 10" rel="10" class="clickvid" />
 			<div class="description"> 
 			    <p>Let the celeb-YAY-tion commence! It's jQuery's birthday, but you'll be the one unwrapping the gift of 1.4!  We'll get you up to speed on all of the last-minute goodies, and bring you along on a mini-tour of the upcoming jQuery UI 1.8 release. With forays into CSS, ECMA 5, and outright falsehoods, it's sure to be the adventure of a lifetime! If you've missed us the last two weeks, you definitely won't want to miss yayQuery[10]!</p>
 			</div> 
@@ -295,12 +295,12 @@
 				</ul>
 			    </div> 
 			</div> 
-			<img class="cohitre" src="http://cdn.yayquery.com/site/images/cohitre_10.jpg" alt="Please dont feed ajpiano." width="332" height="232" /> 
+			<img class="cohitre" src="http://cdn.yayquery.com/site/images/cohitre_10.jpg" alt="Please dont feed ajpiano." title="Please dont feed ajpiano." width="332" height="232" /> 
     </li>
     
 <li class="right"> 
 					<h2>Jingle All The Yay | <span class="epnum">Episode 7</span></h2> 
-					<img width="360" height="240" src="http://cdn.yayquery.com/ep/7/yayquery_7.png" alt="Episode 7" rel="7" class="clickvid" />
+					<img width="360" height="240" src="http://cdn.yayquery.com/ep/7/yayquery_7.png" alt="Episode 7" title="Episode 7" rel="7" class="clickvid" />
 					<div class="description"> 
 					    <p>Like many popular retailers, we're shipping this episode to you just in time for Christmas!  Find out which front-end treats the gang is hoping to find in their stockings, and unwrap a box full of jQuery 1.4 news.  With spinning plugins, shimmering hiddenhancements, and an anti-pattern for any Scrooges out there, you're sure to find lots of holiday cheer <br /> with yayQuery - the only development podcast that may also be a children's TV show.</p> 
 					</div> 
@@ -337,11 +337,11 @@
 						</ul>
 					    </div> 
 					</div> 
-					<img class="cohitre" src="http://cdn.yayquery.com/site/images/cohitre_7.jpg" alt="Please dont feed ajpiano." width="329" height="256" /> 
+					<img class="cohitre" src="http://cdn.yayquery.com/site/images/cohitre_7.jpg" alt="Please dont feed ajpiano." title="Please dont feed ajpiano." width="329" height="256" /> 
 		    </li>
 <li class="left"> 
 					<h2><span class="epnum">Episode 6</span> | Nay is for Norses</h2> 
-					<img width="360" height="240" src="http://cdn.yayquery.com/ep/6/yayquery_6.png" alt="Episode 6" rel="6" class="clickvid" />
+					<img width="360" height="240" src="http://cdn.yayquery.com/ep/6/yayquery_6.png" alt="Episode 6" title="Episode 6" rel="6" class="clickvid" />
 					<div class="description"> 
 					    <p>
 We're playing naughty this week with the debut of nayQuery! Peter Higgins, Dojo Project Lead, joins us for a spirited discussion of the dark side of jQuery.  We'll also get you up to speed on what's going on in the 1.4 alphas and explain why $ is special (because you can buy things with it). After all, Santa's got a lot of coal and he needs to give it to someone!</p> 
@@ -371,11 +371,11 @@ We're playing naughty this week with the debut of nayQuery! Peter Higgins, Dojo 
 						</ul>
 					    </div> 
 					</div> 
-					<img class="cohitre" src="http://cdn.yayquery.com/site/images/cohitre_6.jpg" alt="Please dont feed ajpiano." width="332" height="232" /> 
+					<img class="cohitre" src="http://cdn.yayquery.com/site/images/cohitre_6.jpg" alt="Please dont feed ajpiano." title="Please dont feed ajpiano." width="332" height="232" /> 
 		    </li>
 <li class="right"> 
 					<h2>...More Like jQuery 1.MORE, Amirite?! | <span class="epnum">Episode 5</span></h2> 
-					<img width="360" height="240" src="http://cdn.yayquery.com/ep/5/yayquery_5.png" alt="Episode 5" rel="5" class="clickvid" />
+					<img width="360" height="240" src="http://cdn.yayquery.com/ep/5/yayquery_5.png" alt="Episode 5" title="Episode 5" rel="5" class="clickvid" />
 					<div class="description"> 
 					    <p>The team is back at full strength to bring you a complete roundup of the hot, fresh jQuery 1.4 alpha in this bonus-sized installment!  From hiddenhancements to just plain awesome ones, we'll let you know exactly what to expect from the upcoming release. Of course, we've got the latest haps from the world of front-end dev, so add a little Yay to your day, today!</p> 
 					</div> 
@@ -401,11 +401,11 @@ We're playing naughty this week with the debut of nayQuery! Peter Higgins, Dojo 
 						</ul>
 					    </div> 
 					</div> 
-					<img class="cohitre" src="http://cdn.yayquery.com/site/images/cohitre_5.jpg" alt="Please dont feed ajpiano." width="329" height="256" /> 
+					<img class="cohitre" src="http://cdn.yayquery.com/site/images/cohitre_5.jpg" alt="Please dont feed ajpiano." title="Please dont feed ajpiano." width="329" height="256" /> 
 		    </li>
 <li class="left"> 
 					<h2><span class="epnum">Episode 4</span> | I Once Mixed Sprite and Cappuccino, It Was Disgusting</h2> 
-					<img width="360" height="240" src="http://cdn.yayquery.com/ep/4/yayquery_4.png" alt="Episode 4" rel="4" class="clickvid" />
+					<img width="360" height="240" src="http://cdn.yayquery.com/ep/4/yayquery_4.png" alt="Episode 4" title="Episode 4" rel="4" class="clickvid" />
 					<div class="description"> 
 					    <p>With Rebecca on the disabled list, the yayQuery team overcomes adversity by talking about LABjs, the new
 					    asynchronous JavaScript loader on the scene. This leads to a rousing discussion of improving front-end perfromance
@@ -437,11 +437,11 @@ We're playing naughty this week with the debut of nayQuery! Peter Higgins, Dojo 
 						</ul>
 					    </div> 
 					</div> 
-					<img class="cohitre" src="http://cdn.yayquery.com/site/images/cohitre_4b.jpg" alt="Please dont feed ajpiano." width="332" height="232" /> 
+					<img class="cohitre" src="http://cdn.yayquery.com/site/images/cohitre_4b.jpg" alt="Please dont feed ajpiano." title="Please dont feed ajpiano." width="332" height="232" /> 
 		    </li>
 		    <li class="right"> 
 					<h2>$("#turkey").contents() === new Stuffing(); | <span class="epnum">Episode 3</span></h2> 
-					<img width="360" height="240" src="http://cdn.yayquery.com/ep/3/yayquery_poster_3.png" alt="Episode 3" rel="3" class="clickvid" />
+					<img width="360" height="240" src="http://cdn.yayquery.com/ep/3/yayquery_poster_3.png" alt="Episode 3" title="Episode 3" rel="3" class="clickvid" />
 					<div class="description"> 
 					    <p>In a very special thanksgiving episode of yayQuery the gang talks on the hottest conference on the block and the best new seating
 					    themed storage implementation. Eat your leftover turkey and pumpkin pie while you get learned by special guest Mike Taylor on everybody's
@@ -466,11 +466,11 @@ We're playing naughty this week with the debut of nayQuery! Peter Higgins, Dojo 
 						</ul>
 					    </div> 
 					</div> 
-					<img class="cohitre" src="http://cdn.yayquery.com/site/images/cohitre_3.jpg" alt="Please dont feed ajpiano." width="329" height="256" /> 
+					<img class="cohitre" src="http://cdn.yayquery.com/site/images/cohitre_3.jpg" alt="Please dont feed ajpiano." title="Please dont feed ajpiano." width="329" height="256" /> 
 		    </li>
 		    <li class="left"> 
 		    <h2><span class="epnum">Episode 2</span> | Third Time's a Charm!</h2> 
-		    <img width="360" height="240" src="http://cdn.yayquery.com/ep/2/yayquery_poster_2.png" alt="Episode 2" rel="2" class="clickvid" />
+		    <img width="360" height="240" src="http://cdn.yayquery.com/ep/2/yayquery_poster_2.png" alt="Episode 2" title="Episode 2" rel="2" class="clickvid" />
 		    <div class="description"> 
 			<p>In this episode of yayQuery the team discusses Paul's recent adventures in the land of jQuery documentation. We know there's a
 			<em>Doc Brown 1.21 Jiggawatts</em> joke somewhere in there, but we couldn't find it. Other topics include JSON, Compression &amp;
@@ -497,11 +497,11 @@ We're playing naughty this week with the debut of nayQuery! Peter Higgins, Dojo 
 			    </ul>
 			</div> 
 		    </div> 
-		    <img class="cohitre" src="http://cdn.yayquery.com/site/images/cohitre_2.jpg" alt="Please dont feed ajpiano." width="332" height="232" /> 
+		    <img class="cohitre" src="http://cdn.yayquery.com/site/images/cohitre_2.jpg" alt="Please dont feed ajpiano." title="Please dont feed ajpiano." width="332" height="232" /> 
 </li> 
 <li class="right"> 
 	<h2>Dear &lt;canvas&gt;, meet bacon. | <span class="epnum">Episode 1</span></h2> 
-	<img width="360" height="240" src="http://cdn.yayquery.com/ep/1/yayquery_1.png" alt="Episode 1" rel="1" class="clickvid" />
+	<img width="360" height="240" src="http://cdn.yayquery.com/ep/1/yayquery_1.png" alt="Episode 1" title="Episode 1" rel="1" class="clickvid" />
 	<div class="description"> 
 	    <p>In this episode of yayQuery, the crew discusses Google's terrible project naming habits, Paul gives an anti-pattern that
 	    you won't want to miss, and no episode is ever complete without a little ditty from Jonathan Neal. Other topics include the
@@ -531,11 +531,11 @@ We're playing naughty this week with the debut of nayQuery! Peter Higgins, Dojo 
 		</ul>
 	    </div> 
 	</div> 
-	<img class="cohitre" src="http://cdn.yayquery.com/site/images/cohitre_1.jpg" alt="Please dont feed ajpiano." width="329" height="256" /> 
+	<img class="cohitre" src="http://cdn.yayquery.com/site/images/cohitre_1.jpg" alt="Please dont feed ajpiano." title="Please dont feed ajpiano." width="329" height="256" /> 
     </li>
     <li class="left"> 
 	<h2><span class="epnum">Episode 0</span> | Inaugural Zero-Indexed Episode</h2> 
-	<img width="360" height="240" src="http://cdn.yayquery.com/ep/0/yayquery_0.png" alt="Episode 0" rel="0" class="clickvid" />
+	<img width="360" height="240" src="http://cdn.yayquery.com/ep/0/yayquery_0.png" alt="Episode 0" title="Episode 0" rel="0" class="clickvid" />
 	<div class="description"> 
 	    <p>In this episode of yayQuery, the team introduces themselves. Paul Irish, Rebecca Murphey, Adam J. Sontag, and Alex Sexton
 	    each offer their insight on a variety of topics. Paul Irish continues his anti-pattern knowledge-giving that he started at jQuery Con '09
@@ -563,14 +563,14 @@ We're playing naughty this week with the debut of nayQuery! Peter Higgins, Dojo 
 		</ul>
 	    </div> 
 	</div> 
-	<img class="cohitre" src="http://cdn.yayquery.com/site/images/cohitre_0.jpg" alt="Please dont feed ajpiano." width="332" height="232" /> 
+	<img class="cohitre" src="http://cdn.yayquery.com/site/images/cohitre_0.jpg" alt="Please dont feed ajpiano." title="Please dont feed ajpiano." width="332" height="232" /> 
     </li> 
 </ul>
 
 <footer>
 <div id="footer">
-    Theme music by the illustrious <a href="http://www.youtube.com/watch?v=2NE9O8hTvfI" title="Pure Genius" alt="http://thewikies.com/">Jonathan Neal</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    Original artwork by <a href="http://cohitre.com/" title="Cohitre :) You"><img src="http://cdn.yayquery.com/site/images/cohitre-32.png" alt="Cohitre :) You" width="32" height="32" /></a>
+    Theme music by the illustrious <a href="http://www.youtube.com/watch?v=2NE9O8hTvfI" title="Pure Genius" alt="http://thewikies.com/" title="http://thewikies.com/">Jonathan Neal</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    Original artwork by <a href="http://cohitre.com/" title="Cohitre :) You"><img src="http://cdn.yayquery.com/site/images/cohitre-32.png" alt="Cohitre :) You" title="Cohitre :) You" width="32" height="32" /></a>
 <br />
 All editing after Ep 15 done by our friend <a href="http://zetafleet.com/">Colin Snover</a><br />
 Special thanks to <a href="http://twitter.com/peolanha">Andrée Hansson</a> for link farming for us. <3z.
@@ -984,7 +984,7 @@ doc = document;
 
 <!-- you'll only get this if you've been a good boy -->
 <div id="target">
-	<img src="http://www.abovethelaw.com/images/entries/animated%20siren%20gif%20animated%20siren%20gif%20animated%20siren%20gif%20drudge%20report.GIF" alt="Red flashy thingie" style="margin-left:59px;" />
+	<img src="http://www.abovethelaw.com/images/entries/animated%20siren%20gif%20animated%20siren%20gif%20animated%20siren%20gif%20drudge%20report.GIF" alt="Red flashy thingie" title="Red flashy thingie" style="margin-left:59px;" />
 	
 	<p class="callus">Call the yayQuery partyline!!</p>
 	<p id="party-line-no">(443)<br/>4YAYQUERY</p>
