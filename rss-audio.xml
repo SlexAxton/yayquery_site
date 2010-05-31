@@ -7,7 +7,7 @@
 		<language>en-us</language>
 		<copyright>Copyright 2010</copyright>
 
-		<lastBuildDate>Mon, 10 May 2010 22:00:00 -0500</lastBuildDate>
+		<lastBuildDate>Tue, 01 Jun 2010 22:00:00 -0500</lastBuildDate>
 		<pubDate>Fri, 06 Nov 2009 11:30:00 -0500</pubDate>
 		<docs>http://blogs.law.harvard.edu/tech/rss</docs>
 		<webMaster>rmurphey@gmail.com</webMaster>
@@ -22,6 +22,20 @@
 		<itunes:image href="http://yayquery.com/img/yayQueryLogoSquare.png"/>
 
 		<itunes:category text="Technology"/>
+		<item>
+					<title>Episode 18: </title>
+					<link>http://yayquery.com</link>
+					<guid>http://cdn.yayquery.com/ep/18/yayquery_18.mp3</guid>
+					<description>TODO</description>
+					<enclosure url="http://cdn.yayquery.com/ep/18/yayquery_18.mp3" type="audio/mp3" length="41202331"/>
+					<category>Technology</category>
+					<pubDate>Tue, 01 Jun 2010 22:00:00 -0500</pubDate>
+					<itunes:author>Paul Irish, Rebecca Murphey, Alex Sexton, Adam J Sontag</itunes:author>
+					<itunes:explicit>Yes</itunes:explicit>
+					<itunes:summary>TODO</itunes:summary>
+					<itunes:duration>00:42:13</itunes:duration>
+					<itunes:keywords>jQuery, front end development, web development, javascript, John Resig</itunes:keywords>
+		</item>
 		<item>
 					<title>Episode 17: SPRING BREAK! WOOO!!!</title>
 					<link>http://yayquery.com</link>
