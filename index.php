@@ -48,6 +48,66 @@
 </header>
 
 <ul class="videos">
+	<li class="right"> 
+				<h2><span class="epnum">Episode 18</span> | TODO</h2> 
+				<img width="360" height="240" src="http://cdn.yayquery.com/ep/18/yayquery_18.png" alt="Episode 18" title="Episode 18" rel="18" class="clickvid" />
+				<div class="description"> 
+				    <p>TODO</p>
+				</div> 
+				<div class="shownotes"> 
+							    <div class="download"> 
+								<strong>Video:</strong> <a href="http://cdn.yayquery.com/ep/18/yayquery_18.ogv">OGV</a> (270mb) | <a href="http://cdn.yayquery.com/ep/18/yayquery_18.mp4">MP4</a> (224mb)
+								<br /> 
+								<strong>Audio:</strong> <a href="http://cdn.yayquery.com/ep/19/yayquery_18.mp3">MP3</a> (41mb)
+				<br />
+				<a href="http://vimeo.com/12166734">Watch in HD on vimeo</a>
+				<br /><br />
+								<h4>Show Links</h4>
+								<ul class="showlinks">
+									<li><a href="http://ejohn.org">John Resig</a></li>
+									<li><a href="http://paulirish.com/i/ecc0.png">UNICORNS</a></li>
+									<li><a href="http://unicornfree.com/2010/im-proud-to-be-unicorn-free/">unicornfree.com</a></li>
+									<li><a href="http://code.google.com/apis/gmail/gadgets/contextual/">Gmail Contextual Gadgets</a></li>
+									<li><a href="http://tagneto.blogspot.com/2010/05/requirejs-0110-released.html">RequireJS 0.11.0</a></li>
+									<li><a href="http://googlecode.blogspot.com/2009/09/gmail-for-mobile-html5-series-reducing.html">Gmail script loading techniques</a></li>
+									<li><a href="http://docs.jquery.com/QUnit">QUnit</a></li>
+									<li><a href="http://jqtouch.com/">jQTouch</a></li>
+									<li><a href="http://decorplanit.com/plugin/">autoNumeric</a></li>
+									<li><a href="http://janne.aukia.com/zoomooz/">Zoomooz</a></li>
+								</ul>
+							    </div> 
+							</div> 
+							<img class="cohitre" src="http://cdn.yayquery.com/ep/18/cohitre_18.jpg" alt="TODO" title="TODO" width="329" height="256" /> 
+	    </li>
+</ul>
+
+
+<section class="outbound">
+    <h4>Video</h4>
+    <a href="http://feeds.feedburner.com/yayQuery"><img src="http://cdn.yayquery.com/site/images/podcast-icon.png"/><span>RSS Feed</span></a>
+    
+    <a href="http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=340422555"><img src="http://cdn.yayquery.com/site/images/podcast-itunes2.png"/><span>iTunes link</span></a>
+     
+    <a href="http://subscribe.getmiro.com/?url1=http%3A//feeds.feedburner.com/yayQuery&trackback1=http%3A//www.miroguide.com/feeds/12786/subscribe-hit&section1=video" title="Subscribe to yayQuery on Miro: Internet TV">
+        <img src="http://subscribe.getmiro.com/img/buttons/wes1.png"  border="0" style="padding-top: 61px;" />
+        <span>Subscribe on Miro</span>
+    </a>
+    
+    <h4>Audio</h4>
+      <a href="http://feeds.feedburner.com/yayQuery_audio"><img src="http://cdn.yayquery.com/site/images/podcast-icon.png"/><span>RSS Feed <small>(audio)</small></span></a>
+
+
+    <a href="http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=340500884"><img src="http://cdn.yayquery.com/site/images/podcast-itunes2.png"/><span>iTunes link <small>(audio)</small></span></a>
+      
+    <h4>Social whatever</h4>
+    <a href="http://twitter.com/yayQuery" title="A whole lot of yay, and a query too!"><img src="http://cdn.yayquery.com/site/images/twitter_02.png" alt="@yayQuery" title="@yayQuery" /><span>Follow us at @yayQuery</span></a>
+    <a href="http://www.facebook.com/pages/Official-yayQuery/119278851432255" title="A whole lot of yay in your face!"><img src="http://cdn.yayquery.com/site/images/facebook.png" alt="Offical yayQuery" title="Offical yayQuery" /><span>Become a Facebook.</span></a>
+</section>
+
+
+
+
+<ul class="videos">
 	<li class="left"> 
 				<h2><span class="epnum">Episode 17</span> | SPRING BREAK! WOOOO!!</h2> 
 				<img width="360" height="240" src="http://cdn.yayquery.com/ep/17/yayquery_17.png" alt="Episode 17" title="Episode 17" rel="17" class="clickvid" />
@@ -80,35 +140,6 @@
 							</div> 
 							<img class="cohitre" src="http://cdn.yayquery.com/ep/17/cohitre_17.jpg" alt="You destroyed my site !!!!!  My site is completely unavailable because of you!  You bitch!" title="You destroyed my site !!!!!  My site is completely unavailable because of you!  You bitch!" width="329" height="256" /> 
 	    </li>
-</ul>
-
-
-<section class="outbound">
-    <h4>Video</h4>
-    <a href="http://feeds.feedburner.com/yayQuery"><img src="http://cdn.yayquery.com/site/images/podcast-icon.png"/><span>RSS Feed</span></a>
-    
-    <a href="http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=340422555"><img src="http://cdn.yayquery.com/site/images/podcast-itunes2.png"/><span>iTunes link</span></a>
-     
-    <a href="http://subscribe.getmiro.com/?url1=http%3A//feeds.feedburner.com/yayQuery&trackback1=http%3A//www.miroguide.com/feeds/12786/subscribe-hit&section1=video" title="Subscribe to yayQuery on Miro: Internet TV">
-        <img src="http://subscribe.getmiro.com/img/buttons/wes1.png"  border="0" style="padding-top: 61px;" />
-        <span>Subscribe on Miro</span>
-    </a>
-    
-    <h4>Audio</h4>
-      <a href="http://feeds.feedburner.com/yayQuery_audio"><img src="http://cdn.yayquery.com/site/images/podcast-icon.png"/><span>RSS Feed <small>(audio)</small></span></a>
-
-
-    <a href="http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=340500884"><img src="http://cdn.yayquery.com/site/images/podcast-itunes2.png"/><span>iTunes link <small>(audio)</small></span></a>
-      
-    <h4>Social whatever</h4>
-    <a href="http://twitter.com/yayQuery" title="A whole lot of yay, and a query too!"><img src="http://cdn.yayquery.com/site/images/twitter_02.png" alt="@yayQuery" title="@yayQuery" /><span>Follow us at @yayQuery</span></a>
-    <a href="http://www.facebook.com/pages/Official-yayQuery/119278851432255" title="A whole lot of yay in your face!"><img src="http://cdn.yayquery.com/site/images/facebook.png" alt="Offical yayQuery" title="Offical yayQuery" /><span>Become a Facebook.</span></a>
-</section>
-
-
-
-
-<ul class="videos">
 	     <li class="right"> 
 					<h2><span class="epnum">Episode 16</span> | A Gource of the Source, Of Course, Of Course</h2> 
 					<img width="360" height="240" src="http://cdn.yayquery.com/ep/16/yayquery_16.png" alt="Episode 16" title="Episode 16" rel="16" class="clickvid" />
@@ -689,8 +720,14 @@ $(function(){
 	    vimeo : 11528683,
 	    ogv   : 'http://cdn.yayquery.com/ep/17/yayquery_17.ogv',
 	    mp4   : 'http://cdn.yayquery.com/ep/17/yayquery_17.mp4'
+	},
+       {
+	    poster: 'http://cdn.yayquery.com/ep/18/yayquery_18.png',
+	    vimeo : 12166734,
+	    ogv   : 'http://cdn.yayquery.com/ep/18/yayquery_18.ogv',
+	    mp4   : 'http://cdn.yayquery.com/ep/18/yayquery_18.mp4'
 	}
-    ];
+	];
 
     videos.sxsw = {
 	    poster: 'http://cdn.yayquery.com/ep/sxsw/yayquery_sxsw.png',
