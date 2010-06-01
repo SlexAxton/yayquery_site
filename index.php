@@ -52,7 +52,7 @@
 				<h2><span class="epnum">Episode 18</span> | I Dreamed A Dream</h2> 
 				<img width="360" height="240" src="http://cdn.yayquery.com/ep/18/yayquery_18.png" alt="Episode 18" title="Episode 18" rel="18" class="clickvid" />
 				<div class="description"> 
-				    <p>Despite Alex's vivid account of his adventues in the world of RequireJS, Adam, exhausted from many late nights of dancing ’till dawn, takes a snooze right in the middle of a perfectly good episode of yayQuery. In his dream, a mysterious guest named John Resig reveals information about the future of jQuery and mobile browsers.</p>
+				    <p>Despite Alex's vivid account of his adventures in the world of RequireJS, Adam, exhausted from many late nights of dancing ’till dawn, takes a snooze right in the middle of a perfectly good episode of yayQuery. In his dream, a mysterious guest named John Resig reveals information about the future of jQuery and mobile browsers.</p>
 				</div> 
 				<div class="shownotes"> 
 							    <div class="download"> 
