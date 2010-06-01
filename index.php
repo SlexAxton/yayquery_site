@@ -49,10 +49,10 @@
 
 <ul class="videos">
 	<li class="right"> 
-				<h2><span class="epnum">Episode 18</span> | TODO</h2> 
+				<h2><span class="epnum">Episode 18</span> | I Dreamed A Dream</h2> 
 				<img width="360" height="240" src="http://cdn.yayquery.com/ep/18/yayquery_18.png" alt="Episode 18" title="Episode 18" rel="18" class="clickvid" />
 				<div class="description"> 
-				    <p>TODO</p>
+				    <p>Despite Alex's vivid account of his adventues in the world of RequireJS, Adam, exhausted from many late nights of dancing ’till dawn, takes a snooze right in the middle of a perfectly good episode of yayQuery. In his dream, a mysterious guest named John Resig reveals information about the future of jQuery and mobile browsers.</p>
 				</div> 
 				<div class="shownotes"> 
 							    <div class="download"> 
@@ -77,7 +77,7 @@
 								</ul>
 							    </div> 
 							</div> 
-							<img class="cohitre" src="http://cdn.yayquery.com/ep/18/cohitre_18.jpg" alt="TODO" title="TODO" width="329" height="256" /> 
+							<img class="cohitre" src="http://cdn.yayquery.com/ep/18/cohitre_18.jpg" alt="Sexy Taylor Swift Magazines For The Win - STSMFTW <-- anagram to help us remember the first letters of the days of the week?!" title="Sexy Taylor Swift Magazines For The Win - STSMFTW <-- anagram to help us remember the first letters of the days of the week?!" width="329" height="256" /> 
 	    </li>
 </ul>
 
