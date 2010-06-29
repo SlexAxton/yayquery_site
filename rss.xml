@@ -6,7 +6,7 @@
 		<link>http://yayquery.com/</link>
 		<language>en-us</language>
 		<copyright>Copyright 2010</copyright>
-		<lastBuildDate>Tue, 01 Jun 2010 1:00:00 -0500</lastBuildDate>
+		<lastBuildDate>Tue, 29 Jun 2010 1:00:00 -0500</lastBuildDate>
 		<pubDate>Fri, 06 Nov 2009 11:30:00 -0500</pubDate>
 		<docs>http://blogs.law.harvard.edu/tech/rss</docs>
 		<webMaster>rmurphey@gmail.com</webMaster>
@@ -23,9 +23,9 @@
 		<item>
 					<title>Episode 18: I Dreamed A Dream</title>
 					<link>http://yayquery.com</link>
-					<guid>http://cdn.yayquery.com/ep/18/yayquery_18.mp4</guid>
+					<guid>http://cdn.yayquery.com/ep/18/yayquery_18_ipod.mp4</guid>
 					<description>Despite Alex's vivid account of his adventures in the world of RequireJS, Adam, exhausted from many late nights of dancing ’till dawn, takes a snooze right in the middle of a perfectly good episode of yayQuery. In his dream, a mysterious guest named John Resig reveals information about the future of jQuery and mobile browsers.</description>
-					<enclosure url="http://cdn.yayquery.com/ep/18/yayquery_18.mp4" type="video/mp4" length="224009926"/>
+					<enclosure url="http://cdn.yayquery.com/ep/18/yayquery_18_ipod.mp4" type="video/mp4" length="224009926"/>
 					<category>Technology</category>
 					<pubDate>Tue, 01 Jun 2010 1:00:00 -0500</pubDate>
 					<itunes:author>Paul Irish, Rebecca Murphey, Alex Sexton, Adam J Sontag</itunes:author>
