@@ -56,9 +56,9 @@
 				</div> 
 				<div class="shownotes"> 
 							    <div class="download"> 
-								<strong>Video:</strong> <a href="http://cdn.yayquery.com/ep/19/yayquery_19.ogv">OGV</a> (270mb) | <a href="http://cdn.yayquery.com/ep/19/yayquery_19.mp4">MP4</a> (224mb)
+								<strong>Video:</strong> <a href="http://cdn.yayquery.com/ep/19/yayquery_19.ogv">OGV</a> (308mb) | <a href="http://cdn.yayquery.com/ep/19/yayquery_19.mp4">MP4</a> (241mb)
 								<br /> 
-								<strong>Audio:</strong> <a href="http://cdn.yayquery.com/ep/19/yayquery_19.mp3">MP3</a> (41mb)
+								<strong>Audio:</strong> <a href="http://cdn.yayquery.com/ep/19/yayquery_19.mp3">MP3</a> (60mb)
 				<br />
 				<a href="http://vimeo.com/13304096">Watch in HD on vimeo</a>
 				<br /><br />
@@ -761,7 +761,13 @@ $(function(){
 	    vimeo : 12166734,
 	    ogv   : 'http://cdn.yayquery.com/ep/18/yayquery_18.ogv',
 	    mp4   : 'http://cdn.yayquery.com/ep/18/yayquery_18.mp4'
-	}
+	},
+	 {
+  poster: 'http://cdn.yayquery.com/ep/19/yayquery_19.png',
+  vimeo : 13304096,
+  ogv   : 'http://cdn.yayquery.com/ep/19/yayquery_19.ogv',
+  mp4   : 'http://cdn.yayquery.com/ep/19/yayquery_19.mp4'
+}
 	];
 
     videos.sxsw = {
