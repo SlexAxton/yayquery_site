@@ -50,7 +50,7 @@
 <ul class="videos">
 	<li class="left"> 
 				<h2><span class="epnum">Episode 19</span> | HTML5Locks, Stocks, &amp; Tw&hellip;BZZZZZZZZZZZ</h2> 
-				<img width="360" height="240" src="http://cdn.yayquery.com/ep/19/yayquery_19.png" alt="Episode 19" title="Episode 19" rel="19" class="clickvid" />
+				<img width="360" height="240" src="http://cdn.yayquery.com/ep/19/yayquery_19.jpg" alt="Episode 19" title="Episode 19" rel="19" class="clickvid" />
 				<div class="description"> 
 				    <p>Refreshed from relaxing, post-TXJS hiatus, the Yay Queries return with a trio of ultra-hot HTML5 sites, with varying levels of usefulness.  We'll throw down the book on on jQuery (Fundamentals) and get in touch with <del>jqTouch</del> <del>ExtJS</del> Sencha!  And when the team returns to dreamland with John Resig, who knows what you'll hear, and what will be drowned out by the drone of cheap plastic horns!?</p>
 				</div> 
@@ -64,9 +64,7 @@
 				<br /><br />
 								<h4>Show Links</h4>
 								<ul class="showlinks">
-                  <li><a href="http://html5rocks.com">html5rocks.com</a></li>
-                  <li><a href="http://html5r0cks.com">html5r0cks.com</a></li>
-                  <li><a href="http://html5cocks.com">html5cocks.com</a></li>
+                  <li><a href="http://html5rocks.com">html5rocks.com</a> | <a href="http://html5r0cks.com">html5r0cks.com</a> | <a href="http://html5cocks.com">html5cocks.com</a></li>
                   <li><a href="http://texasjavascript.com">TXJS</a> | <a href="http://speakerrate.com/events/350">TXJS Speakerrate</a></li>
                   <li><a href="http://www.quirksmode.org/css/contents.html">Quirksmode IE9 CSS3 support</a></li>
                   <li><a href="http://perfectionkills.com/jscript-and-dom-changes-in-ie9-preview-3/">JScript in IE9</a></li>
