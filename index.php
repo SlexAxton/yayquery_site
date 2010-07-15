@@ -48,36 +48,39 @@
 </header>
 
 <ul class="videos">
-	<li class="right"> 
-				<h2><span class="epnum">Episode 18</span> | I Dreamed A Dream</h2> 
-				<img width="360" height="240" src="http://cdn.yayquery.com/ep/18/yayquery_18.png" alt="Episode 18" title="Episode 18" rel="18" class="clickvid" />
+	<li class="left"> 
+				<h2><span class="epnum">Episode 19</span> | </h2> 
+				<img width="360" height="240" src="http://cdn.yayquery.com/ep/19/yayquery_19.png" alt="Episode 19" title="Episode 19" rel="19" class="clickvid" />
 				<div class="description"> 
-				    <p>Despite Alex's vivid account of his adventures in the world of RequireJS, Adam, exhausted from many late nights of dancing ’till dawn, takes a snooze right in the middle of a perfectly good episode of yayQuery. In his dream, a mysterious guest named John Resig reveals information about the future of jQuery and mobile browsers.</p>
+				    <p><!-- put them pretty words right here --></p>
 				</div> 
 				<div class="shownotes"> 
 							    <div class="download"> 
-								<strong>Video:</strong> <a href="http://cdn.yayquery.com/ep/18/yayquery_18.ogv">OGV</a> (270mb) | <a href="http://cdn.yayquery.com/ep/18/yayquery_18.mp4">MP4</a> (224mb)
+								<strong>Video:</strong> <a href="http://cdn.yayquery.com/ep/19/yayquery_19.ogv">OGV</a> (270mb) | <a href="http://cdn.yayquery.com/ep/19/yayquery_19.mp4">MP4</a> (224mb)
 								<br /> 
-								<strong>Audio:</strong> <a href="http://cdn.yayquery.com/ep/18/yayquery_18.mp3">MP3</a> (41mb)
+								<strong>Audio:</strong> <a href="http://cdn.yayquery.com/ep/19/yayquery_19.mp3">MP3</a> (41mb)
 				<br />
-				<a href="http://vimeo.com/12166734">Watch in HD on vimeo</a>
+				<a href="http://vimeo.com/13304096">Watch in HD on vimeo</a>
 				<br /><br />
 								<h4>Show Links</h4>
 								<ul class="showlinks">
-									<li><a href="http://ejohn.org">John Resig</a></li>
-									<li><a href="http://paulirish.com/i/ecc0.png">UNICORNS</a></li>
-									<li><a href="http://unicornfree.com/2010/im-proud-to-be-unicorn-free/">unicornfree.com</a></li>
-									<li><a href="http://code.google.com/apis/gmail/gadgets/contextual/">Gmail Contextual Gadgets</a></li>
-									<li><a href="http://tagneto.blogspot.com/2010/05/requirejs-0110-released.html">RequireJS 0.11.0</a></li>
-									<li><a href="http://googlecode.blogspot.com/2009/09/gmail-for-mobile-html5-series-reducing.html">Gmail script loading techniques</a></li>
-									<li><a href="http://docs.jquery.com/QUnit">QUnit</a></li>
-									<li><a href="http://jqtouch.com/">jQTouch</a></li>
-									<li><a href="http://decorplanit.com/plugin/">autoNumeric</a></li>
-									<li><a href="http://janne.aukia.com/zoomooz/">Zoomooz</a></li>
+                  <li><a href="http://html5rocks.com">html5rocks.com</a></li>
+                  <li><a href="http://html5r0cks.com">html5r0cks.com</a></li>
+                  <li><a href="http://html5cocks.com">html5cocks.com</a></li>
+                  <li><a href="http://texasjavascript.com">TXJS</a> | <a href="http://speakerrate.com/events/350">TXJS Speakerrate</a></li>
+                  <li><a href="http://www.quirksmode.org/css/contents.html">Quirksmode IE9 CSS3 support</a></li>
+                  <li><a href="http://perfectionkills.com/jscript-and-dom-changes-in-ie9-preview-3/">JScript in IE9</a></li>
+                  <li><a href="http://sencha.com">Sencha!</a></li>
+                  <li><a href="http://www.rebeccamurphey.com/jqfundamentals/">jQFundamentals - jQuery Courseware</a></li>
+                  <li><a href="http://validity.thatscaptaintoyou.com">jQuery Validity Plugin</a></li>
+                  <li><a href="http://github.com/csnover/TraceKit/">TraceKit by snover</a></li>
+                  <li><a href="http://twitter.com/CoryDorning/status/17198453016">CoryDorning asks about `return false`</a></li>
+                  <li><a href="https://developer.mozilla.org/en/Core_JavaScript_1.5_Reference/Reserved_Words">JavaScript Reserved Words</a></li>
+                  <li><a href="http://zetafleet.com">Zetafleet</a></li>
 								</ul>
 							    </div> 
 							</div> 
-							<img class="cohitre" src="http://cdn.yayquery.com/ep/18/cohitre_18.jpg" alt="Sexy Taylor Swift Magazines For The Win - STSMFTW <-- anagram to help us remember the first letters of the days of the week?!" title="Sexy Taylor Swift Magazines For The Win - STSMFTW <-- anagram to help us remember the first letters of the days of the week?!" width="329" height="256" /> 
+							<img class="cohitre" src="http://cdn.yayquery.com/ep/19/cohitre_19.jpg" alt="Sexy Taylor Swift Magazines For The Win - STSMFTW <-- anagram to help us remember the first letters of the days of the week?!" title="Sexy Taylor Swift Magazines For The Win - STSMFTW <-- anagram to help us remember the first letters of the days of the week?!" width="329" height="256" /> 
 	    </li>
 </ul>
 
@@ -108,6 +111,38 @@
 
 
 <ul class="videos">
+  <li class="right"> 
+				<h2><span class="epnum">Episode 18</span> | I Dreamed A Dream</h2> 
+				<img width="360" height="240" src="http://cdn.yayquery.com/ep/18/yayquery_18.png" alt="Episode 18" title="Episode 18" rel="18" class="clickvid" />
+				<div class="description"> 
+				    <p>Despite Alex's vivid account of his adventures in the world of RequireJS, Adam, exhausted from many late nights of dancing ’till dawn, takes a snooze right in the middle of a perfectly good episode of yayQuery. In his dream, a mysterious guest named John Resig reveals information about the future of jQuery and mobile browsers.</p>
+				</div> 
+				<div class="shownotes"> 
+							    <div class="download"> 
+								<strong>Video:</strong> <a href="http://cdn.yayquery.com/ep/18/yayquery_18.ogv">OGV</a> (270mb) | <a href="http://cdn.yayquery.com/ep/18/yayquery_18.mp4">MP4</a> (224mb)
+								<br /> 
+								<strong>Audio:</strong> <a href="http://cdn.yayquery.com/ep/18/yayquery_18.mp3">MP3</a> (41mb)
+				<br />
+				<a href="http://vimeo.com/12166734">Watch in HD on vimeo</a>
+				<br /><br />
+								<h4>Show Links</h4>
+								<ul class="showlinks">
+									<li><a href="http://ejohn.org">John Resig</a></li>
+									<li><a href="http://paulirish.com/i/ecc0.png">UNICORNS</a></li>
+									<li><a href="http://unicornfree.com/2010/im-proud-to-be-unicorn-free/">unicornfree.com</a></li>
+									<li><a href="http://code.google.com/apis/gmail/gadgets/contextual/">Gmail Contextual Gadgets</a></li>
+									<li><a href="http://tagneto.blogspot.com/2010/05/requirejs-0110-released.html">RequireJS 0.11.0</a></li>
+									<li><a href="http://googlecode.blogspot.com/2009/09/gmail-for-mobile-html5-series-reducing.html">Gmail script loading techniques</a></li>
+									<li><a href="http://docs.jquery.com/QUnit">QUnit</a></li>
+									<li><a href="http://jqtouch.com/">jQTouch</a></li>
+									<li><a href="http://decorplanit.com/plugin/">autoNumeric</a></li>
+									<li><a href="http://janne.aukia.com/zoomooz/">Zoomooz</a></li>
+								</ul>
+							    </div> 
+							</div> 
+							<img class="cohitre" src="http://cdn.yayquery.com/ep/18/cohitre_18.jpg" alt="Sexy Taylor Swift Magazines For The Win - STSMFTW <-- anagram to help us remember the first letters of the days of the week?!" title="Sexy Taylor Swift Magazines For The Win - STSMFTW <-- anagram to help us remember the first letters of the days of the week?!" width="329" height="256" /> 
+	    </li>
+	    
 	<li class="left"> 
 				<h2><span class="epnum">Episode 17</span> | SPRING BREAK! WOOOO!!</h2> 
 				<img width="360" height="240" src="http://cdn.yayquery.com/ep/17/yayquery_17.png" alt="Episode 17" title="Episode 17" rel="17" class="clickvid" />
