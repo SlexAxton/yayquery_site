@@ -49,10 +49,10 @@
 
 <ul class="videos">
 	<li class="left"> 
-				<h2><span class="epnum">Episode 19</span> | </h2> 
+				<h2><span class="epnum">Episode 19</span> | HTML5Locks, Stocks, &amp; Tw&hellip;BZZZZZZZZZZZ</h2> 
 				<img width="360" height="240" src="http://cdn.yayquery.com/ep/19/yayquery_19.png" alt="Episode 19" title="Episode 19" rel="19" class="clickvid" />
 				<div class="description"> 
-				    <p><!-- put them pretty words right here --></p>
+				    <p>Refreshed from relaxing, post-TXJS hiatus, the Yay Queries return with a trio of ultra-hot HTML5 sites, with varying levels of usefulness.  We'll throw down the book on on jQuery (Fundamentals) and get in touch with <del>jqTouch</del> <del>ExtJS</del> Sencha!  And when the team returns to dreamland with John Resig, who knows what you'll hear, and what will be drowned out by the drone of cheap plastic horns!?</p>
 				</div> 
 				<div class="shownotes"> 
 							    <div class="download"> 
