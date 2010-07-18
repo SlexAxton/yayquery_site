@@ -48,7 +48,7 @@
 </header>
 
 <ul class="videos">
-	<li class="left"> 
+	<li id="ep19" class="left"> 
 				<h2><span class="epnum">Episode 19</span> | HTML5Locks, Stocks, &amp; Tw&hellip;BZZZZZZZZZZZ</h2> 
 				<img width="360" height="240" src="http://cdn.yayquery.com/ep/19/yayquery_19.jpg" alt="Episode 19" title="Episode 19" rel="19" class="clickvid" />
 				<div class="description"> 
@@ -109,7 +109,7 @@
 
 
 <ul class="videos">
-  <li class="right"> 
+  <li id="ep18" class="right"> 
 				<h2><span class="epnum">Episode 18</span> | I Dreamed A Dream</h2> 
 				<img width="360" height="240" src="http://cdn.yayquery.com/ep/18/yayquery_18.png" alt="Episode 18" title="Episode 18" rel="18" class="clickvid" />
 				<div class="description"> 
@@ -141,7 +141,7 @@
 							<img class="cohitre" src="http://cdn.yayquery.com/ep/18/cohitre_18.jpg" alt="Sexy Taylor Swift Magazines For The Win - STSMFTW <-- anagram to help us remember the first letters of the days of the week?!" title="Sexy Taylor Swift Magazines For The Win - STSMFTW <-- anagram to help us remember the first letters of the days of the week?!" width="329" height="256" /> 
 	    </li>
 	    
-	<li class="left"> 
+	<li id="ep17" class="left"> 
 				<h2><span class="epnum">Episode 17</span> | SPRING BREAK! WOOOO!!</h2> 
 				<img width="360" height="240" src="http://cdn.yayquery.com/ep/17/yayquery_17.png" alt="Episode 17" title="Episode 17" rel="17" class="clickvid" />
 				<div class="description"> 
@@ -173,7 +173,7 @@
 							</div> 
 							<img class="cohitre" src="http://cdn.yayquery.com/ep/17/cohitre_17.jpg" alt="You destroyed my site !!!!!  My site is completely unavailable because of you!  You bitch!" title="You destroyed my site !!!!!  My site is completely unavailable because of you!  You bitch!" width="329" height="256" /> 
 	    </li>
-	     <li class="right"> 
+	     <li id="ep16" class="right"> 
 					<h2><span class="epnum">Episode 16</span> | A Gource of the Source, Of Course, Of Course</h2> 
 					<img width="360" height="240" src="http://cdn.yayquery.com/ep/16/yayquery_16.png" alt="Episode 16" title="Episode 16" rel="16" class="clickvid" />
 					<div class="description"> 
@@ -207,7 +207,7 @@
 					<img class="cohitre" src="http://cdn.yayquery.com/ep/16/cohitre_16.jpg" alt="We should just throw out the entire HTML5 Spec and start over." title="We should just throw out the entire HTML5 Spec and start over." width="332" height="232" /> 
 		    </li>
 	
-<li class="left"> 
+<li id="epsxsw" class="left"> 
 			<h2><span class="epnum">Episode ???</span> | South by SouthBEST TIME EVAR!!1</h2> 
 			<img width="360" height="240" src="http://cdn.yayquery.com/ep/sxsw/yayquery_sxsw.png" alt="Episode ???" title="Episode ???" rel="sxsw" class="clickvid" />
 			<div class="description"> 
@@ -233,7 +233,7 @@
 			</div> 
 			<img class="cohitre" src="http://cdn.yayquery.com/ep/sxsw/cohitre_sxsw.jpg" alt="It’s a vision that leads the prophet. It’s a destiny that transforms the immaculate. Taitus rocin." title="It’s a vision that leads the prophet. It’s a destiny that transforms the immaculate. Taitus rocin." width="332" height="232" /> 
     </li>
-	     <li class="right"> 
+	     <li id="ep13" class="right"> 
 				<h2><span class="epnum">Episode 13</span> | Gotta Try to Catch 'Em All</h2> 
 				<img width="360" height="240" src="http://cdn.yayquery.com/ep/13/yayquery_13.png" alt="Episode 13" title="Episode 13" rel="13" class="clickvid" />
 				<div class="description"> 
@@ -266,7 +266,7 @@
 				<img class="cohitre" src="http://cdn.yayquery.com/ep/13/cohitre_13.jpg" alt="It’s a vision that leads the prophet. It’s a destiny that transforms the immaculate. Taitus rocin." title="It’s a vision that leads the prophet. It’s a destiny that transforms the immaculate. Taitus rocin." width="332" height="232" /> 
 	    </li>
 
-    <li class="left"> 
+    <li id="ep12" class="left"> 
 			<h2><span class="epnum">Episode 12</span> | The Complete Bunny's Guide to jQuery</h2> 
 			<img width="360" height="240" src="http://cdn.yayquery.com/ep/12/yayquery_12.png" alt="Episode 12" title="Episode 12" rel="12" class="clickvid" />
 			<div class="description"> 
@@ -298,7 +298,7 @@
 			</div> 
 			<img class="cohitre" src="http://cdn.yayquery.com/ep/12/cohitre_12.jpg" alt="Please dont feed ajpiano." title="Please dont feed ajpiano." width="332" height="232" /> 
     </li>
-     <li class="right"> 
+     <li id="ep11" class="right"> 
 					<h2><span class="epnum">Episode 11</span> | 14 Days of Yaymes Padolsey</h2> 
 					<img width="360" height="240" src="http://cdn.yayquery.com/ep/11/yayquery_11.png" alt="Episode 11" title="Episode 11" rel="11" class="clickvid" />
 					<div class="description" style="overflow:visible"> 
@@ -331,7 +331,7 @@
 					</div> 
 					<img class="cohitre" src="http://cdn.yayquery.com/site/images/cohitre_11.jpg" alt="Please dont feed ajpiano." title="Please dont feed ajpiano." width="332" height="232" /> 
 		    </li>
-     <li class="left"> 
+     <li id="ep8" class="left"> 
 			<h2><span class="epnum">Episode 8, 9 &amp; 10</span> | Hapy Birthday jQuery!</h2> 
 			<img width="360" height="240" src="http://cdn.yayquery.com/ep/10/yayquery_10.png" alt="Episode 10" title="Episode 10" rel="10" class="clickvid" />
 			<div class="description"> 
@@ -364,7 +364,7 @@
 			<img class="cohitre" src="http://cdn.yayquery.com/site/images/cohitre_10.jpg" alt="Please dont feed ajpiano." title="Please dont feed ajpiano." width="332" height="232" /> 
     </li>
     
-<li class="right"> 
+<li id="ep7" class="right"> 
 					<h2>Jingle All The Yay | <span class="epnum">Episode 7</span></h2> 
 					<img width="360" height="240" src="http://cdn.yayquery.com/ep/7/yayquery_7.png" alt="Episode 7" title="Episode 7" rel="7" class="clickvid" />
 					<div class="description"> 
@@ -405,7 +405,7 @@
 					</div> 
 					<img class="cohitre" src="http://cdn.yayquery.com/site/images/cohitre_7.jpg" alt="Please dont feed ajpiano." title="Please dont feed ajpiano." width="329" height="256" /> 
 		    </li>
-<li class="left"> 
+<li id="ep6" class="left"> 
 					<h2><span class="epnum">Episode 6</span> | Nay is for Norses</h2> 
 					<img width="360" height="240" src="http://cdn.yayquery.com/ep/6/yayquery_6.png" alt="Episode 6" title="Episode 6" rel="6" class="clickvid" />
 					<div class="description"> 
@@ -439,7 +439,7 @@ We're playing naughty this week with the debut of nayQuery! Peter Higgins, Dojo 
 					</div> 
 					<img class="cohitre" src="http://cdn.yayquery.com/site/images/cohitre_6.jpg" alt="Please dont feed ajpiano." title="Please dont feed ajpiano." width="332" height="232" /> 
 		    </li>
-<li class="right"> 
+<li id="ep5" class="right"> 
 					<h2>...More Like jQuery 1.MORE, Amirite?! | <span class="epnum">Episode 5</span></h2> 
 					<img width="360" height="240" src="http://cdn.yayquery.com/ep/5/yayquery_5.png" alt="Episode 5" title="Episode 5" rel="5" class="clickvid" />
 					<div class="description"> 
@@ -469,7 +469,7 @@ We're playing naughty this week with the debut of nayQuery! Peter Higgins, Dojo 
 					</div> 
 					<img class="cohitre" src="http://cdn.yayquery.com/site/images/cohitre_5.jpg" alt="Please dont feed ajpiano." title="Please dont feed ajpiano." width="329" height="256" /> 
 		    </li>
-<li class="left"> 
+<li id="ep4" class="left"> 
 					<h2><span class="epnum">Episode 4</span> | I Once Mixed Sprite and Cappuccino, It Was Disgusting</h2> 
 					<img width="360" height="240" src="http://cdn.yayquery.com/ep/4/yayquery_4.png" alt="Episode 4" title="Episode 4" rel="4" class="clickvid" />
 					<div class="description"> 
@@ -505,7 +505,7 @@ We're playing naughty this week with the debut of nayQuery! Peter Higgins, Dojo 
 					</div> 
 					<img class="cohitre" src="http://cdn.yayquery.com/site/images/cohitre_4b.jpg" alt="Please dont feed ajpiano." title="Please dont feed ajpiano." width="332" height="232" /> 
 		    </li>
-		    <li class="right"> 
+		    <li id="ep3" class="right"> 
 					<h2>$("#turkey").contents() === new Stuffing(); | <span class="epnum">Episode 3</span></h2> 
 					<img width="360" height="240" src="http://cdn.yayquery.com/ep/3/yayquery_poster_3.png" alt="Episode 3" title="Episode 3" rel="3" class="clickvid" />
 					<div class="description"> 
@@ -534,7 +534,7 @@ We're playing naughty this week with the debut of nayQuery! Peter Higgins, Dojo 
 					</div> 
 					<img class="cohitre" src="http://cdn.yayquery.com/site/images/cohitre_3.jpg" alt="Please dont feed ajpiano." title="Please dont feed ajpiano." width="329" height="256" /> 
 		    </li>
-		    <li class="left"> 
+		    <li id="ep2" class="left"> 
 		    <h2><span class="epnum">Episode 2</span> | Third Time's a Charm!</h2> 
 		    <img width="360" height="240" src="http://cdn.yayquery.com/ep/2/yayquery_poster_2.png" alt="Episode 2" title="Episode 2" rel="2" class="clickvid" />
 		    <div class="description"> 
@@ -565,7 +565,7 @@ We're playing naughty this week with the debut of nayQuery! Peter Higgins, Dojo 
 		    </div> 
 		    <img class="cohitre" src="http://cdn.yayquery.com/site/images/cohitre_2.jpg" alt="Please dont feed ajpiano." title="Please dont feed ajpiano." width="332" height="232" /> 
 </li> 
-<li class="right"> 
+<li id="ep1" class="right"> 
 	<h2>Dear &lt;canvas&gt;, meet bacon. | <span class="epnum">Episode 1</span></h2> 
 	<img width="360" height="240" src="http://cdn.yayquery.com/ep/1/yayquery_1.png" alt="Episode 1" title="Episode 1" rel="1" class="clickvid" />
 	<div class="description"> 
@@ -599,7 +599,7 @@ We're playing naughty this week with the debut of nayQuery! Peter Higgins, Dojo 
 	</div> 
 	<img class="cohitre" src="http://cdn.yayquery.com/site/images/cohitre_1.jpg" alt="Please dont feed ajpiano." title="Please dont feed ajpiano." width="329" height="256" /> 
     </li>
-    <li class="left"> 
+    <li id="ep0" class="left"> 
 	<h2><span class="epnum">Episode 0</span> | Inaugural Zero-Indexed Episode</h2> 
 	<img width="360" height="240" src="http://cdn.yayquery.com/ep/0/yayquery_0.png" alt="Episode 0" title="Episode 0" rel="0" class="clickvid" />
 	<div class="description"> 
