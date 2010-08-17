@@ -47,6 +47,60 @@
 </div>
 </header>
 
+<!--
+
+                       888                   888                        
+                       888                   888                        
+                       888                   888                        
+       .d8888b .d88b.  888  .d88b.  88888b.  88888b.   .d88b.  88888b.  
+      d88P"   d88""88b 888 d88""88b 888 "88b 888 "88b d88""88b 888 "88b 
+      888     888  888 888 888  888 888  888 888  888 888  888 888  888 
+      Y88b.   Y88..88P 888 Y88..88P 888 d88P 888  888 Y88..88P 888  888 
+       "Y8888P "Y88P"  888  "Y88P"  88888P"  888  888  "Y88P"  888  888 
+                                    888                                 
+                                    888                                 
+                                    888
+
+0] What are you all using for video capture ?
+
+Some Flip Videocams http://theflip.com and Kodak zi8's. We used to just use our built-in cameras but the quality was meh. Dedicated external cams give us HD. After capturing we downscale the HD video to something smaller (via ffmpeg), for higher framerate editing.
+
+We also drink during recording. I read somewhere that improves the picture quality.
+
+
+
+
+
+1] What software are you using for putting the 4 videos into 1 movie ?
+
+Final Cut Pro (previously Adobe Premiere) and a lot of talented editing by our VP of Fun, Colin Snover: http://zetafleet.com - We transcode with ffmpeg afterwards to get the correct formats.
+
+
+
+
+
+2] How are you handling Audio? I see each of you have headphones, so is only one of you recording the audio ?
+
+For audio we capture on Audio Technica AT2020 USB condenser mics and a Blue Baby Bottle.
+We record using Reaper on the mac. We each capture our own audio and then it is mixed in production. Sometimes we'll clean audio ourselves and other times we'll just use a gate, depending on how much noise there is. Then a mastering compressor is put over all of the audio (including the songs) at about a 3:1 ratio or more if Snover is getting antsy.
+
+
+
+
+
+3] How are you handling the synchronization between all of you ?
+
+We use a skype call (audio only) to connect, and record that only for synchronization. All 4 video files, 4 audio files, and 1 skype audio file are all added to a shared Dropbox folder.
+Then we sync up our individual audio with the skype audio and sync that to the video. 
+Add some music from Jonathan Neal http://twitter.com/jon_neal and some brilliant editing and soon enough you have an episode.
+
+We publish episodes in a few formats: HTML5 video (ogv, mp4/h.264), vimeo flash video, high resolution and low resolution video (for download & podcast), and an audio-only mp3.
+
+We write our own XML for both the audio and video feeds. We know we could generate it, but whatevz. Then we use Feedburner to read those feeds and manage stats/subscriptions and stuff.
+
+
+-->
+
 <ul class="videos">
 	<li id="ep19" class="left"> 
 				<h2><span class="epnum">Episode 19</span> | HTML5Locks, Stocks, &amp; Tw&hellip;BZZZZZZZZZZZ</h2> 
