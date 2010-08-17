@@ -102,6 +102,52 @@ We write our own XML for both the audio and video feeds. We know we could genera
 -->
 
 <ul class="videos">
+  <li id="epjsconf2010" class="right"> 
+				<h2><span class="epnum">episode++/span> | yayQuery Lunch Spectacular</h2> 
+				<img width="360" height="240" src="http://cdn.yayquery.com/ep/jsconf2010/yayquery_jsconf2010.png" alt="yayQuery Lunch Spectacular" title="yayQuery Lunch Spectacular" rel="jsconf2010" class="clickvid" />
+				<div class="description"> 
+				    <p>JSConf is like, the biggest deal in conferences, and yayQuery is like, the biggest deal in podcasts, so it was only natural that the spectacular lunch on day one of JSConf 2010 was the yayQuery Lunch Spectacular.  Relive the magic, relive the hijinks, and come on down to the world's only JavaScript gameshow that is also a drinking game!</p>
+				</div> 
+				<div class="shownotes"> 
+							    <div class="download"> 
+								<strong>Video:</strong> <a href="http://cdn.yayquery.com/ep/jsconf2010/yayquery_jsconf2010.ogv">OGV</a> (270mb) | <a href="http://cdn.yayquery.com/ep/jsconf2010/yayquery_jsconf2010.mp4">MP4</a> (224mb)
+								<br /> 
+								<strong>Audio:</strong> <a href="http://cdn.yayquery.com/ep/jsconf2010/yayquery_jsconf2010.mp3">MP3</a> (41mb)
+				<br />
+				<a href="http://vimeo.com/13534175">Watch in HD on vimeo</a>
+					    	</div> 
+							</div> 
+							<img class="cohitre" src="http://cdn.yayquery.com/ep/jsconf2010/cohitre_jsconf2010.jpg" alt="Boom! Did you are unimpressed? and now?" title="Boom! Did you are unimpressed? and now?" width="329" height="256" /> 
+	</li>
+</ul>
+
+
+<section class="outbound">
+    <h4>Video</h4>
+    <a href="http://feeds.feedburner.com/yayQuery"><img src="http://cdn.yayquery.com/site/images/podcast-icon.png"/><span>RSS Feed</span></a>
+    
+    <a href="http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=340422555"><img src="http://cdn.yayquery.com/site/images/podcast-itunes2.png"/><span>iTunes link</span></a>
+     
+    <a href="http://subscribe.getmiro.com/?url1=http%3A//feeds.feedburner.com/yayQuery&trackback1=http%3A//www.miroguide.com/feeds/12786/subscribe-hit&section1=video" title="Subscribe to yayQuery on Miro: Internet TV">
+        <img src="http://subscribe.getmiro.com/img/buttons/wes1.png"  border="0" style="padding-top: 61px;" />
+        <span>Subscribe on Miro</span>
+    </a>
+    
+    <h4>Audio</h4>
+      <a href="http://feeds.feedburner.com/yayQuery_audio"><img src="http://cdn.yayquery.com/site/images/podcast-icon.png"/><span>RSS Feed <small>(audio)</small></span></a>
+
+
+    <a href="http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=340500884"><img src="http://cdn.yayquery.com/site/images/podcast-itunes2.png"/><span>iTunes link <small>(audio)</small></span></a>
+      
+    <h4>Social whatever</h4>
+    <a href="http://twitter.com/yayQuery" title="A whole lot of yay, and a query too!"><img src="http://cdn.yayquery.com/site/images/twitter_02.png" alt="@yayQuery" title="@yayQuery" /><span>Follow us at @yayQuery</span></a>
+    <a href="http://www.facebook.com/pages/Official-yayQuery/119278851432255" title="A whole lot of yay in your face!"><img src="http://cdn.yayquery.com/site/images/facebook.png" alt="Offical yayQuery" title="Offical yayQuery" /><span>Become a Facebook.</span></a>
+</section>
+
+
+
+
+<ul class="videos">
 	<li id="ep19" class="left"> 
 				<h2><span class="epnum">Episode 19</span> | HTML5Locks, Stocks, &amp; Tw&hellip;BZZZZZZZZZZZ</h2> 
 				<img width="360" height="240" src="http://cdn.yayquery.com/ep/19/yayquery_19.jpg" alt="Episode 19" title="Episode 19" rel="19" class="clickvid" />
@@ -133,36 +179,7 @@ We write our own XML for both the audio and video feeds. We know we could genera
 							    </div> 
 							</div> 
 							<img class="cohitre" src="http://cdn.yayquery.com/ep/19/cohitre_19.jpg" alt="Sexy Taylor Swift Magazines For The Win - STSMFTW <-- anagram to help us remember the first letters of the days of the week?!" title="Sexy Taylor Swift Magazines For The Win - STSMFTW <-- anagram to help us remember the first letters of the days of the week?!" width="329" height="256" /> 
-	    </li>
-</ul>
-
-
-<section class="outbound">
-    <h4>Video</h4>
-    <a href="http://feeds.feedburner.com/yayQuery"><img src="http://cdn.yayquery.com/site/images/podcast-icon.png"/><span>RSS Feed</span></a>
-    
-    <a href="http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=340422555"><img src="http://cdn.yayquery.com/site/images/podcast-itunes2.png"/><span>iTunes link</span></a>
-     
-    <a href="http://subscribe.getmiro.com/?url1=http%3A//feeds.feedburner.com/yayQuery&trackback1=http%3A//www.miroguide.com/feeds/12786/subscribe-hit&section1=video" title="Subscribe to yayQuery on Miro: Internet TV">
-        <img src="http://subscribe.getmiro.com/img/buttons/wes1.png"  border="0" style="padding-top: 61px;" />
-        <span>Subscribe on Miro</span>
-    </a>
-    
-    <h4>Audio</h4>
-      <a href="http://feeds.feedburner.com/yayQuery_audio"><img src="http://cdn.yayquery.com/site/images/podcast-icon.png"/><span>RSS Feed <small>(audio)</small></span></a>
-
-
-    <a href="http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=340500884"><img src="http://cdn.yayquery.com/site/images/podcast-itunes2.png"/><span>iTunes link <small>(audio)</small></span></a>
-      
-    <h4>Social whatever</h4>
-    <a href="http://twitter.com/yayQuery" title="A whole lot of yay, and a query too!"><img src="http://cdn.yayquery.com/site/images/twitter_02.png" alt="@yayQuery" title="@yayQuery" /><span>Follow us at @yayQuery</span></a>
-    <a href="http://www.facebook.com/pages/Official-yayQuery/119278851432255" title="A whole lot of yay in your face!"><img src="http://cdn.yayquery.com/site/images/facebook.png" alt="Offical yayQuery" title="Offical yayQuery" /><span>Become a Facebook.</span></a>
-</section>
-
-
-
-
-<ul class="videos">
+	    </li>	
   <li id="ep18" class="right"> 
 				<h2><span class="epnum">Episode 18</span> | I Dreamed A Dream</h2> 
 				<img width="360" height="240" src="http://cdn.yayquery.com/ep/18/yayquery_18.png" alt="Episode 18" title="Episode 18" rel="18" class="clickvid" />
