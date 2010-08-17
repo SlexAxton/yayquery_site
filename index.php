@@ -104,7 +104,7 @@ We write our own XML for both the audio and video feeds. We know we could genera
 <ul class="videos">,
   <li id="epjsconf2010" class="right"> 
 				<h2><span class="epnum">episode++</span> | yayQuery Lunch Spectacular</h2> 
-				<img width="360" height="240" src="http://cdn.yayquery.com/ep/jsconf2010/yayquery_jsconf2010.png" alt="yayQuery Lunch Spectacular" title="yayQuery Lunch Spectacular" rel="jsconf2010" class="clickvid noogv" />
+				<img width="360" height="240" src="http://cdn.yayquery.com/ep/jsconf2010/yayquery_jsconf2010.png" alt="yayQuery Lunch Spectacular" title="yayQuery Lunch Spectacular" rel="jsconf2010" class="clickvid forceflash" />
 				<div class="description"> 
 				    <p>JSConf is like, the biggest deal in conferences, and yayQuery is like, the biggest deal in podcasts, so it was only natural that the spectacular lunch on day one of JSConf 2010 was the yayQuery Lunch Spectacular.  Relive the magic, relive the hijinks, and come on down to the world's only JavaScript gameshow that is also a drinking game!</p>
 				</div> 
@@ -721,18 +721,27 @@ Special thanks to <a href="http://twitter.com/peolanha">Andrée Hansson</a> for 
 <script src="http://code.jquery.com/jquery-1.4a2.js" jquery="1.4a2" type="text/javascript"></script>
 <script type="text/javascript">
 $(function(){
-    function createVideo(videos, index, force_flash_for_ogv, force_flash_for_mp4) {
+    function createVideo(videos, index, forceflash) {
 	var video       =   videos[index],
 	    swfurl = 'http://vimeo.com/moogaloop.swf?clip_id={id}&amp;server=vimeo.com&amp;show_title=1&amp;show_byline=1&amp;show_portrait=1&amp;color=00adef&amp;fullscreen=1&autoplay=1';
 	    
-	    video.vimeo =    swfurl.replace('{id}',videos[index].vimeo);
-	var vidtemplate =   '<video width="360" height="240" poster="'+video.poster+'" controls autobuffer autoplay>' +
-			    (!force_flash_for_ogv ? '<source src="'+video.ogv+'" type=\'video/ogg; codecs="theora, vorbis"\'><\/source>' : '') +
-			    (!force_flash_for_mp4 ? '<source src="'+video.mp4+'" type=\'video/mp4; codecs="avc1.42E01E, mp4a.40.2"\'><\/source>' : '') +
+	    video.vimeo =    swfurl.replace('{id}',videos[index].vimeo),
+            vidtemplate;
+if (!forceflash) {
+	vidtemplate =   '<video width="360" height="240" poster="'+video.poster+'" controls autobuffer autoplay>' +
+			    '<source src="'+video.ogv+'" type=\'video/ogg; codecs="theora, vorbis"\'><\/source>' +
+			    '<source src="'+video.mp4+'" type=\'video/mp4; codecs="avc1.42E01E, mp4a.40.2"\'><\/source>' +
 			    '<object width="360" height="240"><param name="allowfullscreen" value="true" /><param name="allowscriptaccess" value="always" />' +
 			    '<param name="movie" value="'+video.vimeo+'&autoplay=1" />' +
 			    '<embed src="'+video.vimeo+'" type="application/x-shockwave-flash" allowfullscreen="true" allowscriptaccess="always" width="360" height="240">' +
 			    '<\/embed><\/object><\/video>';
+}
+else {
+         vidtemplate =   '<object width="360" height="240"><param name="allowfullscreen" value="true" /><param name="allowscriptaccess" value="always" />' +
+			    '<param name="movie" value="'+video.vimeo+'&autoplay=1" />' +
+			    '<embed src="'+video.vimeo+'" type="application/x-shockwave-flash" allowfullscreen="true" allowscriptaccess="always" width="360" height="240">' +
+			    '<\/embed><\/object>';
+}
 	    return vidtemplate;
     }
     
@@ -856,9 +865,8 @@ videos.jsconf2010 = {
     $('.clickvid').live('click', function(e){
       	var $this = $(this),
             vid_id = $this.attr('rel'),
-            nomp4 = $this.hasClass('nomp4'),
-            noogv = $this.hasClass('noogv'),
-      	    vid_elem =  $(createVideo(videos, vid_id, noogv, nomp4)),
+            forceflash = $this.hasClass('forceflash'),
+      	    vid_elem =  $(createVideo(videos, vid_id, forceflash)),
       	    block  = $this.closest('li').addClass('zoomview');
       	    
       	$(this).replaceWith( vid_elem  );
