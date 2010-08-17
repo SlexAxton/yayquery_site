@@ -6,7 +6,7 @@
 		<link>http://yayquery.com/</link>
 		<language>en-us</language>
 		<copyright>Copyright 2010</copyright>
-		<lastBuildDate>Mon, 16 Aug 2010 10:00:00 -0500</lastBuildDate>
+		<lastBuildDate>Mon, 16 Aug 2010 22:00:00 -0500</lastBuildDate>
 		<pubDate>Fri, 06 Nov 2009 11:30:00 -0500</pubDate>
 		<docs>http://blogs.law.harvard.edu/tech/rss</docs>
 		<webMaster>rmurphey@gmail.com</webMaster>
@@ -27,7 +27,7 @@
 					<description>JSConf is like, the biggest deal in conferences, and yayQuery is like, the biggest deal in podcasts, so it was only natural that the spectacular lunch on day one of JSConf 2010 was the yayQuery Lunch Spectacular.  Relive the magic, relive the hijinks, and come on down to the world's only JavaScript gameshow that is also a drinking game!</description>
 					<enclosure url="http://cdn.yayquery.com/ep/jsconf2010/yayquery_jsconf2010.ipod.mp4" type="video/mp4" length="300941312"/>
 					<category>Technology</category>
-					<pubDate>Mon, 16 Aug 2010 10:00:00 -0500</pubDate>
+					<pubDate>Mon, 16 Aug 2010 22:00:00 -0500</pubDate>
 					<itunes:author>Paul Irish, Rebecca Murphey, Alex Sexton, Adam J Sontag</itunes:author>
 					<itunes:explicit>Yes</itunes:explicit>
 					<itunes:summary>JSConf is like, the biggest deal in conferences, and yayQuery is like, the biggest deal in podcasts, so it was only natural that the spectacular lunch on day one of JSConf 2010 was the yayQuery Lunch Spectacular.  Relive the magic, relive the hijinks, and come on down to the world's only JavaScript gameshow that is also a drinking game!</itunes:summary>
