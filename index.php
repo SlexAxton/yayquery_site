@@ -101,9 +101,9 @@ We write our own XML for both the audio and video feeds. We know we could genera
 
 -->
 
-<ul class="videos">
+<ul class="videos">,
   <li id="epjsconf2010" class="right"> 
-				<h2><span class="epnum">episode++/span> | yayQuery Lunch Spectacular</h2> 
+				<h2><span class="epnum">episode++</span> | yayQuery Lunch Spectacular</h2> 
 				<img width="360" height="240" src="http://cdn.yayquery.com/ep/jsconf2010/yayquery_jsconf2010.png" alt="yayQuery Lunch Spectacular" title="yayQuery Lunch Spectacular" rel="jsconf2010" class="clickvid noogv" />
 				<div class="description"> 
 				    <p>JSConf is like, the biggest deal in conferences, and yayQuery is like, the biggest deal in podcasts, so it was only natural that the spectacular lunch on day one of JSConf 2010 was the yayQuery Lunch Spectacular.  Relive the magic, relive the hijinks, and come on down to the world's only JavaScript gameshow that is also a drinking game!</p>
@@ -117,7 +117,7 @@ We write our own XML for both the audio and video feeds. We know we could genera
 				<a href="http://vimeo.com/13534175">Watch in HD on vimeo</a>
 					    	</div> 
 							</div> 
-							<img class="cohitre" src="http://cdn.yayquery.com/ep/jsconf2010/cohitre_jsconf2010.jpg" alt="Boom! Did you are unimpressed? and now?" title="Boom! Did you are unimpressed? and now?" width="329" height="256" /> 
+							<img class="cohitre" src="http://cdn.yayquery.com/ep/jsconf2010/cohitre_jsconf.jpg" alt="Boom! Did you are unimpressed? and now?" title="Boom! Did you are unimpressed? and now?" width="329" height="256" /> 
 	</li>
 </ul>
 
