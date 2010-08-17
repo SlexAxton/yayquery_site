@@ -101,7 +101,7 @@ We write our own XML for both the audio and video feeds. We know we could genera
 
 -->
 
-<ul class="videos">,
+<ul class="videos">
   <li id="epjsconf2010" class="right"> 
 				<h2><span class="epnum">episode++</span> | yayQuery Lunch Spectacular</h2> 
 				<img width="360" height="240" src="http://cdn.yayquery.com/ep/jsconf2010/yayquery_jsconf2010.png" alt="yayQuery Lunch Spectacular" title="yayQuery Lunch Spectacular" rel="jsconf2010" class="clickvid forceflash" />
@@ -723,10 +723,10 @@ Special thanks to <a href="http://twitter.com/peolanha">Andrée Hansson</a> for 
 $(function(){
     function createVideo(videos, index, forceflash) {
 	var video       =   videos[index],
+            vidtemplate = '',
 	    swfurl = 'http://vimeo.com/moogaloop.swf?clip_id={id}&amp;server=vimeo.com&amp;show_title=1&amp;show_byline=1&amp;show_portrait=1&amp;color=00adef&amp;fullscreen=1&autoplay=1';
 	    
-	    video.vimeo =    swfurl.replace('{id}',videos[index].vimeo),
-            vidtemplate;
+	    video.vimeo =    swfurl.replace('{id}',videos[index].vimeo);
 if (!forceflash) {
 	vidtemplate =   '<video width="360" height="240" poster="'+video.poster+'" controls autobuffer autoplay>' +
 			    '<source src="'+video.ogv+'" type=\'video/ogg; codecs="theora, vorbis"\'><\/source>' +
