@@ -121,6 +121,7 @@ We write our own XML for both the audio and video feeds. We know we could genera
 	</li>
 </ul>
 
+<center><a href='https://developer.mozilla.org/en/JavaScript/Reference/Global_Objects/RegExp' title='JavaScript JS Documentation: JS RegExp global, JavaScript RegExp global, JS RegExp .global, JavaScript RegExp .global'><img src='http://static.jsconf.us/promotejshs.png' height='150' width='180' alt='JavaScript JS Documentation: JS RegExp global, JavaScript RegExp global, JS RegExp .global, JavaScript RegExp .global'/></a></center>
 
 <section class="outbound">
     <h4>Video</h4>
