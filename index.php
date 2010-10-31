@@ -102,22 +102,52 @@ We write our own XML for both the audio and video feeds. We know we could genera
 -->
 
 <ul class="videos">
-  <li id="epjsconf2010" class="right"> 
-				<h2><span class="epnum">episode++</span> | yayQuery Lunch Spectacular</h2> 
-				<img width="360" height="240" src="http://cdn.yayquery.com/ep/jsconf2010/yayquery_jsconf2010.png" alt="yayQuery Lunch Spectacular" title="yayQuery Lunch Spectacular" rel="jsconf2010" class="clickvid forceflash" />
-				<div class="description"> 
-				    <p>JSConf is like, the biggest deal in conferences, and yayQuery is like, the biggest deal in podcasts, so it was only natural that the spectacular lunch on day one of JSConf 2010 was the yayQuery Lunch Spectacular.  Relive the magic, relive the hijinks, and come on down to the world's only JavaScript gameshow that is also a drinking game!</p>
+  <li id="ep20" class="left"> 
+				<h2><span class="epnum">Episode 20</span> | One-Year Reun-oween</h2> 
+				<img width="360" height="240"
+        src="http://cdn.yayquery.com/ep/20/yayquery_20.jpg" alt="Episode 20:
+        One-Year Reun-oweeen" title="Episode 20: One-Year Reun-oween" rel="ep20" class="clickvid forceflash" />
+				<div class="description">
+          <p>Hey, what's good? We're the yayQuery podcast, it's our first birthday, and
+          we're back to wrap you in the familiar embrace of jQuery news, conference haps,
+          and T-Swift pics. Just like the Beatles, we just want to hold your hand
+          &hellip; and guide you through jQuery's new mobile framework, the 1.4.3
+          release, and brand new bug tracker.  With some of your favourite segments, and
+          a bit of practical kitchen advice, not watching yayQuery could be the scariest
+          thing to befall you this Halloween!</p>
 				</div> 
 				<div class="shownotes"> 
-							    <div class="download"> 
-								<strong>Video:</strong><a href="http://cdn.yayquery.com/ep/jsconf2010/yayquery_jsconf2010.ipod.mp4">MP4</a> (286mb)
-								<br /> 
-								<strong>Audio:</strong> <a href="http://cdn.yayquery.com/ep/jsconf2010/yayquery_jsconf2010.mp3">MP3</a> (15mb)
-				<br />
-				<a href="http://vimeo.com/13534175">Watch in HD on vimeo</a>
-					    	</div> 
+          <div class="download"> 
+            <strong>Video:</strong> 
+            <a href="http://cdn.yayquery.com/ep/20/yayquery_20_ipod.mp4">MP4</a> (247mb) | 
+            <a href="http://cdn.yayquery.com/ep/20/yayquery_20.ogv">OGV</a> (301mb)
+            <br /> 
+            <strong>Audio:</strong> <a href="http://cdn.yayquery.com/ep/20/yayquery_20.mp3">MP3</a> (57mb)
+          <br />
+          <a href="http://vimeo.com/16356187">Watch in HD on vimeo</a>
+          <br/>
+          <br/>
+          <h4>Show Links</h4>
+          <ul class="showlinks">
+            <li><a href="http://events.jquery.org/2010/boston/schedule/">Boston 2010 jQCon Talks</a></li>
+            <li><a href="http://wijmo.com/">Wijmo</a> | <a href="http://github.com/wijmo/Wijmo-Open">Wijmo Open on Github</a></li>
+            <li><a
+            href="http://blog.jquery.com/2010/10/16/jquery-143-released/">jQuery
+            1.4.3</a> | <a href="http://jquerymobile.com/">jQuery Mobile</a> | <a href="http://bugs.jquery.com/">Bug Tracker</a></li>
+            <li><a href="http://www.amazon.com/Tovolo-Perfect-Cube-Trays-pk-2e/dp/B000O1BKRM/ref=pd_sim_k_2">Ice cubes</a>
+            | <a href="http://ajpiano.com/category/repeating-first-grade/">Repeating First Grade</a></li>
+            <li><a href="http://api.jquery.com/jquery.tmpl/">jQuery Template API</a> | <a href="http://github.com/jquery/jquery-tmpl">Github repo</a></li>
+            <li><a href="http://api.jquery.com/category/plugins/data-link/">jQuery Data Linking API</a> | <a href="http://github.com/jquery/jquery-datalink">Github repo<a/></li>
+            <li><a href="http://requirejs.org">RequireJS</a> | <a href="http://tagneto.blogspot.com/">James Burke's Blog</a></li>
+            <li><a href="http://jsperf.com">JSPerf</a></li>
+            <li><a href="http://addyosmani.com/blog/the-top-10-javascript-talks-from-2010/">Top 10 JavaScript Talks of 2010</a></li>
+            <li><a href="http://arewefastyet.com/">Are We Fast Yet?</a> | <a href="http://www.arewefirstyet.com/">Are We First Yet?</a> | <a href="http://promotejs.com">PromoteJS</a></li>
+            <li><a href="http://github.com/phiggins42/has.js">has.js</a> | <a href="http://github.com/SlexAxton/yepnope.js">YepNope</a></li>
+          </ul>
+        </div> 
 							</div> 
-							<img class="cohitre" src="http://cdn.yayquery.com/ep/jsconf2010/cohitre_jsconf.jpg" alt="Boom! Did you are unimpressed? and now?" title="Boom! Did you are unimpressed? and now?" width="329" height="256" /> 
+							<img class="cohitre"
+              src="http://cdn.yayquery.com/ep/20/cohitre_20.jpg" alt="Boom! Did you are unimpressed? and now?" title="Boom! Did you are unimpressed? and now?" width="329" height="256" /> 
 	</li>
 </ul>
 
@@ -149,6 +179,24 @@ We write our own XML for both the audio and video feeds. We know we could genera
 
 
 <ul class="videos">
+  <li id="epjsconf2010" class="right"> 
+				<h2><span class="epnum">episode++</span> | yayQuery Lunch Spectacular</h2> 
+				<img width="360" height="240" src="http://cdn.yayquery.com/ep/jsconf2010/yayquery_jsconf2010.png" alt="yayQuery Lunch Spectacular" title="yayQuery Lunch Spectacular" rel="jsconf2010" class="clickvid forceflash" />
+				<div class="description"> 
+				    <p>JSConf is like, the biggest deal in conferences, and yayQuery is like, the biggest deal in podcasts, so it was only natural that the spectacular lunch on day one of JSConf 2010 was the yayQuery Lunch Spectacular.  Relive the magic, relive the hijinks, and come on down to the world's only JavaScript gameshow that is also a drinking game!</p>
+				</div> 
+				<div class="shownotes"> 
+							    <div class="download"> 
+								<strong>Video:</strong><a href="http://cdn.yayquery.com/ep/jsconf2010/yayquery_jsconf2010.ipod.mp4">MP4</a> (286mb)
+								<br /> 
+								<strong>Audio:</strong> <a href="http://cdn.yayquery.com/ep/jsconf2010/yayquery_jsconf2010.mp3">MP3</a> (15mb)
+				<br />
+				<a href="http://vimeo.com/13534175">Watch in HD on vimeo</a>
+					    	</div> 
+							</div> 
+							<img class="cohitre" src="http://cdn.yayquery.com/ep/jsconf2010/cohitre_jsconf.jpg" alt="Boom! Did you are unimpressed? and now?" title="Boom! Did you are unimpressed? and now?" width="329" height="256" /> 
+	</li>
+
 	<li id="ep19" class="left"> 
 				<h2><span class="epnum">Episode 19</span> | HTML5Locks, Stocks, &amp; Tw&hellip;BZZZZZZZZZZZ</h2> 
 				<img width="360" height="240" src="http://cdn.yayquery.com/ep/19/yayquery_19.jpg" alt="Episode 19" title="Episode 19" rel="19" class="clickvid" />
@@ -841,12 +889,18 @@ else {
 	    ogv   : 'http://cdn.yayquery.com/ep/18/yayquery_18.ogv',
 	    mp4   : 'http://cdn.yayquery.com/ep/18/yayquery_18.mp4'
 	},
-	 {
-  poster: 'http://cdn.yayquery.com/ep/19/yayquery_19.png',
-  vimeo : 13304096,
-  ogv   : 'http://cdn.yayquery.com/ep/19/yayquery_19.ogv',
-  mp4   : 'http://cdn.yayquery.com/ep/19/yayquery_19.mp4'
-}
+  {
+    poster: 'http://cdn.yayquery.com/ep/19/yayquery_19.png',
+    vimeo : 13304096,
+    ogv   : 'http://cdn.yayquery.com/ep/19/yayquery_19.ogv',
+    mp4   : 'http://cdn.yayquery.com/ep/19/yayquery_19.mp4'
+  },
+  {
+    poster: 'http://cdn.yayquery.com/ep/20/yayquery_20.jpg',
+    vimeo : 16356187,
+    ogv   : 'http://cdn.yayquery.com/ep/20/yayquery_20.ogv',
+    mp4   : 'http://cdn.yayquery.com/ep/20/yayquery_20.mp4'
+  }
 	];
 
     videos.sxsw = {

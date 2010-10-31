@@ -6,7 +6,7 @@
 		<link>http://yayquery.com/</link>
 		<language>en-us</language>
 		<copyright>Copyright 2010</copyright>
-		<lastBuildDate>Mon, 16 Aug 2010 22:00:00 -0500</lastBuildDate>
+		<lastBuildDate>Sun, 31 Oct 2010 12:00:00 -0500</lastBuildDate>
 		<pubDate>Fri, 06 Nov 2009 11:30:00 -0500</pubDate>
 		<docs>http://blogs.law.harvard.edu/tech/rss</docs>
 		<webMaster>rmurphey@gmail.com</webMaster>
@@ -20,6 +20,20 @@
 		<itunes:explicit>Yes</itunes:explicit>
 		<itunes:image href="http://yayquery.com/img/yayQueryLogoSquare.png"/>
 		<itunes:category text="Technology"/>
+        <item>
+					<title>Episode 20: One-Year Reun-oween</title>
+					<link>http://yayquery.com</link>
+					<guid>http://cdn.yayquery.com/ep/20/yayquery_20.mp4</guid>
+					<description>Hey, what's good? We're the yayQuery podcast, it's our first birthday, and we're back to wrap you in the familiar embrace of jQuery news, conference haps, and T-Swift pics. Just like the Beatles, we just want to hold your hand &hellip; and guide you through jQuery's new mobile framework, the 1.4.3 release, and brand new bug tracker.  With some of your favourite segments, and a bit of practical kitchen advice, not watching yayQuery could be the scariest thing to befall you this Halloween!</description>
+					<enclosure url="http://cdn.yayquery.com/ep/20/yayquery_20.mp4" type="video/mp4" length="247491689"/>
+					<category>Technology</category>
+					<pubDate>Sun, 31 Oct 2010 12:00:00 -0500</pubDate>
+					<itunes:author>Paul Irish, Rebecca Murphey, Alex Sexton, Adam J Sontag</itunes:author>
+					<itunes:explicit>Yes</itunes:explicit>
+					<itunes:summary>Hey, what's good? We're the yayQuery podcast, it's our first birthday, and we're back to wrap you in the familiar embrace of jQuery news, conference haps, and T-Swift pics. Just like the Beatles, we just want to hold your hand &hellip; and guide you through jQuery's new mobile framework, the 1.4.3 release, and brand new bug tracker.  With some of your favourite segments, and a bit of practical kitchen advice, not watching yayQuery could be the scariest thing to befall you this Halloween!</itunes:summary>
+					<itunes:duration>00:43:56</itunes:duration>
+					<itunes:keywords>jQuery, front end development, web development, javascript, jqcon</itunes:keywords>
+        </item>	
                 <item>
 					<title>Episode ++: yayQuery Lunch Spectacular</title>
 					<link>http://yayquery.com</link>
