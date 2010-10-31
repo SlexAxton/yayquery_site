@@ -106,7 +106,7 @@ We write our own XML for both the audio and video feeds. We know we could genera
 				<h2><span class="epnum">Episode 20</span> | One-Year Reun-oween</h2> 
 				<img width="360" height="240"
         src="http://cdn.yayquery.com/ep/20/yayquery_20.jpg" alt="Episode 20:
-        One-Year Reun-oweeen" title="Episode 20: One-Year Reun-oween" rel="ep20" class="clickvid forceflash" />
+        One-Year Reun-oweeen" title="Episode 20: One-Year Reun-oween" rel="20" class="clickvid forceflash" />
 				<div class="description">
           <p>Hey, what's good? We're the yayQuery podcast, it's our first birthday, and
           we're back to wrap you in the familiar embrace of jQuery news, conference haps,
