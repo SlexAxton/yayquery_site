@@ -767,7 +767,8 @@ Special thanks to <a href="http://twitter.com/peolanha">Andrée Hansson</a> for 
 </footer>
 
 <!-- we use the method described here: http://groups.google.com/group/jquery-dev/msg/164e637366442210 to get "undocumented jQuery event handling" -->
-<script src="http://code.jquery.com/jquery-1.4a2.js" jquery="1.4a2" type="text/javascript"></script>
+<script src="http://cdn.thetaylornation.com/taylornation/resources/display/js/jquery/jquery-1.4.2.min.js" jquery="1.4.2" type="text/javascript"></script>
+<script>!window.jQuery && document.write(unescape('%3Cscript src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.js"%3E%3C/script%3E'))</script>
 <script type="text/javascript">
 $(function(){
     function createVideo(videos, index, forceflash) {
