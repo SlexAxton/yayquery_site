@@ -104,7 +104,6 @@ a {
 	.videos > li {
 	    background-repeat:no-repeat;
 	    height:543px;
-	    overflow:hidden;
 	    margin:5px 35px;
 	}
 	.videos li.right {
