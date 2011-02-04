@@ -940,6 +940,12 @@ else {
     vimeo : 16356187,
     ogv   : 'http://cdn.yayquery.com/ep/20/yayquery_20.ogv',
     mp4   : 'http://cdn.yayquery.com/ep/20/yayquery_20.mp4'
+  },
+  {
+    poster: 'http://cdn.yayquery.com/ep/21/yayquery_21.jpg',
+    vimeo : 19578621,
+    ogv   : 'http://cdn.yayquery.com/ep/21/yayquery_21.ogv',
+    mp4   : 'http://cdn.yayquery.com/ep/21/yayquery_21.mp4'
   }
 	];
 
