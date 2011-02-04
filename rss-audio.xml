@@ -23,6 +23,20 @@
 
 		<itunes:category text="Technology"/>
         <item>
+					<title>Episode 21: jQuery 1.5 - The Promise Lands</title>
+					<link>http://yayquery.com</link>
+					<guid>http://cdn.yayquery.com/ep/21/yayquery_21.mp3</guid>
+					<description>Ya wut? It's 2011. Time for yayQuery to take you back to front-end heaven. We got the bat, that's Julian Aubourg - he rewrote AJAX, sent the old way to the morgue. Yea we back, jQuery 1.5, new release with Deferreds is the dope jive. Want the skinny? Peep our latest episode - if you wanna keep them antipatterns out ya code!</description>
+					<enclosure url="http://cdn.yayquery.com/ep/21/yayquery_21.mp3" type="audio/mp3" length="47456373"/>
+					<category>Technology</category>
+					<pubDate>Fri, 4 Feb 2011 17:00:00 -0500</pubDate>
+					<itunes:author>Paul Irish, Rebecca Murphey, Alex Sexton, Adam J Sontag</itunes:author>
+					<itunes:explicit>Yes</itunes:explicit>
+					<itunes:summary>Ya wut? It's 2011. Time for yayQuery to take you back to front-end heaven. We got the bat, that's Julian Aubourg - he rewrote AJAX, sent the old way to the morgue. Yea we back, jQuery 1.5, new release with Deferreds is the dope jive. Want the skinny? Peep our latest episode - if you wanna keep them antipatterns out ya code!</itunes:summary>
+					<itunes:duration>00:40:22</itunes:duration>
+					<itunes:keywords>jQuery, front end development, web development, javascript, 1.5</itunes:keywords>
+        </item>
+        <item>
 					<title>Episode 20: One-Year Reun-oween</title>
 					<link>http://yayquery.com</link>
 					<guid>http://cdn.yayquery.com/ep/20/yayquery_20.mp3</guid>

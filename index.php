@@ -102,7 +102,46 @@ We write our own XML for both the audio and video feeds. We know we could genera
 -->
 
 <ul class="videos">
-  <li id="ep20" class="left"> 
+      <li id="ep21" class="right"> 
+                              <h2><span class="epnum">Episode 21</span> | jQuery 1.5 - The Promise Lands</h2> 
+                              <img width="360" height="240" src="http://cdn.yayquery.com/ep/21/yayquery_21.png" alt="Episode 21" title="Episode 21" rel="21" class="clickvid" />
+                              <div class="description"> 
+                                <p>Ya wut? It's 2011. Time for yayQuery to take you back to front-end heaven.  
+                                   We got the bat, that's Julian Aubourg -  he rewrote AJAX, sent the old way to the morgue.  
+                                   Yea we back, jQuery 1.5, new release with Deferreds is the dope jive.  
+                                   Want the skinny? Peep our latest episode - if you wanna keep them antipatterns out ya code!
+                                </p>
+                              </div> 
+                              <div class="shownotes"> 
+                                                          <div class="download"> 
+                                                              <strong>Video:</strong> <a href="http://cdn.yayquery.com/ep/21/yayquery_21.ogv">OGV</a> (258mb) | <a href="http://cdn.yayquery.com/ep/21/yayquery_21.mp4">MP4</a> (204mb)
+                                                              <br /> 
+                                                              <strong>Audio:</strong> <a href="http://cdn.yayquery.com/ep/21/yayquery_21.mp3">MP3</a> (45mb)
+                              <br />
+                              <a href="http://vimeo.com/19578621">Watch in HD on vimeo</a>
+                              <br /><br />
+                                                              <h4>Show Links</h4>
+                                                              <ul class="showlinks">
+                                                                <li><a href="http://blog.jquery.com/2011/01/31/jquery-15-released/">jQuery 1.5 Released</a> | <a href="http://code.jquery.com/jquery-git.js">jQuery Latest Git</a></li>
+                                                                <li><a href="http://jaubourg.net/">Julian Aubourg</a></li>
+                                                                <li><a href="http://api.jquery.com/category/deferred-object/">Deferred Object</a> | <a href="http://blog.rebeccamurphey.com/deferreds-coming-to-jquery">Rebecca Murphey</a> | <a href="http://www.erichynds.com/jquery/using-deferreds-in-jquery/">Eric Hynds Deferreds</a></li>
+                                                                <li><a href="https://github.com/mishoo/UglifyJS">Uglify</a> | <a href="http://alexsexton.com/uglifui/">Uglifui</a></li>
+                                                                <li><a href="http://infrequently.org/2011/01/cutting-the-interrogation-short/">Cost of Feature Tests</a></li>
+                                                                <li><a href="http://modernizr.github.com/Modernizr/2.0-beta/">Modernizr 2.0b</a> | <a href="https://github.com/SlexAxton/yepnope.js">yepnope.js</a></li>
+                                                                <li><a href="http://dougneiner.com/post/255998581/downloadify">Downloadify by Doug Neiner</a></li>
+                                                                <li><a href="http://desandro.com/">David Desandro</a> | <a href="http://screenr.com/vIt">Isotope Demo</a></li>
+                                                                <li><a href="http://www.ravelrumba.com/blog/jquery-peel-back-ad/">jQuery Peel Back Ad</a></li>
+                                                                <li><a href="http://blog.jqueryui.com/2010/05/jquery-ui-19m1-tooltip/">jQueryUI Tooltip</a> | <a href="http://view.jqueryui.com/master/demos/tooltip/delegation-mixbag.html">Delegation Demo</a></li>
+                                                                <li><a href="http://eloquentjavascript.net/">Eloquent JavaScript</a> | <a href="http://oreilly.com/catalog/9780596806767/">JavaScript Patterns</a></li>
+                                                                <li><a href="http://w3fools.com">w3fools</a> | <a href="http://hacks.mozilla.org/2011/01/mdn-doc-sprint-was-a-huge-success/">Mozilla Doc Sprint</a></li>
+                                                                <li><a href="http://www.slideshare.net/fgalassi/javascript-the-new-parts">JavaScript the new parts</a></li>
+                                                                <li><a href="http://paulirish.com/2011/11-more-things-i-learned-from-the-jquery-source/">11 More Things I Learned from the jQuery Source</a></li>
+                                                              </ul>
+                                                          </div> 
+                                                      </div> 
+                                                      <img class="cohitre" src="http://cdn.yayquery.com/ep/21/cohitre_21.jpg" alt="Sexy Taylor Swift Magazines For The Win - STSMFTW <-- anagram to help us remember the first letters of the days of the week?!" title="Sexy Taylor Swift Magazines For The Win - STSMFTW <-- anagram to help us remember the first letters of the days of the week?!" width="329" height="256" /> 
+      </li>
+      <li id="ep20" class="left"> 
 				<h2><span class="epnum">Episode 20</span> | One-Year Reun-oween</h2> 
 				<img width="360" height="240"
         src="http://cdn.yayquery.com/ep/20/yayquery_20.jpg" alt="Episode 20:
