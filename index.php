@@ -104,7 +104,7 @@ We write our own XML for both the audio and video feeds. We know we could genera
 <ul class="videos">
       <li id="ep21" class="right"> 
                               <h2><span class="epnum">Episode 21</span> | jQuery 1.5 - The Promise Lands</h2> 
-                              <img width="360" height="240" src="http://cdn.yayquery.com/ep/21/yayquery_21.png" alt="Episode 21" title="Episode 21" rel="21" class="clickvid" />
+                              <img width="360" height="240" src="http://cdn.yayquery.com/ep/21/yayquery_21.jpg" alt="Episode 21" title="Episode 21" rel="21" class="clickvid" />
                               <div class="description"> 
                                 <p>Ya wut? It's 2011. Time for yayQuery to take you back to front-end heaven.  
                                    We got the bat, that's Julian Aubourg -  he rewrote AJAX, sent the old way to the morgue.  
