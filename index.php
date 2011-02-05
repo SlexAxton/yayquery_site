@@ -124,7 +124,7 @@ We write our own XML for both the audio and video feeds. We know we could genera
                                                               <ul class="showlinks">
                                                                 <li><a href="http://blog.jquery.com/2011/01/31/jquery-15-released/">jQuery 1.5 Released</a> | <a href="http://code.jquery.com/jquery-git.js">jQuery Latest Git</a></li>
                                                                 <li><a href="http://jaubourg.net/">Julian Aubourg</a></li>
-                                                                <li><a href="http://api.jquery.com/category/deferred-object/">Deferred Object</a> | <a href="http://blog.rebeccamurphey.com/deferreds-coming-to-jquery">Rebecca Murphey</a> | <a href="http://www.erichynds.com/jquery/using-deferreds-in-jquery/">Eric Hynds Deferreds</a></li>
+                                                                <li><a href="http://api.jquery.com/category/deferred-object/">Deferred Object</a> | <a href="http://blog.rebeccamurphey.com/deferreds-coming-to-jquery">Rebecca Murphey</a> | <a href="http://www.erichynds.com/jquery/using-deferreds-in-jquery/">Eric Hynds</a></li>
                                                                 <li><a href="https://github.com/mishoo/UglifyJS">Uglify</a> | <a href="http://alexsexton.com/uglifui/">Uglifui</a></li>
                                                                 <li><a href="http://infrequently.org/2011/01/cutting-the-interrogation-short/">Cost of Feature Tests</a></li>
                                                                 <li><a href="http://modernizr.github.com/Modernizr/2.0-beta/">Modernizr 2.0b</a> | <a href="https://github.com/SlexAxton/yepnope.js">yepnope.js</a></li>
