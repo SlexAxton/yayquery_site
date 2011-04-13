@@ -128,7 +128,7 @@ We write our own XML for both the audio and video feeds. We know we could genera
           <h4>Show Links</h4>
           <ul class="showlinks">
             <li>
-                <a href="http://twitter.com/ralphholzmann">Ralph Holzman</a> |
+                <a href="http://twitter.com/ralphholzmann">Ralph Holzmann</a> |
                 <a href="http://groupcardapps.com">GroupCard</a> |
                 <a href="http://sendtodropbox.com">Send to Dropbox</a>
             </li>
@@ -142,8 +142,8 @@ We write our own XML for both the audio and video feeds. We know we could genera
                 <a href="http://wiki.jqueryui.com/Menu">Menu</a>
             </li>
             <li>
-                <a href="http://blog.rebeccamurphey.com/the-future-of-jquery-fundamentals-and-a-confe">Future of jQuery Fundamentals</a> |
-                <a href="http://clubajax.org/brendan-eich-redesigns-javascript-to-look-like-jquery/">Eich Redesigns JS as jQ</a>
+                <a href="http://blog.rebeccamurphey.com/the-future-of-jquery-fundamentals-and-a-confe">Future of jQ Fundamentals</a> |
+                <a href="http://clubajax.org/brendan-eich-redesigns-javascript-to-look-like-jquery/">Eich Redesigns JS</a>
             </li>
             <li>
                 <a href="https://github.com/rmurphey/dojo-boilerplate">Dojo Boilerplate</a> |
@@ -151,11 +151,11 @@ We write our own XML for both the audio and video feeds. We know we could genera
             </li>
             <li>
                 <a href="https://github.com/ajpiano/boilerplate-boilerplate">Boilerplate Boilerplate</a> |
-                <a href="http://www.barackobama.com/">HTML5BP on BarackObama.com</a>
+                <a href="http://www.barackobama.com/">Obama goes HTML5BP</a>
             </li>
             <li>
                 <a href="http://yepnopejs.com/">yepnope 1.0</a> |
-                <a href="http://twitter.com/thomasfuchs/status/52629744046444544">JavaScript loaders == over-engineering?</a> |
+                <a href="http://twitter.com/thomasfuchs/status/52629744046444544">Over-engineering?</a> |
                 <a href="https://spreadsheets0.google.com/ccc?key=tDdcrv9wNQRCNCRCflWxhYQ#gid=0">Comparison Doc</a>
             </li>
             <li>
