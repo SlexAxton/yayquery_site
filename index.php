@@ -155,8 +155,10 @@ We write our own XML for both the audio and video feeds. We know we could genera
             </li>
             <li>
                 <a href="http://yepnopejs.com/">yepnope 1.0</a> |
-                <a href="http://twitter.com/thomasfuchs/status/52629744046444544">Over-engineering?</a> |
-                <a href="https://spreadsheets0.google.com/ccc?key=tDdcrv9wNQRCNCRCflWxhYQ#gid=0">Comparison Doc</a>
+                <a href="http://twitter.com/thomasfuchs/status/52629744046444544">Over-engineering?</a>
+            </li>
+            <li>
+                <a href="https://spreadsheets0.google.com/ccc?key=tDdcrv9wNQRCNCRCflWxhYQ#gid=0">Script Loader Comparison Doc</a>
             </li>
             <li>
                 <a href="http://zeptojs.com/">Zepto</a> |
@@ -175,7 +177,7 @@ We write our own XML for both the audio and video feeds. We know we could genera
         </div>
 							</div>
 							<img class="cohitre"
-              src="http://cdn.yayquery.com/ep/22/cohitre_22.jpg" alt="Have I brought this chicken for us to eat?" title="Have I brought this chicken for us to eat?" width="329" height="256" />
+              src="http://cdn.yayquery.com/ep/22/cohitre_22.jpg" alt="Have I brought this chicken for us to eat?" title="Have I brought this chicken for us to eat?" width="329" height="240" />
         </li>
         <li id="ep21" class="right">
                               <h2><span class="epnum">Episode 21</span> | jQuery 1.5 - The Promise Lands</h2>
