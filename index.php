@@ -98,11 +98,86 @@ We publish episodes in a few formats: HTML5 video (ogv, mp4/h.264), vimeo flash 
 
 We write our own XML for both the audio and video feeds. We know we could generate it, but whatevz. Then we use Feedburner to read those feeds and manage stats/subscriptions and stuff.
 
-
 -->
 
 <ul class="videos">
-      <li id="ep21" class="right"> 
+      <li id="ep22" class="left"> 
+				<h2><span class="epnum">Episode 22</span> | Which Square Can I Take?</h2> 
+				<img width="360" height="240"
+        src="http://cdn.yayquery.com/ep/22/yayquery_22.jpg" alt="Episode 22:
+        Which Square Can I Take?" title="Episode 22: Which Square Can I Take?" rel="22" class="clickvid forceflash" />
+				<div class="description">
+          <p>
+            With Paul deep in the bowels of an evil deadline, team Yay enlists Ralph Holzmann to pinch hit, and unlike 
+            <a href="http://en.wikipedia.org/wiki/Casey_at_the_Bat">Mighty Casey</a>, he belts one out of the park!
+            We'll take you on a tour of your various options for keeping plates at a rollicking boil, JS-related spring travel,
+            and using MEAT as a navigation tool. And toward the end, when Rebecca's video goes Black, we take the only logical alternative!
+          </p>
+				</div> 
+				<div class="shownotes"> 
+          <div class="download"> 
+            <strong>Video:</strong> 
+            <a href="http://cdn.yayquery.com/ep/22/yayquery_22_ipod.mp4">MP4</a> (281mb) | 
+            <a href="http://cdn.yayquery.com/ep/22/yayquery_22.ogv">OGV</a> (281mb)
+            <br /> 
+            <strong>Audio:</strong> <a href="http://cdn.yayquery.com/ep/22/yayquery_22.mp3">MP3</a> (57mb)
+          <br />
+          <a href="http://vimeo.com/22348218">Watch in HD on vimeo</a>
+          <br/>
+          <br/>
+          <h4>Show Links</h4>
+          <ul class="showlinks">
+            <li>
+                <a href="http://twitter.com/ralphholzmann">Ralph Holzman</a> |
+                <a href="http://groupcardapps.com">GroupCard</a> |
+                <a href="http://sendtodropbox.com">Send to Dropbox</a>
+            </li>
+            <li>
+                <a href="http://bugs.jquery.com/ticket/7783">1.6 $.proxy Function.bind</a>
+            </li>
+            <li>
+                jQuery UI 1.9 - 
+                <a href="http://wiki.jqueryui.com/Spinner">Spinner</a> |
+                <a href="http://wiki.jqueryui.com/Tooltip">ToolTip</a> |
+                <a href="http://wiki.jqueryui.com/Menu">Menu</a>
+            </li>
+            <li>
+                <a href="http://blog.rebeccamurphey.com/the-future-of-jquery-fundamentals-and-a-confe">Future of jQuery Fundamentals</a> |
+                <a href="http://clubajax.org/brendan-eich-redesigns-javascript-to-look-like-jquery/">Eich Redesigns JS as jQ</a>
+            </li>
+            <li>
+                <a href="https://github.com/rmurphey/dojo-boilerplate">Dojo Boilerplate</a> | 
+                <a href="https://github.com/rmurphey/dojo-boilerplate/tree/AMD">AMD Branch</a>
+            </li>
+            <li>
+                <a href="https://github.com/ajpiano/boilerplate-boilerplate">Boilerplate Boilerplate</a> | 
+                <a href="http://www.barackobama.com/">HTML5BP on BarackObama.com</a>
+            </li>
+            <li>
+                <a href="http://yepnopejs.com/">yepnope 1.0</a> |
+                <a href="http://twitter.com/thomasfuchs/status/52629744046444544">JavaScript loaders == over-engineering?</a> |
+                <a href="https://spreadsheets0.google.com/ccc?key=tDdcrv9wNQRCNCRCflWxhYQ#gid=0">Comparison Doc</a>
+            </li>
+            <li>
+                <a href="http://zeptojs.com/">Zepto</a> |
+                <a href="http://stanangeloff.github.com/zoey/#demo">Zoey</a>
+            </li>
+            <li>
+                <a href="http://christophercliff.github.com/sausage/">jQuery Sausage</a> |
+                <a href="https://github.com/timrwood/underscore.date">Underscore.date</a>
+            </li>
+            <li>
+                <a href="http://events.jquery.org/2011/sf-bay-area/">Bay Area jQCon</a> |
+                <a href="http://2011.jsconf.us/">JSConf 2011</a> |
+                <a href="http://2011.texasjavascript.com/">TXJS</a>
+            </li>
+          </ul>
+        </div> 
+							</div> 
+							<img class="cohitre"
+              src="http://cdn.yayquery.com/ep/22/cohitre_22.jpg" alt="Have I brought this chicken for us to eat?" title="Have I brought this chicken for us to eat?" width="329" height="256" /> 
+        </li>
+        <li id="ep21" class="right"> 
                               <h2><span class="epnum">Episode 21</span> | jQuery 1.5 - The Promise Lands</h2> 
                               <img width="360" height="240" src="http://cdn.yayquery.com/ep/21/yayquery_21.jpg" alt="Episode 21" title="Episode 21" rel="21" class="clickvid" />
                               <div class="description"> 
@@ -929,25 +1004,31 @@ else {
 	    ogv   : 'http://cdn.yayquery.com/ep/18/yayquery_18.ogv',
 	    mp4   : 'http://cdn.yayquery.com/ep/18/yayquery_18.mp4'
 	},
-  {
-    poster: 'http://cdn.yayquery.com/ep/19/yayquery_19.png',
-    vimeo : 13304096,
-    ogv   : 'http://cdn.yayquery.com/ep/19/yayquery_19.ogv',
-    mp4   : 'http://cdn.yayquery.com/ep/19/yayquery_19.mp4'
-  },
-  {
-    poster: 'http://cdn.yayquery.com/ep/20/yayquery_20.jpg',
-    vimeo : 16356187,
-    ogv   : 'http://cdn.yayquery.com/ep/20/yayquery_20.ogv',
-    mp4   : 'http://cdn.yayquery.com/ep/20/yayquery_20.mp4'
-  },
-  {
-    poster: 'http://cdn.yayquery.com/ep/21/yayquery_21.jpg',
-    vimeo : 19578621,
-    ogv   : 'http://cdn.yayquery.com/ep/21/yayquery_21.ogv',
-    mp4   : 'http://cdn.yayquery.com/ep/21/yayquery_21.mp4'
-  }
-	];
+        {
+          poster: 'http://cdn.yayquery.com/ep/19/yayquery_19.png',
+          vimeo : 13304096,
+          ogv   : 'http://cdn.yayquery.com/ep/19/yayquery_19.ogv',
+          mp4   : 'http://cdn.yayquery.com/ep/19/yayquery_19.mp4'
+        },
+        {
+          poster: 'http://cdn.yayquery.com/ep/20/yayquery_20.jpg',
+          vimeo : 16356187,
+          ogv   : 'http://cdn.yayquery.com/ep/20/yayquery_20.ogv',
+          mp4   : 'http://cdn.yayquery.com/ep/20/yayquery_20.mp4'
+        },
+        {
+          poster: 'http://cdn.yayquery.com/ep/21/yayquery_21.jpg',
+          vimeo : 19578621,
+          ogv   : 'http://cdn.yayquery.com/ep/21/yayquery_21.ogv',
+          mp4   : 'http://cdn.yayquery.com/ep/21/yayquery_21.mp4'
+        },
+        {
+          poster: 'http://cdn.yayquery.com/ep/22/yayquery_22.jpg',
+          vimeo : 22348218,
+          ogv   : 'http://cdn.yayquery.com/ep/22/yayquery_22.ogv',
+          mp4   : 'http://cdn.yayquery.com/ep/22/yayquery_22.mp4'
+        }
+      ];
 
     videos.sxsw = {
 	    poster: 'http://cdn.yayquery.com/ep/sxsw/yayquery_sxsw.png',
