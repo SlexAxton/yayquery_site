@@ -1,64 +1,64 @@
 ﻿<!dOcTYpE                HTMl   >
-<html> 
-<head> 
+<html>
+<head>
 <meta charset="utf-8">
-<meta name="description" content="The yayQuery hosts have years of experience being neck-deep in their own jQuery development, as well as providing support and training to the community. The podcast tries to capture one of our favorite conference pastimes -- hanging out at a bar and talking code. About the hosts: From afar when you notice them at jquery conference, they look like the cool kids in high school. They just gather around and make fun of everybody." /> 
+<meta name="description" content="The yayQuery hosts have years of experience being neck-deep in their own jQuery development, as well as providing support and training to the community. The podcast tries to capture one of our favorite conference pastimes -- hanging out at a bar and talking code. About the hosts: From afar when you notice them at jquery conference, they look like the cool kids in high school. They just gather around and make fun of everybody." />
 <meta http-equiv="Pragma" content="no-cache">
 
-<title>yayQuery Podcast - A jQuery Podcast</title> 
+<title>yayQuery Podcast - A jQuery Podcast</title>
 <link rel="shortcut icon" href="favicon.ico" type="image/x-icon" />
 <link rel="alternate" type="application/rss+xml" title="yayQuery RSS Feed" href="http://feeds.feedburner.com/yayQuery" />
 <link rel="alternate" type="application/rss+xml" title="yayQuery RSS Feed (Audio Only)" href="http://feeds.feedburner.com/yayQuery_audio" />
-<!--[if IE]> <script>(function(){if(!/*@cc_on!@*/0)return;var e = "abbr,article,aside,audio,canvas,datalist,details,eventsource,figure,footer,header,hgroup,mark,menu,meter,nav,output,progress,section,time,video".split(','),i=e.length;while(i--){document.createElement(e[i])}})()</script> <![endif]--> 
-<link type="text/css" rel="stylesheet" media="all" href="css/base.css" /> 
-</head> 
+<!--[if IE]> <script>(function(){if(!/*@cc_on!@*/0)return;var e = "abbr,article,aside,audio,canvas,datalist,details,eventsource,figure,footer,header,hgroup,mark,menu,meter,nav,output,progress,section,time,video".split(','),i=e.length;while(i--){document.createElement(e[i])}})()</script> <![endif]-->
+<link type="text/css" rel="stylesheet" media="all" href="css/base.css" />
+</head>
 <body>
 <!--[if WorstBrowserEver]>
-                    ________               
-                 .##@@&&&@@##.             
-              ,##@&::%&&%%::&@##.          
-             #@&:%%000000000%%:&@#         
-           #@&:%00'         '00%:&@#       
-          #@&:%0'             '0%:&@#      
-         #@&:%0                 0%:&@#     
-        #@&:%0  This is for good 0%:&@#    
-        #@&:%0   luck trying to  0%:&@#    
-        "" ' "   get this        " ' ""    
-      _oOoOoOo_  working in IE.   .-.-.    
-     (oOoOoOoOo)                 (  :  )   
-      )`"""""`(                .-.`. .'.-. 
+                    ________
+                 .##@@&&&@@##.
+              ,##@&::%&&%%::&@##.
+             #@&:%%000000000%%:&@#
+           #@&:%00'         '00%:&@#
+          #@&:%0'             '0%:&@#
+         #@&:%0                 0%:&@#
+        #@&:%0  This is for good 0%:&@#
+        #@&:%0   luck trying to  0%:&@#
+        "" ' "   get this        " ' ""
+      _oOoOoOo_  working in IE.   .-.-.
+     (oOoOoOoOo)                 (  :  )
+      )`"""""`(                .-.`. .'.-.
      /         \              (_  '.Y.'  _)
     |           |             (   .'|'.   )
-    \           /              '-'  |  '-' 
-     `=========`                           
+    \           /              '-'  |  '-'
+     `=========`
 <![endif]-->
-    
-    
-    
+
+
+
 <header>
-<div id="header"> 
-    <h1>yayQuery Podcast - A jQuery Podcast</h1> 
-    <div id="sponsors"> 
-	<span class="spons">sponsored by</span> 
-	<a id="tinycdn" href="http://www.tinycdn.com/">TinyCDN</a> 
-	<span class="bigamp">&amp;</span> 
-	<a id="devotee" href="http://www.devot-ee.com/">devot:ee</a> 
+<div id="header">
+    <h1>yayQuery Podcast - A jQuery Podcast</h1>
+    <div id="sponsors">
+	<span class="spons">sponsored by</span>
+	<a id="tinycdn" href="http://www.tinycdn.com/">TinyCDN</a>
+	<span class="bigamp">&amp;</span>
+	<a id="devotee" href="http://www.devot-ee.com/">devot:ee</a>
     </div>
 </div>
 </header>
 
 <!--
 
-                       888                   888                        
-                       888                   888                        
-                       888                   888                        
-       .d8888b .d88b.  888  .d88b.  88888b.  88888b.   .d88b.  88888b.  
-      d88P"   d88""88b 888 d88""88b 888 "88b 888 "88b d88""88b 888 "88b 
-      888     888  888 888 888  888 888  888 888  888 888  888 888  888 
-      Y88b.   Y88..88P 888 Y88..88P 888 d88P 888  888 Y88..88P 888  888 
-       "Y8888P "Y88P"  888  "Y88P"  88888P"  888  888  "Y88P"  888  888 
-                                    888                                 
-                                    888                                 
+                       888                   888
+                       888                   888
+                       888                   888
+       .d8888b .d88b.  888  .d88b.  88888b.  88888b.   .d88b.  88888b.
+      d88P"   d88""88b 888 d88""88b 888 "88b 888 "88b d88""88b 888 "88b
+      888     888  888 888 888  888 888  888 888  888 888  888 888  888
+      Y88b.   Y88..88P 888 Y88..88P 888 d88P 888  888 Y88..88P 888  888
+       "Y8888P "Y88P"  888  "Y88P"  88888P"  888  888  "Y88P"  888  888
+                                    888
+                                    888
                                     888
 
 0] What are you all using for video capture ?
@@ -91,7 +91,7 @@ We record using Reaper on the mac. We each capture our own audio and then it is 
 3] How are you handling the synchronization between all of you ?
 
 We use a skype call (audio only) to connect, and record that only for synchronization. All 4 video files, 4 audio files, and 1 skype audio file are all added to a shared Dropbox folder.
-Then we sync up our individual audio with the skype audio and sync that to the video. 
+Then we sync up our individual audio with the skype audio and sync that to the video.
 Add some music from Jonathan Neal http://twitter.com/jon_neal and some brilliant editing and soon enough you have an episode.
 
 We publish episodes in a few formats: HTML5 video (ogv, mp4/h.264), vimeo flash video, high resolution and low resolution video (for download & podcast), and an audio-only mp3.
@@ -101,25 +101,25 @@ We write our own XML for both the audio and video feeds. We know we could genera
 -->
 
 <ul class="videos">
-      <li id="ep22" class="left"> 
-				<h2><span class="epnum">Episode 22</span> | Which Square Can I Take?</h2> 
+      <li id="ep22" class="left">
+				<h2><span class="epnum">Episode 22</span> | Which Square Can I Take?</h2>
 				<img width="360" height="240"
         src="http://cdn.yayquery.com/ep/22/yayquery_22.jpg" alt="Episode 22:
         Which Square Can I Take?" title="Episode 22: Which Square Can I Take?" rel="22" class="clickvid forceflash" />
 				<div class="description">
           <p>
-            With Paul deep in the bowels of an evil deadline, team Yay enlists Ralph Holzmann to pinch hit, and unlike 
+            With Paul deep in the bowels of an evil deadline, team Yay enlists Ralph Holzmann to pinch hit, and unlike
             <a href="http://en.wikipedia.org/wiki/Casey_at_the_Bat">Mighty Casey</a>, he belts one out of the park!
             We'll take you on a tour of your various options for keeping plates at a rollicking boil, JS-related spring travel,
             and using MEAT as a navigation tool. And toward the end, when Rebecca's video goes Black, we take the only logical alternative!
           </p>
-				</div> 
-				<div class="shownotes"> 
-          <div class="download"> 
-            <strong>Video:</strong> 
-            <a href="http://cdn.yayquery.com/ep/22/yayquery_22_ipod.mp4">MP4</a> (281mb) | 
+				</div>
+				<div class="shownotes">
+          <div class="download">
+            <strong>Video:</strong>
+            <a href="http://cdn.yayquery.com/ep/22/yayquery_22_ipod.mp4">MP4</a> (281mb) |
             <a href="http://cdn.yayquery.com/ep/22/yayquery_22.ogv">OGV</a> (281mb)
-            <br /> 
+            <br />
             <strong>Audio:</strong> <a href="http://cdn.yayquery.com/ep/22/yayquery_22.mp3">MP3</a> (57mb)
           <br />
           <a href="http://vimeo.com/22348218">Watch in HD on vimeo</a>
@@ -136,7 +136,7 @@ We write our own XML for both the audio and video feeds. We know we could genera
                 <a href="http://bugs.jquery.com/ticket/7783">1.6 $.proxy Function.bind</a>
             </li>
             <li>
-                jQuery UI 1.9 - 
+                jQuery UI 1.9 -
                 <a href="http://wiki.jqueryui.com/Spinner">Spinner</a> |
                 <a href="http://wiki.jqueryui.com/Tooltip">ToolTip</a> |
                 <a href="http://wiki.jqueryui.com/Menu">Menu</a>
@@ -146,11 +146,11 @@ We write our own XML for both the audio and video feeds. We know we could genera
                 <a href="http://clubajax.org/brendan-eich-redesigns-javascript-to-look-like-jquery/">Eich Redesigns JS as jQ</a>
             </li>
             <li>
-                <a href="https://github.com/rmurphey/dojo-boilerplate">Dojo Boilerplate</a> | 
+                <a href="https://github.com/rmurphey/dojo-boilerplate">Dojo Boilerplate</a> |
                 <a href="https://github.com/rmurphey/dojo-boilerplate/tree/AMD">AMD Branch</a>
             </li>
             <li>
-                <a href="https://github.com/ajpiano/boilerplate-boilerplate">Boilerplate Boilerplate</a> | 
+                <a href="https://github.com/ajpiano/boilerplate-boilerplate">Boilerplate Boilerplate</a> |
                 <a href="http://www.barackobama.com/">HTML5BP on BarackObama.com</a>
             </li>
             <li>
@@ -172,25 +172,25 @@ We write our own XML for both the audio and video feeds. We know we could genera
                 <a href="http://2011.texasjavascript.com/">TXJS</a>
             </li>
           </ul>
-        </div> 
-							</div> 
+        </div>
+							</div>
 							<img class="cohitre"
-              src="http://cdn.yayquery.com/ep/22/cohitre_22.jpg" alt="Have I brought this chicken for us to eat?" title="Have I brought this chicken for us to eat?" width="329" height="256" /> 
+              src="http://cdn.yayquery.com/ep/22/cohitre_22.jpg" alt="Have I brought this chicken for us to eat?" title="Have I brought this chicken for us to eat?" width="329" height="256" />
         </li>
-        <li id="ep21" class="right"> 
-                              <h2><span class="epnum">Episode 21</span> | jQuery 1.5 - The Promise Lands</h2> 
+        <li id="ep21" class="right">
+                              <h2><span class="epnum">Episode 21</span> | jQuery 1.5 - The Promise Lands</h2>
                               <img width="360" height="240" src="http://cdn.yayquery.com/ep/21/yayquery_21.jpg" alt="Episode 21" title="Episode 21" rel="21" class="clickvid" />
-                              <div class="description"> 
-                                <p>Ya wut? It's 2011. Time for yayQuery to take you back to front-end heaven.  
-                                   We got the bat, that's Julian Aubourg -  he rewrote AJAX, sent the old way to the morgue.  
-                                   Yea we back, jQuery 1.5, new release with Deferreds is the dope jive.  
+                              <div class="description">
+                                <p>Ya wut? It's 2011. Time for yayQuery to take you back to front-end heaven.
+                                   We got the bat, that's Julian Aubourg -  he rewrote AJAX, sent the old way to the morgue.
+                                   Yea we back, jQuery 1.5, new release with Deferreds is the dope jive.
                                    Want the skinny? Peep our latest episode - if you wanna keep them antipatterns out ya code!
                                 </p>
-                              </div> 
-                              <div class="shownotes"> 
-                                                          <div class="download"> 
+                              </div>
+                              <div class="shownotes">
+                                                          <div class="download">
                                                               <strong>Video:</strong> <a href="http://cdn.yayquery.com/ep/21/yayquery_21.ogv">OGV</a> (258mb) | <a href="http://cdn.yayquery.com/ep/21/yayquery_21.mp4">MP4</a> (204mb)
-                                                              <br /> 
+                                                              <br />
                                                               <strong>Audio:</strong> <a href="http://cdn.yayquery.com/ep/21/yayquery_21.mp3">MP3</a> (45mb)
                               <br />
                               <a href="http://vimeo.com/19578621">Watch in HD on vimeo</a>
@@ -212,12 +212,12 @@ We write our own XML for both the audio and video feeds. We know we could genera
                                                                 <li><a href="http://www.slideshare.net/fgalassi/javascript-the-new-parts">JavaScript the new parts</a></li>
                                                                 <li><a href="http://paulirish.com/2011/11-more-things-i-learned-from-the-jquery-source/">11 More Things I Learned from the jQuery Source</a></li>
                                                               </ul>
-                                                          </div> 
-                                                      </div> 
-                                                      <img class="cohitre" src="http://cdn.yayquery.com/ep/21/cohitre_21.jpg" alt="Sexy Taylor Swift Magazines For The Win - STSMFTW <-- anagram to help us remember the first letters of the days of the week?!" title="Sexy Taylor Swift Magazines For The Win - STSMFTW <-- anagram to help us remember the first letters of the days of the week?!" width="329" height="256" /> 
+                                                          </div>
+                                                      </div>
+                                                      <img class="cohitre" src="http://cdn.yayquery.com/ep/21/cohitre_21.jpg" alt="Sexy Taylor Swift Magazines For The Win - STSMFTW <-- anagram to help us remember the first letters of the days of the week?!" title="Sexy Taylor Swift Magazines For The Win - STSMFTW <-- anagram to help us remember the first letters of the days of the week?!" width="329" height="256" />
       </li>
-      <li id="ep20" class="left"> 
-				<h2><span class="epnum">Episode 20</span> | One-Year Reun-oween</h2> 
+      <li id="ep20" class="left">
+				<h2><span class="epnum">Episode 20</span> | One-Year Reun-oween</h2>
 				<img width="360" height="240"
         src="http://cdn.yayquery.com/ep/20/yayquery_20.jpg" alt="Episode 20:
         One-Year Reun-oweeen" title="Episode 20: One-Year Reun-oween" rel="20" class="clickvid forceflash" />
@@ -229,13 +229,13 @@ We write our own XML for both the audio and video feeds. We know we could genera
           release, and brand new bug tracker.  With some of your favourite segments, and
           a bit of practical kitchen advice, not watching yayQuery could be the scariest
           thing to befall you this Halloween!</p>
-				</div> 
-				<div class="shownotes"> 
-          <div class="download"> 
-            <strong>Video:</strong> 
-            <a href="http://cdn.yayquery.com/ep/20/yayquery_20_ipod.mp4">MP4</a> (247mb) | 
+				</div>
+				<div class="shownotes">
+          <div class="download">
+            <strong>Video:</strong>
+            <a href="http://cdn.yayquery.com/ep/20/yayquery_20_ipod.mp4">MP4</a> (247mb) |
             <a href="http://cdn.yayquery.com/ep/20/yayquery_20.ogv">OGV</a> (301mb)
-            <br /> 
+            <br />
             <strong>Audio:</strong> <a href="http://cdn.yayquery.com/ep/20/yayquery_20.mp3">MP3</a> (57mb)
           <br />
           <a href="http://vimeo.com/16356187">Watch in HD on vimeo</a>
@@ -258,10 +258,10 @@ We write our own XML for both the audio and video feeds. We know we could genera
             <li><a href="http://arewefastyet.com/">Are We Fast Yet?</a> | <a href="http://www.arewefirstyet.com/">Are We First Yet?</a> | <a href="http://promotejs.com">PromoteJS</a></li>
             <li><a href="http://github.com/phiggins42/has.js">has.js</a> | <a href="http://github.com/SlexAxton/yepnope.js">YepNope</a></li>
           </ul>
-        </div> 
-							</div> 
+        </div>
+							</div>
 							<img class="cohitre"
-              src="http://cdn.yayquery.com/ep/20/cohitre_20.jpg" alt="Boom! Did you are unimpressed? and now?" title="Boom! Did you are unimpressed? and now?" width="329" height="256" /> 
+              src="http://cdn.yayquery.com/ep/20/cohitre_20.jpg" alt="Boom! Did you are unimpressed? and now?" title="Boom! Did you are unimpressed? and now?" width="329" height="256" />
 	</li>
 </ul>
 
@@ -270,20 +270,20 @@ We write our own XML for both the audio and video feeds. We know we could genera
 <section class="outbound">
     <h4>Video</h4>
     <a href="http://feeds.feedburner.com/yayQuery"><img src="http://cdn.yayquery.com/site/images/podcast-icon.png"/><span>RSS Feed</span></a>
-    
+
     <a href="http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=340422555"><img src="http://cdn.yayquery.com/site/images/podcast-itunes2.png"/><span>iTunes link</span></a>
-     
+
     <a href="http://subscribe.getmiro.com/?url1=http%3A//feeds.feedburner.com/yayQuery&trackback1=http%3A//www.miroguide.com/feeds/12786/subscribe-hit&section1=video" title="Subscribe to yayQuery on Miro: Internet TV">
         <img src="http://subscribe.getmiro.com/img/buttons/wes1.png"  border="0" style="padding-top: 61px;" />
         <span>Subscribe on Miro</span>
     </a>
-    
+
     <h4>Audio</h4>
       <a href="http://feeds.feedburner.com/yayQuery_audio"><img src="http://cdn.yayquery.com/site/images/podcast-icon.png"/><span>RSS Feed <small>(audio)</small></span></a>
 
 
     <a href="http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=340500884"><img src="http://cdn.yayquery.com/site/images/podcast-itunes2.png"/><span>iTunes link <small>(audio)</small></span></a>
-      
+
     <h4>Social whatever</h4>
     <a href="http://twitter.com/yayQuery" title="A whole lot of yay, and a query too!"><img src="http://cdn.yayquery.com/site/images/twitter_02.png" alt="@yayQuery" title="@yayQuery" /><span>Follow us at @yayQuery</span></a>
     <a href="http://www.facebook.com/pages/Official-yayQuery/119278851432255" title="A whole lot of yay in your face!"><img src="http://cdn.yayquery.com/site/images/facebook.png" alt="Offical yayQuery" title="Offical yayQuery" /><span>Become a Facebook.</span></a>
@@ -293,34 +293,34 @@ We write our own XML for both the audio and video feeds. We know we could genera
 
 
 <ul class="videos">
-  <li id="epjsconf2010" class="right"> 
-				<h2><span class="epnum">episode++</span> | yayQuery Lunch Spectacular</h2> 
+  <li id="epjsconf2010" class="right">
+				<h2><span class="epnum">episode++</span> | yayQuery Lunch Spectacular</h2>
 				<img width="360" height="240" src="http://cdn.yayquery.com/ep/jsconf2010/yayquery_jsconf2010.png" alt="yayQuery Lunch Spectacular" title="yayQuery Lunch Spectacular" rel="jsconf2010" class="clickvid forceflash" />
-				<div class="description"> 
+				<div class="description">
 				    <p>JSConf is like, the biggest deal in conferences, and yayQuery is like, the biggest deal in podcasts, so it was only natural that the spectacular lunch on day one of JSConf 2010 was the yayQuery Lunch Spectacular.  Relive the magic, relive the hijinks, and come on down to the world's only JavaScript gameshow that is also a drinking game!</p>
-				</div> 
-				<div class="shownotes"> 
-							    <div class="download"> 
+				</div>
+				<div class="shownotes">
+							    <div class="download">
 								<strong>Video:</strong><a href="http://cdn.yayquery.com/ep/jsconf2010/yayquery_jsconf2010.ipod.mp4">MP4</a> (286mb)
-								<br /> 
+								<br />
 								<strong>Audio:</strong> <a href="http://cdn.yayquery.com/ep/jsconf2010/yayquery_jsconf2010.mp3">MP3</a> (15mb)
 				<br />
 				<a href="http://vimeo.com/13534175">Watch in HD on vimeo</a>
-					    	</div> 
-							</div> 
-							<img class="cohitre" src="http://cdn.yayquery.com/ep/jsconf2010/cohitre_jsconf.jpg" alt="Boom! Did you are unimpressed? and now?" title="Boom! Did you are unimpressed? and now?" width="329" height="256" /> 
+					    	</div>
+							</div>
+							<img class="cohitre" src="http://cdn.yayquery.com/ep/jsconf2010/cohitre_jsconf.jpg" alt="Boom! Did you are unimpressed? and now?" title="Boom! Did you are unimpressed? and now?" width="329" height="256" />
 	</li>
 
-	<li id="ep19" class="left"> 
-				<h2><span class="epnum">Episode 19</span> | HTML5Locks, Stocks, &amp; Tw&hellip;BZZZZZZZZZZZ</h2> 
+	<li id="ep19" class="left">
+				<h2><span class="epnum">Episode 19</span> | HTML5Locks, Stocks, &amp; Tw&hellip;BZZZZZZZZZZZ</h2>
 				<img width="360" height="240" src="http://cdn.yayquery.com/ep/19/yayquery_19.jpg" alt="Episode 19" title="Episode 19" rel="19" class="clickvid" />
-				<div class="description"> 
+				<div class="description">
 				    <p>Refreshed from relaxing, post-TXJS hiatus, the Yay Queries return with a trio of ultra-hot HTML5 sites, with varying levels of usefulness.  We'll throw down the book on on jQuery (Fundamentals) and get in touch with <del>jqTouch</del> <del>ExtJS</del> Sencha!  And when the team returns to dreamland with John Resig, who knows what you'll hear, and what will be drowned out by the drone of cheap plastic horns!?</p>
-				</div> 
-				<div class="shownotes"> 
-							    <div class="download"> 
+				</div>
+				<div class="shownotes">
+							    <div class="download">
 								<strong>Video:</strong> <a href="http://cdn.yayquery.com/ep/19/yayquery_19.ogv">OGV</a> (308mb) | <a href="http://cdn.yayquery.com/ep/19/yayquery_19.mp4">MP4</a> (241mb)
-								<br /> 
+								<br />
 								<strong>Audio:</strong> <a href="http://cdn.yayquery.com/ep/19/yayquery_19.mp3">MP3</a> (60mb)
 				<br />
 				<a href="http://vimeo.com/13304096">Watch in HD on vimeo</a>
@@ -339,20 +339,20 @@ We write our own XML for both the audio and video feeds. We know we could genera
                   <li><a href="https://developer.mozilla.org/en/Core_JavaScript_1.5_Reference/Reserved_Words">JavaScript Reserved Words</a></li>
                   <li><a href="http://zetafleet.com">Zetafleet</a></li>
 								</ul>
-							    </div> 
-							</div> 
-							<img class="cohitre" src="http://cdn.yayquery.com/ep/19/cohitre_19.jpg" alt="Sexy Taylor Swift Magazines For The Win - STSMFTW <-- anagram to help us remember the first letters of the days of the week?!" title="Sexy Taylor Swift Magazines For The Win - STSMFTW <-- anagram to help us remember the first letters of the days of the week?!" width="329" height="256" /> 
-	    </li>	
-  <li id="ep18" class="right"> 
-				<h2><span class="epnum">Episode 18</span> | I Dreamed A Dream</h2> 
+							    </div>
+							</div>
+							<img class="cohitre" src="http://cdn.yayquery.com/ep/19/cohitre_19.jpg" alt="Sexy Taylor Swift Magazines For The Win - STSMFTW <-- anagram to help us remember the first letters of the days of the week?!" title="Sexy Taylor Swift Magazines For The Win - STSMFTW <-- anagram to help us remember the first letters of the days of the week?!" width="329" height="256" />
+	    </li>
+  <li id="ep18" class="right">
+				<h2><span class="epnum">Episode 18</span> | I Dreamed A Dream</h2>
 				<img width="360" height="240" src="http://cdn.yayquery.com/ep/18/yayquery_18.png" alt="Episode 18" title="Episode 18" rel="18" class="clickvid" />
-				<div class="description"> 
+				<div class="description">
 				    <p>Despite Alex's vivid account of his adventures in the world of RequireJS, Adam, exhausted from many late nights of dancing ’till dawn, takes a snooze right in the middle of a perfectly good episode of yayQuery. In his dream, a mysterious guest named John Resig reveals information about the future of jQuery and mobile browsers.</p>
-				</div> 
-				<div class="shownotes"> 
-							    <div class="download"> 
+				</div>
+				<div class="shownotes">
+							    <div class="download">
 								<strong>Video:</strong> <a href="http://cdn.yayquery.com/ep/18/yayquery_18.ogv">OGV</a> (270mb) | <a href="http://cdn.yayquery.com/ep/18/yayquery_18.mp4">MP4</a> (224mb)
-								<br /> 
+								<br />
 								<strong>Audio:</strong> <a href="http://cdn.yayquery.com/ep/18/yayquery_18.mp3">MP3</a> (41mb)
 				<br />
 				<a href="http://vimeo.com/12166734">Watch in HD on vimeo</a>
@@ -370,21 +370,21 @@ We write our own XML for both the audio and video feeds. We know we could genera
 									<li><a href="http://decorplanit.com/plugin/">autoNumeric</a></li>
 									<li><a href="http://janne.aukia.com/zoomooz/">Zoomooz</a></li>
 								</ul>
-							    </div> 
-							</div> 
-							<img class="cohitre" src="http://cdn.yayquery.com/ep/18/cohitre_18.jpg" alt="Sexy Taylor Swift Magazines For The Win - STSMFTW <-- anagram to help us remember the first letters of the days of the week?!" title="Sexy Taylor Swift Magazines For The Win - STSMFTW <-- anagram to help us remember the first letters of the days of the week?!" width="329" height="256" /> 
+							    </div>
+							</div>
+							<img class="cohitre" src="http://cdn.yayquery.com/ep/18/cohitre_18.jpg" alt="Sexy Taylor Swift Magazines For The Win - STSMFTW <-- anagram to help us remember the first letters of the days of the week?!" title="Sexy Taylor Swift Magazines For The Win - STSMFTW <-- anagram to help us remember the first letters of the days of the week?!" width="329" height="256" />
 	    </li>
-	    
-	<li id="ep17" class="left"> 
-				<h2><span class="epnum">Episode 17</span> | SPRING BREAK! WOOOO!!</h2> 
+
+	<li id="ep17" class="left">
+				<h2><span class="epnum">Episode 17</span> | SPRING BREAK! WOOOO!!</h2>
 				<img width="360" height="240" src="http://cdn.yayquery.com/ep/17/yayquery_17.png" alt="Episode 17" title="Episode 17" rel="17" class="clickvid" />
-				<div class="description"> 
+				<div class="description">
 				    <p>After back-to-back weekends on opposite ends of the country, the yayQueriers recount their adventures fulfilling Manifest Destiny. The team trekked from JSConf.US in D.C. to the jQuery Conference in Mountain View on what was more a trail of beers than a trail of tears. With their wagons full of knowledge, they've decamped to share their provisions with you!  So if you missed either one of these conferences, get your listenin' ears on!  Plus: A cameo by the Unicorn of Technical Difficulties.</p>
-				</div> 
-				<div class="shownotes"> 
-							    <div class="download"> 
+				</div>
+				<div class="shownotes">
+							    <div class="download">
 								<strong>Video:</strong> <a href="http://cdn.yayquery.com/ep/17/yayquery_17.ogv">OGV</a> (262mb) | <a href="http://cdn.yayquery.com/ep/17/yayquery_17.mp4">MP4</a> (208mb)
-								<br /> 
+								<br />
 								<strong>Audio:</strong> <a href="http://cdn.yayquery.com/ep/17/yayquery_17.mp3">MP3</a> (44mb)
 				<br />
 				<a href="http://vimeo.com/11528683">Watch in HD on vimeo</a>
@@ -403,20 +403,20 @@ We write our own XML for both the audio and video feeds. We know we could genera
 									<li><a href="http://ryanflorence.com/jquery-conference-slides-and-demo/">Ryan Florence's MooTools + jQuery Demo</a></li>
 									<li><a href="http://requirejs.org/">RequireJS</a></li>
 								</ul>
-							    </div> 
-							</div> 
-							<img class="cohitre" src="http://cdn.yayquery.com/ep/17/cohitre_17.jpg" alt="You destroyed my site !!!!!  My site is completely unavailable because of you!  You bitch!" title="You destroyed my site !!!!!  My site is completely unavailable because of you!  You bitch!" width="329" height="256" /> 
+							    </div>
+							</div>
+							<img class="cohitre" src="http://cdn.yayquery.com/ep/17/cohitre_17.jpg" alt="You destroyed my site !!!!!  My site is completely unavailable because of you!  You bitch!" title="You destroyed my site !!!!!  My site is completely unavailable because of you!  You bitch!" width="329" height="256" />
 	    </li>
-	     <li id="ep16" class="right"> 
-					<h2><span class="epnum">Episode 16</span> | A Gource of the Source, Of Course, Of Course</h2> 
+	     <li id="ep16" class="right">
+					<h2><span class="epnum">Episode 16</span> | A Gource of the Source, Of Course, Of Course</h2>
 					<img width="360" height="240" src="http://cdn.yayquery.com/ep/16/yayquery_16.png" alt="Episode 16" title="Episode 16" rel="16" class="clickvid" />
-					<div class="description"> 
+					<div class="description">
 					    <p>Spring has arrived, and the air is thick with the smell of buzzwords. So if you've been begging for CSS3, consider your prayers answered. If you didn't think HTML5 Video was winnable until it was skinnable, rejoice!  Templating more your thing? Shwing!  Plus, jQuery's history will dance before your very eyes in a world premiere music video event that packs a healthy dose of 'corn!  If I were you, I would have stopped reading this and clicked play a long time ago.</p>
-					</div> 
-					<div class="shownotes"> 
-					    <div class="download"> 
+					</div>
+					<div class="shownotes">
+					    <div class="download">
 						<strong>Video:</strong> <a href="http://cdn.yayquery.com/ep/16/yayquery_16.ogv">OGV</a> (204mb) | <a href="http://cdn.yayquery.com/ep/16/yayquery_16.mp4">MP4</a> (221mb)
-						<br /> 
+						<br />
 						<strong>Audio:</strong> <a href="http://cdn.yayquery.com/ep/16/yayquery_16.mp3">MP3</a> (42mb)
 		<br />
 		<a href="http://vimeo.com/11068467">Watch yayQuery Episode 16 in HD on vimeo</a>
@@ -436,21 +436,21 @@ We write our own XML for both the audio and video feeds. We know we could genera
 	<li><a href="http://annevankesteren.nl/test/contenteditable-style.htm">ContentEditable</a> | <a href="http://morrisonpitt.com/jsPlumb/html/demo.html ">jsPlumb</a></li>
 
 						</ul>
-					    </div> 
-					</div> 
-					<img class="cohitre" src="http://cdn.yayquery.com/ep/16/cohitre_16.jpg" alt="We should just throw out the entire HTML5 Spec and start over." title="We should just throw out the entire HTML5 Spec and start over." width="332" height="232" /> 
+					    </div>
+					</div>
+					<img class="cohitre" src="http://cdn.yayquery.com/ep/16/cohitre_16.jpg" alt="We should just throw out the entire HTML5 Spec and start over." title="We should just throw out the entire HTML5 Spec and start over." width="332" height="232" />
 		    </li>
-	
-<li id="epsxsw" class="left"> 
-			<h2><span class="epnum">Episode ???</span> | South by SouthBEST TIME EVAR!!1</h2> 
+
+<li id="epsxsw" class="left">
+			<h2><span class="epnum">Episode ???</span> | South by SouthBEST TIME EVAR!!1</h2>
 			<img width="360" height="240" src="http://cdn.yayquery.com/ep/sxsw/yayquery_sxsw.png" alt="Episode ???" title="Episode ???" rel="sxsw" class="clickvid" />
-			<div class="description"> 
+			<div class="description">
 			    <p>Springtime is in the air, bringing with it the sweet aroma of renewal &hellip; and conferences. Mere moments before departing Austin, your partners in Yay checked in on RealLifeSquare to bring you their exclusive SXSWi roundup &mdash; but who knows what else they'll MiX in?!</p>
-			</div> 
-			<div class="shownotes"> 
-			    <div class="download"> 
+			</div>
+			<div class="shownotes">
+			    <div class="download">
 				<strong>Video:</strong> <a href="http://cdn.yayquery.com/ep/sxsw/yayquery_sxsw.ogv">OGV</a> (198mb) | <a href="http://cdn.yayquery.com/ep/sxsw/yayquery_sxsw.mp4">MP4</a> (97mb)
-				<br /> 
+				<br />
 				<strong>Audio:</strong> <a href="http://cdn.yayquery.com/ep/sxsw/yayquery_sxsw.mp3">MP3</a> (8mb)
 <br />
 <a href="http://vimeo.com/10235929">Watch in HD on vimeo</a>
@@ -463,20 +463,20 @@ We write our own XML for both the audio and video feeds. We know we could genera
 					<li><a href="http://blog.jquery.com/2010/03/16/microsoft-to-expand-its-collaboration-with-the-jquery-community/">Microsoft + jQuery</a></li>
                     <li><a href="http://vimeo.com/yayquery">yayQuery SXSW outtakes</a></li>
 				</ul>
-			    </div> 
-			</div> 
-			<img class="cohitre" src="http://cdn.yayquery.com/ep/sxsw/cohitre_sxsw.jpg" alt="It’s a vision that leads the prophet. It’s a destiny that transforms the immaculate. Taitus rocin." title="It’s a vision that leads the prophet. It’s a destiny that transforms the immaculate. Taitus rocin." width="332" height="232" /> 
+			    </div>
+			</div>
+			<img class="cohitre" src="http://cdn.yayquery.com/ep/sxsw/cohitre_sxsw.jpg" alt="It’s a vision that leads the prophet. It’s a destiny that transforms the immaculate. Taitus rocin." title="It’s a vision that leads the prophet. It’s a destiny that transforms the immaculate. Taitus rocin." width="332" height="232" />
     </li>
-	     <li id="ep13" class="right"> 
-				<h2><span class="epnum">Episode 13</span> | Gotta Try to Catch 'Em All</h2> 
+	     <li id="ep13" class="right">
+				<h2><span class="epnum">Episode 13</span> | Gotta Try to Catch 'Em All</h2>
 				<img width="360" height="240" src="http://cdn.yayquery.com/ep/13/yayquery_13.png" alt="Episode 13" title="Episode 13" rel="13" class="clickvid" />
-				<div class="description"> 
+				<div class="description">
 				    <p>After a layoff which shall forever be shrouded in mystery, we are back, HARD!  With hot docs links and piping fresh sauce tools, you'll be hungry for front-end goodness, and we're delivering it in 30 minutes -- or your money back!  There may even be a plugin for dessert.  While our hiatus may have left you teary, it's time to snack on this yayQuery!</p>
-				</div> 
-				<div class="shownotes"> 
-				    <div class="download"> 
+				</div>
+				<div class="shownotes">
+				    <div class="download">
 					<strong>Video:</strong> <a href="http://cdn.yayquery.com/ep/13/yayquery_13.ogv">OGV</a> (250mb) | <a href="http://cdn.yayquery.com/ep/13/yayquery_13.mp4">MP4</a> (288mb)
-					<br /> 
+					<br />
 					<strong>Audio:</strong> <a href="http://cdn.yayquery.com/ep/13/yayquery_13.mp3">MP3</a> (37mb)
 	<br />
 	<a href="http://vimeo.com/9767602">Watch yayQuery Episode 13 in HD on vimeo</a>
@@ -495,21 +495,21 @@ We write our own XML for both the audio and video feeds. We know we could genera
 	                    <li><a href="http://pastie.org/805428">1337 hovering</a></li>
 	                    <li><a href="http://cherne.net/brian/resources/jquery.hoverIntent.html">hoverIntent</a> | <a href="http://blog.threedubmedia.com/2008/08/eventspecialhover.html">$.event.special.hover</a> | <a href="http://benalman.com/projects/jquery-dotimeout-plugin/">doTimeout</a></li>
 					</ul>
-				    </div> 
-				</div> 
-				<img class="cohitre" src="http://cdn.yayquery.com/ep/13/cohitre_13.jpg" alt="It’s a vision that leads the prophet. It’s a destiny that transforms the immaculate. Taitus rocin." title="It’s a vision that leads the prophet. It’s a destiny that transforms the immaculate. Taitus rocin." width="332" height="232" /> 
+				    </div>
+				</div>
+				<img class="cohitre" src="http://cdn.yayquery.com/ep/13/cohitre_13.jpg" alt="It’s a vision that leads the prophet. It’s a destiny that transforms the immaculate. Taitus rocin." title="It’s a vision that leads the prophet. It’s a destiny that transforms the immaculate. Taitus rocin." width="332" height="232" />
 	    </li>
 
-    <li id="ep12" class="left"> 
-			<h2><span class="epnum">Episode 12</span> | The Complete Bunny's Guide to jQuery</h2> 
+    <li id="ep12" class="left">
+			<h2><span class="epnum">Episode 12</span> | The Complete Bunny's Guide to jQuery</h2>
 			<img width="360" height="240" src="http://cdn.yayquery.com/ep/12/yayquery_12.png" alt="Episode 12" title="Episode 12" rel="12" class="clickvid" />
-			<div class="description"> 
+			<div class="description">
 			    <p>When is a forum signature more than just a forum signature?  When it's a ticket to an enchanted world of magic, wonderment, and jQuery plugins!  Join along as we share all sorts of new playthings and playmates, discovered after some opportunistic link clicking.  And with the 1.4 point releases starting to flow, we're here to guide you through the nitty-gritty.  Watch now and find out why yayQuery[12] is So Just Cloud!</p>
-			</div> 
-			<div class="shownotes"> 
-			    <div class="download"> 
+			</div>
+			<div class="shownotes">
+			    <div class="download">
 				<strong>Video:</strong> <a href="http://cdn.yayquery.com/ep/12/yayquery_12.ogv">OGV</a> (313mb) | <a href="http://cdn.yayquery.com/ep/12/yayquery_12.mp4">MP4</a> (189mb)
-				<br /> 
+				<br />
 				<strong>Audio:</strong> <a href="http://cdn.yayquery.com/ep/12/yayquery_12.mp3">MP3</a> (37mb)
 <br />
 <a href="http://vimeo.com/9153395">Watch yayQuery Episode 12 in HD on vimeo</a>
@@ -528,20 +528,20 @@ We write our own XML for both the audio and video feeds. We know we could genera
 <li><a href="http://paulirish.com/2010/on-jquery-live/">Paul Irish Blog: On jQuery.live</a></li>
 <li><a href="http://jsconf.us/2010">jsconf.us</a> | <a href="http://atxwebshow.com/">ATX Web Show</a></li>
 				</ul>
-			    </div> 
-			</div> 
-			<img class="cohitre" src="http://cdn.yayquery.com/ep/12/cohitre_12.jpg" alt="Please dont feed ajpiano." title="Please dont feed ajpiano." width="332" height="232" /> 
+			    </div>
+			</div>
+			<img class="cohitre" src="http://cdn.yayquery.com/ep/12/cohitre_12.jpg" alt="Please dont feed ajpiano." title="Please dont feed ajpiano." width="332" height="232" />
     </li>
-     <li id="ep11" class="right"> 
-					<h2><span class="epnum">Episode 11</span> | 14 Days of Yaymes Padolsey</h2> 
+     <li id="ep11" class="right">
+					<h2><span class="epnum">Episode 11</span> | 14 Days of Yaymes Padolsey</h2>
 					<img width="360" height="240" src="http://cdn.yayquery.com/ep/11/yayquery_11.png" alt="Episode 11" title="Episode 11" rel="11" class="clickvid" />
-					<div class="description" style="overflow:visible"> 
+					<div class="description" style="overflow:visible">
 					    <p>The 12 days of Christmas may be gone and forgotten, but we've got an extra-special surprise gift for you during these holy 14 Days of jQuery 1.4: an interview with blogger, Briton, and jQuery all-star James Padolsey!  We pick <span style="text-decoration:line-through;">the lint out of James' bellybutton</span> James's brain about jQuery Lint, debate anti-patterns, and take tea with the Queen!  With so much crammed into one episode, you'll want to be sure to ring all your mates to come round for yayQuery[11]!  It's a real cracker, guv!</p>
-					</div> 
-					<div class="shownotes"> 
-					    <div class="download"> 
+					</div>
+					<div class="shownotes">
+					    <div class="download">
 						<strong>Video:</strong> <a href="http://cdn.yayquery.com/ep/11/yayquery_11.ogv">OGV</a> (231mb) | <a href="http://cdn.yayquery.com/ep/11/yayquery_11_patch.mp4">MP4</a> (269mb Audio Fixed)
-						<br /> 
+						<br />
 						<strong>Audio:</strong> <a href="http://cdn.yayquery.com/ep/11/yayquery_11_patch.mp3">MP3</a> (47mb) (Audio Fixed)
 <br />
 <a href="http://vimeo.com/8976667">Watch yayQuery Episode 11 in high-quality on vimeo</a>
@@ -561,20 +561,20 @@ We write our own XML for both the audio and video feeds. We know we could genera
 
 
 						</ul>
-					    </div> 
-					</div> 
-					<img class="cohitre" src="http://cdn.yayquery.com/site/images/cohitre_11.jpg" alt="Please dont feed ajpiano." title="Please dont feed ajpiano." width="332" height="232" /> 
+					    </div>
+					</div>
+					<img class="cohitre" src="http://cdn.yayquery.com/site/images/cohitre_11.jpg" alt="Please dont feed ajpiano." title="Please dont feed ajpiano." width="332" height="232" />
 		    </li>
-     <li id="ep8" class="left"> 
-			<h2><span class="epnum">Episode 8, 9 &amp; 10</span> | Hapy Birthday jQuery!</h2> 
+     <li id="ep8" class="left">
+			<h2><span class="epnum">Episode 8, 9 &amp; 10</span> | Hapy Birthday jQuery!</h2>
 			<img width="360" height="240" src="http://cdn.yayquery.com/ep/10/yayquery_10.png" alt="Episode 10" title="Episode 10" rel="10" class="clickvid" />
-			<div class="description"> 
+			<div class="description">
 			    <p>Let the celeb-YAY-tion commence! It's jQuery's birthday, but you'll be the one unwrapping the gift of 1.4!  We'll get you up to speed on all of the last-minute goodies, and bring you along on a mini-tour of the upcoming jQuery UI 1.8 release. With forays into CSS, ECMA 5, and outright falsehoods, it's sure to be the adventure of a lifetime! If you've missed us the last two weeks, you definitely won't want to miss yayQuery[10]!</p>
-			</div> 
-			<div class="shownotes"> 
-			    <div class="download"> 
+			</div>
+			<div class="shownotes">
+			    <div class="download">
 				<strong>Video:</strong> <a href="http://cdn.yayquery.com/ep/10/yayquery_10.ogv">OGV</a> (170mb) | <a href="http://cdn.yayquery.com/ep/10/yayquery_10.mp4">MP4</a> (186mb)
-				<br /> 
+				<br />
 				<strong>Audio:</strong> <a href="http://cdn.yayquery.com/ep/10/yayquery_10.mp3">MP3</a> (40mb)
 <br />
 <a href="http://vimeo.com/8768879">Watch yayQuery Episode 8/9/10 in HD on vimeo</a>
@@ -593,21 +593,21 @@ We write our own XML for both the audio and video feeds. We know we could genera
 <li><a href="http://css-tricks.com/poll-results-what-css-reset-do-you-use/">CSS Reset Poll</a> | <a href="http://html5doctor.com/html-5-reset-stylesheet/">HTML5Doctor CSS Reset</a></li>
 <li><a href="http://github.com/joshuaclayton/blueprint-css/commit/6a3f2f8694da61c1336c906e0fd4a1ed8bcf0afe">Blueprint CSS Reset HTML5</a></li>
 				</ul>
-			    </div> 
-			</div> 
-			<img class="cohitre" src="http://cdn.yayquery.com/site/images/cohitre_10.jpg" alt="Please dont feed ajpiano." title="Please dont feed ajpiano." width="332" height="232" /> 
+			    </div>
+			</div>
+			<img class="cohitre" src="http://cdn.yayquery.com/site/images/cohitre_10.jpg" alt="Please dont feed ajpiano." title="Please dont feed ajpiano." width="332" height="232" />
     </li>
-    
-<li id="ep7" class="right"> 
-					<h2>Jingle All The Yay | <span class="epnum">Episode 7</span></h2> 
+
+<li id="ep7" class="right">
+					<h2>Jingle All The Yay | <span class="epnum">Episode 7</span></h2>
 					<img width="360" height="240" src="http://cdn.yayquery.com/ep/7/yayquery_7.png" alt="Episode 7" title="Episode 7" rel="7" class="clickvid" />
-					<div class="description"> 
-					    <p>Like many popular retailers, we're shipping this episode to you just in time for Christmas!  Find out which front-end treats the gang is hoping to find in their stockings, and unwrap a box full of jQuery 1.4 news.  With spinning plugins, shimmering hiddenhancements, and an anti-pattern for any Scrooges out there, you're sure to find lots of holiday cheer <br /> with yayQuery - the only development podcast that may also be a children's TV show.</p> 
-					</div> 
-					<div class="shownotes"> 
-					    <div class="download"> 
+					<div class="description">
+					    <p>Like many popular retailers, we're shipping this episode to you just in time for Christmas!  Find out which front-end treats the gang is hoping to find in their stockings, and unwrap a box full of jQuery 1.4 news.  With spinning plugins, shimmering hiddenhancements, and an anti-pattern for any Scrooges out there, you're sure to find lots of holiday cheer <br /> with yayQuery - the only development podcast that may also be a children's TV show.</p>
+					</div>
+					<div class="shownotes">
+					    <div class="download">
 						<strong>Video:</strong> <a href="http://cdn.yayquery.com/ep/7/yayquery_7.ogv">OGV</a> (171mb) | <a href="http://cdn.yayquery.com/ep/7/yayquery_7.mp4">MP4</a> (164mb)
-						<br /> 
+						<br />
 						<strong>Audio:</strong> <a href="http://cdn.yayquery.com/ep/7/yayquery_7.mp3">MP3</a> (45mb)
 						<h4>Show Links</h4>
 						<ul class="showlinks">
@@ -635,22 +635,22 @@ We write our own XML for both the audio and video feeds. We know we could genera
 <li><a href="http://dev.w3.org/2009/dap/camera/">W3C Capture API Draft</a></li>
 <li><a href="http://www.youtube.com/watch?v=EGM6Xtx02M4">Merry Swiftmas</a></li>
 						</ul>
-					    </div> 
-					</div> 
-					<img class="cohitre" src="http://cdn.yayquery.com/site/images/cohitre_7.jpg" alt="Please dont feed ajpiano." title="Please dont feed ajpiano." width="329" height="256" /> 
+					    </div>
+					</div>
+					<img class="cohitre" src="http://cdn.yayquery.com/site/images/cohitre_7.jpg" alt="Please dont feed ajpiano." title="Please dont feed ajpiano." width="329" height="256" />
 		    </li>
-<li id="ep6" class="left"> 
-					<h2><span class="epnum">Episode 6</span> | Nay is for Norses</h2> 
+<li id="ep6" class="left">
+					<h2><span class="epnum">Episode 6</span> | Nay is for Norses</h2>
 					<img width="360" height="240" src="http://cdn.yayquery.com/ep/6/yayquery_6.png" alt="Episode 6" title="Episode 6" rel="6" class="clickvid" />
-					<div class="description"> 
+					<div class="description">
 					    <p>
-We're playing naughty this week with the debut of nayQuery! Peter Higgins, Dojo Project Lead, joins us for a spirited discussion of the dark side of jQuery.  We'll also get you up to speed on what's going on in the 1.4 alphas and explain why $ is special (because you can buy things with it). After all, Santa's got a lot of coal and he needs to give it to someone!</p> 
+We're playing naughty this week with the debut of nayQuery! Peter Higgins, Dojo Project Lead, joins us for a spirited discussion of the dark side of jQuery.  We'll also get you up to speed on what's going on in the 1.4 alphas and explain why $ is special (because you can buy things with it). After all, Santa's got a lot of coal and he needs to give it to someone!</p>
 <p style="font-size:10px;color:#CCCCCC;">Please forgive our a/v sync issues. We're trying out new ways to get higher quality podcasts to your faces and sometimes we're better at javascript than we are at making podcasts.</p>
-					</div> 
-					<div class="shownotes"> 
-					    <div class="download"> 
+					</div>
+					<div class="shownotes">
+					    <div class="download">
 						<strong>Video:</strong> <a href="http://cdn.yayquery.com/ep/6/yayquery_6.ogv">OGV</a> (234mb) | <a href="http://cdn.yayquery.com/ep/6/yayquery_6.mp4">MP4</a> (121mb)
-						<br /> 
+						<br />
 						<strong>Audio:</strong> <a href="http://cdn.yayquery.com/ep/6/yayquery_6.mp3">MP3</a> (44mb)
 <br />
 <a href="http://vimeo.com/8247540">Watch yayQuery Episode 6 in HD on vimeo</a>
@@ -669,20 +669,20 @@ We're playing naughty this week with the debut of nayQuery! Peter Higgins, Dojo 
 <li><a href="http://easydate.parshap.com/">jQuery EasyDate</a></li>
 <li><a href="http://mootools.net/forge/">MooTools Forge</a></li>
 						</ul>
-					    </div> 
-					</div> 
-					<img class="cohitre" src="http://cdn.yayquery.com/site/images/cohitre_6.jpg" alt="Please dont feed ajpiano." title="Please dont feed ajpiano." width="332" height="232" /> 
+					    </div>
+					</div>
+					<img class="cohitre" src="http://cdn.yayquery.com/site/images/cohitre_6.jpg" alt="Please dont feed ajpiano." title="Please dont feed ajpiano." width="332" height="232" />
 		    </li>
-<li id="ep5" class="right"> 
-					<h2>...More Like jQuery 1.MORE, Amirite?! | <span class="epnum">Episode 5</span></h2> 
+<li id="ep5" class="right">
+					<h2>...More Like jQuery 1.MORE, Amirite?! | <span class="epnum">Episode 5</span></h2>
 					<img width="360" height="240" src="http://cdn.yayquery.com/ep/5/yayquery_5.png" alt="Episode 5" title="Episode 5" rel="5" class="clickvid" />
-					<div class="description"> 
-					    <p>The team is back at full strength to bring you a complete roundup of the hot, fresh jQuery 1.4 alpha in this bonus-sized installment!  From hiddenhancements to just plain awesome ones, we'll let you know exactly what to expect from the upcoming release. Of course, we've got the latest haps from the world of front-end dev, so add a little Yay to your day, today!</p> 
-					</div> 
-					<div class="shownotes"> 
-					    <div class="download"> 
+					<div class="description">
+					    <p>The team is back at full strength to bring you a complete roundup of the hot, fresh jQuery 1.4 alpha in this bonus-sized installment!  From hiddenhancements to just plain awesome ones, we'll let you know exactly what to expect from the upcoming release. Of course, we've got the latest haps from the world of front-end dev, so add a little Yay to your day, today!</p>
+					</div>
+					<div class="shownotes">
+					    <div class="download">
 						<strong>Video:</strong> <a href="http://cdn.yayquery.com/ep/5/yayquery_5.ogv">OGV</a> (172mb) | <a href="http://cdn.yayquery.com/ep/5/yayquery_5.mp4">MP4</a> (122mb)
-						<br /> 
+						<br />
 						<strong>Audio:</strong> <a href="http://cdn.yayquery.com/ep/5/yayquery_5.mp3">MP3</a> (48mb)
 						<h4>Show Links</h4>
 						<ul class="showlinks">
@@ -699,24 +699,24 @@ We're playing naughty this week with the debut of nayQuery! Peter Higgins, Dojo 
                             <li><a href="http://dev.jquery.com/report/34">40% more tickets closed for 1.4 vs 1.3</a></li>
                             <li><a href="http://benalman.com/projects/jquery-bbq-plugin/">jQuery BBQ</a> | <a href="http://benalman.com/projects/jquery-untils-plugin/">jQuery Untils</a></li>
 						</ul>
-					    </div> 
-					</div> 
-					<img class="cohitre" src="http://cdn.yayquery.com/site/images/cohitre_5.jpg" alt="Please dont feed ajpiano." title="Please dont feed ajpiano." width="329" height="256" /> 
+					    </div>
+					</div>
+					<img class="cohitre" src="http://cdn.yayquery.com/site/images/cohitre_5.jpg" alt="Please dont feed ajpiano." title="Please dont feed ajpiano." width="329" height="256" />
 		    </li>
-<li id="ep4" class="left"> 
-					<h2><span class="epnum">Episode 4</span> | I Once Mixed Sprite and Cappuccino, It Was Disgusting</h2> 
+<li id="ep4" class="left">
+					<h2><span class="epnum">Episode 4</span> | I Once Mixed Sprite and Cappuccino, It Was Disgusting</h2>
 					<img width="360" height="240" src="http://cdn.yayquery.com/ep/4/yayquery_4.png" alt="Episode 4" title="Episode 4" rel="4" class="clickvid" />
-					<div class="description"> 
+					<div class="description">
 					    <p>With Rebecca on the disabled list, the yayQuery team overcomes adversity by talking about LABjs, the new
 					    asynchronous JavaScript loader on the scene. This leads to a rousing discussion of improving front-end perfromance
 					    with new image spriting techniques. And then: moar performance with your favorite segment, Hidden Performance
 					    Anti-Pattern for Beginners ... err, wait. It's all there for the taking in this the fifth episode of yayQuery.
-					    Now with a party line!</p> 
-					</div> 
-					<div class="shownotes"> 
-					    <div class="download"> 
+					    Now with a party line!</p>
+					</div>
+					<div class="shownotes">
+					    <div class="download">
 						<strong>Video:</strong> <a href="http://cdn.yayquery.com/ep/4/yayquery_4.ogv">OGV</a> (109mb) | <a href="http://cdn.yayquery.com/ep/4/yayquery_4.mp4">MP4</a> (103mb)
-						<br /> 
+						<br />
 						<strong>Audio:</strong> <a href="http://cdn.yayquery.com/ep/4/yayquery_4.mp3">MP3</a> (39mb)
 						<h4>Show Links</h4>
 						<ul class="showlinks">
@@ -735,23 +735,23 @@ We're playing naughty this week with the debut of nayQuery! Peter Higgins, Dojo 
 							    <li><a href="http://paulirish.com/2008/jquery-doonce-plugin-for-chaining-addicts/">doOnce Plugin (for chaining addicts)</a></li>
 							    <li><a href="http://www.twilightthemovie.com/">Twilight: New Moon</a></li>
 						</ul>
-					    </div> 
-					</div> 
-					<img class="cohitre" src="http://cdn.yayquery.com/site/images/cohitre_4b.jpg" alt="Please dont feed ajpiano." title="Please dont feed ajpiano." width="332" height="232" /> 
+					    </div>
+					</div>
+					<img class="cohitre" src="http://cdn.yayquery.com/site/images/cohitre_4b.jpg" alt="Please dont feed ajpiano." title="Please dont feed ajpiano." width="332" height="232" />
 		    </li>
-		    <li id="ep3" class="right"> 
-					<h2>$("#turkey").contents() === new Stuffing(); | <span class="epnum">Episode 3</span></h2> 
+		    <li id="ep3" class="right">
+					<h2>$("#turkey").contents() === new Stuffing(); | <span class="epnum">Episode 3</span></h2>
 					<img width="360" height="240" src="http://cdn.yayquery.com/ep/3/yayquery_poster_3.png" alt="Episode 3" title="Episode 3" rel="3" class="clickvid" />
-					<div class="description"> 
+					<div class="description">
 					    <p>In a very special thanksgiving episode of yayQuery the gang talks on the hottest conference on the block and the best new seating
 					    themed storage implementation. Eat your leftover turkey and pumpkin pie while you get learned by special guest Mike Taylor on everybody's
 					    favorite HTML5 input information. There's a plugin that we think is the best for this week along with your favorite segments, like PIJAPFPOTW.
-					    On top of all that, we made you a new plugin! Hapy Hapy Thanksgiving!</p> 
-					</div> 
-					<div class="shownotes"> 
-					    <div class="download"> 
+					    On top of all that, we made you a new plugin! Hapy Hapy Thanksgiving!</p>
+					</div>
+					<div class="shownotes">
+					    <div class="download">
 						<strong>Video:</strong> <a href="http://cdn.yayquery.com/ep/3/yayquery_3.ogv">OGV</a> (149mb) | <a href="http://cdn.yayquery.com/ep/3/yayquery_3.mp4">MP4</a> (107mb)
-						<br /> 
+						<br />
 						<strong>Audio:</strong> <a href="http://cdn.yayquery.com/ep/3/yayquery_3.mp3">MP3</a> (35mb)
 						<h4>Show Links</h4>
 						<ul class="showlinks">
@@ -764,23 +764,23 @@ We're playing naughty this week with the debut of nayQuery! Peter Higgins, Dojo 
 							    <li><a href="http://docs.jquery.com/Utilities/jQuery.map">jQuery .map()</a></li>
 							    <li><a href="http://stevesouders.com/efws/">Even Faster Websites</a></li>
 						</ul>
-					    </div> 
-					</div> 
-					<img class="cohitre" src="http://cdn.yayquery.com/site/images/cohitre_3.jpg" alt="Please dont feed ajpiano." title="Please dont feed ajpiano." width="329" height="256" /> 
+					    </div>
+					</div>
+					<img class="cohitre" src="http://cdn.yayquery.com/site/images/cohitre_3.jpg" alt="Please dont feed ajpiano." title="Please dont feed ajpiano." width="329" height="256" />
 		    </li>
-		    <li id="ep2" class="left"> 
-		    <h2><span class="epnum">Episode 2</span> | Third Time's a Charm!</h2> 
+		    <li id="ep2" class="left">
+		    <h2><span class="epnum">Episode 2</span> | Third Time's a Charm!</h2>
 		    <img width="360" height="240" src="http://cdn.yayquery.com/ep/2/yayquery_poster_2.png" alt="Episode 2" title="Episode 2" rel="2" class="clickvid" />
-		    <div class="description"> 
+		    <div class="description">
 			<p>In this episode of yayQuery the team discusses Paul's recent adventures in the land of jQuery documentation. We know there's a
 			<em>Doc Brown 1.21 Jiggawatts</em> joke somewhere in there, but we couldn't find it. Other topics include JSON, Compression &amp;
 			Minification, Plugins of the Week, Hidden Features inside of jQuery, and even a picture of Adam in his best Dark Helmet costume.
-			Also get some coupon codes for some sweet discounts off some sweet conferences. Oh yeah. Jonathan Neal.</p> 
-		    </div> 
-		    <div class="shownotes"> 
-			<div class="download"> 
+			Also get some coupon codes for some sweet discounts off some sweet conferences. Oh yeah. Jonathan Neal.</p>
+		    </div>
+		    <div class="shownotes">
+			<div class="download">
 			    <strong>Video:</strong> <a href="http://cdn.yayquery.com/ep/2/yayquery_2.ogv">OGV</a> (127mb) | <a href="http://cdn.yayquery.com/ep/2/yayquery_2.mp4">MP4</a> (105mb)
-			    <br /> 
+			    <br />
 			    <strong>Audio:</strong> <a href="http://cdn.yayquery.com/ep/2/yayquery_2.mp3">MP3</a> (34mb)
 			    <h4>Show Links</h4>
 			    <ul class="showlinks">
@@ -795,76 +795,76 @@ We're playing naughty this week with the debut of nayQuery! Peter Higgins, Dojo 
 				<li><a href="http://pipes.yahoo.com/pipes/">Yahoo! Pipes: Rewire the web</a></li>
 				<li><a href="http://developer.yahoo.com/yql/">YQL: Yahoo! Query Language</a></li>
 			    </ul>
-			</div> 
-		    </div> 
-		    <img class="cohitre" src="http://cdn.yayquery.com/site/images/cohitre_2.jpg" alt="Please dont feed ajpiano." title="Please dont feed ajpiano." width="332" height="232" /> 
-</li> 
-<li id="ep1" class="right"> 
-	<h2>Dear &lt;canvas&gt;, meet bacon. | <span class="epnum">Episode 1</span></h2> 
+			</div>
+		    </div>
+		    <img class="cohitre" src="http://cdn.yayquery.com/site/images/cohitre_2.jpg" alt="Please dont feed ajpiano." title="Please dont feed ajpiano." width="332" height="232" />
+</li>
+<li id="ep1" class="right">
+	<h2>Dear &lt;canvas&gt;, meet bacon. | <span class="epnum">Episode 1</span></h2>
 	<img width="360" height="240" src="http://cdn.yayquery.com/ep/1/yayquery_1.png" alt="Episode 1" title="Episode 1" rel="1" class="clickvid" />
-	<div class="description"> 
+	<div class="description">
 	    <p>In this episode of yayQuery, the crew discusses Google's terrible project naming habits, Paul gives an anti-pattern that
 	    you won't want to miss, and no episode is ever complete without a little ditty from Jonathan Neal. Other topics include the
 	    jQuery Peepcode screencasts, jsconf.eu, and bacon. We are also proud to announce that we have two new sponsors:
-	    <a href="http://www.tinycdn.com/">TinyCDN</a> and <a href="http://www.devot-ee.com/">devot:ee</a> &mdash; so check em' out!</p> 
-	</div> 
-	<div class="shownotes"> 
-	    <div class="download"> 
+	    <a href="http://www.tinycdn.com/">TinyCDN</a> and <a href="http://www.devot-ee.com/">devot:ee</a> &mdash; so check em' out!</p>
+	</div>
+	<div class="shownotes">
+	    <div class="download">
 		<strong>Video:</strong> <a href="http://cdn.yayquery.com/ep/1/yayquery_1.ogv">OGV</a> (137mb) | <a href="http://cdn.yayquery.com/ep/1/yayquery_1.mp4">MP4</a> (107mb)
-		<br /> 
+		<br />
 		<strong>Audio:</strong> <a href="http://cdn.yayquery.com/ep/1/yayquery_1.mp3">MP3</a> (32mb)
 		<h4>Show Links</h4>
 		<ul class="showlinks">
 		<li><a href="http://code.google.com/closure/">Google Closure</a></li>
 		<li><a href="http://nodejs.org/">Node.js</a></li>
 		<li><a href="http://wiki.commonjs.org/wiki/CommonJS">CommonJS</a></li>
-		
+
 		<li><a href="http://acko.net/files/bacon/animation-demo.html">Bacanvas</a></li>
 		<li><a href="http://james.padolsey.com/javascript/fun-with-jquerys-animate/">Fun With jQuery's .animate()</a></li>
 		<li><a href="http://flesler.blogspot.com/2007/11/jqueryrule.html">jQuery.Rule</a></li>
-		
+
 		<li><a href="http://groups.google.com/group/jquery-ui/browse_thread/thread/07687f11ae23a392">jQuery UI .disableSelection, etc.</a></li>
 		<li><a href="http://groups.google.com/group/jquery-dev/browse_thread/thread/67ede2e034ab62f3/def5b2207b99a731?lnk=gst&q=focus+paul+irish#def5b2207b99a731">:focus pseudoselector</a></li>
-		
+
 		<li><a href="http://suggestions.peepcode.com/pages/15-general/suggestions/778-jquery-screencast">Peepcode jQuery Screencast</a></li>
 		<li><a href="http://bc.tech.coop/blog/060302.html">Text Editor Learning Curves</a></li>
 		</ul>
-	    </div> 
-	</div> 
-	<img class="cohitre" src="http://cdn.yayquery.com/site/images/cohitre_1.jpg" alt="Please dont feed ajpiano." title="Please dont feed ajpiano." width="329" height="256" /> 
+	    </div>
+	</div>
+	<img class="cohitre" src="http://cdn.yayquery.com/site/images/cohitre_1.jpg" alt="Please dont feed ajpiano." title="Please dont feed ajpiano." width="329" height="256" />
     </li>
-    <li id="ep0" class="left"> 
-	<h2><span class="epnum">Episode 0</span> | Inaugural Zero-Indexed Episode</h2> 
+    <li id="ep0" class="left">
+	<h2><span class="epnum">Episode 0</span> | Inaugural Zero-Indexed Episode</h2>
 	<img width="360" height="240" src="http://cdn.yayquery.com/ep/0/yayquery_0.png" alt="Episode 0" title="Episode 0" rel="0" class="clickvid" />
-	<div class="description"> 
+	<div class="description">
 	    <p>In this episode of yayQuery, the team introduces themselves. Paul Irish, Rebecca Murphey, Adam J. Sontag, and Alex Sexton
 	    each offer their insight on a variety of topics. Paul Irish continues his anti-pattern knowledge-giving that he started at jQuery Con '09
 	    and then goes on to publicly show his support for the end of Thickbox's life. Mobile front-end development is discussed in some detail, however
-	    any information passed on is nullified by the dancing at the end of the video.</p> 
-	</div> 
-	<div class="shownotes"> 
-	    <div class="download"> 
+	    any information passed on is nullified by the dancing at the end of the video.</p>
+	</div>
+	<div class="shownotes">
+	    <div class="download">
 		<strong>Video:</strong> <a href="http://cdn.yayquery.com/ep/0/yayquery_0.ogv">OGV</a> (61mb) | <a href="http://cdn.yayquery.com/ep/0/yayquery_0.mp4">MP4</a> (94mb)
-		<br /> 
+		<br />
 		<strong>Audio:</strong> <a href="http://cdn.yayquery.com/ep/0/yayquery_0.mp3">MP3</a> (30mb)
 		<h4>Show Links</h4>
 		<ul class="showlinks">
 		    <li><a href="http://documentcloud.github.com/underscore/">Underscore.js</a></li>
-		    
+
 		    <li><a href="http://jqueryui.com/demos/dialog/">jQuery UI Dialog</a></li>
 		    <li><a href="http://dev.iceburg.net/jquery/jqModal/">jqModal</a></li>
 		    <li><a href="http://colorpowered.com/colorbox/">ColorBox</a></li>
 		    <li><a href="http://www.ericmmartin.com/projects/simplemodal/">SimpleModal</a></li>
-		    
+
 		    <li><a href="http://www.jqtouch.com/">jqTouch</a></li>
 		    <li><a href="http://xuijs.com/">XUI</a></li>
-		    
+
 		    <li><a href="http://en.wikipedia.org/wiki/Hungarian_notation">Hungarian Notation</a></li>
 		</ul>
-	    </div> 
-	</div> 
-	<img class="cohitre" src="http://cdn.yayquery.com/site/images/cohitre_0.jpg" alt="Please dont feed ajpiano." title="Please dont feed ajpiano." width="332" height="232" /> 
-    </li> 
+	    </div>
+	</div>
+	<img class="cohitre" src="http://cdn.yayquery.com/site/images/cohitre_0.jpg" alt="Please dont feed ajpiano." title="Please dont feed ajpiano." width="332" height="232" />
+    </li>
 </ul>
 
 <footer>
@@ -875,7 +875,7 @@ We're playing naughty this week with the debut of nayQuery! Peter Higgins, Dojo 
 All editing after Ep 15 done by our friend <a href="http://zetafleet.com/">Colin Snover</a><br />
 Special thanks to <a href="http://twitter.com/peolanha">Andrée Hansson</a> for link farming for us. <3z.
      <p>yayQuery image assets: <a href="http://yayquery.org/yayQueryLogo.ai">yayQueryLogo.ai</a>, <a href="http://yayquery.org/yayQueryLogo.png">yayQueryLogo.png</a>, <a href="img/yayQueryLogoSquare.png">yayQueryLogoSquare.png</a>.</p>
-    
+
     <p>All video, audio, images, songs and happiness is licensed under <a href="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0</a>. Songs are copyright to Jonathan Neal, illustrations to Cohitre.<p>
 </div>
 </footer>
@@ -889,7 +889,7 @@ $(function(){
 	var video       =   videos[index],
             vidtemplate = '',
 	    swfurl = 'http://vimeo.com/moogaloop.swf?clip_id={id}&amp;server=vimeo.com&amp;show_title=1&amp;show_byline=1&amp;show_portrait=1&amp;color=00adef&amp;fullscreen=1&autoplay=1';
-	    
+
 	    video.vimeo =    swfurl.replace('{id}',videos[index].vimeo);
 if (!forceflash) {
 	vidtemplate =   '<video width="360" height="240" poster="'+video.poster+'" controls autobuffer autoplay>' +
@@ -908,7 +908,7 @@ else {
 }
 	    return vidtemplate;
     }
-    
+
     var videos = [
 	{
 	    poster: 'http://cdn.yayquery.com/ep/0/yayquery_0.png',
@@ -1050,29 +1050,29 @@ videos.jsconf2010 = {
             forceflash = $this.hasClass('forceflash'),
       	    vid_elem =  $(createVideo(videos, vid_id, forceflash)),
       	    block  = $this.closest('li').addClass('zoomview');
-      	    
+
       	$(this).replaceWith( vid_elem  );
-      	
+
       	// chrome gets only flash for now cuz it suxxx at html5 video, still. (2010.05.11)
       	if (true && /Chrome/.test(navigator.userAgent)){
       	  vid_elem.find('source').remove().end().find('object').unwrap();
       	}
-        
-      	
+
+
       	var to = 700,
       	    ratio = 1280/720,
             videoz = block.find('video'),
             fallback = block.find('object,embed');
 
         videoz.animate({width: to + 'px', height: to/ratio + 'px'})
-      
-    	
+
+
     	  // if we're dealing with the flash vimeo
       	if (fallback.is(':visible')){
       	  fallback.width(to).height(to/ratio);
       	}
-    
-      	
+
+
       	return false;
     });
 
@@ -1087,62 +1087,62 @@ videos.jsconf2010 = {
 <!--
 Any bugs/errors that reach this point should be scooped up by this pterodactyl:
 
-    -\-                                                     
-    \-- \-                                                  
-     \  - -\                                                
-      \      \\                                             
-       \       \                                            
-        \       \\                                              
-         \        \\                                            
-         \          \\                                        
-         \           \\\                                      
-          \            \\                                                 
-           \            \\                                              
-           \. .          \\                                  
-            \    .       \\                                 
-             \      .    \\                                            
-              \       .  \\                                 
-              \         . \\                                           
-              \            <=)                                         
-              \            <==)                                         
-              \            <=)                                           
+    -\-
+    \-- \-
+     \  - -\
+      \      \\
+       \       \
+        \       \\
+         \        \\
+         \          \\
+         \           \\\
+          \            \\
+           \            \\
+           \. .          \\
+            \    .       \\
+             \      .    \\
+              \       .  \\
+              \         . \\
+              \            <=)
+              \            <==)
+              \            <=)
                \           .\\                                           _-
                \         .   \\                                        _-//
                \       .     \\                                     _-_/ /
                \ . . .        \\                                 _--_/ _/
                 \              \\                              _- _/ _/
-                \               \\                      ___-(O) _/ _/ 
-                \                \                  __--  __   /_ /   
+                \               \\                      ___-(O) _/ _/
+                \                \                  __--  __   /_ /
                 \                 \\          ____--__----  /    \_     I love yayQuery!
-                 \                  \\       -------       /   \_  \_     
+                 \                  \\       -------       /   \_  \_
                   \                   \                  //   // \__ \_
-                   \                   \\              //   //      \_ \_ 
-                    \                   \\          ///   //          \__- 
-                    \                -   \\/////////    //            
-                    \            -         \_         //              
-                    /        -                      //                
-                   /     -                       ///                  
-                  /   -                       //                      
+                   \                   \\              //   //      \_ \_
+                    \                   \\          ///   //          \__-
+                    \                -   \\/////////    //
+                    \            -         \_         //
+                    /        -                      //
+                   /     -                       ///
+                  /   -                       //
              __--/                         ///
-  __________/                            // |               
-//-_________      ___                ////  |                
-        ____\__--/                /////    |                
-   -----______    -/---________////        |                
-     _______/  --/    \                   |                 
-   /_________-/       \                   |                 
-  //                  \                   /                 
-                       \.                 /                 
-                       \     .            /                 
-                        \       .        /                  
-                       \\           .    /                  
-                        \                /                  
-                        \              __|                  
-                        \              ==/                  
-                        /              //                   
-                        /          .  //                    
-                        /   .  .    //                      
-                       /.           /                       
-                      /            //                       
+  __________/                            // |
+//-_________      ___                ////  |
+        ____\__--/                /////    |
+   -----______    -/---________////        |
+     _______/  --/    \                   |
+   /_________-/       \                   |
+  //                  \                   /
+                       \.                 /
+                       \     .            /
+                        \       .        /
+                       \\           .    /
+                        \                /
+                        \              __|
+                        \              ==/
+                        /              //
+                        /          .  //
+                        /   .  .    //
+                       /.           /
+                      /            //
                       /           /
                      /          //
                     /         //
@@ -1150,131 +1150,131 @@ Any bugs/errors that reach this point should be scooped up by this pterodactyl:
                 /          //
             ////         //
          ///_________////
-	 
-	 
+
+
 Anything that ptery doesn't get send to Paul Irish. His email address is:
    (you might have to ctrl-(minus) for this... )
-                                                                                                                                                                                                        
-                                                                                                                                                                                                        
-                                                                                                                                                                                                        
-                                                           . .        .          .                                                                                                                      
-                                                              DNMM$OMMMMNNNMN$8D.                                                                                                                       
-                                                     . MNMNNMMMMMMMMMMMMMNMMMMMDNI=                                                                                                                     
-                                               .MMMMMMMDNNNNMMMNNMMMMMMMMMMMMMMNNNM8+...                                                                                                                
-                                        ..MMM+NMMMMNNNNNNNNNNMNMNNMMMMMMMMMMMMMMMMNMM8O?.                                                                                                               
-                                    ..~DMMMMMNNNNNNNNNNNNMMNNNMMMMMMMMMMMMMNNMMMMMMMMMMMMMN..                                                                                                           
-                                    ~MMMMMNMMMMMNNNMNNNNMNNNMNNNNMMMMMMMMMMMMMMMMMMMMMMMMOMMII .                                                                                                        
-                                  .ONMMMNMMMMNNNMMMMMMMMNNNNMMNMMMMNMMMMMMNNMMMMMMMMMMMMMMMMMMM7.                                                                                                       
-                                .=NMMMNNMMMDMMMMMMMMNNMNMMMMMNMMNMNNMMMMMMMMMMMMMMMMMMMMMMMMMMMM?=+                                                                                                     
-                               .NNMNMNMMMMMMNNMMNNNMMMMMMNMMNNNMNMNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM+=7                                                                                                    
-                             .$DNNNMMMMMMMDDDMNMNNMMMNNMNNMMMMNNMMNMMMNNMMMNMMMMMMMMMMMMMMMMMMMMMMI=                                                                                                    
-                            =7MNNMMMMMMMNMNDNMMMMMNNNNNNNNDDMMNNMMMMMNMNMMNMMMMMNMMMMMMMMMMMMMMMMMM?                                                                                                    
-                          .~?DNNNNMMMMNNMMMDMMMMMDNNMNMNNDDNNNNMMMMMMMMNMMMMMMMMMMMMMMMMMMMMMMMMMMMM+                                                                                                   
-                         ==+NNNNNMMNNMNNMNDMMNNNNDDNNNNNNDMMNMMMMMMNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM8.                                                                                                  
-                       ====?DNNNNNMMNNMNNNNMNNDNNNNDNDDNNMMMNNMMNMMMMMMNMMMNNMMMMMNNMMMMMMMMMMMMMMMMMD                                                                                                  
-                      ==+=7ONNNNMMMNNNNNNNNNDNNNNNNN8NNNNNNNNNMNMNMNMMMNMMNNNMMMMMMMMNMMMMMMMMMMMMMMMM                                                                                                  
-                  . ==ZD8DNNMNNDNNNNNNDD8DDD8DNNNNDNNNNNNNMNMNMNNNNNNMMMMMMNMMMMMMNMMMMMMMMMMMMMMMMMMM.                                                                                                 
-                   =?=+8DNMMNNDNNNDNNNDNDO8O8DD8NNDNNDDDDDNNNNNNNNNMNNMMNNNNMMMMMMMMMMMMMMMMMMMMMMMMMMM                                                                                                 
-                   I==ZNMMNNNNNMNNNNNNN88D8O8OD8DDDDN8DDD8DNNNDDDNMDNNNMNMNNNMMNNNMNMMMMMMMMMMMMMMMMMMM                                                                                                 
-                  ==+DDMMMMNDNNDNMND88DNDD88DOOOO8OO88DD8OZO888DDNDDNNNDNNNNNNNNNNNNMNMMMMMMMMMMMMMMMMMM.                                                                                               
-                  ==ZNNDNMMNDNNNNNNDDDDNNDN88O8O8OOOD8D88OZ$OZO88888DDDDDDDNNNNNNNNNNMMMNNNNMMMMMMMMMMMM                                                                                                
-                  =DNNMNDNNDNN8MNNNNNNNNNND88DO88DO8N8OOOOZZ$Z$ZZZOZ8888D8DDDDDDDNNNNNNNNDDNNNNMMMMMMMMM                                                                                                
-                 =$8ZMNDDNNNDNDNDDNNMDDDNNND88D8OD888DOOOZ$$I77III7$$$$ZOZOOOO888DD88D888D8DDDDNMMMMMMMMM                                                                                               
-                 +7NONDDNNDNNNDNNDNDND8DD8888D88DN8O8ZZZ$$77?????????II7777$$$ZZZZZZZZZOZOOOO888DNNMMMMMMM                                                                                              
-                 I8IDNNNNDNDNNDDND88NDDDDDD8DDDDZZZ$7$7IIIII???????IIIIIII77777$$$$$$ZZZZZZZOOO8DDNNMMMMMM                                                                                              
-                 +O=NDMNDNNNND88ND8ODDNNNDDD8N8OZ$$$7IIII??????????IIIIII7777777777$$$$$$$ZZZOOO8DDDNMMMMM.                                                                                             
-               .=7DDDDNDNDNDNDDDNDDDDDNNMNMNNDOZ$$$7IIIII?IIII?IIIIIIII777777777777$$$$$$$$ZZOOO888DNNMMMMM                                                                                             
-                .$+NDNNNNDNNNDDDNDDNNDNMNNNNDOOZ$$7IIIIIIIIIIIIIIIIII777777777777777$$$$$$ZZZZZOO88DDNMMMMM                                                                                             
-                 =DDDNNDDDNNNNNNDDNMNNMMNDD8OZZ$77IIIIIIIIIIIIIII77777777777777$$7$$$$$$$$$$ZZZOOO8888NMMMM                                                                                             
-                 =ZDNNNNDDMNNNNNNNMMNMMNNN8OZZ77IIIIIIIIIIIIIII7777777777$77777$$$$$$$$$$$$ZZZZOOOO8888NMMMM                                                                                            
-                  8NNNDNDDMMNNNNNMMMNMMNN8ZZ$77IIIIIIIIIII7II77777777777$77777777$$$$$$$$$$ZZZZZOO88888DNMMM                                                                                            
-                   DNN8NDDNMNMMNNMMNMMNN8Z$7IIIIIIIIIIIIIIII77777777$$$$$7777$$$$$Z$$$$$$$$ZZZZOOOO8888DMNMM                                                                                            
-                   NNNDMNNDMMNMMMMNMMNDDZ$7IIIIIIIIIIIIIII7777777777$7$$$$77777777$$$$$$$$$$ZZZZOOOO8888NMMM                                                                                            
-                   DDNNNNDNNMMMMMMMMMNNDZ$7IIIIIIIIIIIIII777777777777777777777777$77$$$$$$$$ZZZZZOO88888DNNM                                                                                            
-                   .NNDNNNMNMMMMMMMMNND8Z$77IIIIIIIIIIII77II77I777777777777777$$7$7$$$$7$$$$$ZZZZOOO88888NMM                                                                                            
-                    NNNMNNMMMMMMMMMMMND8O$77IIIIIIIIIIIIIIIIII77I77777777777$$$$$$$$7$77$$$$$$ZZZOOOO8888NNO                                                                                            
-                     DNMNNNMMMMMMMMMMND8O$77IIIIIIIIIIIIIIIII777777777777777$$$$$$$7$7777$$$Z$ZZZOOOO8888DM?                                                                                            
-                     ODNNNNMMMMMMMMMNNDDOZ77IIIIIIIIIIIIIIIII777I777777777$$7$$777777777$$$$$ZZZZOOOO88888M$                                                                                            
-                      DNNNNMMMMMNNMNNNDDOZ77IIIIIIIIIIIIIIIII777777777777$$$$7777$7$$$$$$$$$ZZZZOOOO888888N=     .                                                                                      
-                      DNNNMMMMMMMNMNNNDDO$$7IIIIIIIIIIIIIIII77777777777$$$$$$$$$$$$$$$$$ZZZZOOO88DDDNNNNNND=   .                                                                                        
-                     .8NNNMMMNNMMMMNNNDDO$7IIIIIIIIIIIIIIII7777777777$ZZZZZZ$$$$$$$$Z$ZZOO8DDDNNNMMMNNNNNND=  DD8.                                                                                      
-                       NMNMMNNNNMMNNNND8Z7IIIIIIIIIII7II77777777$$ZO888888OOZZZ$ZZZZZZOO88DNNNMNMNNNDD8DDD8DDDD88D                                                                                      
-                       DNNMNNNNNNNNNNND8$IIIIII?IIIIIII777$$$$ZZ8DDDDNDD888OOZZZZZOOOOO8888DDDDDDDD888888888DD8DDD                                                                                      
-                        DNMNNNNNNNNNND8O7IIII?I?III7I777$ZOO88DDDNNDD88OOOOOZZZZZZOOOO888DDNNNNNNMMMMMN88888D88DDD                                                                                      
-                        .NMMNNDDNNNNND8O7I?IIIIIII777$$O88DNNNNNNNDD88OOOOZZZZZZZZZZOO8DNNNNMNDDNNMNNMMN8888D88DDD                                                                                      
-                         .MMNDDDDNDDDD8Z7IIIIIII7$ZOO88DNNND88888DMMMMNND8OOOZ$7777$ZODDNNNDD8O8DNNNNNDDD8888D88DD                                                                                      
-                     ... 77ZNN8OZDNDND8Z7IIIIIII$ZZOO8OOOOOO8DNNMMMMMMMNDD8OOZ77II77$ZDDNNNNDNDDDNNND888DD888D8888                                                                                      
-                     =IIII7777$$$DDDDD8Z7IIIIII77$ZZZOZZONNNDD88NNNMMMMNDDD8O$7III777ZODDDDDDNNNNDDD8888888888D888                                                                                      
-                     ?7777777777778DDD8Z7IIIIII77$ZZOODNDDNND888DNMNNNNDDD8OZ77III777$ZODNNDDDDDD88888O8888888D88D                                                                                      
-                     7ZOOOOZ$$$$$7ZDDD8O7IIIIII77$$ZOOOZZZZO88DDDDDDNDDD88O$$77III777$ZO8DDDDDD888OOO8O8888888DD8D                                                                                      
-                      OOOO$ZZO8$$77Z8D88$IIIIII777777777777$ZZZOO888888OZ$777IIIIII77$$ZO8OOO8888OOOOOOOOO88888D88                                                                                      
-                    . OOOZ7$ZZOOO$$$ZD88$7IIIIIIIIII7II77777$$$$$ZZOOO$$7777IIIIIIII77$ZOOOOOOOOOZZZOOOOO8O8888D88                                                                                      
-                      ZOZZ7$$$$ZZZ$$Z888$7IIIIIIIIIIIII7777777$$$ZZZ$77777IIIIIIIIIII7$ZOOOOZZZZZZZZZZZOOOO8888888                                                                                      
-                      $OZ$7$$ZZ888O$$8D8$7IIIIIIIIIIIIII77777$$Z$$77777IIII7IIIIIIIII77$ZOOOZZZ$$$ZZZZZZOOO8888888                                                                                      
-                       $Z7$ZOOOOO8O$7Z8O7IIIIIIIIIIIIIII7777777$7777777IIIIIIIIIIIIIII7$ZZOOOZZ$$$$$$ZZOOOO8888D88                                                                                      
-                       $Z$$ZZOOOOZZZ778O7IIIIIIIIIIIIIII777777777777IIIIIIIIIIIIIIIII777$ZO8OOZZZ$$$ZZZZOOO888888O                                                                                      
-                        $Z$$ZZZZ$$$$II77IIIIIIIII7I777I777777777II77777777777IIIIIIII777$ZOO8OOZZZ$$ZZZZOOO8888D8Z                                                                                      
-                         $$7$ZZZ$$$$I777IIIIIIIIII777777777777777777777$$$7IIIIIIIIII777$ZOO88OZZZZZZZZZOOOO88888O                                                                                      
-                        . 777$ZZ$$$$$7777IIIIIII777777777777777777777$$$ZZIIIIIIIIII77$ZZZOOO8OOZZZZZZZZOOO888888O                                                                                      
-                           7$7$7II7$$$7777I7IIII77777777777777777777$$ZZZZ7III77$$$$$ZOOO88OO88OOZZZZZOOOO8888888.                                                                                      
-                            7$$$7II7777777I7III77777777777777777777$$$ZZZZ$7$$DND8ZZZOOO8NN8888OOOOZZOOOOO8888888                                                                                       
-                           ..I777777777777777III777777777777777777$$$ZZZZ$$OZ8NNNDDDD8DDDNND888OOOOOOOOO8888888? .                                                                                      
-                              I7777$$$$$$7$77777777777777777777777$$$$$$$777ZOOOOO8D888DDDD88888OOOOOOO88888888.                                                                                        
-                              .II7777777$$$77777777777777777777777$$$$7777777777$$ZO888888DD88888OOOOO888888888 .                                                                                       
-                             . .7I777777$777777777777777777777777$$$7777777777777$ZZ88OOO8DD88888OOO888888888D8 .                                                                                       
-                                .777777$Z$777777777777777777777$7777777777777777$$ZO88OZO88DDD8888888888888888.                                                                                         
-                                 .$$$$$ZO$$77777777777777777777777$777$$$$$$$777II7$OZ$$$ZO88888888D8D8888888D                                                                                          
-                                         .777777777777777777777$7$77$$ZZZ$777IIII7777777ZOOOOOO8888D88D8O88888                                                                                          
-                                         .$7777777777777777777777$$$$$ZZZ77II7$ZOOOOOO888888D88O88888D88888888                                                                                          
-                                           777777777777777777777$$$$$ZZZ$77$ZO8DDOOO88OODNNMNNDNNDDD8888888D88                                                                                          
-                                            7$77777777777$$7$$$$$$$ZZOOOOO8DNMNND8O8DD8DNNNDDDD88888888888888D                                                                                          
-                                            $7777$77$$$7$777$$$$$$ZZOOOOOOZ$$ZOO8D88DDD888OOO888OO8DDD88888D8O                                                                                          
-                                             $$$$777$$$$$$$$$$$$$$ZZZZ$777$777II7$$$$7777$ZZOOOOOO88DD88888DD7                                                                                          
-                                             $$$$$$$77$$$$$$$$$$$$$ZZZ$777777$77$$7$$$7$$ZOOOOOOOO8DDDDD8DDDNI                                                                                          
-                                             .Z$$$$$$$$$$$$$Z$$$$$ZZZ$$7777777$$$$ZZOOOOOOOOOOOOO8888D8DDDDDDI                                                                                          
-                                              $ZZZ$$$$$$$$$$Z$$$$$ZZZ$$777777$$$$ZZOOO88888OOOOOO888D88DDDDDN+                                                                                          
-                                              $$ZZ$Z$$$Z$$$$Z$Z$$$$$$$$$7$77$$$$ZOOO888888OOOOOOOO88DDDDDDDDNI                                                                                          
-                                              7$Z$ZZZ$$$$$ZZZZ$ZZZZZZZ$$$$$$$$$$ZZOOO888888OOOO88888DDDDDDDDD?                                                                                          
-                                              I7$$ZZZZZZZZ$ZZ$Z$$$ZZ$$Z$$$$$$$$$$ZZZZZZOOOOOOOOOO88DDDDDDDD8D+ .                                                                                        
-                                              +I77$ZZZZZZZZZZZ$$$$$$ZZZ$$$$7$$77$$777$$ZZOOOOOO8888DDDDDDDDDDZ=.                                                                                        
-                                               I77$$ZZZZZZZZZ$$Z$$$$$Z$$$$$7777I77777$$$$ZZZZOZOO8DDDDDDDDD8DDMM$   .                                                                                   
-                                               =777$ZZZZZZZZZ$Z$$Z$ZZZ$$$$77777I77777$$$$$ZZZZZZO8DDNDDDDD8DD8MMMM7                                                                                     
-                                               =I777$$ZZZZZZZZZZZZZZZZ$$$$$777777777$$$$ZZZZZOOO88DNNNDD888D88MMMMM8.                                                                                   
-                                               =?777$$$ZZZZZZZZZOZZZZZO$$$$$$$$$$$$$$ZZZOOOOO888DDDNDND8888888MMMMMM8                                                                                   
-                                               .+I777$$ZZZZZZZZZZZZZOOZZZZZZ$Z$ZZZ$ZZZOOOOOO88DDNNNNND8888888DNMMMMMM+.                                                                                 
-                                              ..=II77$$$$ZZZZZOOOOZOO8OOOOOZOOOOOOOO888888888DDNNNND8888888888NMMMMMMNM .                                                                               
-                                              .=+77777$$$$$$ZZZZOOOOOO888888888888O88888DDDDDNNNNDD8888888888DNMMMMMMMMM                                                                                
-                                              ==DOI77777$$$$$$$ZZZOZOOO888DDDDDDDDDDDDDDDDNNNNNDD888888888888DNMMMMMMMMMM                                                                               
-                                              =ONM777777$$$$7$$$$$ZZZOO8888888DDDDDDDDDDDDDD8888888888888888DDNMMMMMMMMMMM.                                                                             
-                                             .ONMMO77777$$$$$$$$$$ZZZZZOOOOOO88888D888DD888888O8888888888888DDNMMMMMMMMMMMM                                                                             
-                                             +NMMMM$I777777$$7$7$$$$$ZZZZZZZZOOOOO8OOO8OO8888O88O88O88O8888DDNNMMMMMMMMMMMMMI                                                                           
-                                             ZNMMMMZ7777777$$$7$$$$$$$$$$$$ZZZZOOOOOOOOOO88O8O8888888888888DNNNMMMMMMMMMMMMMM?    .                                                                     
-                                             DNMMMM8$777777777$$$$$$$$$$$$$$ZZZZZZOZZOOOOOOOOOO888888OO888DDNNMMMMMMMMMMMMMMMMN$.                                                                       
-                                            =DNMMMMN$$$77777777$$7$$$$$$$$$$$$ZZZZZZZZZZOOOOOOO8888888O88DDDNNMMMMMMMMMMMMMMMMMMMMN?   .                                                                
-                                            $NMMMMMM8$$77777777777$$$$$$$$$$$$$$ZZZZZZZZZOOOOOOOO88888888DDNNNMMMMMMMMMMMMMMMMMMMMMMMMM..                                                               
-                                            8NMMMMMMDZ$777777$777$777$$$$$$$$$$$$ZZZZZZZZZOOOOOOOO888888DDDDNNMMMMMMMMMMMMMMMMMMMMMMMMMMM$+                                                             
-                                          .8DNMNMMMMD8$777$77777777$$$$$$$$$$$$$$$$ZZZZZZZZZOOOOOO888888DDDDNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMD+=.                                                         
-                                        .8NNDNMNNMMMN8O$77$77$777777$$7$$$7777$$$$$$$$ZZZZZZZZOOOO88888D8DDNNMMNMMNMMMMMMMMMMMMMMMMMMMMMMMMMMMO+=..                                                     
-                                       .DNNDDNMNNMMMN88Z$$$$$$$$$$77$77$$$$$$77$$$$$$$$$ZZZZZZZZOOO888888DDNMMMMMMNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMODM                                                    
-                                      NNNMNDDNNNMMMMND8OZ$$$$$77777$$$$$$$$7$$$$$$$$$$$$$ZZZZZZZZOO888888DDMMMNMMNNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM.                                              
-                                     DNNMMNDDNMDMMMMMD88OZ$$$$$$77$$$$777$$7$$$$$$$$$$$$$$$ZZZZZZZOO88888DNNMMNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM                                            
-                                   NNNDNMMDDDNNNNMNNMND8OOZ$$$$$$77$$$$77$$$$7$$$$$$$$$$$$$$$$$$ZZOO8888DDNNMMNMMNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNMMMMMMMMM. .                                     
-                              .NNNNNDNDNMMDDDNNDMMNMMND88OOZ$$77777$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$ZZO8888DNDMMNNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNNNMNMMMMN                                    
-                        .NNMNNNNMMNMDNMMMMDDDNDNMMDMMMND8OOZZ$777777$7$$$$$$$$$$$$$$$$$$$$$$$$$$$$$ZO88NNNNMNNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNMMMMMNMMNMMMMMMMNNMMMMMMMM.                               
-             .     .DNNNNNNNNMMMMMMMNNNMMMDDDNDNNNNMMMMN8OOOZZ$7777777$$$$$$$$$$$$$$$$$$$$$$$$$$$$$ZO8DMNDNMNMMMMMMMMMMMMMMMMMMMMMMMMMMNMMNMMNMMMMMMMMNMMMMMMMMMMMMNNMMMMMMM..                          
-               .NMNNNNNNMN8MNNMMMMMMNNNMMMDDDNDNMNDNMNMN8OOOZZZ$$$$$7$$$$$$$$$$$$$$$$7$$$$$$$$$$$$$$O8NNNNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNMMNMMNMMNMMMMMMMMNMMNMMNMMMMMMMNNMMMMNNM                        
-          .7DNNNNNNNNNNMNNMNNNMMMMMMNDMMMM8DDNDDNNDNNMMNNOOZZZZZZ$$7$$$$$$$$$$7$7$$$$$$$$$$$$$$$$$$ZODMMNNMMMMMNNNNMMMMMMMMMMMMMMMMMMMMNMMNMMNMNNMMMMMNMMNMMNMMNMMNMMMMMMMMNNMMMMMN.                    
-       ..DNNNNNNMNNNNMNDNDNNMMMMMMMMNDMMMM8D8DNNMMMMMMNMMDOZZZ$$ZZZ$$$$$$$$$$$$$7$$$$$$$$$$$$777$$$Z8NMMNMMMMMDMMMNNMMMMMMMMMMMMMMMMMMMNMMNMMNMNMMMNMMNMMNMMNMMNMMMMMMMMMMMMMMMNNMMMMMM .               
-.   .NNDDNNNNNNNNDNNNNNMMMMMMMMMMMMNDDMMMMDDNMMMOMMMMMDMMMNZZZZ$$$$$$$$$$$$$$$$7$7$$$$$$$$$$$$$$$$Z8NMMNNMMMMNMMMMMNNMMMMMMMMMMMMMMNMMMNMNNMMNMNMMMMMMNMMNMMNMMNNMNMMMMMMMMMMMMMMMMNNNMNNM.             
-  NDNDNNDDNNNMMMMMMMMMMMMMMMMMNMMNMNNNMMMM8NMMNMDNMMMMNNMMNDOZZZ$$$$$$$$$$$$$$7777$$$$$$$$$$$$$$$ZOMMMNNNMMMMNMMMMMMNMMMMMMMMMMMMMMNMMNNMNNMMNMMMMNMMMNMMNMMNMMNMMNMMNMMMMMMMMMMMMMMMMNMNM+ .           
-DDDNNDNMMMMMMMMMMMMMMMMNMMNNMMMMMNNDDMMMMNDMMMNMMDMMMMMONMMMOZZZ$$$$$$$$$$$$$$$777$$$$$$$$$$$$$$ZZDMMMNMMMMMMNMMMMMMMMMMMMMMMMMMMMMNMMNNMDNMNNMMMMNMMMNMNNMMNMMNMMNMMNMMMMMMMMMMMMMMMMMMMMM$.           
-DDNMMMMMMMMMMNNMMNMMMMMDNNDMMNMMNNDNDMMMMDDMMNNNM8NMMMMMNMMMNOZ$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$ZDMMMMNMMMMMMMMMMMMMMMMMMMMMMMMMMMMNMMNNMNMMNNMMMMNMMMMMMNMMNMMNMMNMMNMMMMMMMMMNMMMMMMMMMMMMN           
-MMMMMMMMMMMNMNNMDNNNNNNDNNNMMNNDDNDN8MMDNNNMNNNNMNNMMMMNNMMMMNZ$$$$$$$$$$$$$$$$$$$$$$$$$$$$$7$7ZMMMMMMDNMMMMMMMMMMMMMMMMMMMMMMMMMMMNMMNMMNNMNNMMNMNNMNMMMNMMNMMNMMNMMNMMMMMMMMMNMMMMMMMMMMMMMMM         
-MMMMMMMNNMNMMNNNDNN8NNDNNNNMNMN8NNDN8NDNNDNNNNNNMMNNMMMMNMMMMMMD7777$7$77$$7$$777$7$$$$$77$77$ONMMMMMNMMMMMMMMMMMMMMMMMMMMNMMMMMMMMNMMNMMNMMNNMMNMMMMNMMMMMMNMMNMMNMMNMMMMMMMMMNMMNMMNMMMMMMMMMMM       
-MNMMNNNDMMDNMNNNNNNDNN8NNNMMDNNDNNDNONNNDNNDNNNMNMMNMMMMMNMMMMMMM$777777$$7$777777$7777777777MMMMMNMMMMMMMMNMMMMMMMMMMMMMMMMMMMMMMMNMMNMMNMMNNMNMMMMMNNMNNMMNMNDMMNMMNMMNMMMNMMNMMNMMNMMMMMNMMMMMM      
-MNMNNMDNMNDMNNNMNNNDNNDNMNMNDNNDNNDDDMMNNNNDNNNNNMMDNMMMMMMMMMMMNMD7$7I77777777777777777777$MMMMMMMNNMMMMMMNMMMMMMMMMMMMMMMMMMMNNMMMMMNMMNMMNMMNMMNNMNNMNNMNNMMDMMNMMNMMMMMNNMMNMMNMMMMMMMMNMMMMMMM     
-NNNNNMDMMDNN8NMNNNNNNDNMNNNDNNNNMND8DMMMNMMNNNMMNMMNNMMMMMMNMMMMMMMN77I7777777777777777I77$MMMMMMMMMMMMMMMNMMMMMMMMMMMMMMMMNMMMMNMMNMMNMMNMMNMMNMMNMMNMMNNMNNMMNMMNMMNMMNNMMMMMNMMNMMNMMNMMNMMMMMMMMM   
-MMMDNNNNNDNNDNNDNN8NN8MNDNN8NNNNMND8NMMMNMMNNMMMMNMMDMMMMMMMMMMNNMMMN$7I77777$77$777777I7DMNNMNNNMMMMMMMMNNMMMMMMMMMMMMMMMMNMMMMMMNNMNNMMNMMNMMNMMMMMNMMNMMNNMNNMMNMMDMMNMMMMMMNMMNMMNMMNMMMMMMMMMMMMMM 
+
+
+
+                                                           . .        .          .
+                                                              DNMM$OMMMMNNNMN$8D.
+                                                     . MNMNNMMMMMMMMMMMMMNMMMMMDNI=
+                                               .MMMMMMMDNNNNMMMNNMMMMMMMMMMMMMMNNNM8+...
+                                        ..MMM+NMMMMNNNNNNNNNNMNMNNMMMMMMMMMMMMMMMMNMM8O?.
+                                    ..~DMMMMMNNNNNNNNNNNNMMNNNMMMMMMMMMMMMMNNMMMMMMMMMMMMMN..
+                                    ~MMMMMNMMMMMNNNMNNNNMNNNMNNNNMMMMMMMMMMMMMMMMMMMMMMMMOMMII .
+                                  .ONMMMNMMMMNNNMMMMMMMMNNNNMMNMMMMNMMMMMMNNMMMMMMMMMMMMMMMMMMM7.
+                                .=NMMMNNMMMDMMMMMMMMNNMNMMMMMNMMNMNNMMMMMMMMMMMMMMMMMMMMMMMMMMMM?=+
+                               .NNMNMNMMMMMMNNMMNNNMMMMMMNMMNNNMNMNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM+=7
+                             .$DNNNMMMMMMMDDDMNMNNMMMNNMNNMMMMNNMMNMMMNNMMMNMMMMMMMMMMMMMMMMMMMMMMI=
+                            =7MNNMMMMMMMNMNDNMMMMMNNNNNNNNDDMMNNMMMMMNMNMMNMMMMMNMMMMMMMMMMMMMMMMMM?
+                          .~?DNNNNMMMMNNMMMDMMMMMDNNMNMNNDDNNNNMMMMMMMMNMMMMMMMMMMMMMMMMMMMMMMMMMMMM+
+                         ==+NNNNNMMNNMNNMNDMMNNNNDDNNNNNNDMMNMMMMMMNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM8.
+                       ====?DNNNNNMMNNMNNNNMNNDNNNNDNDDNNMMMNNMMNMMMMMMNMMMNNMMMMMNNMMMMMMMMMMMMMMMMMD
+                      ==+=7ONNNNMMMNNNNNNNNNDNNNNNNN8NNNNNNNNNMNMNMNMMMNMMNNNMMMMMMMMNMMMMMMMMMMMMMMMM
+                  . ==ZD8DNNMNNDNNNNNNDD8DDD8DNNNNDNNNNNNNMNMNMNNNNNNMMMMMMNMMMMMMNMMMMMMMMMMMMMMMMMMM.
+                   =?=+8DNMMNNDNNNDNNNDNDO8O8DD8NNDNNDDDDDNNNNNNNNNMNNMMNNNNMMMMMMMMMMMMMMMMMMMMMMMMMMM
+                   I==ZNMMNNNNNMNNNNNNN88D8O8OD8DDDDN8DDD8DNNNDDDNMDNNNMNMNNNMMNNNMNMMMMMMMMMMMMMMMMMMM
+                  ==+DDMMMMNDNNDNMND88DNDD88DOOOO8OO88DD8OZO888DDNDDNNNDNNNNNNNNNNNNMNMMMMMMMMMMMMMMMMMM.
+                  ==ZNNDNMMNDNNNNNNDDDDNNDN88O8O8OOOD8D88OZ$OZO88888DDDDDDDNNNNNNNNNNMMMNNNNMMMMMMMMMMMM
+                  =DNNMNDNNDNN8MNNNNNNNNNND88DO88DO8N8OOOOZZ$Z$ZZZOZ8888D8DDDDDDDNNNNNNNNDDNNNNMMMMMMMMM
+                 =$8ZMNDDNNNDNDNDDNNMDDDNNND88D8OD888DOOOZ$$I77III7$$$$ZOZOOOO888DD88D888D8DDDDNMMMMMMMMM
+                 +7NONDDNNDNNNDNNDNDND8DD8888D88DN8O8ZZZ$$77?????????II7777$$$ZZZZZZZZZOZOOOO888DNNMMMMMMM
+                 I8IDNNNNDNDNNDDND88NDDDDDD8DDDDZZZ$7$7IIIII???????IIIIIII77777$$$$$$ZZZZZZZOOO8DDNNMMMMMM
+                 +O=NDMNDNNNND88ND8ODDNNNDDD8N8OZ$$$7IIII??????????IIIIII7777777777$$$$$$$ZZZOOO8DDDNMMMMM.
+               .=7DDDDNDNDNDNDDDNDDDDDNNMNMNNDOZ$$$7IIIII?IIII?IIIIIIII777777777777$$$$$$$$ZZOOO888DNNMMMMM
+                .$+NDNNNNDNNNDDDNDDNNDNMNNNNDOOZ$$7IIIIIIIIIIIIIIIIII777777777777777$$$$$$ZZZZZOO88DDNMMMMM
+                 =DDDNNDDDNNNNNNDDNMNNMMNDD8OZZ$77IIIIIIIIIIIIIII77777777777777$$7$$$$$$$$$$ZZZOOO8888NMMMM
+                 =ZDNNNNDDMNNNNNNNMMNMMNNN8OZZ77IIIIIIIIIIIIIII7777777777$77777$$$$$$$$$$$$ZZZZOOOO8888NMMMM
+                  8NNNDNDDMMNNNNNMMMNMMNN8ZZ$77IIIIIIIIIII7II77777777777$77777777$$$$$$$$$$ZZZZZOO88888DNMMM
+                   DNN8NDDNMNMMNNMMNMMNN8Z$7IIIIIIIIIIIIIIII77777777$$$$$7777$$$$$Z$$$$$$$$ZZZZOOOO8888DMNMM
+                   NNNDMNNDMMNMMMMNMMNDDZ$7IIIIIIIIIIIIIII7777777777$7$$$$77777777$$$$$$$$$$ZZZZOOOO8888NMMM
+                   DDNNNNDNNMMMMMMMMMNNDZ$7IIIIIIIIIIIIII777777777777777777777777$77$$$$$$$$ZZZZZOO88888DNNM
+                   .NNDNNNMNMMMMMMMMNND8Z$77IIIIIIIIIIII77II77I777777777777777$$7$7$$$$7$$$$$ZZZZOOO88888NMM
+                    NNNMNNMMMMMMMMMMMND8O$77IIIIIIIIIIIIIIIIII77I77777777777$$$$$$$$7$77$$$$$$ZZZOOOO8888NNO
+                     DNMNNNMMMMMMMMMMND8O$77IIIIIIIIIIIIIIIII777777777777777$$$$$$$7$7777$$$Z$ZZZOOOO8888DM?
+                     ODNNNNMMMMMMMMMNNDDOZ77IIIIIIIIIIIIIIIII777I777777777$$7$$777777777$$$$$ZZZZOOOO88888M$
+                      DNNNNMMMMMNNMNNNDDOZ77IIIIIIIIIIIIIIIII777777777777$$$$7777$7$$$$$$$$$ZZZZOOOO888888N=     .
+                      DNNNMMMMMMMNMNNNDDO$$7IIIIIIIIIIIIIIII77777777777$$$$$$$$$$$$$$$$$ZZZZOOO88DDDNNNNNND=   .
+                     .8NNNMMMNNMMMMNNNDDO$7IIIIIIIIIIIIIIII7777777777$ZZZZZZ$$$$$$$$Z$ZZOO8DDDNNNMMMNNNNNND=  DD8.
+                       NMNMMNNNNMMNNNND8Z7IIIIIIIIIII7II77777777$$ZO888888OOZZZ$ZZZZZZOO88DNNNMNMNNNDD8DDD8DDDD88D
+                       DNNMNNNNNNNNNNND8$IIIIII?IIIIIII777$$$$ZZ8DDDDNDD888OOZZZZZOOOOO8888DDDDDDDD888888888DD8DDD
+                        DNMNNNNNNNNNND8O7IIII?I?III7I777$ZOO88DDDNNDD88OOOOOZZZZZZOOOO888DDNNNNNNMMMMMN88888D88DDD
+                        .NMMNNDDNNNNND8O7I?IIIIIII777$$O88DNNNNNNNDD88OOOOZZZZZZZZZZOO8DNNNNMNDDNNMNNMMN8888D88DDD
+                         .MMNDDDDNDDDD8Z7IIIIIII7$ZOO88DNNND88888DMMMMNND8OOOZ$7777$ZODDNNNDD8O8DNNNNNDDD8888D88DD
+                     ... 77ZNN8OZDNDND8Z7IIIIIII$ZZOO8OOOOOO8DNNMMMMMMMNDD8OOZ77II77$ZDDNNNNDNDDDNNND888DD888D8888
+                     =IIII7777$$$DDDDD8Z7IIIIII77$ZZZOZZONNNDD88NNNMMMMNDDD8O$7III777ZODDDDDDNNNNDDD8888888888D888
+                     ?7777777777778DDD8Z7IIIIII77$ZZOODNDDNND888DNMNNNNDDD8OZ77III777$ZODNNDDDDDD88888O8888888D88D
+                     7ZOOOOZ$$$$$7ZDDD8O7IIIIII77$$ZOOOZZZZO88DDDDDDNDDD88O$$77III777$ZO8DDDDDD888OOO8O8888888DD8D
+                      OOOO$ZZO8$$77Z8D88$IIIIII777777777777$ZZZOO888888OZ$777IIIIII77$$ZO8OOO8888OOOOOOOOO88888D88
+                    . OOOZ7$ZZOOO$$$ZD88$7IIIIIIIIII7II77777$$$$$ZZOOO$$7777IIIIIIII77$ZOOOOOOOOOZZZOOOOO8O8888D88
+                      ZOZZ7$$$$ZZZ$$Z888$7IIIIIIIIIIIII7777777$$$ZZZ$77777IIIIIIIIIII7$ZOOOOZZZZZZZZZZZOOOO8888888
+                      $OZ$7$$ZZ888O$$8D8$7IIIIIIIIIIIIII77777$$Z$$77777IIII7IIIIIIIII77$ZOOOZZZ$$$ZZZZZZOOO8888888
+                       $Z7$ZOOOOO8O$7Z8O7IIIIIIIIIIIIIII7777777$7777777IIIIIIIIIIIIIII7$ZZOOOZZ$$$$$$ZZOOOO8888D88
+                       $Z$$ZZOOOOZZZ778O7IIIIIIIIIIIIIII777777777777IIIIIIIIIIIIIIIII777$ZO8OOZZZ$$$ZZZZOOO888888O
+                        $Z$$ZZZZ$$$$II77IIIIIIIII7I777I777777777II77777777777IIIIIIII777$ZOO8OOZZZ$$ZZZZOOO8888D8Z
+                         $$7$ZZZ$$$$I777IIIIIIIIII777777777777777777777$$$7IIIIIIIIII777$ZOO88OZZZZZZZZZOOOO88888O
+                        . 777$ZZ$$$$$7777IIIIIII777777777777777777777$$$ZZIIIIIIIIII77$ZZZOOO8OOZZZZZZZZOOO888888O
+                           7$7$7II7$$$7777I7IIII77777777777777777777$$ZZZZ7III77$$$$$ZOOO88OO88OOZZZZZOOOO8888888.
+                            7$$$7II7777777I7III77777777777777777777$$$ZZZZ$7$$DND8ZZZOOO8NN8888OOOOZZOOOOO8888888
+                           ..I777777777777777III777777777777777777$$$ZZZZ$$OZ8NNNDDDD8DDDNND888OOOOOOOOO8888888? .
+                              I7777$$$$$$7$77777777777777777777777$$$$$$$777ZOOOOO8D888DDDD88888OOOOOOO88888888.
+                              .II7777777$$$77777777777777777777777$$$$7777777777$$ZO888888DD88888OOOOO888888888 .
+                             . .7I777777$777777777777777777777777$$$7777777777777$ZZ88OOO8DD88888OOO888888888D8 .
+                                .777777$Z$777777777777777777777$7777777777777777$$ZO88OZO88DDD8888888888888888.
+                                 .$$$$$ZO$$77777777777777777777777$777$$$$$$$777II7$OZ$$$ZO88888888D8D8888888D
+                                         .777777777777777777777$7$77$$ZZZ$777IIII7777777ZOOOOOO8888D88D8O88888
+                                         .$7777777777777777777777$$$$$ZZZ77II7$ZOOOOOO888888D88O88888D88888888
+                                           777777777777777777777$$$$$ZZZ$77$ZO8DDOOO88OODNNMNNDNNDDD8888888D88
+                                            7$77777777777$$7$$$$$$$ZZOOOOO8DNMNND8O8DD8DNNNDDDD88888888888888D
+                                            $7777$77$$$7$777$$$$$$ZZOOOOOOZ$$ZOO8D88DDD888OOO888OO8DDD88888D8O
+                                             $$$$777$$$$$$$$$$$$$$ZZZZ$777$777II7$$$$7777$ZZOOOOOO88DD88888DD7
+                                             $$$$$$$77$$$$$$$$$$$$$ZZZ$777777$77$$7$$$7$$ZOOOOOOOO8DDDDD8DDDNI
+                                             .Z$$$$$$$$$$$$$Z$$$$$ZZZ$$7777777$$$$ZZOOOOOOOOOOOOO8888D8DDDDDDI
+                                              $ZZZ$$$$$$$$$$Z$$$$$ZZZ$$777777$$$$ZZOOO88888OOOOOO888D88DDDDDN+
+                                              $$ZZ$Z$$$Z$$$$Z$Z$$$$$$$$$7$77$$$$ZOOO888888OOOOOOOO88DDDDDDDDNI
+                                              7$Z$ZZZ$$$$$ZZZZ$ZZZZZZZ$$$$$$$$$$ZZOOO888888OOOO88888DDDDDDDDD?
+                                              I7$$ZZZZZZZZ$ZZ$Z$$$ZZ$$Z$$$$$$$$$$ZZZZZZOOOOOOOOOO88DDDDDDDD8D+ .
+                                              +I77$ZZZZZZZZZZZ$$$$$$ZZZ$$$$7$$77$$777$$ZZOOOOOO8888DDDDDDDDDDZ=.
+                                               I77$$ZZZZZZZZZ$$Z$$$$$Z$$$$$7777I77777$$$$ZZZZOZOO8DDDDDDDDD8DDMM$   .
+                                               =777$ZZZZZZZZZ$Z$$Z$ZZZ$$$$77777I77777$$$$$ZZZZZZO8DDNDDDDD8DD8MMMM7
+                                               =I777$$ZZZZZZZZZZZZZZZZ$$$$$777777777$$$$ZZZZZOOO88DNNNDD888D88MMMMM8.
+                                               =?777$$$ZZZZZZZZZOZZZZZO$$$$$$$$$$$$$$ZZZOOOOO888DDDNDND8888888MMMMMM8
+                                               .+I777$$ZZZZZZZZZZZZZOOZZZZZZ$Z$ZZZ$ZZZOOOOOO88DDNNNNND8888888DNMMMMMM+.
+                                              ..=II77$$$$ZZZZZOOOOZOO8OOOOOZOOOOOOOO888888888DDNNNND8888888888NMMMMMMNM .
+                                              .=+77777$$$$$$ZZZZOOOOOO888888888888O88888DDDDDNNNNDD8888888888DNMMMMMMMMM
+                                              ==DOI77777$$$$$$$ZZZOZOOO888DDDDDDDDDDDDDDDDNNNNNDD888888888888DNMMMMMMMMMM
+                                              =ONM777777$$$$7$$$$$ZZZOO8888888DDDDDDDDDDDDDD8888888888888888DDNMMMMMMMMMMM.
+                                             .ONMMO77777$$$$$$$$$$ZZZZZOOOOOO88888D888DD888888O8888888888888DDNMMMMMMMMMMMM
+                                             +NMMMM$I777777$$7$7$$$$$ZZZZZZZZOOOOO8OOO8OO8888O88O88O88O8888DDNNMMMMMMMMMMMMMI
+                                             ZNMMMMZ7777777$$$7$$$$$$$$$$$$ZZZZOOOOOOOOOO88O8O8888888888888DNNNMMMMMMMMMMMMMM?    .
+                                             DNMMMM8$777777777$$$$$$$$$$$$$$ZZZZZZOZZOOOOOOOOOO888888OO888DDNNMMMMMMMMMMMMMMMMN$.
+                                            =DNMMMMN$$$77777777$$7$$$$$$$$$$$$ZZZZZZZZZZOOOOOOO8888888O88DDDNNMMMMMMMMMMMMMMMMMMMMN?   .
+                                            $NMMMMMM8$$77777777777$$$$$$$$$$$$$$ZZZZZZZZZOOOOOOOO88888888DDNNNMMMMMMMMMMMMMMMMMMMMMMMMM..
+                                            8NMMMMMMDZ$777777$777$777$$$$$$$$$$$$ZZZZZZZZZOOOOOOOO888888DDDDNNMMMMMMMMMMMMMMMMMMMMMMMMMMM$+
+                                          .8DNMNMMMMD8$777$77777777$$$$$$$$$$$$$$$$ZZZZZZZZZOOOOOO888888DDDDNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMD+=.
+                                        .8NNDNMNNMMMN8O$77$77$777777$$7$$$7777$$$$$$$$ZZZZZZZZOOOO88888D8DDNNMMNMMNMMMMMMMMMMMMMMMMMMMMMMMMMMMO+=..
+                                       .DNNDDNMNNMMMN88Z$$$$$$$$$$77$77$$$$$$77$$$$$$$$$ZZZZZZZZOOO888888DDNMMMMMMNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMODM
+                                      NNNMNDDNNNMMMMND8OZ$$$$$77777$$$$$$$$7$$$$$$$$$$$$$ZZZZZZZZOO888888DDMMMNMMNNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM.
+                                     DNNMMNDDNMDMMMMMD88OZ$$$$$$77$$$$777$$7$$$$$$$$$$$$$$$ZZZZZZZOO88888DNNMMNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+                                   NNNDNMMDDDNNNNMNNMND8OOZ$$$$$$77$$$$77$$$$7$$$$$$$$$$$$$$$$$$ZZOO8888DDNNMMNMMNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNMMMMMMMMM. .
+                              .NNNNNDNDNMMDDDNNDMMNMMND88OOZ$$77777$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$ZZO8888DNDMMNNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNNNMNMMMMN
+                        .NNMNNNNMMNMDNMMMMDDDNDNMMDMMMND8OOZZ$777777$7$$$$$$$$$$$$$$$$$$$$$$$$$$$$$ZO88NNNNMNNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNMMMMMNMMNMMMMMMMNNMMMMMMMM.
+             .     .DNNNNNNNNMMMMMMMNNNMMMDDDNDNNNNMMMMN8OOOZZ$7777777$$$$$$$$$$$$$$$$$$$$$$$$$$$$$ZO8DMNDNMNMMMMMMMMMMMMMMMMMMMMMMMMMMNMMNMMNMMMMMMMMNMMMMMMMMMMMMNNMMMMMMM..
+               .NMNNNNNNMN8MNNMMMMMMNNNMMMDDDNDNMNDNMNMN8OOOZZZ$$$$$7$$$$$$$$$$$$$$$$7$$$$$$$$$$$$$$O8NNNNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNMMNMMNMMNMMMMMMMMNMMNMMNMMMMMMMNNMMMMNNM
+          .7DNNNNNNNNNNMNNMNNNMMMMMMNDMMMM8DDNDDNNDNNMMNNOOZZZZZZ$$7$$$$$$$$$$7$7$$$$$$$$$$$$$$$$$$ZODMMNNMMMMMNNNNMMMMMMMMMMMMMMMMMMMMNMMNMMNMNNMMMMMNMMNMMNMMNMMNMMMMMMMMNNMMMMMN.
+       ..DNNNNNNMNNNNMNDNDNNMMMMMMMMNDMMMM8D8DNNMMMMMMNMMDOZZZ$$ZZZ$$$$$$$$$$$$$7$$$$$$$$$$$$777$$$Z8NMMNMMMMMDMMMNNMMMMMMMMMMMMMMMMMMMNMMNMMNMNMMMNMMNMMNMMNMMNMMMMMMMMMMMMMMMNNMMMMMM .
+.   .NNDDNNNNNNNNDNNNNNMMMMMMMMMMMMNDDMMMMDDNMMMOMMMMMDMMMNZZZZ$$$$$$$$$$$$$$$$7$7$$$$$$$$$$$$$$$$Z8NMMNNMMMMNMMMMMNNMMMMMMMMMMMMMMNMMMNMNNMMNMNMMMMMMNMMNMMNMMNNMNMMMMMMMMMMMMMMMMNNNMNNM.
+  NDNDNNDDNNNMMMMMMMMMMMMMMMMMNMMNMNNNMMMM8NMMNMDNMMMMNNMMNDOZZZ$$$$$$$$$$$$$$7777$$$$$$$$$$$$$$$ZOMMMNNNMMMMNMMMMMMNMMMMMMMMMMMMMMNMMNNMNNMMNMMMMNMMMNMMNMMNMMNMMNMMNMMMMMMMMMMMMMMMMNMNM+ .
+DDDNNDNMMMMMMMMMMMMMMMMNMMNNMMMMMNNDDMMMMNDMMMNMMDMMMMMONMMMOZZZ$$$$$$$$$$$$$$$777$$$$$$$$$$$$$$ZZDMMMNMMMMMMNMMMMMMMMMMMMMMMMMMMMMNMMNNMDNMNNMMMMNMMMNMNNMMNMMNMMNMMNMMMMMMMMMMMMMMMMMMMMM$.
+DDNMMMMMMMMMMNNMMNMMMMMDNNDMMNMMNNDNDMMMMDDMMNNNM8NMMMMMNMMMNOZ$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$ZDMMMMNMMMMMMMMMMMMMMMMMMMMMMMMMMMMNMMNNMNMMNNMMMMNMMMMMMNMMNMMNMMNMMNMMMMMMMMMNMMMMMMMMMMMMN
+MMMMMMMMMMMNMNNMDNNNNNNDNNNMMNNDDNDN8MMDNNNMNNNNMNNMMMMNNMMMMNZ$$$$$$$$$$$$$$$$$$$$$$$$$$$$$7$7ZMMMMMMDNMMMMMMMMMMMMMMMMMMMMMMMMMMMNMMNMMNNMNNMMNMNNMNMMMNMMNMMNMMNMMNMMMMMMMMMNMMMMMMMMMMMMMMM
+MMMMMMMNNMNMMNNNDNN8NNDNNNNMNMN8NNDN8NDNNDNNNNNNMMNNMMMMNMMMMMMD7777$7$77$$7$$777$7$$$$$77$77$ONMMMMMNMMMMMMMMMMMMMMMMMMMMNMMMMMMMMNMMNMMNMMNNMMNMMMMNMMMMMMNMMNMMNMMNMMMMMMMMMNMMNMMNMMMMMMMMMMM
+MNMMNNNDMMDNMNNNNNNDNN8NNNMMDNNDNNDNONNNDNNDNNNMNMMNMMMMMNMMMMMMM$777777$$7$777777$7777777777MMMMMNMMMMMMMMNMMMMMMMMMMMMMMMMMMMMMMMNMMNMMNMMNNMNMMMMMNNMNNMMNMNDMMNMMNMMNMMMNMMNMMNMMNMMMMMNMMMMMM
+MNMNNMDNMNDMNNNMNNNDNNDNMNMNDNNDNNDDDMMNNNNDNNNNNMMDNMMMMMMMMMMMNMD7$7I77777777777777777777$MMMMMMMNNMMMMMMNMMMMMMMMMMMMMMMMMMMNNMMMMMNMMNMMNMMNMMNNMNNMNNMNNMMDMMNMMNMMMMMNNMMNMMNMMMMMMMMNMMMMMMM
+NNNNNMDMMDNN8NMNNNNNNDNMNNNDNNNNMND8DMMMNMMNNNMMNMMNNMMMMMMNMMMMMMMN77I7777777777777777I77$MMMMMMMMMMMMMMMNMMMMMMMMMMMMMMMMNMMMMNMMNMMNMMNMMNMMNMMNMMNMMNNMNNMMNMMNMMNMMNNMMMMMNMMNMMNMMNMMNMMMMMMMMM
+MMMDNNNNNDNNDNNDNN8NN8MNDNN8NNNNMND8NMMMNMMNNMMMMNMMDMMMMMMMMMMNNMMMN$7I77777$77$777777I7DMNNMNNNMMMMMMMMNNMMMMMMMMMMMMMMMMNMMMMMMNNMNNMMNMMNMMNMMMMMNMMNMMNNMNNMMNMMDMMNMMMMMMNMMNMMNMMNMMMMMMMMMMMMMM
 MMNNNNNNNDNNNMNNNN8NNDMMDNN8NNNNMND8NMMMNMMNNNMMNNMNODMMMMMMMMMMMMMMNNZ77777777$77777777ONMMMMMMMMMMMMMMN8DMMMMMMMMMMMMMMMMMNNMNNMMNMMMMMNMMNMMNMMNMMNMNNMMNMMNMMMNMNNMMNMMNMMMNMMNMMNMMNMMMMMMMMMMMMMMM
 MMNNNNNNNNNDNMNNNDDNDDNNDNN8NMNMMDD8NMMMNMMNNNNMNNMND$OMMMMNMMMMMMNMMMM8$777777777777$$MMMNMNMMMMMMMMMMM8ZNMMMMMMMMMMMMMMMMMNMMNMMNNMMMMMMMMMMMNMMNMMNMMNMMNMMNMMMNMMNMMDMMNMMMNMMNMMNMMNMMMMMMMMMMMMMMM
 MMNMNDNNDNN8NNNNNDNNDDNNNNNDMMNMMDD8NNMMNMMMNNNMNMMNM77MMMMNMMMMMMMMNMNMM$7777777$$77ZNMMMNMMMMMMMMNMMMMZ$MMMMMMMNMMMMMMMMMMNMMNMMNMMMMMMMMMNMMNMMNMMNMMNMMNMMNMMMNMMNMNNMMNMMMMMNNMMNMMNMMMMMMMMMMMMMMM
@@ -1285,7 +1285,7 @@ NMMMNNNNNNNNNNNMNDNNDNNDNMNNMNDNNDNDNNNMMMMNMNNNMNNNNNDIDMNMMNNNMMMMMMMMMMMMMN$7
 NMMMNNNNNNDNMNNNDNNNDNNDNNDNNNNN8DDDNNNMMMNNNMNNNNNNNNMI$MNMMMMMMMMMMMMMMMMMMMN8MMMMMMMMMMMMMMMMNMMMMM8$DMMNMMNMMNMMMMMMNNMNMMNMMMMMMMMMNMMNMMNMMNNMMNMMNMMMMNMMMNMMNMMNMMNNMNNMMMMMNMMMMMMMMMMMMMMMMMMM@gmail.com
  -->
 
-<script type="text/javascript"> 
+<script type="text/javascript">
 var _gaq = _gaq || [];
 _gaq.push(['_setAccount', 'UA-11579155-1']);
 _gaq.push(['_trackPageview']);
@@ -1295,7 +1295,7 @@ _gaq.push(['_setAllowLinker','true']);
 (function() {
   var ga = document.createElement('script'),
       elem = document.head || document.documentElement;   // FUCK YAH UNIMPLEMENTED HTML5 HAWTNESS
-  ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 
+  ga.src = ('https:' == document.location.protocol ? 'https://ssl' :
       'http://www') + '.google-analytics.com/ga.js';
   ga.setAttribute('async', 'true');
   elem.insertBefore(ga, elem.firstChild);
@@ -1306,7 +1306,7 @@ _gaq.push(['_setAllowLinker','true']);
   var kkeys = [ ],
 	  knm   = "38,38,40,40,37,39,37,39,66,65",
 doc = document;
-	
+
   function keydown(e) {
     kkeys.push(e.which);
     if (kkeys.join(',').indexOf(knm) > -1) {
@@ -1321,7 +1321,7 @@ doc = document;
 
   $(doc).keydown(keydown);
 })(this);
-</script> 
+</script>
 
 
 <link rel="stylesheet" href="yayquery-fold/turn.css"/>
@@ -1333,7 +1333,7 @@ doc = document;
 <!-- you'll only get this if you've been a good boy -->
 <div id="target">
 	<img src="http://www.abovethelaw.com/images/entries/animated%20siren%20gif%20animated%20siren%20gif%20animated%20siren%20gif%20drudge%20report.GIF" alt="Red flashy thingie" title="Red flashy thingie" style="margin-left:59px;" />
-	
+
 	<p class="callus">Call the yayQuery partyline!!</p>
 	<p id="party-line-no">(443)<br/>4YAYQUERY</p>
   <p class="skype">(yayQuery on skype, too)</p>
@@ -1349,5 +1349,5 @@ doc = document;
 
 	<script src="yayquery-fold/yayquery-fold.js"></script>
 
-</body> 
+</body>
 </html>
