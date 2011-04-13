@@ -122,7 +122,7 @@ We write our own XML for both the audio and video feeds. We know we could genera
             <br />
             <strong>Audio:</strong> <a href="http://cdn.yayquery.com/ep/22/yayquery_22.mp3">MP3</a> (57mb)
           <br />
-          <a href="http://vimeo.com/22348218">Watch in HD on vimeo</a>
+          <a href="http://vimeo.com/22348218">Watch on vimeo</a>
           <br/>
           <br/>
           <h4>Show Links</h4>
@@ -195,7 +195,7 @@ We write our own XML for both the audio and video feeds. We know we could genera
                                                               <br />
                                                               <strong>Audio:</strong> <a href="http://cdn.yayquery.com/ep/21/yayquery_21.mp3">MP3</a> (45mb)
                               <br />
-                              <a href="http://vimeo.com/19578621">Watch in HD on vimeo</a>
+                              <a href="http://vimeo.com/19578621">Watch on vimeo</a>
                               <br /><br />
                                                               <h4>Show Links</h4>
                                                               <ul class="showlinks">
@@ -240,7 +240,7 @@ We write our own XML for both the audio and video feeds. We know we could genera
             <br />
             <strong>Audio:</strong> <a href="http://cdn.yayquery.com/ep/20/yayquery_20.mp3">MP3</a> (57mb)
           <br />
-          <a href="http://vimeo.com/16356187">Watch in HD on vimeo</a>
+          <a href="http://vimeo.com/16356187">Watch on vimeo</a>
           <br/>
           <br/>
           <h4>Show Links</h4>
