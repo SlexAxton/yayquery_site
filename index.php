@@ -138,7 +138,7 @@ We write our own XML for both the audio and video feeds. We know we could genera
             <li>
                 jQuery UI 1.9 -
                 <a href="http://wiki.jqueryui.com/Spinner">Spinner</a> |
-                <a href="http://wiki.jqueryui.com/Tooltip">ToolTip</a> |
+                <a href="http://wiki.jqueryui.com/Tooltip">Tooltip</a> |
                 <a href="http://wiki.jqueryui.com/Menu">Menu</a>
             </li>
             <li>
