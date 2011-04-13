@@ -7,13 +7,13 @@
 		<language>en-us</language>
 		<copyright>Copyright 2009 - 2011</copyright>
 
-		<lastBuildDate>Fri, 4 Feb 2011 17:00:00 -0500</lastBuildDate>
+		<lastBuildDate>Wed, 13 Apr 2011 17:00:00 -0500</lastBuildDate>
 		<pubDate>Fri, 06 Nov 2009 11:30:00 -0500</pubDate>
 		<docs>http://blogs.law.harvard.edu/tech/rss</docs>
 		<webMaster>rmurphey@gmail.com</webMaster>
 		<itunes:author>yayQuery</itunes:author>
 		<itunes:subtitle>yayQuery is a weekly video podcast for jQuery users and front-end developers</itunes:subtitle>
-		<itunes:summary>The yayQuery hosts have years of experience being neck-deep in their own jQuery development, as well as providing support and training to the community. The podcast tries to capture one of our favorite conference pastimes -- hanging out at a bar and talking code. About the hosts: From afar when you notice them at jquery conference, they look like the cool kids in high school. They just gather around and make fun of everybody. Call 443-4YAYQUERY to leave questions and comments!</itunes:summary>		
+		<itunes:summary>The yayQuery hosts have years of experience being neck-deep in their own jQuery development, as well as providing support and training to the community. The podcast tries to capture one of our favorite conference pastimes -- hanging out at a bar and talking code. About the hosts: From afar when you notice them at jquery conference, they look like the cool kids in high school. They just gather around and make fun of everybody. Call 443-4YAYQUERY to leave questions and comments!</itunes:summary>
 		<itunes:owner>
 			<itunes:name>Rebecca Murphey</itunes:name>
 			<itunes:email>rmurphey@gmail.com</itunes:email>
@@ -22,6 +22,21 @@
 		<itunes:image href="http://yayquery.com/img/yayQueryLogoSquare.png"/>
 
 		<itunes:category text="Technology"/>
+        <item>
+					<title>Episode 22: Which Square Can I Take?</title>
+					<link>http://yayquery.com</link>
+					<guid>http://cdn.yayquery.com/ep/22/yayquery_22.mp3</guid>
+					<description>With Paul deep in the bowels of an evil deadline, team Yay enlists Ralph Holzmann to pinch hit, and unlike Mighty Casey, he belts one out of the park! We'll take you on a tour of your various options for keeping plates at a rollicking boil, JS-related spring travel, and using MEAT as a navigation tool. And toward the end, when Rebecca's video goes Black, we take the only logical alternative.</description>
+					<enclosure url="http://cdn.yayquery.com/ep/22/yayquery_22.mp3" type="audio/mp3" length="51931560"/>
+					<category>Technology</category>
+					<pubDate>Wed, 13 Apr 2011 17:00:00 -0500</pubDate>
+					<itunes:author>Paul Irish, Rebecca Murphey, Alex Sexton, Adam J Sontag</itunes:author>
+					<itunes:explicit>Yes</itunes:explicit>
+					<itunes:summary></itunes:summary>
+					<itunes:summary>With Paul deep in the bowels of an evil deadline, team Yay enlists Ralph Holzmann to pinch hit, and unlike Mighty Casey, he belts one out of the park! We'll take you on a tour of your various options for keeping plates at a rollicking boil, JS-related spring travel, and using MEAT as a navigation tool. And toward the end, when Rebecca's video goes Black, we take the only logical alternative.</itunes:summary>
+					<itunes:duration>00:43:36</itunes:duration>
+					<itunes:keywords>jQuery, front end development, web development, javascript</itunes:keywords>
+        </item>
         <item>
 					<title>Episode 21: jQuery 1.5 - The Promise Lands</title>
 					<link>http://yayquery.com</link>
@@ -49,7 +64,7 @@
 					<itunes:summary>Hey, what's good? We're the yayQuery podcast, it's our first birthday, and we're back to wrap you in the familiar embrace of jQuery news, conference haps, and T-Swift pics. Just like the Beatles, we just want to hold your hand and guide you through jQuery's new mobile framework, the 1.4.3 release, and brand new bug tracker.  With some of your favourite segments, and a bit of practical kitchen advice, not watching yayQuery could be the scariest thing to befall you this Halloween!</itunes:summary>
 					<itunes:duration>00:43:56</itunes:duration>
 					<itunes:keywords>jQuery, front end development, web development, javascript, jqcon</itunes:keywords>
-        </item>	
+        </item>
                 <item>
 					<title>Episode++: yayQuery Lunch Spectacular</title>
 					<link>http://yayquery.com</link>
@@ -63,7 +78,7 @@
 					<itunes:summary>JSConf is like, the biggest deal in conferences, and yayQuery is like, the biggest deal in podcasts, so it was only natural that the spectacular lunch on day one of JSConf 2010 was the yayQuery Lunch Spectacular.  Relive the magic, relive the hijinks, and come on down to the world's only JavaScript gameshow that is also a drinking game!</itunes:summary>
 					<itunes:duration>00:31:07</itunes:duration>
 					<itunes:keywords>jQuery, front end development, web development, javascript, jsconf</itunes:keywords>
-		</item>	
+		</item>
 		<item>
 					<title>Episode 19: HTML5Locks, Stocks, &amp; Tw...BZZZZZZZZZZZ</title>
 					<link>http://yayquery.com</link>
@@ -77,7 +92,7 @@
 					<itunes:summary>Refreshed from relaxing, post-TXJS hiatus, the Yay Queries return with a trio of ultra-hot HTML5 sites, with varying levels of usefulness.  We'll throw down the book on on jQuery (Fundamentals) and get in touch with <del>jqTouch</del> <del>ExtJS</del> Sencha!  And when the team returns to dreamland with John Resig, who knows what you'll hear, and what will be drowned out by the drone of cheap plastic horns!?</itunes:summary>
 					<itunes:duration>00:47:41</itunes:duration>
 					<itunes:keywords>jQuery, front end development, web development, javascript, John Resig</itunes:keywords>
-		</item>		
+		</item>
 		<item>
 					<title>Episode 18: I Dreamed A Dream</title>
 					<link>http://yayquery.com</link>
@@ -134,7 +149,7 @@
 			<itunes:duration>00:09:23</itunes:duration>
 			<itunes:keywords>jQuery, front end development, web development, javascript</itunes:keywords>
 		</item>
- 
+
                <item>
 			<title>Episode 13: Gotta Try to Catch 'Em All</title>
 			<link>http://yayquery.com</link>
@@ -263,8 +278,8 @@
 			<itunes:duration>00:39:44</itunes:duration>
 			<itunes:keywords>jQuery, front end development, web development, javascript</itunes:keywords>
 		</item>
-		
-		
+
+
                 <item>
 			<title>Episode 2: Third Time's a Charm!</title>
 			<link>http://yayquery.com</link>
@@ -281,7 +296,7 @@
 			<itunes:duration>00:40:00</itunes:duration>
 			<itunes:keywords>jQuery, front end development, web development, javascript</itunes:keywords>
 		</item>
-		
+
 		<item>
 			<title>Episode 1: Dear &lt;canvas&gt;, meet bacon</title>
 			<link>http://yayquery.com</link>
@@ -298,7 +313,7 @@
 			<itunes:duration>00:38:20</itunes:duration>
 			<itunes:keywords>jQuery, front end development, web development, javascript</itunes:keywords>
 		</item>
-		
+
 		<item>
 			<title>Episode 0: Inaugural zero-indexed episode</title>
 			<link>http://yayquery.com</link>
