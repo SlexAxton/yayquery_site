@@ -105,6 +105,7 @@ a {
 	    background-repeat:no-repeat;
 	    height:543px;
 	    margin:5px 35px;
+	    clear:both;
 	}
 	.videos li.right {
 	    background-image:url(http://cdn.yayquery.com/site/images/video_bg_right.png);
