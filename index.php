@@ -101,6 +101,84 @@ We write our own XML for both the audio and video feeds. We know we could genera
 -->
 
 <ul class="videos">
+      <li id="ep23" class="right">
+                              <h2><span class="epnum">Episode 23</span> | When Things Are Things</h2>
+                              <img width="360" height="240" src="http://cdn.yayquery.com/ep/23/yayquery_23.jpg" alt="Episode 23" title="Episode 23" rel="23" class="clickvid" />
+                              <div class="description">
+                                <p>The dog days of summer are upon us, and the yayQuerians have returned from the shadows of the 
+                                unknownternet to cool you down with your <del>regularly</del> erratically scheduled dose of 
+                                frontend development developments. The teams's back at full strength (no offense, Ralph!!) to talk about
+                                PDFs getting a whole lot more <strong>P</strong>, the battle over lint spreading from the laundry room, and much more!
+                                </p>
+                                </p>
+                              </div>
+                              <div class="shownotes">
+                                                          <div class="download">
+                                                              <strong>Video:</strong> <a href="http://cdn.yayquery.com/ep/23/yayquery_23.ogv">OGV</a> (253mb) | <a href="http://cdn.yayquery.com/ep/23/yayquery_23.mp4">MP4</a> (204mb)
+                                                              <br />
+                                                              <strong>Audio:</strong> <a href="http://cdn.yayquery.com/ep/23/yayquery_23.mp3">MP3</a> (46mb)
+                                                              <br />
+                                                              <a href="http://vimeo.com/27167855">Watch on vimeo</a>
+                                                              <br /><br />
+                                                              <h4>Show Links</h4>
+                                                              <ul>
+                                                                <li>
+                                                                  <a href="http://html2canvas.hertzen.com/">html2canvas</a> | 
+                                                                  <a href="https://github.com/andreasgal/pdf.js/">pdf.js</a> | 
+                                                                  <a href="http://devongovett.github.com/pdfkit/">PDFKit</a>
+                                                                </li>
+                                                                <li>
+                                                                  <a href="http://everytimezone.com/">Every Time Zone</a> | 
+                                                                  <a href="http://developers.whatwg.org/">Developers WHATWG</a>
+                                                                </li>
+                                                                <li>
+                                                                  <a href="http://bugs.jquery.com/ticket/6485">jQuery HTML5 Bug</a> |
+                                                                  <a href="http://ejohn.org/blog/jquery-16-and-attr/">$.fn.attr vs $.fn.prop</a>
+                                                                </li>
+                                                                <li>
+                                                                  <a href="https://github.com/douglascrockford/JSLint">JSLint</a> |
+                                                                  <a href="https://github.com/jshint/jshint">JSLint</a> |
+                                                                  <a href="https://github.com/stubbornella/csslint">CSSLint</a>
+                                                                </li>
+                                                                <li>
+                                                                  TXJS:
+                                                                  <a href="http://2011.texasjavascript.com/">Site</a> |
+                                                                  <a href="http://vimeo.com/pixi">Videos</a>
+                                                                </li>
+                                                                <li>
+                                                                  <a href="http://code.google.com/speed/pss/">Google Page Speed Service</a> |
+                                                                  <a href="http://pagespeed-velocity2011.appspot.com/">Web Site Acceleration with Page Speed Technologies</a>
+                                                                </li>
+                                                                <li>
+                                                                  <a href="http://modernizr.com/">Modernizr 2.0</a> | <a href="http://www.modernizr.com/download/">Build tool</a> |
+                                                                  <a href="https://gist.github.com/1110620">Shiminy</a>
+                                                                </li>
+                                                                <li>
+                                                                  <a href="http://nodeknockout.com/">Node Knockout</a> |
+                                                                  <a href="http://harvesthq.github.com/chosen/">Chosen</a>
+                                                                </li>
+                                                                <li>
+                                                                  <a href="http://warpspire.com/talks/responsive/">Responsive web design from the future</a> | 
+                                                                  <a href="https://github.com/balupton/history.js">history.js</a>
+                                                                </li>
+                                                                <li>
+                                                                  <a href="http://events.jquery.org/2011/boston/">jQuery Boston</a> |
+                                                                  <a href="http://capitoljs.com/">CapitolJS</a> |
+                                                                  <a href="http://funconf.com/">FUNCONF</a> |
+                                                                  <a href="http://jsconf.eu/2011/">JSConf EU</a>
+                                                                </li>
+                                                                <li>
+                                                                  <a href="http://dojoconf.com/">DojoConf</a> |
+                                                                  <a href="http://www.bdconf.com/">BDConf</a> |
+                                                                  <a href="http://2010.full-frontal.org/">Full Frontal</a> |
+                                                                  <a href="http://environmentsforhumans.com/2011/css-summit/">CSS Summit</a>
+                                                                </li>
+                                                              </ul>
+
+                                                          </div>
+                                                      </div>
+                                                      <img class="cohitre" src="http://cdn.yayquery.com/ep/23/cohitre_23.jpg" alt="50% users use IE and out of this 50% users 80% uses IE6 and want design in HTML5 and w3school valid." title="50% users use IE and out of this 50% users 80% uses IE6 and want design in HTML5 and w3school valid." width="329" height="256" />
+      </li>
       <li id="ep22" class="left">
 				<h2><span class="epnum">Episode 22</span> | Which Square Can I Take?</h2>
 				<img width="360" height="240"
@@ -1029,6 +1107,12 @@ else {
           vimeo : 22348218,
           ogv   : 'http://cdn.yayquery.com/ep/22/yayquery_22.ogv',
           mp4   : 'http://cdn.yayquery.com/ep/22/yayquery_22.mp4'
+        },
+        {
+          poster: 'http://cdn.yayquery.com/ep/23/yayquery_23.jpg',
+          vimeo : 27167855,
+          ogv   : 'http://cdn.yayquery.com/ep/23/yayquery_23.ogv',
+          mp4   : 'http://cdn.yayquery.com/ep/23/yayquery_23.mp4'
         }
       ];
 
