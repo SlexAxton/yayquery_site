@@ -42,7 +42,7 @@
 	<span class="spons">sponsored by</span>
 	<a id="tinycdn" href="http://www.tinycdn.com/">TinyCDN</a>
 	<span class="bigamp">&amp;</span>
-	<a id="devotee" href="http://www.devot-ee.com/">devot:ee</a>
+	<a id="wotato" href="http://www.wotato.com/">wotato</a>
     </div>
 </div>
 </header>
