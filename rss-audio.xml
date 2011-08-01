@@ -23,6 +23,20 @@
 
 		<itunes:category text="Technology"/>
         <item>
+					<title>Episode 23: When Things Are Things</title>
+					<link>http://yayquery.com</link>
+					<guid>http://cdn.yayquery.com/ep/23/yayquery_23.mp4</guid>
+					<description>The dog days of summer are upon us, and the yayQuerians have returned from the shadows of the unknownternet to cool you down with your regularly erratically scheduled dose of frontend development developments. The teams's back at full strength (no offense, Ralph!!) to talk about PDFs getting a whole lot more P, the battle over lint spreading from the laundry room, and much more!</description>
+					<enclosure url="http://cdn.yayquery.com/ep/23/yayquery_23.mp3" type="audio/mp3" length="48577347"/>
+					<category>Technology</category>
+					<pubDate>Mon, 1 Aug 2011 18:00:00 -0500</pubDate>
+					<itunes:author>Paul Irish, Rebecca Murphey, Alex Sexton, Adam J Sontag</itunes:author>
+					<itunes:explicit>Yes</itunes:explicit>
+					<itunes:summary>The dog days of summer are upon us, and the yayQuerians have returned from the shadows of the unknownternet to cool you down with your regularly erratically scheduled dose of frontend development developments. The teams's back at full strength (no offense, Ralph!!) to talk about PDFs getting a whole lot more P, the battle over lint spreading from the laundry room, and much more!</itunes:summary>
+					<itunes:duration>00:39:45</itunes:duration>
+					<itunes:keywords>jQuery, front end development, web development, javascript</itunes:keywords>
+        </item>
+        <item>
 					<title>Episode 22: Which Square Can I Take?</title>
 					<link>http://yayquery.com</link>
 					<guid>http://cdn.yayquery.com/ep/22/yayquery_22.mp3</guid>
