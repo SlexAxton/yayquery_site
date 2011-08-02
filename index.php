@@ -137,7 +137,7 @@ We write our own XML for both the audio and video feeds. We know we could genera
                                                                 </li>
                                                                 <li>
                                                                   <a href="https://github.com/douglascrockford/JSLint">JSLint</a> |
-                                                                  <a href="https://github.com/jshint/jshint">JSLint</a> |
+                                                                  <a href="https://github.com/jshint/jshint">JSHint</a> |
                                                                   <a href="https://github.com/stubbornella/csslint">CSSLint</a>
                                                                 </li>
                                                                 <li>
