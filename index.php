@@ -143,7 +143,7 @@ We write our own XML for both the audio and video feeds. We know we could genera
                                                                 <li>
                                                                   TXJS:
                                                                   <a href="http://2011.texasjavascript.com/">Site</a> |
-                                                                  <a href="http://vimeo.com/pixi">Videos</a>
+                                                                  <a href="http://vimeo.com/channels/txjs">Videos</a>
                                                                 </li>
                                                                 <li>
                                                                   <a href="http://code.google.com/speed/pss/">Google Page Speed Service</a> |
